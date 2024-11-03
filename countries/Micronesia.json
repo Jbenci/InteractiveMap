@@ -1,0 +1,1615 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.116666666,
+                    9.533333333
+                ]
+            },
+            "properties": {
+                "name": "Yap",
+                "article": "https://en.wikipedia.org/wiki/Yap"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    158.225,
+                    6.9
+                ]
+            },
+            "properties": {
+                "name": "Pohnpei",
+                "article": "https://en.wikipedia.org/wiki/Pohnpei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    152.575,
+                    6.99166667
+                ]
+            },
+            "properties": {
+                "name": "Nama",
+                "article": "https://en.wikipedia.org/wiki/Nama_(island)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    162.973889,
+                    5.313333
+                ]
+            },
+            "properties": {
+                "name": "Kosrae",
+                "article": "https://en.wikipedia.org/wiki/Kosrae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    162.983,
+                    5.317
+                ]
+            },
+            "properties": {
+                "name": "Kosrae",
+                "article": "https://en.wikipedia.org/wiki/Kosrae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    163.02,
+                    5.33528
+                ]
+            },
+            "properties": {
+                "name": "Yen Yen",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.79083333,
+                    10.01777778
+                ]
+            },
+            "properties": {
+                "name": "Falalop",
+                "article": "https://en.wikipedia.org/wiki/Falalop"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.155,
+                    9.62
+                ]
+            },
+            "properties": {
+                "name": "Rumung",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.153,
+                    9.622
+                ]
+            },
+            "properties": {
+                "name": "Rumung",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    157.15638889,
+                    5.78638889
+                ]
+            },
+            "properties": {
+                "name": "Ngatik",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    157.966666666,
+                    6.783333333
+                ]
+            },
+            "properties": {
+                "name": "Ant Atoll",
+                "article": "https://en.wikipedia.org/wiki/Ant_Atoll"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.6692,
+                    7.4114
+                ]
+            },
+            "properties": {
+                "name": "Romanum",
+                "article": "https://en.wikipedia.org/wiki/Romanum_(island)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.671,
+                    7.41166
+                ]
+            },
+            "properties": {
+                "name": "Romanum",
+                "article": "https://en.wikipedia.org/wiki/Romanum_(island)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    158.332222,
+                    6.841944
+                ]
+            },
+            "properties": {
+                "name": "Nan Madol",
+                "article": "https://en.wikipedia.org/wiki/Nan_Madol"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.716666666,
+                    7.383333333
+                ]
+            },
+            "properties": {
+                "name": "Udot",
+                "article": "https://en.wikipedia.org/wiki/Udot_(island)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.85,
+                    7.45
+                ]
+            },
+            "properties": {
+                "name": "Weno",
+                "article": "https://en.wikipedia.org/wiki/Weno"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    147.6458,
+                    8.105
+                ]
+            },
+            "properties": {
+                "name": "Pikelot",
+                "article": "https://en.wikipedia.org/wiki/Pikelot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.7394,
+                    7.3854
+                ]
+            },
+            "properties": {
+                "name": "Eot",
+                "article": "https://en.wikipedia.org/wiki/Eot_(island)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.7396,
+                    7.3866
+                ]
+            },
+            "properties": {
+                "name": "Eot",
+                "article": "https://en.wikipedia.org/wiki/Eot_(island)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    158.316666666,
+                    6.85
+                ]
+            },
+            "properties": {
+                "name": "Temwen Island",
+                "article": "https://en.wikipedia.org/wiki/Temwen_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.165833333,
+                    9.593888888
+                ]
+            },
+            "properties": {
+                "name": "Maap",
+                "article": "https://en.wikipedia.org/wiki/Maap"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    158.236666666,
+                    6.855277777
+                ]
+            },
+            "properties": {
+                "name": "Dolohmwar",
+                "article": "https://en.wikipedia.org/wiki/Dolohmwar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.520833333,
+                    9.760277777
+                ]
+            },
+            "properties": {
+                "name": "Fais Island",
+                "article": "https://en.wikipedia.org/wiki/Fais_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    149.30166667,
+                    6.68833333
+                ]
+            },
+            "properties": {
+                "name": "Pulusuk",
+                "article": "https://en.wikipedia.org/wiki/Pulusuk"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145.383333333,
+                    9.233333333
+                ]
+            },
+            "properties": {
+                "name": "Gaferut",
+                "article": "https://en.wikipedia.org/wiki/Gaferut"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.16583333,
+                    9.54333333
+                ]
+            },
+            "properties": {
+                "name": "Gagil-Tamil",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.16936,
+                    9.54362
+                ]
+            },
+            "properties": {
+                "name": "Gagil-Tamil",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    155.166666666,
+                    7.633333333
+                ]
+            },
+            "properties": {
+                "name": "Oroluk Island",
+                "article": "https://en.wikipedia.org/wiki/Oroluk_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.88,
+                    7.3011
+                ]
+            },
+            "properties": {
+                "name": "Uman Island",
+                "article": "https://en.wikipedia.org/wiki/Uman_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.4191,
+                    8.5698
+                ]
+            },
+            "properties": {
+                "name": "Pisaras",
+                "article": "https://en.wikipedia.org/wiki/Pisaras"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    149.4142,
+                    7.5385
+                ]
+            },
+            "properties": {
+                "name": "Tamatam",
+                "article": "https://en.wikipedia.org/wiki/Tamatam"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    163.02722222,
+                    5.33222222
+                ]
+            },
+            "properties": {
+                "name": "Lelu Island",
+                "article": "https://en.wikipedia.org/wiki/Lelu_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    147.0373,
+                    7.3579
+                ]
+            },
+            "properties": {
+                "name": "Satawal",
+                "article": "https://en.wikipedia.org/wiki/Satawal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.8385,
+                    7.340166666
+                ]
+            },
+            "properties": {
+                "name": "Losap",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.85888889,
+                    7.44388889
+                ]
+            },
+            "properties": {
+                "name": "Q1942380",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    157.8,
+                    7.066666666
+                ]
+            },
+            "properties": {
+                "name": "Pakin Atoll",
+                "article": "https://en.wikipedia.org/wiki/Pakin_Atoll"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.62,
+                    7.34305556
+                ]
+            },
+            "properties": {
+                "name": "Tol",
+                "article": "https://en.wikipedia.org/wiki/Tol_(island)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.624,
+                    7.36451
+                ]
+            },
+            "properties": {
+                "name": "Tol",
+                "article": "https://en.wikipedia.org/wiki/Tol_(island)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.662,
+                    5.2878
+                ]
+            },
+            "properties": {
+                "name": "Ta",
+                "article": "https://en.wikipedia.org/wiki/Ta_(island)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.46,
+                    5.45194
+                ]
+            },
+            "properties": {
+                "name": "Kutu",
+                "article": "https://en.wikipedia.org/wiki/Kutu_(island)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.4588,
+                    5.4544
+                ]
+            },
+            "properties": {
+                "name": "Kutu",
+                "article": "https://en.wikipedia.org/wiki/Kutu_(island)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.871666666,
+                    7.372666666
+                ]
+            },
+            "properties": {
+                "name": "Tonowas",
+                "article": "https://en.wikipedia.org/wiki/Tonowas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.8385,
+                    7.340166666
+                ]
+            },
+            "properties": {
+                "name": "Fefan",
+                "article": "https://en.wikipedia.org/wiki/Fefan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    149.3633,
+                    7.1649
+                ]
+            },
+            "properties": {
+                "name": "Pattiw",
+                "article": "https://en.wikipedia.org/wiki/Pattiw"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.6669,
+                    7.3548
+                ]
+            },
+            "properties": {
+                "name": "Fala-Beguets",
+                "article": "https://en.wikipedia.org/wiki/Fala-Beguets"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.1282,
+                    8.9837
+                ]
+            },
+            "properties": {
+                "name": "Magur",
+                "article": "https://en.wikipedia.org/wiki/Magur_(island)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.87,
+                    7.39
+                ]
+            },
+            "properties": {
+                "name": "Q3359946",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.583,
+                    7.33
+                ]
+            },
+            "properties": {
+                "name": "Polle",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.58,
+                    7.33972
+                ]
+            },
+            "properties": {
+                "name": "Polle",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.6,
+                    7.39
+                ]
+            },
+            "properties": {
+                "name": "Wonei",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.097,
+                    9.537
+                ]
+            },
+            "properties": {
+                "name": "Yap Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.117,
+                    9.53333
+                ]
+            },
+            "properties": {
+                "name": "Yap Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.88,
+                    7.48
+                ]
+            },
+            "properties": {
+                "name": "Fono",
+                "article": "https://en.wikipedia.org/wiki/Fono,_Federated_States_of_Micronesia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.8796,
+                    7.486
+                ]
+            },
+            "properties": {
+                "name": "Fono",
+                "article": "https://en.wikipedia.org/wiki/Fono,_Federated_States_of_Micronesia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.0699921,
+                    9.4299267
+                ]
+            },
+            "properties": {
+                "name": "Gilman",
+                "article": "https://en.wikipedia.org/wiki/Gilman,_Federated_States_of_Micronesia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.955555555,
+                    -0.512222222
+                ]
+            },
+            "properties": {
+                "name": "Q4064690",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    149.1775,
+                    7.3675
+                ]
+            },
+            "properties": {
+                "name": "Alet Island",
+                "article": "https://en.wikipedia.org/wiki/Alet_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145.3842,
+                    9.2286
+                ]
+            },
+            "properties": {
+                "name": "Gaferut Island",
+                "article": "https://en.wikipedia.org/wiki/Gaferut_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    162.9906,
+                    5.3112
+                ]
+            },
+            "properties": {
+                "name": "Mount Finkol",
+                "article": "https://en.wikipedia.org/wiki/Mount_Finkol"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.85,
+                    7.433333333
+                ]
+            },
+            "properties": {
+                "name": "Mount Teroken",
+                "article": "https://en.wikipedia.org/wiki/Mount_Teroken"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.8241,
+                    7.2985
+                ]
+            },
+            "properties": {
+                "name": "Tsis",
+                "article": "https://en.wikipedia.org/wiki/Tsis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.941305555,
+                    7.30925
+                ]
+            },
+            "properties": {
+                "name": "JEEP island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.146944444,
+                    5.927777777
+                ]
+            },
+            "properties": {
+                "name": "Infal Tofol",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    158.2184,
+                    6.85834
+                ]
+            },
+            "properties": {
+                "name": "Mount Pwoaipwoai",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    158.185,
+                    6.917777777
+                ]
+            },
+            "properties": {
+                "name": "Palikir",
+                "article": "https://en.wikipedia.org/wiki/Palikir"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    158.22777778,
+                    6.87555556
+                ]
+            },
+            "properties": {
+                "name": "Mount Nanlaud",
+                "article": "https://en.wikipedia.org/wiki/Mount_Nanlaud"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    158.234,
+                    6.79056
+                ]
+            },
+            "properties": {
+                "name": "Uhsapw",
+                "article": "https://en.wikipedia.org/wiki/Uhsapw"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    163.025,
+                    5.3325
+                ]
+            },
+            "properties": {
+                "name": "Leluh",
+                "article": "https://en.wikipedia.org/wiki/Leluh_archaeological_site"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.85,
+                    7.4596
+                ]
+            },
+            "properties": {
+                "name": "Tonnachau Mountain",
+                "article": "https://en.wikipedia.org/wiki/Tonnachau_Mountain"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.62013,
+                    7.33914
+                ]
+            },
+            "properties": {
+                "name": "Fauba Archaeological Site",
+                "article": "https://en.wikipedia.org/wiki/Fauba_Archaeological_Site"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.70867,
+                    10.08904
+                ]
+            },
+            "properties": {
+                "name": "Mogmog",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.12705,
+                    9.51397
+                ]
+            },
+            "properties": {
+                "name": "Former Donitsch Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.76699,
+                    10.02994
+                ]
+            },
+            "properties": {
+                "name": "Asor",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.915555555,
+                    9.95
+                ]
+            },
+            "properties": {
+                "name": "Gielap",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    157.327778,
+                    5.779167
+                ]
+            },
+            "properties": {
+                "name": "Pikenmetkow",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.84429,
+                    8.59249
+                ]
+            },
+            "properties": {
+                "name": "Pisira",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    158.30419,
+                    6.90521
+                ]
+            },
+            "properties": {
+                "name": "Pohn Tehnmei",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    152.74382,
+                    6.89418
+                ]
+            },
+            "properties": {
+                "name": "Laol",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    158.23014,
+                    6.9971
+                ]
+            },
+            "properties": {
+                "name": "Q24573155",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    158.35616,
+                    6.86167
+                ]
+            },
+            "properties": {
+                "name": "Nahpali",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.746111111,
+                    8.43
+                ]
+            },
+            "properties": {
+                "name": "Nomwin",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.75655,
+                    7.36442
+                ]
+            },
+            "properties": {
+                "name": "Oan",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.88993,
+                    7.14918
+                ]
+            },
+            "properties": {
+                "name": "Ocha",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    162.97156,
+                    5.32224
+                ]
+            },
+            "properties": {
+                "name": "Finol Okat",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    163.00458,
+                    5.29084
+                ]
+            },
+            "properties": {
+                "name": "Finol Oma",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.34667,
+                    8.15972
+                ]
+            },
+            "properties": {
+                "name": "Bigelimol",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.8121,
+                    7.54251
+                ]
+            },
+            "properties": {
+                "name": "Fanangat",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.98263,
+                    7.19087
+                ]
+            },
+            "properties": {
+                "name": "Q24573415",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.75273,
+                    7.5347
+                ]
+            },
+            "properties": {
+                "name": "Q24573427",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.86971,
+                    7.38261
+                ]
+            },
+            "properties": {
+                "name": "Foukenau",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    144.44829,
+                    7.25912
+                ]
+            },
+            "properties": {
+                "name": "Former Falarik Islet",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    157.98584,
+                    6.75305
+                ]
+            },
+            "properties": {
+                "name": "Imwinyap",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.92195,
+                    8.56524
+                ]
+            },
+            "properties": {
+                "name": "Igup",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.82977,
+                    7.3583
+                ]
+            },
+            "properties": {
+                "name": "Chuk en Ipar",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.97156,
+                    6.98866
+                ]
+            },
+            "properties": {
+                "name": "Q24573465",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.64901,
+                    7.42023
+                ]
+            },
+            "properties": {
+                "name": "Kunu",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.57855,
+                    5.56564
+                ]
+            },
+            "properties": {
+                "name": "Ettal Village",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    149.30216,
+                    6.69485
+                ]
+            },
+            "properties": {
+                "name": "Brackish Lake",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    158.21214,
+                    6.92012
+                ]
+            },
+            "properties": {
+                "name": "Dolen Kahmar",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    158.26467,
+                    6.92144
+                ]
+            },
+            "properties": {
+                "name": "Kupwuriso",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    158.1839,
+                    6.8724
+                ]
+            },
+            "properties": {
+                "name": "Dolleiso",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    158.17647,
+                    6.85242
+                ]
+            },
+            "properties": {
+                "name": "Dolen Koio",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    158.26385,
+                    6.95403
+                ]
+            },
+            "properties": {
+                "name": "Nahna Orepeng",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    158.24269,
+                    6.8419
+                ]
+            },
+            "properties": {
+                "name": "Mount Dolotomw",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    162.94083,
+                    5.30361
+                ]
+            },
+            "properties": {
+                "name": "Finol Wakap",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    158.25686,
+                    6.9669
+                ]
+            },
+            "properties": {
+                "name": "Tamwatamw",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    158.27913,
+                    6.903
+                ]
+            },
+            "properties": {
+                "name": "Tenwen Men",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    158.25167,
+                    6.90444
+                ]
+            },
+            "properties": {
+                "name": "Dolen Saladenre",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    158.1833,
+                    6.86243
+                ]
+            },
+            "properties": {
+                "name": "Dolen Raripwi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.13666,
+                    9.51954
+                ]
+            },
+            "properties": {
+                "name": "Biy",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.13166667,
+                    9.52722222
+                ]
+            },
+            "properties": {
+                "name": "Tarang",
+                "article": "https://en.wikipedia.org/wiki/Tarang_(Yap)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.8516528,
+                    7.42102778
+                ]
+            },
+            "properties": {
+                "name": "Nomoneas",
+                "article": "https://en.wikipedia.org/wiki/Nomoneas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.883333333,
+                    7.4
+                ]
+            },
+            "properties": {
+                "name": "Nomoneas",
+                "article": "https://en.wikipedia.org/wiki/Nomoneas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.163,
+                    9.559
+                ]
+            },
+            "properties": {
+                "name": "Mangyol stone money bank",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.585,
+                    5.5686
+                ]
+            },
+            "properties": {
+                "name": "Q105707737",
+                "article": null
+            }
+        }
+    ]
+}

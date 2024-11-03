@@ -1,0 +1,5325 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.377777777,
+                    8.313055555
+                ]
+            },
+            "properties": {
+                "name": "Lib Island",
+                "article": "https://en.wikipedia.org/wiki/Lib_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.737222222,
+                    8.780277777
+                ]
+            },
+            "properties": {
+                "name": "Ebeye Island",
+                "article": "https://en.wikipedia.org/wiki/Ebeye_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.966666666,
+                    7.75
+                ]
+            },
+            "properties": {
+                "name": "Jabat Island",
+                "article": "https://en.wikipedia.org/wiki/Jabat_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.523291666,
+                    10.079911111
+                ]
+            },
+            "properties": {
+                "name": "Jemo Island",
+                "article": "https://en.wikipedia.org/wiki/Jemo_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.733333333,
+                    9.0
+                ]
+            },
+            "properties": {
+                "name": "Meck Island",
+                "article": "https://en.wikipedia.org/wiki/Meck_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.743055555,
+                    9.047777777
+                ]
+            },
+            "properties": {
+                "name": "Omelek Island",
+                "article": "https://en.wikipedia.org/wiki/Omelek_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.475833,
+                    9.396111
+                ]
+            },
+            "properties": {
+                "name": "Roi-Namur",
+                "article": "https://en.wikipedia.org/wiki/Roi-Namur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.47657,
+                    9.39678
+                ]
+            },
+            "properties": {
+                "name": "Roi-Namur",
+                "article": "https://en.wikipedia.org/wiki/Roi-Namur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.23444444,
+                    9.82361111
+                ]
+            },
+            "properties": {
+                "name": "Agony Island",
+                "article": "https://en.wikipedia.org/wiki/Agony_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.7,
+                    6.983333333
+                ]
+            },
+            "properties": {
+                "name": "Ajeltokrok",
+                "article": "https://en.wikipedia.org/wiki/Ajeltokrok"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.11666667,
+                    9.8
+                ]
+            },
+            "properties": {
+                "name": "Anal Island",
+                "article": "https://en.wikipedia.org/wiki/Anal_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    165.56121,
+                    11.52309
+                ]
+            },
+            "properties": {
+                "name": "Aomen",
+                "article": "https://en.wikipedia.org/wiki/Aomen_(Bikini_Atoll)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.7725,
+                    8.894166666
+                ]
+            },
+            "properties": {
+                "name": "Bigej Island",
+                "article": "https://en.wikipedia.org/wiki/Bigej_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.21777778,
+                    9.82277778
+                ]
+            },
+            "properties": {
+                "name": "Etoile Island",
+                "article": "https://en.wikipedia.org/wiki/Etoile_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.21881,
+                    9.83018
+                ]
+            },
+            "properties": {
+                "name": "Etoile Island",
+                "article": "https://en.wikipedia.org/wiki/Etoile_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.551,
+                    7.063
+                ]
+            },
+            "properties": {
+                "name": "Kobjeltak",
+                "article": "https://en.wikipedia.org/wiki/Kobjeltak"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    162.353,
+                    11.545
+                ]
+            },
+            "properties": {
+                "name": "Runit",
+                "article": "https://en.wikipedia.org/wiki/Runit_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.6425,
+                    5.921667
+                ]
+            },
+            "properties": {
+                "name": "Jabor",
+                "article": "https://en.wikipedia.org/wiki/Jabor_(Marshall_Islands)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.64433,
+                    5.9197
+                ]
+            },
+            "properties": {
+                "name": "Jabor",
+                "article": "https://en.wikipedia.org/wiki/Jabor_(Marshall_Islands)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.72125,
+                    7.4769
+                ]
+            },
+            "properties": {
+                "name": "Woller",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    165.94089,
+                    10.17687
+                ]
+            },
+            "properties": {
+                "name": "Worrbar",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.54813,
+                    7.44409
+                ]
+            },
+            "properties": {
+                "name": "Woja, Ailinglaplap",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.02685,
+                    10.04053
+                ]
+            },
+            "properties": {
+                "name": "Yeldo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.16602,
+                    9.14821
+                ]
+            },
+            "properties": {
+                "name": "Yabbenohr",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.90024,
+                    6.24466
+                ]
+            },
+            "properties": {
+                "name": "Enalik",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.59742,
+                    8.82435
+                ]
+            },
+            "properties": {
+                "name": "Ninni",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.74475,
+                    8.85166
+                ]
+            },
+            "properties": {
+                "name": "Ningi, Kwajalein",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.50086,
+                    9.35342
+                ]
+            },
+            "properties": {
+                "name": "Obella",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.48932,
+                    9.07998
+                ]
+            },
+            "properties": {
+                "name": "Onemak",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    165.96514,
+                    10.06586
+                ]
+            },
+            "properties": {
+                "name": "Ombelim",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.20818,
+                    9.31581
+                ]
+            },
+            "properties": {
+                "name": "Oniotto",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.54423,
+                    5.83357
+                ]
+            },
+            "properties": {
+                "name": "Ewo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.42883,
+                    5.95192
+                ]
+            },
+            "properties": {
+                "name": "Pinglep",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.48085,
+                    6.28548
+                ]
+            },
+            "properties": {
+                "name": "Q27576733",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.44403,
+                    6.00476
+                ]
+            },
+            "properties": {
+                "name": "Taka",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.94256,
+                    9.27345
+                ]
+            },
+            "properties": {
+                "name": "Tabik",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.64881,
+                    4.63802
+                ]
+            },
+            "properties": {
+                "name": "Q27576778",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.06185,
+                    8.86336
+                ]
+            },
+            "properties": {
+                "name": "Q27576777",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.01994,
+                    10.0576
+                ]
+            },
+            "properties": {
+                "name": "Uditj",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.68835,
+                    11.2141
+                ]
+            },
+            "properties": {
+                "name": "Kaeroga",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.37451,
+                    7.1086
+                ]
+            },
+            "properties": {
+                "name": "Majuro Uliga",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.87677,
+                    7.54
+                ]
+            },
+            "properties": {
+                "name": "Unitaa",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    170.07299,
+                    9.39267
+                ]
+            },
+            "properties": {
+                "name": "Uwe",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.1154,
+                    9.34453
+                ]
+            },
+            "properties": {
+                "name": "Etcharai",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.24762,
+                    9.10845
+                ]
+            },
+            "properties": {
+                "name": "Eru",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.34807,
+                    7.12463
+                ]
+            },
+            "properties": {
+                "name": "Q27577074",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.53623,
+                    9.28771
+                ]
+            },
+            "properties": {
+                "name": "Gagan",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.58296,
+                    8.84267
+                ]
+            },
+            "properties": {
+                "name": "Gehh",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.94275,
+                    9.31764
+                ]
+            },
+            "properties": {
+                "name": "Geiga, Kwajalein",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.60382,
+                    8.81472
+                ]
+            },
+            "properties": {
+                "name": "Gea",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.23805,
+                    9.11434
+                ]
+            },
+            "properties": {
+                "name": "Gegibu",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.87477,
+                    9.52868
+                ]
+            },
+            "properties": {
+                "name": "Q27577082",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.95271,
+                    11.36443
+                ]
+            },
+            "properties": {
+                "name": "Gogan, Rongelap",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.72776,
+                    9.09986
+                ]
+            },
+            "properties": {
+                "name": "Gellinam",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.28157,
+                    9.0953
+                ]
+            },
+            "properties": {
+                "name": "Gurer",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.76981,
+                    4.64899
+                ]
+            },
+            "properties": {
+                "name": "Guamaguamlap",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.75308,
+                    8.8648
+                ]
+            },
+            "properties": {
+                "name": "Gugegwe",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.3802,
+                    7.0918
+                ]
+            },
+            "properties": {
+                "name": "Majuro",
+                "article": "https://en.wikipedia.org/wiki/Majuro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.92226,
+                    7.129
+                ]
+            },
+            "properties": {
+                "name": "Langor",
+                "article": "https://en.wikipedia.org/wiki/Langor_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.93,
+                    7.124
+                ]
+            },
+            "properties": {
+                "name": "Langor",
+                "article": "https://en.wikipedia.org/wiki/Langor_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.32388889,
+                    9.10861111
+                ]
+            },
+            "properties": {
+                "name": "Nell Island",
+                "article": "https://en.wikipedia.org/wiki/Nell_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.33019,
+                    9.10794
+                ]
+            },
+            "properties": {
+                "name": "Nell Island",
+                "article": "https://en.wikipedia.org/wiki/Nell_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.233,
+                    8.70444
+                ]
+            },
+            "properties": {
+                "name": "Taroa Island",
+                "article": "https://en.wikipedia.org/wiki/Taroa_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.23407,
+                    8.7099
+                ]
+            },
+            "properties": {
+                "name": "Taroa Island",
+                "article": "https://en.wikipedia.org/wiki/Taroa_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.105,
+                    9.81639
+                ]
+            },
+            "properties": {
+                "name": "Tokaen Island",
+                "article": "https://en.wikipedia.org/wiki/Tokaen_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.8724,
+                    9.31199
+                ]
+            },
+            "properties": {
+                "name": "Mejatto",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.875,
+                    9.31222
+                ]
+            },
+            "properties": {
+                "name": "Mejatto",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.933,
+                    7.45
+                ]
+            },
+            "properties": {
+                "name": "Tutu Island",
+                "article": "https://en.wikipedia.org/wiki/Tutu_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.98153,
+                    6.20746
+                ]
+            },
+            "properties": {
+                "name": "Ennanlik",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.48812,
+                    9.38475
+                ]
+            },
+            "properties": {
+                "name": "Ennugarret",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.52597,
+                    9.05192
+                ]
+            },
+            "properties": {
+                "name": "Ennugenliggelap",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.49546,
+                    9.36582
+                ]
+            },
+            "properties": {
+                "name": "Ennubirr",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.44949,
+                    9.36875
+                ]
+            },
+            "properties": {
+                "name": "Ennuebing",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.6242,
+                    8.79521
+                ]
+            },
+            "properties": {
+                "name": "Ennylabegan",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.49134,
+                    9.37603
+                ]
+            },
+            "properties": {
+                "name": "Ennumennet",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.31877,
+                    9.10828
+                ]
+            },
+            "properties": {
+                "name": "Ennumet",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.25871,
+                    7.91728
+                ]
+            },
+            "properties": {
+                "name": "Enujet",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.68647,
+                    8.74712
+                ]
+            },
+            "properties": {
+                "name": "Enubuj",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    165.5253,
+                    9.21628
+                ]
+            },
+            "properties": {
+                "name": "Enylamieg",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.27278,
+                    7.87962
+                ]
+            },
+            "properties": {
+                "name": "Enymak",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.88269,
+                    7.41996
+                ]
+            },
+            "properties": {
+                "name": "Eridj",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.19668,
+                    9.13824
+                ]
+            },
+            "properties": {
+                "name": "Ere",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    165.57203,
+                    9.15972
+                ]
+            },
+            "properties": {
+                "name": "Erlie",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    170.04004,
+                    9.02111
+                ]
+            },
+            "properties": {
+                "name": "Q27577064",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.02367,
+                    10.04843
+                ]
+            },
+            "properties": {
+                "name": "Erotjeman",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.47305556,
+                    9.08583333
+                ]
+            },
+            "properties": {
+                "name": "Illeginni",
+                "article": "https://en.wikipedia.org/wiki/Illeginni_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.60766,
+                    6.07305
+                ]
+            },
+            "properties": {
+                "name": "Inroj",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.7909,
+                    7.05515
+                ]
+            },
+            "properties": {
+                "name": "Ijoen",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    162.23459,
+                    11.3407
+                ]
+            },
+            "properties": {
+                "name": "Ikuren",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    162.38458,
+                    11.49184
+                ]
+            },
+            "properties": {
+                "name": "Inedral",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    165.5601,
+                    11.55704
+                ]
+            },
+            "properties": {
+                "name": "Bokonjebi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.7685,
+                    4.65614
+                ]
+            },
+            "properties": {
+                "name": "Imuroru",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.66121,
+                    7.00532
+                ]
+            },
+            "properties": {
+                "name": "Ine, Ajeltokrok",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.09302,
+                    6.1653
+                ]
+            },
+            "properties": {
+                "name": "Jabwjabwon",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.97698,
+                    7.75254
+                ]
+            },
+            "properties": {
+                "name": "Q27577103",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    170.13956,
+                    12.2496
+                ]
+            },
+            "properties": {
+                "name": "Jabwelo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.62127,
+                    5.84017
+                ]
+            },
+            "properties": {
+                "name": "Q27577106",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.29659,
+                    9.09892
+                ]
+            },
+            "properties": {
+                "name": "Jakeru",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.06076,
+                    7.22027
+                ]
+            },
+            "properties": {
+                "name": "Jelter",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.01513,
+                    10.06652
+                ]
+            },
+            "properties": {
+                "name": "Jebenau",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.30617,
+                    7.82699
+                ]
+            },
+            "properties": {
+                "name": "Mae",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.01135,
+                    10.03225
+                ]
+            },
+            "properties": {
+                "name": "Malle",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.17897,
+                    8.48744
+                ]
+            },
+            "properties": {
+                "name": "Q27576953",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.57384,
+                    8.92787
+                ]
+            },
+            "properties": {
+                "name": "Mann",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.98437,
+                    10.25475
+                ]
+            },
+            "properties": {
+                "name": "Q27576957",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.01494,
+                    8.22682
+                ]
+            },
+            "properties": {
+                "name": "Mummet",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    162.20558,
+                    11.34852
+                ]
+            },
+            "properties": {
+                "name": "Q27576964",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.99779,
+                    10.04289
+                ]
+            },
+            "properties": {
+                "name": "Liklal",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.98153,
+                    6.20746
+                ]
+            },
+            "properties": {
+                "name": "Ennanlik",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.48812,
+                    9.38475
+                ]
+            },
+            "properties": {
+                "name": "Ennugarret",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.52597,
+                    9.05192
+                ]
+            },
+            "properties": {
+                "name": "Ennugenliggelap",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.49546,
+                    9.36582
+                ]
+            },
+            "properties": {
+                "name": "Ennubirr",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.44949,
+                    9.36875
+                ]
+            },
+            "properties": {
+                "name": "Ennuebing",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.6242,
+                    8.79521
+                ]
+            },
+            "properties": {
+                "name": "Ennylabegan",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.49134,
+                    9.37603
+                ]
+            },
+            "properties": {
+                "name": "Ennumennet",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.31877,
+                    9.10828
+                ]
+            },
+            "properties": {
+                "name": "Ennumet",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.25871,
+                    7.91728
+                ]
+            },
+            "properties": {
+                "name": "Enujet",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.68647,
+                    8.74712
+                ]
+            },
+            "properties": {
+                "name": "Enubuj",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    165.5253,
+                    9.21628
+                ]
+            },
+            "properties": {
+                "name": "Enylamieg",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.27278,
+                    7.87962
+                ]
+            },
+            "properties": {
+                "name": "Enymak",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.88269,
+                    7.41996
+                ]
+            },
+            "properties": {
+                "name": "Eridj",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.19668,
+                    9.13824
+                ]
+            },
+            "properties": {
+                "name": "Ere",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    165.57203,
+                    9.15972
+                ]
+            },
+            "properties": {
+                "name": "Erlie",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    170.04004,
+                    9.02111
+                ]
+            },
+            "properties": {
+                "name": "Q27577064",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.1154,
+                    9.34453
+                ]
+            },
+            "properties": {
+                "name": "Etcharai",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.02367,
+                    10.04843
+                ]
+            },
+            "properties": {
+                "name": "Erotjeman",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.24762,
+                    9.10845
+                ]
+            },
+            "properties": {
+                "name": "Eru",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.34807,
+                    7.12463
+                ]
+            },
+            "properties": {
+                "name": "Q27577074",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.53623,
+                    9.28771
+                ]
+            },
+            "properties": {
+                "name": "Gagan",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.58296,
+                    8.84267
+                ]
+            },
+            "properties": {
+                "name": "Gehh",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.60382,
+                    8.81472
+                ]
+            },
+            "properties": {
+                "name": "Gea",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.23805,
+                    9.11434
+                ]
+            },
+            "properties": {
+                "name": "Gegibu",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.40978,
+                    6.28621
+                ]
+            },
+            "properties": {
+                "name": "Bokanake",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.36435,
+                    11.38774
+                ]
+            },
+            "properties": {
+                "name": "Q27577240",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.20859,
+                    9.13614
+                ]
+            },
+            "properties": {
+                "name": "Boggenatjen",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.34289,
+                    9.29358
+                ]
+            },
+            "properties": {
+                "name": "Boggerik",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    170.86221,
+                    8.83639
+                ]
+            },
+            "properties": {
+                "name": "Q27577251",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.83846,
+                    9.3203
+                ]
+            },
+            "properties": {
+                "name": "Bokan",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    165.99593,
+                    10.1188
+                ]
+            },
+            "properties": {
+                "name": "Bokanaetok",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.18668,
+                    9.14006
+                ]
+            },
+            "properties": {
+                "name": "Bokanaujjor",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    162.21331,
+                    11.67224
+                ]
+            },
+            "properties": {
+                "name": "Q27577262",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    162.26985,
+                    11.6357
+                ]
+            },
+            "properties": {
+                "name": "Bokenelab",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    162.1885,
+                    11.35496
+                ]
+            },
+            "properties": {
+                "name": "Q27577261",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.93917,
+                    7.59887
+                ]
+            },
+            "properties": {
+                "name": "Boklan",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    162.15619,
+                    11.64841
+                ]
+            },
+            "properties": {
+                "name": "Bokombako",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    165.25729,
+                    11.68258
+                ]
+            },
+            "properties": {
+                "name": "Bokonejien",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.00884,
+                    11.3651
+                ]
+            },
+            "properties": {
+                "name": "Bokoen, Rongelap",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    162.14458,
+                    11.64183
+                ]
+            },
+            "properties": {
+                "name": "Bokoluo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.56711,
+                    5.99973
+                ]
+            },
+            "properties": {
+                "name": "Q27577282",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.50348,
+                    9.06743
+                ]
+            },
+            "properties": {
+                "name": "Burle",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.1,
+                    6.15
+                ]
+            },
+            "properties": {
+                "name": "Buruon",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.89623,
+                    11.21646
+                ]
+            },
+            "properties": {
+                "name": "Rugoddagai",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.81049,
+                    6.23143
+                ]
+            },
+            "properties": {
+                "name": "Q27577289",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.01299,
+                    14.63873
+                ]
+            },
+            "properties": {
+                "name": "Bwdije",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    170.05119,
+                    9.01412
+                ]
+            },
+            "properties": {
+                "name": "Bwokwanaik",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.72416,
+                    6.18881
+                ]
+            },
+            "properties": {
+                "name": "Bokariki",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.09723,
+                    6.15796
+                ]
+            },
+            "properties": {
+                "name": "Bwokwankeear",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.816666666,
+                    6.233333333
+                ]
+            },
+            "properties": {
+                "name": "Bwokwanalejwa",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.82119,
+                    7.08718
+                ]
+            },
+            "properties": {
+                "name": "Boken, Arno atoll",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.15034,
+                    8.50098
+                ]
+            },
+            "properties": {
+                "name": "Bokoen (Maloelap)",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    165.28519,
+                    11.52628
+                ]
+            },
+            "properties": {
+                "name": "Chieerete",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.69906,
+                    7.09255
+                ]
+            },
+            "properties": {
+                "name": "Jilane",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.21119,
+                    7.15932
+                ]
+            },
+            "properties": {
+                "name": "Calalin",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.52853,
+                    11.13975
+                ]
+            },
+            "properties": {
+                "name": "Charaien",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.38399,
+                    7.08986
+                ]
+            },
+            "properties": {
+                "name": "Majuro Delap",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.11345,
+                    5.97169
+                ]
+            },
+            "properties": {
+                "name": "Jelbon",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.51202,
+                    9.32666
+                ]
+            },
+            "properties": {
+                "name": "Debuu",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.87804,
+                    7.36315
+                ]
+            },
+            "properties": {
+                "name": "Debu, Ailinglaplap",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.97304,
+                    10.38002
+                ]
+            },
+            "properties": {
+                "name": "Enenkone",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.32593,
+                    7.12197
+                ]
+            },
+            "properties": {
+                "name": "Bokonboten",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.66149,
+                    4.62254
+                ]
+            },
+            "properties": {
+                "name": "Bwilel",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.75417,
+                    6.07583
+                ]
+            },
+            "properties": {
+                "name": "Bokurigirikku",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.87667,
+                    6.23556
+                ]
+            },
+            "properties": {
+                "name": "Bokoeributou",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.94275,
+                    9.31764
+                ]
+            },
+            "properties": {
+                "name": "Geiga, Kwajalein",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.87477,
+                    9.52868
+                ]
+            },
+            "properties": {
+                "name": "Q27577082",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.95271,
+                    11.36443
+                ]
+            },
+            "properties": {
+                "name": "Gogan, Rongelap",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.72776,
+                    9.09986
+                ]
+            },
+            "properties": {
+                "name": "Gellinam",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.28157,
+                    9.0953
+                ]
+            },
+            "properties": {
+                "name": "Gurer",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.76981,
+                    4.64899
+                ]
+            },
+            "properties": {
+                "name": "Guamaguamlap",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.75308,
+                    8.8648
+                ]
+            },
+            "properties": {
+                "name": "Gugegwe",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.47305556,
+                    9.08583333
+                ]
+            },
+            "properties": {
+                "name": "Illeginni",
+                "article": "https://en.wikipedia.org/wiki/Illeginni_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.60766,
+                    6.07305
+                ]
+            },
+            "properties": {
+                "name": "Inroj",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.7909,
+                    7.05515
+                ]
+            },
+            "properties": {
+                "name": "Ijoen",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    162.23459,
+                    11.3407
+                ]
+            },
+            "properties": {
+                "name": "Ikuren",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    162.38458,
+                    11.49184
+                ]
+            },
+            "properties": {
+                "name": "Inedral",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    165.5601,
+                    11.55704
+                ]
+            },
+            "properties": {
+                "name": "Bokonjebi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.7685,
+                    4.65614
+                ]
+            },
+            "properties": {
+                "name": "Imuroru",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.66121,
+                    7.00532
+                ]
+            },
+            "properties": {
+                "name": "Ine, Ajeltokrok",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.09302,
+                    6.1653
+                ]
+            },
+            "properties": {
+                "name": "Jabwjabwon",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.97698,
+                    7.75254
+                ]
+            },
+            "properties": {
+                "name": "Q27577103",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    170.13956,
+                    12.2496
+                ]
+            },
+            "properties": {
+                "name": "Jabwelo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.62127,
+                    5.84017
+                ]
+            },
+            "properties": {
+                "name": "Q27577106",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.29659,
+                    9.09892
+                ]
+            },
+            "properties": {
+                "name": "Jakeru",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.06076,
+                    7.22027
+                ]
+            },
+            "properties": {
+                "name": "Jelter",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.01513,
+                    10.06652
+                ]
+            },
+            "properties": {
+                "name": "Jebenau",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    162.38359,
+                    11.42459
+                ]
+            },
+            "properties": {
+                "name": "Q27577108",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.65473,
+                    7.16736
+                ]
+            },
+            "properties": {
+                "name": "Jarkwil",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.939722222,
+                    7.490555555
+                ]
+            },
+            "properties": {
+                "name": "Jeh",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.11487,
+                    9.9932
+                ]
+            },
+            "properties": {
+                "name": "Jeltonet",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.27211,
+                    9.89225
+                ]
+            },
+            "properties": {
+                "name": "Jebal",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.89623,
+                    11.21646
+                ]
+            },
+            "properties": {
+                "name": "Rugoddagai",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.81049,
+                    6.23143
+                ]
+            },
+            "properties": {
+                "name": "Q27577289",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.01299,
+                    14.63873
+                ]
+            },
+            "properties": {
+                "name": "Bwdije",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    170.05119,
+                    9.01412
+                ]
+            },
+            "properties": {
+                "name": "Bwokwanaik",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.72416,
+                    6.18881
+                ]
+            },
+            "properties": {
+                "name": "Bokariki",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.09723,
+                    6.15796
+                ]
+            },
+            "properties": {
+                "name": "Bwokwankeear",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.816666666,
+                    6.233333333
+                ]
+            },
+            "properties": {
+                "name": "Bwokwanalejwa",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.82119,
+                    7.08718
+                ]
+            },
+            "properties": {
+                "name": "Boken, Arno atoll",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.15034,
+                    8.50098
+                ]
+            },
+            "properties": {
+                "name": "Bokoen (Maloelap)",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    165.28519,
+                    11.52628
+                ]
+            },
+            "properties": {
+                "name": "Chieerete",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.69906,
+                    7.09255
+                ]
+            },
+            "properties": {
+                "name": "Jilane",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.21119,
+                    7.15932
+                ]
+            },
+            "properties": {
+                "name": "Calalin",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.52853,
+                    11.13975
+                ]
+            },
+            "properties": {
+                "name": "Charaien",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.38399,
+                    7.08986
+                ]
+            },
+            "properties": {
+                "name": "Majuro Delap",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.11345,
+                    5.97169
+                ]
+            },
+            "properties": {
+                "name": "Jelbon",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.51202,
+                    9.32666
+                ]
+            },
+            "properties": {
+                "name": "Debuu",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.87804,
+                    7.36315
+                ]
+            },
+            "properties": {
+                "name": "Debu, Ailinglaplap",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    170.15762,
+                    9.5473
+                ]
+            },
+            "properties": {
+                "name": "Q27577324",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.36176,
+                    7.12476
+                ]
+            },
+            "properties": {
+                "name": "Majuro Darrit",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.72236,
+                    7.08002
+                ]
+            },
+            "properties": {
+                "name": "East Taklep",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.82602,
+                    9.32712
+                ]
+            },
+            "properties": {
+                "name": "Ebadon",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    165.64739,
+                    9.14129
+                ]
+            },
+            "properties": {
+                "name": "Ebbetyu",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.16961,
+                    8.07521
+                ]
+            },
+            "properties": {
+                "name": "Ebenmg",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.50975,
+                    9.3358
+                ]
+            },
+            "properties": {
+                "name": "Edgigen",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.52166,
+                    9.30637
+                ]
+            },
+            "properties": {
+                "name": "Edjell",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.73904,
+                    8.83707
+                ]
+            },
+            "properties": {
+                "name": "Ebwaj",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.20467,
+                    8.65167
+                ]
+            },
+            "properties": {
+                "name": "Eien",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.18034,
+                    8.61794
+                ]
+            },
+            "properties": {
+                "name": "Egeriben",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    170.21603,
+                    9.39474
+                ]
+            },
+            "properties": {
+                "name": "Egmejo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    165.99059,
+                    10.03803
+                ]
+            },
+            "properties": {
+                "name": "Eirek",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    162.27995,
+                    11.63208
+                ]
+            },
+            "properties": {
+                "name": "Q27577350",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.566666666,
+                    9.016666666
+                ]
+            },
+            "properties": {
+                "name": "Eller, Kwajalein",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.52436,
+                    5.86493
+                ]
+            },
+            "properties": {
+                "name": "Mejrirok",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.72105,
+                    6.01629
+                ]
+            },
+            "properties": {
+                "name": "Imiej",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.68194,
+                    4.67755
+                ]
+            },
+            "properties": {
+                "name": "Enear",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    170.2,
+                    9.38333
+                ]
+            },
+            "properties": {
+                "name": "Q27577359",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    170.98194,
+                    8.88779
+                ]
+            },
+            "properties": {
+                "name": "Q27577356",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.95987,
+                    10.44671
+                ]
+            },
+            "properties": {
+                "name": "Enejelar",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.56535,
+                    5.8154
+                ]
+            },
+            "properties": {
+                "name": "Eneeldak",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.9058,
+                    9.18836
+                ]
+            },
+            "properties": {
+                "name": "Q27577361",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.66667,
+                    4.66667
+                ]
+            },
+            "properties": {
+                "name": "Enekoion",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.84577,
+                    9.32197
+                ]
+            },
+            "properties": {
+                "name": "Elenak",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    162.34177,
+                    11.35153
+                ]
+            },
+            "properties": {
+                "name": "Enewetak",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.70627,
+                    7.29713
+                ]
+            },
+            "properties": {
+                "name": "Enewe",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.56385,
+                    7.10132
+                ]
+            },
+            "properties": {
+                "name": "Eniairik",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.87012,
+                    7.38434
+                ]
+            },
+            "properties": {
+                "name": "Enggain",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.89159,
+                    11.29643
+                ]
+            },
+            "properties": {
+                "name": "Eniaetok",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.36116,
+                    11.12484
+                ]
+            },
+            "properties": {
+                "name": "Enibuk",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.283333333,
+                    7.15
+                ]
+            },
+            "properties": {
+                "name": "Enigu",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.62194,
+                    7.34093
+                ]
+            },
+            "properties": {
+                "name": "Eniak",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.01765,
+                    8.60869
+                ]
+            },
+            "properties": {
+                "name": "Enibin",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.66666,
+                    4.61099
+                ]
+            },
+            "properties": {
+                "name": "Enilok",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.95429,
+                    10.45692
+                ]
+            },
+            "properties": {
+                "name": "Enijabro",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.70428,
+                    7.08131
+                ]
+            },
+            "properties": {
+                "name": "Enedrik",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.7685,
+                    4.63133
+                ]
+            },
+            "properties": {
+                "name": "Eninaitok",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    165.36984,
+                    11.50284
+                ]
+            },
+            "properties": {
+                "name": "Former Eninman Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.7154,
+                    9.01653
+                ]
+            },
+            "properties": {
+                "name": "Eniwetak, Kwajalein",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.46941,
+                    11.29693
+                ]
+            },
+            "properties": {
+                "name": "Eniwetak, Rongrik",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    165.34171,
+                    11.50017
+                ]
+            },
+            "properties": {
+                "name": "Enirik",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.68661,
+                    4.59764
+                ]
+            },
+            "properties": {
+                "name": "Enkaumij",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.51192,
+                    6.23203
+                ]
+            },
+            "properties": {
+                "name": "Bukantorak",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.66282,
+                    4.62008
+                ]
+            },
+            "properties": {
+                "name": "Naanmen",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.67333,
+                    4.60833
+                ]
+            },
+            "properties": {
+                "name": "Q27577466",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.113055555,
+                    7.096111111
+                ]
+            },
+            "properties": {
+                "name": "Majuro Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.29365,
+                    9.81995
+                ]
+            },
+            "properties": {
+                "name": "Top of Marshall Islands",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    162.17639,
+                    11.66
+                ]
+            },
+            "properties": {
+                "name": "Eybbiyae",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.92472,
+                    6.25361
+                ]
+            },
+            "properties": {
+                "name": "Ereyan",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.32988,
+                    7.12146
+                ]
+            },
+            "properties": {
+                "name": "Kemman",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.97304,
+                    10.38002
+                ]
+            },
+            "properties": {
+                "name": "Enenkone",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.75154,
+                    7.28159
+                ]
+            },
+            "properties": {
+                "name": "Enuebing",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.32593,
+                    7.12197
+                ]
+            },
+            "properties": {
+                "name": "Bokonboten",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.66149,
+                    4.62254
+                ]
+            },
+            "properties": {
+                "name": "Bwilel",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.75417,
+                    6.07583
+                ]
+            },
+            "properties": {
+                "name": "Bokurigirikku",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.5793,
+                    6.11751
+                ]
+            },
+            "properties": {
+                "name": "Bogoraborapu",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.87667,
+                    6.23556
+                ]
+            },
+            "properties": {
+                "name": "Bokoeributou",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.97086,
+                    10.3131
+                ]
+            },
+            "properties": {
+                "name": "Baoje",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.30381,
+                    7.13551
+                ]
+            },
+            "properties": {
+                "name": "Bikirin",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.69917,
+                    6.02833
+                ]
+            },
+            "properties": {
+                "name": "Anirippu",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.32388889,
+                    9.10861111
+                ]
+            },
+            "properties": {
+                "name": "Nell Island",
+                "article": "https://en.wikipedia.org/wiki/Nell_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.33019,
+                    9.10794
+                ]
+            },
+            "properties": {
+                "name": "Nell Island",
+                "article": "https://en.wikipedia.org/wiki/Nell_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.233,
+                    8.70444
+                ]
+            },
+            "properties": {
+                "name": "Taroa Island",
+                "article": "https://en.wikipedia.org/wiki/Taroa_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.23407,
+                    8.7099
+                ]
+            },
+            "properties": {
+                "name": "Taroa Island",
+                "article": "https://en.wikipedia.org/wiki/Taroa_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.105,
+                    9.81639
+                ]
+            },
+            "properties": {
+                "name": "Tokaen Island",
+                "article": "https://en.wikipedia.org/wiki/Tokaen_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.8724,
+                    9.31199
+                ]
+            },
+            "properties": {
+                "name": "Mejatto",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.875,
+                    9.31222
+                ]
+            },
+            "properties": {
+                "name": "Mejatto",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.933,
+                    7.45
+                ]
+            },
+            "properties": {
+                "name": "Tutu Island",
+                "article": "https://en.wikipedia.org/wiki/Tutu_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    162.353,
+                    11.545
+                ]
+            },
+            "properties": {
+                "name": "Runit",
+                "article": "https://en.wikipedia.org/wiki/Runit_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.6425,
+                    5.921667
+                ]
+            },
+            "properties": {
+                "name": "Jabor",
+                "article": "https://en.wikipedia.org/wiki/Jabor_(Marshall_Islands)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.64433,
+                    5.9197
+                ]
+            },
+            "properties": {
+                "name": "Jabor",
+                "article": "https://en.wikipedia.org/wiki/Jabor_(Marshall_Islands)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.72125,
+                    7.4769
+                ]
+            },
+            "properties": {
+                "name": "Woller",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    165.94089,
+                    10.17687
+                ]
+            },
+            "properties": {
+                "name": "Worrbar",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.54813,
+                    7.44409
+                ]
+            },
+            "properties": {
+                "name": "Woja, Ailinglaplap",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.82244,
+                    7.27648
+                ]
+            },
+            "properties": {
+                "name": "Airuk, Ailinglaplap",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.13235,
+                    5.93457
+                ]
+            },
+            "properties": {
+                "name": "Aelingeo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.78851,
+                    11.46127
+                ]
+            },
+            "properties": {
+                "name": "Aerik",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    162.28639,
+                    11.62966
+                ]
+            },
+            "properties": {
+                "name": "Aej",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.86267,
+                    10.29043
+                ]
+            },
+            "properties": {
+                "name": "Agulue",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.51921,
+                    5.87107
+                ]
+            },
+            "properties": {
+                "name": "Ai",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.6765,
+                    6.05133
+                ]
+            },
+            "properties": {
+                "name": "Ajejen",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.79549,
+                    7.27819
+                ]
+            },
+            "properties": {
+                "name": "Q27577510",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.10924,
+                    6.03729
+                ]
+            },
+            "properties": {
+                "name": "Aneal",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.97292,
+                    10.38757
+                ]
+            },
+            "properties": {
+                "name": "Q27577540",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    170.2,
+                    9.5
+                ]
+            },
+            "properties": {
+                "name": "Anebwilejaiing",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.55958,
+                    7.09135
+                ]
+            },
+            "properties": {
+                "name": "Anedoul",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.22952,
+                    7.15566
+                ]
+            },
+            "properties": {
+                "name": "Anemakij",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    170.16385,
+                    9.54121
+                ]
+            },
+            "properties": {
+                "name": "Anekinnat",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.27958,
+                    9.87695
+                ]
+            },
+            "properties": {
+                "name": "Anekira",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.06474,
+                    10.02912
+                ]
+            },
+            "properties": {
+                "name": "Anenaan",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.98497,
+                    10.23355
+                ]
+            },
+            "properties": {
+                "name": "Anemwanmwan",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.92353,
+                    7.10249
+                ]
+            },
+            "properties": {
+                "name": "Aneraen",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.96712,
+                    10.40564
+                ]
+            },
+            "properties": {
+                "name": "Anenoomw",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.78527,
+                    6.2238
+                ]
+            },
+            "properties": {
+                "name": "Q27577563",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.02594,
+                    6.03035
+                ]
+            },
+            "properties": {
+                "name": "Enewa",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.6488,
+                    7.18435
+                ]
+            },
+            "properties": {
+                "name": "Eneweto",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    165.42852,
+                    11.69099
+                ]
+            },
+            "properties": {
+                "name": "Aomoen",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.2121,
+                    7.80458
+                ]
+            },
+            "properties": {
+                "name": "Q27577564",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    170.21371,
+                    9.48576
+                ]
+            },
+            "properties": {
+                "name": "Ankekejairik",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    170.03544,
+                    9.20457
+                ]
+            },
+            "properties": {
+                "name": "Aradojairen",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    170.05001,
+                    9.15887
+                ]
+            },
+            "properties": {
+                "name": "Aradojairik",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    162.31624,
+                    11.62004
+                ]
+            },
+            "properties": {
+                "name": "Aomon",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.7598,
+                    11.20998
+                ]
+            },
+            "properties": {
+                "name": "Q27577569",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.44454,
+                    6.01748
+                ]
+            },
+            "properties": {
+                "name": "Arlap",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.34127,
+                    7.1238
+                ]
+            },
+            "properties": {
+                "name": "Arneil",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.76847,
+                    11.16468
+                ]
+            },
+            "properties": {
+                "name": "Arubaru",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.55186,
+                    7.06239
+                ]
+            },
+            "properties": {
+                "name": "Q27577576",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.733333333,
+                    9.0
+                ]
+            },
+            "properties": {
+                "name": "Meck Island",
+                "article": "https://en.wikipedia.org/wiki/Meck_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.743055555,
+                    9.047777777
+                ]
+            },
+            "properties": {
+                "name": "Omelek Island",
+                "article": "https://en.wikipedia.org/wiki/Omelek_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.475833,
+                    9.396111
+                ]
+            },
+            "properties": {
+                "name": "Roi-Namur",
+                "article": "https://en.wikipedia.org/wiki/Roi-Namur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.47657,
+                    9.39678
+                ]
+            },
+            "properties": {
+                "name": "Roi-Namur",
+                "article": "https://en.wikipedia.org/wiki/Roi-Namur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.23444444,
+                    9.82361111
+                ]
+            },
+            "properties": {
+                "name": "Agony Island",
+                "article": "https://en.wikipedia.org/wiki/Agony_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.7,
+                    6.983333333
+                ]
+            },
+            "properties": {
+                "name": "Ajeltokrok",
+                "article": "https://en.wikipedia.org/wiki/Ajeltokrok"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.11666667,
+                    9.8
+                ]
+            },
+            "properties": {
+                "name": "Anal Island",
+                "article": "https://en.wikipedia.org/wiki/Anal_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    165.56121,
+                    11.52309
+                ]
+            },
+            "properties": {
+                "name": "Aomen",
+                "article": "https://en.wikipedia.org/wiki/Aomen_(Bikini_Atoll)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.7725,
+                    8.894166666
+                ]
+            },
+            "properties": {
+                "name": "Bigej Island",
+                "article": "https://en.wikipedia.org/wiki/Bigej_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.21777778,
+                    9.82277778
+                ]
+            },
+            "properties": {
+                "name": "Etoile Island",
+                "article": "https://en.wikipedia.org/wiki/Etoile_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.21881,
+                    9.83018
+                ]
+            },
+            "properties": {
+                "name": "Etoile Island",
+                "article": "https://en.wikipedia.org/wiki/Etoile_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.551,
+                    7.063
+                ]
+            },
+            "properties": {
+                "name": "Kobjeltak",
+                "article": "https://en.wikipedia.org/wiki/Kobjeltak"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.92226,
+                    7.129
+                ]
+            },
+            "properties": {
+                "name": "Langor",
+                "article": "https://en.wikipedia.org/wiki/Langor_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.93,
+                    7.124
+                ]
+            },
+            "properties": {
+                "name": "Langor",
+                "article": "https://en.wikipedia.org/wiki/Langor_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.32388889,
+                    9.10861111
+                ]
+            },
+            "properties": {
+                "name": "Nell Island",
+                "article": "https://en.wikipedia.org/wiki/Nell_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.33019,
+                    9.10794
+                ]
+            },
+            "properties": {
+                "name": "Nell Island",
+                "article": "https://en.wikipedia.org/wiki/Nell_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.72635,
+                    6.21586
+                ]
+            },
+            "properties": {
+                "name": "Audorii",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.75476,
+                    6.97431
+                ]
+            },
+            "properties": {
+                "name": "Autle",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.17596,
+                    8.13983
+                ]
+            },
+            "properties": {
+                "name": "Q27577580",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.97643,
+                    10.29499
+                ]
+            },
+            "properties": {
+                "name": "Bererjan",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    170.88435,
+                    8.75263
+                ]
+            },
+            "properties": {
+                "name": "Q27577584",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.0434,
+                    8.36225
+                ]
+            },
+            "properties": {
+                "name": "Q27577590",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.96656,
+                    10.42206
+                ]
+            },
+            "properties": {
+                "name": "Q27577591",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.75463,
+                    7.50613
+                ]
+            },
+            "properties": {
+                "name": "Bikar, Ailinglaplap",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.05862,
+                    9.33525
+                ]
+            },
+            "properties": {
+                "name": "Biggerann",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.73747,
+                    7.48384
+                ]
+            },
+            "properties": {
+                "name": "Mejajok",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.2359,
+                    9.30277
+                ]
+            },
+            "properties": {
+                "name": "Biggarenn",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.24044,
+                    8.95517
+                ]
+            },
+            "properties": {
+                "name": "Bigilapij",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    165.39029,
+                    11.50557
+                ]
+            },
+            "properties": {
+                "name": "Bigiren",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    170.17359,
+                    9.53084
+                ]
+            },
+            "properties": {
+                "name": "Bikanol",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    162.32145,
+                    11.61609
+                ]
+            },
+            "properties": {
+                "name": "Bijire",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    165.61611,
+                    9.14227
+                ]
+            },
+            "properties": {
+                "name": "Bikku",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    170.11037,
+                    9.39292
+                ]
+            },
+            "properties": {
+                "name": "Bikeichi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    162.08928,
+                    11.45672
+                ]
+            },
+            "properties": {
+                "name": "Q27577607",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.64001,
+                    7.24234
+                ]
+            },
+            "properties": {
+                "name": "Bikarej",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.19755,
+                    8.73927
+                ]
+            },
+            "properties": {
+                "name": "Bikat",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.28934,
+                    7.14659
+                ]
+            },
+            "properties": {
+                "name": "Q27577610",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.28776,
+                    7.14765
+                ]
+            },
+            "properties": {
+                "name": "Bikendik",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    170.19251,
+                    9.51222
+                ]
+            },
+            "properties": {
+                "name": "Bikenkolange",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.14169,
+                    9.96568
+                ]
+            },
+            "properties": {
+                "name": "Bikinmingjairik",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    165.54646,
+                    11.63198
+                ]
+            },
+            "properties": {
+                "name": "Q27577613",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.85505,
+                    9.31603
+                ]
+            },
+            "properties": {
+                "name": "Bikrik",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.91952,
+                    7.57769
+                ]
+            },
+            "properties": {
+                "name": "Ramarin",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.94639,
+                    9.15837
+                ]
+            },
+            "properties": {
+                "name": "Q27577747",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.57766,
+                    8.98611
+                ]
+            },
+            "properties": {
+                "name": "Legan, Kwajalein",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.02906,
+                    7.14505
+                ]
+            },
+            "properties": {
+                "name": "Majouro Laura",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.06322,
+                    8.19654
+                ]
+            },
+            "properties": {
+                "name": "Q27577791",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.743333333,
+                    8.848888888
+                ]
+            },
+            "properties": {
+                "name": "Gugeegue",
+                "article": "https://en.wikipedia.org/wiki/Gugeegue"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.3815,
+                    8.3136
+                ]
+            },
+            "properties": {
+                "name": "Lib Pond",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.0132,
+                    10.16897
+                ]
+            },
+            "properties": {
+                "name": "Q54999178",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.76328,
+                    4.66779
+                ]
+            },
+            "properties": {
+                "name": "Q63007024",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.69327,
+                    4.5813
+                ]
+            },
+            "properties": {
+                "name": "Q63111031",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.270305555,
+                    9.8265
+                ]
+            },
+            "properties": {
+                "name": "Nadik",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.63756,
+                    7.33812
+                ]
+            },
+            "properties": {
+                "name": "Q110617320",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.85241,
+                    11.22694
+                ]
+            },
+            "properties": {
+                "name": "Utirik",
+                "article": null
+            }
+        }
+    ]
+}

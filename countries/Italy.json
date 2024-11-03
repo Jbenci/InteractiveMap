@@ -1,0 +1,5605 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.92572,
+                    44.64582
+                ]
+            },
+            "properties": {
+                "name": "Modena",
+                "article": "https://en.wikipedia.org/wiki/Modena"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.316666666,
+                    45.366666666
+                ]
+            },
+            "properties": {
+                "name": "Battle of Marignano",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Marignano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.19,
+                    45.466944444
+                ]
+            },
+            "properties": {
+                "name": "Milan",
+                "article": "https://en.wikipedia.org/wiki/Milan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.425555555,
+                    40.821388888
+                ]
+            },
+            "properties": {
+                "name": "Mount Vesuvius",
+                "article": "https://en.wikipedia.org/wiki/Mount_Vesuvius"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.770277777,
+                    45.650277777
+                ]
+            },
+            "properties": {
+                "name": "Trieste",
+                "article": "https://en.wikipedia.org/wiki/Trieste"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.865,
+                    45.832777777
+                ]
+            },
+            "properties": {
+                "name": "Mont Blanc",
+                "article": "https://en.wikipedia.org/wiki/Mont_Blanc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.67,
+                    45.695
+                ]
+            },
+            "properties": {
+                "name": "Bergamo",
+                "article": "https://en.wikipedia.org/wiki/Bergamo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.331944444,
+                    45.439722222
+                ]
+            },
+            "properties": {
+                "name": "Venice",
+                "article": "https://en.wikipedia.org/wiki/Venice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.759444444,
+                    40.680555555
+                ]
+            },
+            "properties": {
+                "name": "Salerno",
+                "article": "https://en.wikipedia.org/wiki/Salerno"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.091666666,
+                    44.6675
+                ]
+            },
+            "properties": {
+                "name": "Viso",
+                "article": "https://en.wikipedia.org/wiki/Monte_Viso"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.086138888,
+                    45.81025
+                ]
+            },
+            "properties": {
+                "name": "Como",
+                "article": "https://en.wikipedia.org/wiki/Como"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.658611111,
+                    45.976388888
+                ]
+            },
+            "properties": {
+                "name": "Matterhorn",
+                "article": "https://en.wikipedia.org/wiki/Matterhorn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.266666666,
+                    45.533333333
+                ]
+            },
+            "properties": {
+                "name": "Gran Paradiso",
+                "article": "https://en.wikipedia.org/wiki/Gran_Paradiso"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.264444444,
+                    45.596666666
+                ]
+            },
+            "properties": {
+                "name": "Grivola",
+                "article": "https://en.wikipedia.org/wiki/Grivola"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.342777777,
+                    44.493888888
+                ]
+            },
+            "properties": {
+                "name": "Bologna",
+                "article": "https://en.wikipedia.org/wiki/Bologna"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.333333,
+                    41.066667
+                ]
+            },
+            "properties": {
+                "name": "Caserta",
+                "article": "https://en.wikipedia.org/wiki/Caserta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.992777777,
+                    45.438611111
+                ]
+            },
+            "properties": {
+                "name": "Verona",
+                "article": "https://en.wikipedia.org/wiki/Verona"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.248611111,
+                    40.835833333
+                ]
+            },
+            "properties": {
+                "name": "Naples",
+                "article": "https://en.wikipedia.org/wiki/Naples"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.361261944,
+                    38.115658055
+                ]
+            },
+            "properties": {
+                "name": "Palermo",
+                "article": "https://en.wikipedia.org/wiki/Palermo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.328,
+                    44.801472222
+                ]
+            },
+            "properties": {
+                "name": "Parma",
+                "article": "https://en.wikipedia.org/wiki/Parma"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.214188888,
+                    42.464277777
+                ]
+            },
+            "properties": {
+                "name": "Pescara",
+                "article": "https://en.wikipedia.org/wiki/Pescara"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.331388888,
+                    43.318333333
+                ]
+            },
+            "properties": {
+                "name": "Siena",
+                "article": "https://en.wikipedia.org/wiki/Siena"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.6372,
+                    43.725238888
+                ]
+            },
+            "properties": {
+                "name": "Urbino",
+                "article": "https://en.wikipedia.org/wiki/Urbino"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.233333333,
+                    46.066666666
+                ]
+            },
+            "properties": {
+                "name": "Udine",
+                "article": "https://en.wikipedia.org/wiki/Udine"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.714089,
+                    46.522986
+                ]
+            },
+            "properties": {
+                "name": "Peč",
+                "article": "https://en.wikipedia.org/wiki/Dreil%C3%A4ndereck"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.516666666,
+                    43.616666666
+                ]
+            },
+            "properties": {
+                "name": "Ancona",
+                "article": "https://en.wikipedia.org/wiki/Ancona"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3888,
+                    43.1121
+                ]
+            },
+            "properties": {
+                "name": "Perugia",
+                "article": "https://en.wikipedia.org/wiki/Perugia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.391991666,
+                    42.354008333
+                ]
+            },
+            "properties": {
+                "name": "L'Aquila",
+                "article": "https://en.wikipedia.org/wiki/L%27Aquila"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.866666666,
+                    41.125277777
+                ]
+            },
+            "properties": {
+                "name": "Bari",
+                "article": "https://en.wikipedia.org/wiki/Bari"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.8,
+                    40.633333333
+                ]
+            },
+            "properties": {
+                "name": "Potenza",
+                "article": "https://en.wikipedia.org/wiki/Potenza"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.551944444,
+                    45.922777777
+                ]
+            },
+            "properties": {
+                "name": "Verbania",
+                "article": "https://en.wikipedia.org/wiki/Verbania"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5875,
+                    38.91
+                ]
+            },
+            "properties": {
+                "name": "Catanzaro",
+                "article": "https://en.wikipedia.org/wiki/Catanzaro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.242219444,
+                    45.672219444
+                ]
+            },
+            "properties": {
+                "name": "Treviso",
+                "article": "https://en.wikipedia.org/wiki/Treviso"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.490605,
+                    41.889828
+                ]
+            },
+            "properties": {
+                "name": "Arch of Constantine",
+                "article": "https://en.wikipedia.org/wiki/Arch_of_Constantine"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.55,
+                    44.383333333
+                ]
+            },
+            "properties": {
+                "name": "Cuneo",
+                "article": "https://en.wikipedia.org/wiki/Cuneo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.546326927,
+                    42.690669735
+                ]
+            },
+            "properties": {
+                "name": "Acquasparta",
+                "article": "https://en.wikipedia.org/wiki/Acquasparta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.62,
+                    45.45
+                ]
+            },
+            "properties": {
+                "name": "Novara",
+                "article": "https://en.wikipedia.org/wiki/Novara"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.966666666,
+                    42.816666666
+                ]
+            },
+            "properties": {
+                "name": "Allerona",
+                "article": "https://en.wikipedia.org/wiki/Allerona"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3,
+                    42.583333333
+                ]
+            },
+            "properties": {
+                "name": "Alviano",
+                "article": "https://en.wikipedia.org/wiki/Alviano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.62,
+                    44.913330555
+                ]
+            },
+            "properties": {
+                "name": "Alessandria",
+                "article": "https://en.wikipedia.org/wiki/Alessandria"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.206944444,
+                    44.9
+                ]
+            },
+            "properties": {
+                "name": "Asti",
+                "article": "https://en.wikipedia.org/wiki/Asti"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.220280555,
+                    45.538888888
+                ]
+            },
+            "properties": {
+                "name": "Brescia",
+                "article": "https://en.wikipedia.org/wiki/Brescia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.024722222,
+                    45.133333333
+                ]
+            },
+            "properties": {
+                "name": "Cremona",
+                "article": "https://en.wikipedia.org/wiki/Cremona"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4167756,
+                    42.5535279
+                ]
+            },
+            "properties": {
+                "name": "Amelia",
+                "article": "https://en.wikipedia.org/wiki/Amelia,_Umbria"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.768,
+                    42.583683
+                ]
+            },
+            "properties": {
+                "name": "Arrone",
+                "article": "https://en.wikipedia.org/wiki/Arrone"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.273611111,
+                    45.583611111
+                ]
+            },
+            "properties": {
+                "name": "Monza",
+                "article": "https://en.wikipedia.org/wiki/Monza"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3,
+                    42.516666666
+                ]
+            },
+            "properties": {
+                "name": "Attigliano",
+                "article": "https://en.wikipedia.org/wiki/Attigliano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.833333333,
+                    45.816666666
+                ]
+            },
+            "properties": {
+                "name": "Varese",
+                "article": "https://en.wikipedia.org/wiki/Varese"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.433333333,
+                    42.65
+                ]
+            },
+            "properties": {
+                "name": "Avigliano Umbro",
+                "article": "https://en.wikipedia.org/wiki/Avigliano_Umbro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.216666666,
+                    42.666666666
+                ]
+            },
+            "properties": {
+                "name": "Baschi",
+                "article": "https://en.wikipedia.org/wiki/Baschi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5687,
+                    42.4041
+                ]
+            },
+            "properties": {
+                "name": "Calvi dell'Umbria",
+                "article": "https://en.wikipedia.org/wiki/Calvi_dell%27Umbria"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.983333333,
+                    42.7
+                ]
+            },
+            "properties": {
+                "name": "Castel Giorgio",
+                "article": "https://en.wikipedia.org/wiki/Castel_Giorgio"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.001669444,
+                    42.755280555
+                ]
+            },
+            "properties": {
+                "name": "Castel Viscardo",
+                "article": "https://en.wikipedia.org/wiki/Castel_Viscardo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.666666666,
+                    45.633333333
+                ]
+            },
+            "properties": {
+                "name": "Lake Garda",
+                "article": "https://en.wikipedia.org/wiki/Lake_Garda"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.55,
+                    45.55
+                ]
+            },
+            "properties": {
+                "name": "Vicenza",
+                "article": "https://en.wikipedia.org/wiki/Vicenza"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.116666666,
+                    39.083333333
+                ]
+            },
+            "properties": {
+                "name": "Crotone",
+                "article": "https://en.wikipedia.org/wiki/Crotone"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.480277777,
+                    40.694722222
+                ]
+            },
+            "properties": {
+                "name": "Castellammare di Stabia",
+                "article": "https://en.wikipedia.org/wiki/Castellammare_di_Stabia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.316666666,
+                    43.55
+                ]
+            },
+            "properties": {
+                "name": "Livorno",
+                "article": "https://en.wikipedia.org/wiki/Livorno"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.65,
+                    42.566666666
+                ]
+            },
+            "properties": {
+                "name": "Terni",
+                "article": "https://en.wikipedia.org/wiki/Terni"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.65,
+                    42.566666666
+                ]
+            },
+            "properties": {
+                "name": "Terni",
+                "article": "https://en.wikipedia.org/wiki/Terni"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.016666666,
+                    42.866666666
+                ]
+            },
+            "properties": {
+                "name": "Fabro",
+                "article": "https://en.wikipedia.org/wiki/Fabro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.492222222,
+                    41.890277777
+                ]
+            },
+            "properties": {
+                "name": "Colosseum",
+                "article": "https://en.wikipedia.org/wiki/Colosseum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.790277777,
+                    42.621388888
+                ]
+            },
+            "properties": {
+                "name": "Ferentillo",
+                "article": "https://en.wikipedia.org/wiki/Ferentillo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.066666666,
+                    42.833333333
+                ]
+            },
+            "properties": {
+                "name": "Ficulle",
+                "article": "https://en.wikipedia.org/wiki/Ficulle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.333333333,
+                    42.516666666
+                ]
+            },
+            "properties": {
+                "name": "Giove",
+                "article": "https://en.wikipedia.org/wiki/Giove,_Umbria"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.333333333,
+                    42.566666666
+                ]
+            },
+            "properties": {
+                "name": "Lugnano in Teverina",
+                "article": "https://en.wikipedia.org/wiki/Lugnano_in_Teverina"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.483333333,
+                    42.65
+                ]
+            },
+            "properties": {
+                "name": "Montecastrilli",
+                "article": "https://en.wikipedia.org/wiki/Montecastrilli"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.28803,
+                    42.66234
+                ]
+            },
+            "properties": {
+                "name": "Montecchio",
+                "article": "https://en.wikipedia.org/wiki/Montecchio"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.766666666,
+                    42.6
+                ]
+            },
+            "properties": {
+                "name": "Montefranco",
+                "article": "https://en.wikipedia.org/wiki/Montefranco"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.083333333,
+                    42.916666666
+                ]
+            },
+            "properties": {
+                "name": "Montegabbione",
+                "article": "https://en.wikipedia.org/wiki/Montegabbione"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.05,
+                    42.916666666
+                ]
+            },
+            "properties": {
+                "name": "Monteleone d'Orvieto",
+                "article": "https://en.wikipedia.org/wiki/Monteleone_d%27Orvieto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.516666666,
+                    42.516666666
+                ]
+            },
+            "properties": {
+                "name": "Narni",
+                "article": "https://en.wikipedia.org/wiki/Narni"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.483333333,
+                    42.416666666
+                ]
+            },
+            "properties": {
+                "name": "Otricoli",
+                "article": "https://en.wikipedia.org/wiki/Otricoli"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.116666666,
+                    42.866666666
+                ]
+            },
+            "properties": {
+                "name": "Parrano",
+                "article": "https://en.wikipedia.org/wiki/Parrano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.8595947,
+                    42.5831206
+                ]
+            },
+            "properties": {
+                "name": "Polino",
+                "article": "https://en.wikipedia.org/wiki/Polino"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.366666666,
+                    42.5
+                ]
+            },
+            "properties": {
+                "name": "Penna in Teverina",
+                "article": "https://en.wikipedia.org/wiki/Penna_in_Teverina"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.1,
+                    42.683333333
+                ]
+            },
+            "properties": {
+                "name": "Porano",
+                "article": "https://en.wikipedia.org/wiki/Porano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.547028531,
+                    42.61308039
+                ]
+            },
+            "properties": {
+                "name": "San Gemini",
+                "article": "https://en.wikipedia.org/wiki/San_Gemini"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.266666666,
+                    42.866666666
+                ]
+            },
+            "properties": {
+                "name": "San Venanzo",
+                "article": "https://en.wikipedia.org/wiki/San_Venanzo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.666666666,
+                    42.5
+                ]
+            },
+            "properties": {
+                "name": "Stroncone",
+                "article": "https://en.wikipedia.org/wiki/Stroncone"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.453333333,
+                    43.300277777
+                ]
+            },
+            "properties": {
+                "name": "Macerata",
+                "article": "https://en.wikipedia.org/wiki/Macerata"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.029652777,
+                    43.886466666
+                ]
+            },
+            "properties": {
+                "name": "Imperia",
+                "article": "https://en.wikipedia.org/wiki/Imperia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.481111111,
+                    44.308055555
+                ]
+            },
+            "properties": {
+                "name": "Savona",
+                "article": "https://en.wikipedia.org/wiki/Savona"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.7,
+                    45.05
+                ]
+            },
+            "properties": {
+                "name": "Piacenza",
+                "article": "https://en.wikipedia.org/wiki/Piacenza"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.619865,
+                    44.835297
+                ]
+            },
+            "properties": {
+                "name": "Ferrara",
+                "article": "https://en.wikipedia.org/wiki/Ferrara"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.633333333,
+                    44.7
+                ]
+            },
+            "properties": {
+                "name": "Reggio Emilia",
+                "article": "https://en.wikipedia.org/wiki/Reggio_Emilia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.040833333,
+                    44.2225
+                ]
+            },
+            "properties": {
+                "name": "Forlì",
+                "article": "https://en.wikipedia.org/wiki/Forl%C3%AC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.201666666,
+                    44.416111111
+                ]
+            },
+            "properties": {
+                "name": "Ravenna",
+                "article": "https://en.wikipedia.org/wiki/Ravenna"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.568333333,
+                    44.059444444
+                ]
+            },
+            "properties": {
+                "name": "Rimini",
+                "article": "https://en.wikipedia.org/wiki/Rimini"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.4,
+                    43.716666666
+                ]
+            },
+            "properties": {
+                "name": "Pisa",
+                "article": "https://en.wikipedia.org/wiki/Pisa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.1,
+                    44.083333333
+                ]
+            },
+            "properties": {
+                "name": "Carrara",
+                "article": "https://en.wikipedia.org/wiki/Carrara"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.516666666,
+                    43.85
+                ]
+            },
+            "properties": {
+                "name": "Lucca",
+                "article": "https://en.wikipedia.org/wiki/Lucca"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.096561111,
+                    43.880813888
+                ]
+            },
+            "properties": {
+                "name": "Prato",
+                "article": "https://en.wikipedia.org/wiki/Prato"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.169138888,
+                    40.352011111
+                ]
+            },
+            "properties": {
+                "name": "Lecce",
+                "article": "https://en.wikipedia.org/wiki/Lecce"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.903611111,
+                    41.467222222
+                ]
+            },
+            "properties": {
+                "name": "Latina",
+                "article": "https://en.wikipedia.org/wiki/Latina,_Lazio"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.55188,
+                    41.45845
+                ]
+            },
+            "properties": {
+                "name": "Foggia",
+                "article": "https://en.wikipedia.org/wiki/Foggia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.283333333,
+                    41.316666666
+                ]
+            },
+            "properties": {
+                "name": "Barletta",
+                "article": "https://en.wikipedia.org/wiki/Barletta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.308333333,
+                    41.231666666
+                ]
+            },
+            "properties": {
+                "name": "Andria",
+                "article": "https://en.wikipedia.org/wiki/Andria"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.243055555,
+                    40.471111111
+                ]
+            },
+            "properties": {
+                "name": "Taranto",
+                "article": "https://en.wikipedia.org/wiki/Taranto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.945833333,
+                    40.638333333
+                ]
+            },
+            "properties": {
+                "name": "Brindisi",
+                "article": "https://en.wikipedia.org/wiki/Brindisi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0959,
+                    38.675277777
+                ]
+            },
+            "properties": {
+                "name": "Vibo Valentia",
+                "article": "https://en.wikipedia.org/wiki/Vibo_Valentia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.559166666,
+                    40.726666666
+                ]
+            },
+            "properties": {
+                "name": "Sassari",
+                "article": "https://en.wikipedia.org/wiki/Sassari"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.554166666,
+                    38.193611111
+                ]
+            },
+            "properties": {
+                "name": "Messina",
+                "article": "https://en.wikipedia.org/wiki/Messina"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2875,
+                    37.069166666
+                ]
+            },
+            "properties": {
+                "name": "Syracuse",
+                "article": "https://en.wikipedia.org/wiki/Syracuse,_Sicily"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.575,
+                    37.3125
+                ]
+            },
+            "properties": {
+                "name": "Agrigento",
+                "article": "https://en.wikipedia.org/wiki/Agrigento"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.714722222,
+                    46.098055555
+                ]
+            },
+            "properties": {
+                "name": "Lake Maggiore",
+                "article": "https://en.wikipedia.org/wiki/Lake_Maggiore"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.0,
+                    46.0
+                ]
+            },
+            "properties": {
+                "name": "Lake Lugano",
+                "article": "https://en.wikipedia.org/wiki/Lake_Lugano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.835555555,
+                    45.9225
+                ]
+            },
+            "properties": {
+                "name": "Lyskamm",
+                "article": "https://en.wikipedia.org/wiki/Lyskamm"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.283416666,
+                    46.497047222
+                ]
+            },
+            "properties": {
+                "name": "Pizzo Tambò",
+                "article": "https://en.wikipedia.org/wiki/Pizzo_Tamb%C3%B2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.019166666,
+                    45.929444444
+                ]
+            },
+            "properties": {
+                "name": "Monte Generoso",
+                "article": "https://en.wikipedia.org/wiki/Monte_Generoso"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.11,
+                    46.249444444
+                ]
+            },
+            "properties": {
+                "name": "Monte Leone",
+                "article": "https://en.wikipedia.org/wiki/Monte_Leone"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.071944444,
+                    45.711666666
+                ]
+            },
+            "properties": {
+                "name": "Lake Iseo",
+                "article": "https://en.wikipedia.org/wiki/Lake_Iseo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.468433333,
+                    46.411555555
+                ]
+            },
+            "properties": {
+                "name": "Basòdino",
+                "article": "https://en.wikipedia.org/wiki/Bas%C3%B2dino"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.747222222,
+                    45.941111111
+                ]
+            },
+            "properties": {
+                "name": "Breithorn",
+                "article": "https://en.wikipedia.org/wiki/Breithorn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.993055555,
+                    46.352222222
+                ]
+            },
+            "properties": {
+                "name": "Piz Varuna",
+                "article": "https://en.wikipedia.org/wiki/Piz_Varuna"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.931111111,
+                    46.368333333
+                ]
+            },
+            "properties": {
+                "name": "Piz Zupò",
+                "article": "https://en.wikipedia.org/wiki/Piz_Zup%C3%B2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.55,
+                    40.8
+                ]
+            },
+            "properties": {
+                "name": "Poggiomarino",
+                "article": "https://en.wikipedia.org/wiki/Poggiomarino"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.053333333,
+                    45.566388888
+                ]
+            },
+            "properties": {
+                "name": "Biella",
+                "article": "https://en.wikipedia.org/wiki/Biella"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.6,
+                    41.2
+                ]
+            },
+            "properties": {
+                "name": "Molfetta",
+                "article": "https://en.wikipedia.org/wiki/Molfetta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.9,
+                    43.433333333
+                ]
+            },
+            "properties": {
+                "name": "Gorgona",
+                "article": "https://en.wikipedia.org/wiki/Gorgona_(Italy)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.1,
+                    42.25
+                ]
+            },
+            "properties": {
+                "name": "Giannutri",
+                "article": "https://en.wikipedia.org/wiki/Giannutri"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.816666666,
+                    44.383333333
+                ]
+            },
+            "properties": {
+                "name": "Mondovì",
+                "article": "https://en.wikipedia.org/wiki/Mondov%C3%AC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.869444444,
+                    45.828888888
+                ]
+            },
+            "properties": {
+                "name": "Mont Blanc de Courmayeur",
+                "article": "https://en.wikipedia.org/wiki/Mont_Blanc_de_Courmayeur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.87,
+                    45.942222222
+                ]
+            },
+            "properties": {
+                "name": "Nordend",
+                "article": "https://en.wikipedia.org/wiki/Nordend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.871388888,
+                    45.931944444
+                ]
+            },
+            "properties": {
+                "name": "Zumsteinspitze",
+                "article": "https://en.wikipedia.org/wiki/Zumsteinspitze"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.876944444,
+                    45.927222222
+                ]
+            },
+            "properties": {
+                "name": "Signalkuppe",
+                "article": "https://en.wikipedia.org/wiki/Signalkuppe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.866666666,
+                    45.816666666
+                ]
+            },
+            "properties": {
+                "name": "Picco Luigi Amedeo",
+                "article": "https://en.wikipedia.org/wiki/Pic_Luigi_Amedeo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.875833333,
+                    45.847777777
+                ]
+            },
+            "properties": {
+                "name": "Mont Maudit",
+                "article": "https://en.wikipedia.org/wiki/Mont_Maudit"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.871388888,
+                    45.919722222
+                ]
+            },
+            "properties": {
+                "name": "Parrotspitze",
+                "article": "https://en.wikipedia.org/wiki/Parrotspitze"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.86388889,
+                    45.91666667
+                ]
+            },
+            "properties": {
+                "name": "Ludwigshöhe",
+                "article": "https://en.wikipedia.org/wiki/Ludwigsh%C3%B6he_(mountain)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.862,
+                    45.9149
+                ]
+            },
+            "properties": {
+                "name": "Schwarzhorn",
+                "article": "https://en.wikipedia.org/wiki/Schwarzhorn_(Monte_Rosa_Massif)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.843333333,
+                    45.841666666
+                ]
+            },
+            "properties": {
+                "name": "Dôme du Goûter",
+                "article": "https://en.wikipedia.org/wiki/D%C3%B4me_du_Go%C3%BBter"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.88019,
+                    45.82808
+                ]
+            },
+            "properties": {
+                "name": "Grand Pilier d'Angle",
+                "article": "https://en.wikipedia.org/wiki/Grand_Pilier_d%27Angle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.793330555,
+                    45.920861111
+                ]
+            },
+            "properties": {
+                "name": "Castor",
+                "article": "https://en.wikipedia.org/wiki/Castor_(mountain)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.86209,
+                    45.9077
+                ]
+            },
+            "properties": {
+                "name": "Vincent Pyramid",
+                "article": "https://en.wikipedia.org/wiki/Vincent_Pyramid"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.983333333,
+                    45.866666666
+                ]
+            },
+            "properties": {
+                "name": "Grandes Jorasses",
+                "article": "https://en.wikipedia.org/wiki/Grandes_Jorasses"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.605083333,
+                    45.970055555
+                ]
+            },
+            "properties": {
+                "name": "Dent d'Hérens",
+                "article": "https://en.wikipedia.org/wiki/Dent_d%27H%C3%A9rens"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.882777777,
+                    45.824444444
+                ]
+            },
+            "properties": {
+                "name": "Aiguille Blanche de Peuterey",
+                "article": "https://en.wikipedia.org/wiki/Aiguille_Blanche_de_Peuterey"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.78333,
+                    45.93333
+                ]
+            },
+            "properties": {
+                "name": "Pollux",
+                "article": "https://en.wikipedia.org/wiki/Pollux_(mountain)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.865,
+                    45.8175
+                ]
+            },
+            "properties": {
+                "name": "Mont Brouillard",
+                "article": "https://en.wikipedia.org/wiki/Mont_Brouillard"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.818055555,
+                    45.835833333
+                ]
+            },
+            "properties": {
+                "name": "Aiguille de Bionnassay",
+                "article": "https://en.wikipedia.org/wiki/Aiguille_de_Bionnassay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.967639,
+                    45.86433
+                ]
+            },
+            "properties": {
+                "name": "Dôme de Rochefort",
+                "article": "https://en.wikipedia.org/wiki/D%C3%B4me_de_Rochefort"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.951666666,
+                    45.861944444
+                ]
+            },
+            "properties": {
+                "name": "Dent du Géant",
+                "article": "https://en.wikipedia.org/wiki/Dent_du_G%C3%A9ant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.86361111,
+                    45.81444444
+                ]
+            },
+            "properties": {
+                "name": "Punta Baretti",
+                "article": "https://en.wikipedia.org/wiki/Punta_Baretti"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.775,
+                    43.8175
+                ]
+            },
+            "properties": {
+                "name": "Sanremo",
+                "article": "https://en.wikipedia.org/wiki/Sanremo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.84672,
+                    36.73028
+                ]
+            },
+            "properties": {
+                "name": "Pozzallo",
+                "article": "https://en.wikipedia.org/wiki/Pozzallo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.489722,
+                    40.750556
+                ]
+            },
+            "properties": {
+                "name": "Pompeii",
+                "article": "https://en.wikipedia.org/wiki/Pompeii"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.99972222,
+                    42.22444444
+                ]
+            },
+            "properties": {
+                "name": "San Giovenale",
+                "article": "https://en.wikipedia.org/wiki/San_Giovenale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.275,
+                    42.78
+                ]
+            },
+            "properties": {
+                "name": "Elba",
+                "article": "https://en.wikipedia.org/wiki/Elba"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.79583333,
+                    45.37888889
+                ]
+            },
+            "properties": {
+                "name": "Battle of Custoza",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Custoza_(1866)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.79583333,
+                    45.37888889
+                ]
+            },
+            "properties": {
+                "name": "Battle of Custoza",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Custoza_(1848)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.703611111,
+                    40.655555555
+                ]
+            },
+            "properties": {
+                "name": "San Vito dei Normanni",
+                "article": "https://en.wikipedia.org/wiki/San_Vito_dei_Normanni"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.328611111,
+                    45.425
+                ]
+            },
+            "properties": {
+                "name": "Giudecca",
+                "article": "https://en.wikipedia.org/wiki/Giudecca"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4175,
+                    45.485555555
+                ]
+            },
+            "properties": {
+                "name": "Burano",
+                "article": "https://en.wikipedia.org/wiki/Burano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.353611111,
+                    45.4575
+                ]
+            },
+            "properties": {
+                "name": "Murano",
+                "article": "https://en.wikipedia.org/wiki/Murano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.418333333,
+                    45.498333333
+                ]
+            },
+            "properties": {
+                "name": "Torcello",
+                "article": "https://en.wikipedia.org/wiki/Torcello"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.716666666,
+                    40.733333333
+                ]
+            },
+            "properties": {
+                "name": "Avigliano",
+                "article": "https://en.wikipedia.org/wiki/Avigliano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.883333333,
+                    44.285555555
+                ]
+            },
+            "properties": {
+                "name": "Faenza",
+                "article": "https://en.wikipedia.org/wiki/Faenza"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.066666666,
+                    39.266666666
+                ]
+            },
+            "properties": {
+                "name": "Strongoli",
+                "article": "https://en.wikipedia.org/wiki/Strongoli"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.209722222,
+                    40.954722222
+                ]
+            },
+            "properties": {
+                "name": "Guardia Lombardi",
+                "article": "https://en.wikipedia.org/wiki/Guardia_Lombardi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.67179,
+                    41.16006
+                ]
+            },
+            "properties": {
+                "name": "Foglianise",
+                "article": "https://en.wikipedia.org/wiki/Foglianise"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.511,
+                    45.7745
+                ]
+            },
+            "properties": {
+                "name": "Lake Idro",
+                "article": "https://en.wikipedia.org/wiki/Lake_Idro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.402777777,
+                    45.819444444
+                ]
+            },
+            "properties": {
+                "name": "Lago di Garlate",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.4233333,
+                    45.7952778
+                ]
+            },
+            "properties": {
+                "name": "Lago di Olginate",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.349444444,
+                    45.811944444
+                ]
+            },
+            "properties": {
+                "name": "Lago di Annone",
+                "article": "https://en.wikipedia.org/wiki/Lake_Annone"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.27083,
+                    45.80194
+                ]
+            },
+            "properties": {
+                "name": "Lake of Pusiano",
+                "article": "https://en.wikipedia.org/wiki/Lake_of_Pusiano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.165,
+                    45.1975
+                ]
+            },
+            "properties": {
+                "name": "Battle of Pavia",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Pavia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3232,
+                    42.4842
+                ]
+            },
+            "properties": {
+                "name": "Battle of Lake Vadimo",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Lake_Vadimo_(310_BC)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.487,
+                    41.8891
+                ]
+            },
+            "properties": {
+                "name": "Aula regia",
+                "article": "https://en.wikipedia.org/wiki/Aula_regia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.583333333,
+                    35.516666666
+                ]
+            },
+            "properties": {
+                "name": "Lampedusa",
+                "article": "https://en.wikipedia.org/wiki/Lampedusa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.7716,
+                    42.2486
+                ]
+            },
+            "properties": {
+                "name": "Tomb of the Leopards",
+                "article": "https://en.wikipedia.org/wiki/Tomb_of_the_Leopards"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.00472222,
+                    39.09527778
+                ]
+            },
+            "properties": {
+                "name": "nuraghe  Antigori",
+                "article": "https://en.wikipedia.org/wiki/Nuraghe_Antigori"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.28861111,
+                    41.74888889
+                ]
+            },
+            "properties": {
+                "name": "Ostia Synagogue",
+                "article": "https://en.wikipedia.org/wiki/Ostia_Synagogue"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.607430555,
+                    43.4403
+                ]
+            },
+            "properties": {
+                "name": "Loreto",
+                "article": "https://en.wikipedia.org/wiki/Loreto,_Marche"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.344168,
+                    45.427752
+                ]
+            },
+            "properties": {
+                "name": "San Giorgio Maggiore",
+                "article": "https://en.wikipedia.org/wiki/San_Giorgio_Maggiore"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.183333333,
+                    41.466666666
+                ]
+            },
+            "properties": {
+                "name": "Priverno",
+                "article": "https://en.wikipedia.org/wiki/Priverno"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2233,
+                    38.804
+                ]
+            },
+            "properties": {
+                "name": "Stromboli",
+                "article": "https://en.wikipedia.org/wiki/Stromboli"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.159419,
+                    46.669555
+                ]
+            },
+            "properties": {
+                "name": "Merano",
+                "article": "https://en.wikipedia.org/wiki/Merano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.547222,
+                    41.995
+                ]
+            },
+            "properties": {
+                "name": "Battle of Asculum",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Asculum_(89_BC)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.62066,
+                    46.781725
+                ]
+            },
+            "properties": {
+                "name": "Franzensfester See",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.72583333,
+                    46.51
+                ]
+            },
+            "properties": {
+                "name": "Dënt",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.72565,
+                    46.51041
+                ]
+            },
+            "properties": {
+                "name": "Dënt",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.51208,
+                    46.34601
+                ]
+            },
+            "properties": {
+                "name": "Pala di Santa",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.513071,
+                    46.346009
+                ]
+            },
+            "properties": {
+                "name": "Pala di Santa",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.05,
+                    40.966666666
+                ]
+            },
+            "properties": {
+                "name": "Zannone",
+                "article": "https://en.wikipedia.org/wiki/Zannone"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.558407,
+                    35.510024
+                ]
+            },
+            "properties": {
+                "name": "Q152430",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.85,
+                    45.55
+                ]
+            },
+            "properties": {
+                "name": "Battle of Parabiago",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Parabiago"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.813888888,
+                    41.49
+                ]
+            },
+            "properties": {
+                "name": "Monte Cassino",
+                "article": "https://en.wikipedia.org/wiki/Monte_Cassino"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.648027777,
+                    46.123361111
+                ]
+            },
+            "properties": {
+                "name": "Gridone",
+                "article": "https://en.wikipedia.org/wiki/Gridone"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.484722222,
+                    41.892777777
+                ]
+            },
+            "properties": {
+                "name": "Arch of Septimius Severus",
+                "article": "https://en.wikipedia.org/wiki/Arch_of_Septimius_Severus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.516,
+                    42.8276
+                ]
+            },
+            "properties": {
+                "name": "Monte Labbro",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.321256,
+                    35.551815
+                ]
+            },
+            "properties": {
+                "name": "Lampione",
+                "article": "https://en.wikipedia.org/wiki/Lampione"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.689088888,
+                    45.313513888
+                ]
+            },
+            "properties": {
+                "name": "monte Rua",
+                "article": "https://en.wikipedia.org/wiki/Monte_Rua"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.305769,
+                    42.400776
+                ]
+            },
+            "properties": {
+                "name": "Amiternum",
+                "article": "https://en.wikipedia.org/wiki/Amiternum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4852,
+                    41.8922
+                ]
+            },
+            "properties": {
+                "name": "Roman Forum",
+                "article": "https://en.wikipedia.org/wiki/Roman_Forum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.189722222,
+                    46.970555555
+                ]
+            },
+            "properties": {
+                "name": "Wilder Freiger",
+                "article": "https://en.wikipedia.org/wiki/Wilder_Freiger"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.961111111,
+                    46.622222222
+                ]
+            },
+            "properties": {
+                "name": "Sas dales Diesc",
+                "article": "https://en.wikipedia.org/wiki/Sas_dles_Diesc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.735,
+                    46.741111111
+                ]
+            },
+            "properties": {
+                "name": "Saldurspitze",
+                "article": "https://en.wikipedia.org/wiki/Saldurspitze"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.73866,
+                    46.7398
+                ]
+            },
+            "properties": {
+                "name": "Saldurspitze",
+                "article": "https://en.wikipedia.org/wiki/Saldurspitze"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.1,
+                    43.14
+                ]
+            },
+            "properties": {
+                "name": "Lake Trasimeno",
+                "article": "https://en.wikipedia.org/wiki/Lake_Trasimeno"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.484166666,
+                    41.895833333
+                ]
+            },
+            "properties": {
+                "name": "Trajan's Column",
+                "article": "https://en.wikipedia.org/wiki/Trajan%27s_Column"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.486944444,
+                    41.888333333
+                ]
+            },
+            "properties": {
+                "name": "Palatine Hill",
+                "article": "https://en.wikipedia.org/wiki/Palatine_Hill"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.725557,
+                    45.03529
+                ]
+            },
+            "properties": {
+                "name": "Collegio Alberoni",
+                "article": "https://en.wikipedia.org/wiki/Collegio_Alberoni"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.725801,
+                    45.035568
+                ]
+            },
+            "properties": {
+                "name": "Collegio Alberoni",
+                "article": "https://en.wikipedia.org/wiki/Collegio_Alberoni"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.36138889,
+                    38.11583333
+                ]
+            },
+            "properties": {
+                "name": "Corso Vittorio Emanuele",
+                "article": "https://en.wikipedia.org/wiki/Cassaro,_Palermo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.316666666,
+                    42.333333333
+                ]
+            },
+            "properties": {
+                "name": "Montecristo",
+                "article": "https://en.wikipedia.org/wiki/Montecristo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.565,
+                    46.793611111
+                ]
+            },
+            "properties": {
+                "name": "Endkopf",
+                "article": "https://en.wikipedia.org/wiki/Endkopf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.56701,
+                    46.79265
+                ]
+            },
+            "properties": {
+                "name": "Endkopf",
+                "article": "https://en.wikipedia.org/wiki/Endkopf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.442777777,
+                    46.841111111
+                ]
+            },
+            "properties": {
+                "name": "Zinseler",
+                "article": "https://en.wikipedia.org/wiki/Zinseler"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.484556,
+                    41.892722
+                ]
+            },
+            "properties": {
+                "name": "Umbilicus urbis Romae",
+                "article": "https://en.wikipedia.org/wiki/Umbilicus_urbis_Romae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.085,
+                    43.1975
+                ]
+            },
+            "properties": {
+                "name": "Battle of Lake Trasimene",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Lake_Trasimene"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.9658,
+                    38.4042
+                ]
+            },
+            "properties": {
+                "name": "Vulcano",
+                "article": "https://en.wikipedia.org/wiki/Vulcano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.396666666,
+                    45.176944444
+                ]
+            },
+            "properties": {
+                "name": "Monte Arpone",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.35949,
+                    45.406193
+                ]
+            },
+            "properties": {
+                "name": "Lazzaretto Vecchio",
+                "article": "https://en.wikipedia.org/wiki/Lazzaretto_Vecchio"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.266667,
+                    41.733333
+                ]
+            },
+            "properties": {
+                "name": "Battle of Civitate",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Civitate"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.3963,
+                    45.8098
+                ]
+            },
+            "properties": {
+                "name": "Lake Orta",
+                "article": "https://en.wikipedia.org/wiki/Lake_Orta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.511,
+                    45.7745
+                ]
+            },
+            "properties": {
+                "name": "Lake Idro",
+                "article": "https://en.wikipedia.org/wiki/Lake_Idro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.402777777,
+                    45.819444444
+                ]
+            },
+            "properties": {
+                "name": "Lago di Garlate",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.4233333,
+                    45.7952778
+                ]
+            },
+            "properties": {
+                "name": "Lago di Olginate",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.349444444,
+                    45.811944444
+                ]
+            },
+            "properties": {
+                "name": "Lago di Annone",
+                "article": "https://en.wikipedia.org/wiki/Lake_Annone"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.27083,
+                    45.80194
+                ]
+            },
+            "properties": {
+                "name": "Lake of Pusiano",
+                "article": "https://en.wikipedia.org/wiki/Lake_of_Pusiano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.165,
+                    45.1975
+                ]
+            },
+            "properties": {
+                "name": "Battle of Pavia",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Pavia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4857,
+                    41.8859
+                ]
+            },
+            "properties": {
+                "name": "Circus Maximus",
+                "article": "https://en.wikipedia.org/wiki/Circus_Maximus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.083333333,
+                    42.583333333
+                ]
+            },
+            "properties": {
+                "name": "Pianosa",
+                "article": "https://en.wikipedia.org/wiki/Pianosa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.48555556,
+                    41.89444444
+                ]
+            },
+            "properties": {
+                "name": "Imperial fora",
+                "article": "https://en.wikipedia.org/wiki/Imperial_fora"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.3,
+                    43.933333333
+                ]
+            },
+            "properties": {
+                "name": "Camaiore",
+                "article": "https://en.wikipedia.org/wiki/Camaiore"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.985341,
+                    46.538171
+                ]
+            },
+            "properties": {
+                "name": "Zoggler See",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.493696,
+                    39.716564
+                ]
+            },
+            "properties": {
+                "name": "Sybaris",
+                "article": "https://en.wikipedia.org/wiki/Sybaris"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.30917,
+                    39.99
+                ]
+            },
+            "properties": {
+                "name": "Mal di Ventre",
+                "article": "https://en.wikipedia.org/wiki/Mal_di_Ventre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.9471,
+                    44.40685
+                ]
+            },
+            "properties": {
+                "name": "Genova Brignole railway station",
+                "article": "https://en.wikipedia.org/wiki/Genova_Brignole_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.89916667,
+                    46.18
+                ]
+            },
+            "properties": {
+                "name": "Cima Brenta",
+                "article": "https://en.wikipedia.org/wiki/Cima_Brenta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.95996,
+                    42.56855
+                ]
+            },
+            "properties": {
+                "name": "Leonessa",
+                "article": "https://en.wikipedia.org/wiki/Leonessa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4094,
+                    45.4922
+                ]
+            },
+            "properties": {
+                "name": "Isola dei Laghi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.35,
+                    45.383333333
+                ]
+            },
+            "properties": {
+                "name": "Lido di Venezia",
+                "article": "https://en.wikipedia.org/wiki/Venice_Lido"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.722056,
+                    46.503509
+                ]
+            },
+            "properties": {
+                "name": "Zufrittsee",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.781944444,
+                    46.502222222
+                ]
+            },
+            "properties": {
+                "name": "Zufrittspitze",
+                "article": "https://en.wikipedia.org/wiki/Zufrittspitze"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.52805556,
+                    45.86333333
+                ]
+            },
+            "properties": {
+                "name": "Second Battle of the Isonzo",
+                "article": "https://en.wikipedia.org/wiki/Second_Battle_of_the_Isonzo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.25,
+                    41.0833333
+                ]
+            },
+            "properties": {
+                "name": "Battle of Capua",
+                "article": "https://en.wikipedia.org/wiki/Siege_of_Capua_(211_BC)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6333333,
+                    41.3166667
+                ]
+            },
+            "properties": {
+                "name": "Battle of Herdonia",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Herdonia_(210_BC)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5275,
+                    40.9261111
+                ]
+            },
+            "properties": {
+                "name": "Battle of Nola",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Nola_(215_BC)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.213016666,
+                    44.049113888
+                ]
+            },
+            "properties": {
+                "name": "Albenga",
+                "article": "https://en.wikipedia.org/wiki/Albenga"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6425,
+                    46.214444444
+                ]
+            },
+            "properties": {
+                "name": "Battle of Caporetto",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Caporetto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.053611,
+                    40.848611
+                ]
+            },
+            "properties": {
+                "name": "Cumae",
+                "article": "https://en.wikipedia.org/wiki/Cumae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.053611,
+                    40.848611
+                ]
+            },
+            "properties": {
+                "name": "Cumae",
+                "article": "https://en.wikipedia.org/wiki/Cumae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.359444444,
+                    46.619166666
+                ]
+            },
+            "properties": {
+                "name": "Zwölferkofel",
+                "article": "https://en.wikipedia.org/wiki/Zw%C3%B6lferkofel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.1483,
+                    36.6869
+                ]
+            },
+            "properties": {
+                "name": "Isola di Capo Passero",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.286057,
+                    41.754044
+                ]
+            },
+            "properties": {
+                "name": "House of Cupid and Psyche",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.015277777,
+                    44.156111111
+                ]
+            },
+            "properties": {
+                "name": "Monte Galero",
+                "article": "https://en.wikipedia.org/wiki/Monte_Galero"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.2625,
+                    46.3775
+                ]
+            },
+            "properties": {
+                "name": "Kalterer See",
+                "article": "https://en.wikipedia.org/wiki/Kalterer_See"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.9998843,
+                    39.7028565
+                ]
+            },
+            "properties": {
+                "name": "Su Nuraxi di Barumini",
+                "article": "https://en.wikipedia.org/wiki/Su_Nuraxi_(Barumini)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.25502,
+                    40.84428
+                ]
+            },
+            "properties": {
+                "name": "Church of Sant'Aspreno al Porto",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.452166666,
+                    46.531888888
+                ]
+            },
+            "properties": {
+                "name": "Piz da las Trais Linguas",
+                "article": "https://en.wikipedia.org/wiki/Piz_da_las_Trais_Linguas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.698888888,
+                    46.7975
+                ]
+            },
+            "properties": {
+                "name": "Äußerer Bärenbartkogel",
+                "article": "https://en.wikipedia.org/wiki/%C3%84u%C3%9Ferer_B%C3%A4renbartkogel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.69924,
+                    46.80018
+                ]
+            },
+            "properties": {
+                "name": "Äußerer Bärenbartkogel",
+                "article": "https://en.wikipedia.org/wiki/%C3%84u%C3%9Ferer_B%C3%A4renbartkogel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.072331111,
+                    45.808946111
+                ]
+            },
+            "properties": {
+                "name": "Como San Giovanni railway station",
+                "article": "https://en.wikipedia.org/wiki/Como_San_Giovanni_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.699722222,
+                    45.954166666
+                ]
+            },
+            "properties": {
+                "name": "Furgghorn",
+                "article": "https://en.wikipedia.org/wiki/Furgghorn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.575555555,
+                    46.515
+                ]
+            },
+            "properties": {
+                "name": "Schlern",
+                "article": "https://en.wikipedia.org/wiki/Schlern"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.31667,
+                    44.45
+                ]
+            },
+            "properties": {
+                "name": "First Battle of Dego",
+                "article": "https://en.wikipedia.org/wiki/First_Battle_of_Dego"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.6,
+                    45.05
+                ]
+            },
+            "properties": {
+                "name": "Battle of the Trebia",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_the_Trebia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.775278,
+                    41.941944
+                ]
+            },
+            "properties": {
+                "name": "Hadrian's Villa",
+                "article": "https://en.wikipedia.org/wiki/Hadrian%27s_Villa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.683333333,
+                    44.883333333
+                ]
+            },
+            "properties": {
+                "name": "Battle of Marengo",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Marengo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.480973,
+                    41.887846
+                ]
+            },
+            "properties": {
+                "name": "Aqua Appia",
+                "article": "https://en.wikipedia.org/wiki/Aqua_Appia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4169,
+                    45.4731
+                ]
+            },
+            "properties": {
+                "name": "San Francesco del Deserto",
+                "article": "https://en.wikipedia.org/wiki/San_Francesco_del_Deserto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.501666666,
+                    41.901666666
+                ]
+            },
+            "properties": {
+                "name": "Servian Wall",
+                "article": "https://en.wikipedia.org/wiki/Servian_Wall"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.8667,
+                    40.85
+                ]
+            },
+            "properties": {
+                "name": "Terminio",
+                "article": "https://en.wikipedia.org/wiki/Terminio"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.25,
+                    40.83333333
+                ]
+            },
+            "properties": {
+                "name": "Via dei Tribunali",
+                "article": "https://en.wikipedia.org/wiki/Via_dei_Tribunali,_Naples"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.25873,
+                    40.85146
+                ]
+            },
+            "properties": {
+                "name": "Via dei Tribunali",
+                "article": "https://en.wikipedia.org/wiki/Via_dei_Tribunali,_Naples"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.773333333,
+                    41.134166666
+                ]
+            },
+            "properties": {
+                "name": "Battle of Benevento",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Benevento"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.908611111,
+                    45.603333333
+                ]
+            },
+            "properties": {
+                "name": "Battle of Legnano",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Legnano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.486666666,
+                    41.891388888
+                ]
+            },
+            "properties": {
+                "name": "House of the Vestals",
+                "article": "https://en.wikipedia.org/wiki/House_of_the_Vestals"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.50552778,
+                    41.85891389
+                ]
+            },
+            "properties": {
+                "name": "Catacombs of Domitilla",
+                "article": "https://en.wikipedia.org/wiki/Catacombs_of_Domitilla"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.19,
+                    47.091
+                ]
+            },
+            "properties": {
+                "name": "Östliches Zwillingsköpfl",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.60009,
+                    40.96049
+                ]
+            },
+            "properties": {
+                "name": "Abella",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.83123,
+                    40.92212
+                ]
+            },
+            "properties": {
+                "name": "Abellinum",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5228,
+                    37.9055
+                ]
+            },
+            "properties": {
+                "name": "Q318899",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.901442,
+                    44.827922
+                ]
+            },
+            "properties": {
+                "name": "Fossoli concentration camp",
+                "article": "https://en.wikipedia.org/wiki/Fossoli_camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.902777777,
+                    44.828333333
+                ]
+            },
+            "properties": {
+                "name": "Fossoli concentration camp",
+                "article": "https://en.wikipedia.org/wiki/Fossoli_camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.566388888,
+                    45.367222222
+                ]
+            },
+            "properties": {
+                "name": "Battle of Solferino",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Solferino"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.50888889,
+                    45.90194444
+                ]
+            },
+            "properties": {
+                "name": "Battle of Asiago",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Asiago"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.849613,
+                    42.839771
+                ]
+            },
+            "properties": {
+                "name": "Lago di San Casciano",
+                "article": "https://en.wikipedia.org/wiki/Lago_di_San_Casciano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.520555555,
+                    45.900555555
+                ]
+            },
+            "properties": {
+                "name": "Isola dei Pescatori",
+                "article": "https://en.wikipedia.org/wiki/Isola_dei_Pescatori"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.005555555,
+                    40.42
+                ]
+            },
+            "properties": {
+                "name": "Paestum",
+                "article": "https://en.wikipedia.org/wiki/Paestum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.782073,
+                    45.222466
+                ]
+            },
+            "properties": {
+                "name": "Fruttuaria",
+                "article": "https://en.wikipedia.org/wiki/Abbey_of_Fruttuaria"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.813888888,
+                    41.49
+                ]
+            },
+            "properties": {
+                "name": "Battle of Monte Cassino",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Monte_Cassino"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.487397,
+                    41.891997
+                ]
+            },
+            "properties": {
+                "name": "Temple of Romulus",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.210972222,
+                    46.061888888
+                ]
+            },
+            "properties": {
+                "name": "Monte Grona",
+                "article": "https://en.wikipedia.org/wiki/Monte_Grona"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.09944444,
+                    45.71611111
+                ]
+            },
+            "properties": {
+                "name": "Cantù-Cermenate railway stop",
+                "article": "https://en.wikipedia.org/wiki/Cant%C3%B9-Cermenate_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.93333,
+                    44.4067
+                ]
+            },
+            "properties": {
+                "name": "Battle of Genoa",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Genoa_(1795)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.46884,
+                    46.84776
+                ]
+            },
+            "properties": {
+                "name": "Piz Lad",
+                "article": "https://en.wikipedia.org/wiki/Piz_Lad"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.466944444,
+                    41.935555555
+                ]
+            },
+            "properties": {
+                "name": "Battle of the Milvian Bridge",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_the_Milvian_Bridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.10722222,
+                    45.69722222
+                ]
+            },
+            "properties": {
+                "name": "Carimate railway station",
+                "article": "https://en.wikipedia.org/wiki/Carimate_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.496388888,
+                    46.156
+                ]
+            },
+            "properties": {
+                "name": "Mount Adamello",
+                "article": "https://en.wikipedia.org/wiki/Mount_Adamello"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.35306389,
+                    38.18640833
+                ]
+            },
+            "properties": {
+                "name": "Grotta dell'Addaura",
+                "article": "https://en.wikipedia.org/wiki/Grotta_dell%27Addaura"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.199444444,
+                    44.417777777
+                ]
+            },
+            "properties": {
+                "name": "Siege of Ravenna",
+                "article": "https://en.wikipedia.org/wiki/Siege_of_Ravenna_(490%E2%80%93493)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.71564,
+                    46.5143
+                ]
+            },
+            "properties": {
+                "name": "Sas Plat",
+                "article": "https://en.wikipedia.org/wiki/Plattkofel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.712222222,
+                    46.516388888
+                ]
+            },
+            "properties": {
+                "name": "Sas Plat",
+                "article": "https://en.wikipedia.org/wiki/Plattkofel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.2838,
+                    43.4725
+                ]
+            },
+            "properties": {
+                "name": "Tumulo di Montecalvario",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.88055556,
+                    46.04694444
+                ]
+            },
+            "properties": {
+                "name": "Monte Aga",
+                "article": "https://en.wikipedia.org/wiki/Monte_Aga"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.488333333,
+                    41.891944444
+                ]
+            },
+            "properties": {
+                "name": "Basilica of Maxentius",
+                "article": "https://en.wikipedia.org/wiki/Basilica_of_Maxentius"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.840138888,
+                    46.362444444
+                ]
+            },
+            "properties": {
+                "name": "Piz Glüschaint",
+                "article": "https://en.wikipedia.org/wiki/Piz_Gl%C3%BCschaint"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.505,
+                    47.001944
+                ]
+            },
+            "properties": {
+                "name": "Brenner railway station",
+                "article": "https://en.wikipedia.org/wiki/Brenner_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.682877,
+                    45.061279
+                ]
+            },
+            "properties": {
+                "name": "Corso Vittorio Emanuele II",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.9975,
+                    46.52041
+                ]
+            },
+            "properties": {
+                "name": "Sass de Stria",
+                "article": "https://en.wikipedia.org/wiki/Sass_de_Stria"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.996944444,
+                    46.521111111
+                ]
+            },
+            "properties": {
+                "name": "Sass de Stria",
+                "article": "https://en.wikipedia.org/wiki/Sass_de_Stria"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0767,
+                    40.4094
+                ]
+            },
+            "properties": {
+                "name": "Trepuzzi railway station",
+                "article": "https://en.wikipedia.org/wiki/Trepuzzi_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.32027778,
+                    43.80111111
+                ]
+            },
+            "properties": {
+                "name": "Monte Carpegna",
+                "article": "https://en.wikipedia.org/wiki/Monte_Carpegna"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.866666666,
+                    45.25
+                ]
+            },
+            "properties": {
+                "name": "Battle of Ticinus",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Ticinus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.35,
+                    38.1667
+                ]
+            },
+            "properties": {
+                "name": "Battle of Mount Erice",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.318055555,
+                    46.668611111
+                ]
+            },
+            "properties": {
+                "name": "Dreischusterspitze",
+                "article": "https://en.wikipedia.org/wiki/Dreischusterspitze"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.321666666,
+                    46.671111111
+                ]
+            },
+            "properties": {
+                "name": "Dreischusterspitze",
+                "article": "https://en.wikipedia.org/wiki/Dreischusterspitze"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.010536,
+                    41.054035
+                ]
+            },
+            "properties": {
+                "name": "Aeculanum",
+                "article": "https://en.wikipedia.org/wiki/Aeclanum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.008757,
+                    42.380104
+                ]
+            },
+            "properties": {
+                "name": "Aquae Cutiliae",
+                "article": "https://en.wikipedia.org/wiki/Aquae_Cutiliae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.48456,
+                    41.88961
+                ]
+            },
+            "properties": {
+                "name": "Temple of Cybele",
+                "article": "https://en.wikipedia.org/wiki/Temple_of_Cybele_(Palatine)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.868888888,
+                    46.162222222
+                ]
+            },
+            "properties": {
+                "name": "Crozzon di Brenta",
+                "article": "https://en.wikipedia.org/wiki/Crozzon_di_Brenta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0775,
+                    36.6456
+                ]
+            },
+            "properties": {
+                "name": "Correnti",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.95,
+                    43.016667
+                ]
+            },
+            "properties": {
+                "name": "Second Battle of Clusium",
+                "article": "https://en.wikipedia.org/wiki/Second_Battle_of_Clusium"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.324166666,
+                    39.988055555
+                ]
+            },
+            "properties": {
+                "name": "Punta La Marmora",
+                "article": "https://en.wikipedia.org/wiki/Punta_La_Marmora"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.5976,
+                    44.4072
+                ]
+            },
+            "properties": {
+                "name": "Castel San Pietro Terme railway station",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.14,
+                    45.09
+                ]
+            },
+            "properties": {
+                "name": "First battle of Bedriacum",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.45,
+                    45.13333333
+                ]
+            },
+            "properties": {
+                "name": "First battle of Bedriacum",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.25,
+                    44.1167
+                ]
+            },
+            "properties": {
+                "name": "Battle of Loano",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Loano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.929,
+                    41.9121
+                ]
+            },
+            "properties": {
+                "name": "Monte Guadagnolo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.2911,
+                    41.7564
+                ]
+            },
+            "properties": {
+                "name": "Piazzale delle Corporazioni",
+                "article": "https://en.wikipedia.org/wiki/Piazzale_delle_Corporazioni"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.244444444,
+                    46.965833333
+                ]
+            },
+            "properties": {
+                "name": "Agglsspitze",
+                "article": "https://en.wikipedia.org/wiki/Agglsspitze"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.083333,
+                    44.5
+                ]
+            },
+            "properties": {
+                "name": "Battle of Zappolino",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Zappolino"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.893611111,
+                    45.815
+                ]
+            },
+            "properties": {
+                "name": "Aiguille Noire de Peuterey",
+                "article": "https://en.wikipedia.org/wiki/Aiguille_Noire_de_Peuterey"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.95944444,
+                    45.86194444
+                ]
+            },
+            "properties": {
+                "name": "Aiguille de Rochefort",
+                "article": "https://en.wikipedia.org/wiki/Aiguille_de_Rochefort"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.024338888,
+                    45.916358333
+                ]
+            },
+            "properties": {
+                "name": "Aiguille de Triolet",
+                "article": "https://en.wikipedia.org/wiki/Aiguille_de_Triolet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.34056,
+                    44.169
+                ]
+            },
+            "properties": {
+                "name": "Finale Ligure Marina railway station",
+                "article": "https://en.wikipedia.org/wiki/Finale_Ligure_Marina_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.4,
+                    46.638611111
+                ]
+            },
+            "properties": {
+                "name": "Piz Terza",
+                "article": "https://en.wikipedia.org/wiki/Piz_Terza"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.484611111,
+                    41.892638888
+                ]
+            },
+            "properties": {
+                "name": "rostra",
+                "article": "https://en.wikipedia.org/wiki/Rostra"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.914722222,
+                    46.773333333
+                ]
+            },
+            "properties": {
+                "name": "Hintere Schwärze",
+                "article": "https://en.wikipedia.org/wiki/Hintere_Schw%C3%A4rze"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.25,
+                    41.0833333
+                ]
+            },
+            "properties": {
+                "name": "Battle of Capua",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Capua"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.56584,
+                    42.45916
+                ]
+            },
+            "properties": {
+                "name": "Monte Aquila",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.2,
+                    44.3667
+                ]
+            },
+            "properties": {
+                "name": "Battle of Millesimo",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Millesimo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.151530555,
+                    45.978783333
+                ]
+            },
+            "properties": {
+                "name": "Monte Negrino",
+                "article": "https://en.wikipedia.org/wiki/Monte_Negrino"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.97,
+                    46.49
+                ]
+            },
+            "properties": {
+                "name": "Col di Lana",
+                "article": "https://en.wikipedia.org/wiki/Col_di_Lana"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6399,
+                    42.4474
+                ]
+            },
+            "properties": {
+                "name": "Monte Brancastello",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.479444444,
+                    41.899722222
+                ]
+            },
+            "properties": {
+                "name": "Temple of Hadrian",
+                "article": "https://en.wikipedia.org/wiki/Temple_of_Hadrian"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.080277777,
+                    40.829444444
+                ]
+            },
+            "properties": {
+                "name": "Lucrinus Lacus",
+                "article": "https://en.wikipedia.org/wiki/Lucrinus_Lacus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.39888889,
+                    45.54638889
+                ]
+            },
+            "properties": {
+                "name": "Altinum",
+                "article": "https://en.wikipedia.org/wiki/Altinum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.085,
+                    46.693611111
+                ]
+            },
+            "properties": {
+                "name": "Pragser Wildsee",
+                "article": "https://en.wikipedia.org/wiki/Pragser_Wildsee"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.185281,
+                    46.672679
+                ]
+            },
+            "properties": {
+                "name": "Dürrenstein",
+                "article": "https://en.wikipedia.org/wiki/D%C3%BCrrenstein_(South_Tyrol)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.072777777,
+                    46.675222222
+                ]
+            },
+            "properties": {
+                "name": "Seekofel",
+                "article": "https://en.wikipedia.org/wiki/Seekofel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.931,
+                    43.707
+                ]
+            },
+            "properties": {
+                "name": "La Verna",
+                "article": "https://en.wikipedia.org/wiki/La_Verna"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.005611111,
+                    40.42
+                ]
+            },
+            "properties": {
+                "name": "Second Temple of Hera in Paestum",
+                "article": "https://en.wikipedia.org/wiki/Second_Temple_of_Hera_(Paestum)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.782222,
+                    46.793611
+                ]
+            },
+            "properties": {
+                "name": "Im Hinteren Eis",
+                "article": "https://en.wikipedia.org/wiki/Im_Hinteren_Eis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.255491666,
+                    46.693252777
+                ]
+            },
+            "properties": {
+                "name": "Ifinger",
+                "article": "https://en.wikipedia.org/wiki/Ifinger"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.624369444,
+                    42.88775
+                ]
+            },
+            "properties": {
+                "name": "Mount Amiata",
+                "article": "https://en.wikipedia.org/wiki/Monte_Amiata"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.672222222,
+                    40.741666666
+                ]
+            },
+            "properties": {
+                "name": "Nuceria",
+                "article": "https://en.wikipedia.org/wiki/Nuceria_Alfaterna"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.25,
+                    41.08611111
+                ]
+            },
+            "properties": {
+                "name": "Roman amphitheatre of Santa Maria Capua Vetere",
+                "article": "https://en.wikipedia.org/wiki/Amphitheatre_of_Capua"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.515,
+                    41.8875
+                ]
+            },
+            "properties": {
+                "name": "Amphitheatrum Castrense",
+                "article": "https://en.wikipedia.org/wiki/Amphitheatrum_Castrense"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.510719,
+                    41.896963
+                ]
+            },
+            "properties": {
+                "name": "Aqua Julia",
+                "article": "https://en.wikipedia.org/wiki/Aqua_Julia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.233,
+                    40.47377778
+                ]
+            },
+            "properties": {
+                "name": "Temple of Poseidon",
+                "article": "https://en.wikipedia.org/wiki/Temple_of_Poseidon_(Taranto)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.422222222,
+                    46.658611111
+                ]
+            },
+            "properties": {
+                "name": "Villanderer Berg",
+                "article": "https://en.wikipedia.org/wiki/Villanderer_Berg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.45575,
+                    45.50777778
+                ]
+            },
+            "properties": {
+                "name": "Santa Cristina",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.23333333,
+                    37.15
+                ]
+            },
+            "properties": {
+                "name": "Thapsos",
+                "article": "https://en.wikipedia.org/wiki/Thapsos"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.486194,
+                    41.895611
+                ]
+            },
+            "properties": {
+                "name": "Trajan's Market",
+                "article": "https://en.wikipedia.org/wiki/Trajan%27s_Market"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.524444444,
+                    46.495833333
+                ]
+            },
+            "properties": {
+                "name": "Thurwieserspitze",
+                "article": "https://en.wikipedia.org/wiki/Thurwieserspitze"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4253,
+                    37.9889
+                ]
+            },
+            "properties": {
+                "name": "Formica",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.216702777,
+                    46.438541666
+                ]
+            },
+            "properties": {
+                "name": "Penegal",
+                "article": "https://en.wikipedia.org/wiki/Penegal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.86272,
+                    35.85918
+                ]
+            },
+            "properties": {
+                "name": "Linosa",
+                "article": "https://en.wikipedia.org/wiki/Linosa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.066666666,
+                    37.966666666
+                ]
+            },
+            "properties": {
+                "name": "Marettimo",
+                "article": "https://en.wikipedia.org/wiki/Marettimo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.333333333,
+                    38.0
+                ]
+            },
+            "properties": {
+                "name": "Levanzo",
+                "article": "https://en.wikipedia.org/wiki/Levanzo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.07861111,
+                    36.83555556
+                ]
+            },
+            "properties": {
+                "name": "Villa Romana del Tellaro",
+                "article": "https://en.wikipedia.org/wiki/Villa_Romana_del_Tellaro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.065194,
+                    36.892445
+                ]
+            },
+            "properties": {
+                "name": "Villa Romana del Tellaro",
+                "article": "https://en.wikipedia.org/wiki/Villa_Romana_del_Tellaro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.650833333,
+                    46.4725
+                ]
+            },
+            "properties": {
+                "name": "Kesselkogel",
+                "article": "https://en.wikipedia.org/wiki/Kesselkogel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.20923,
+                    46.494965
+                ]
+            },
+            "properties": {
+                "name": "Gantkofel",
+                "article": "https://en.wikipedia.org/wiki/Gantkofel_(Mendelkamm)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.95,
+                    38.46666667
+                ]
+            },
+            "properties": {
+                "name": "Lipari",
+                "article": "https://en.wikipedia.org/wiki/Lipari_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3872,
+                    46.715
+                ]
+            },
+            "properties": {
+                "name": "Helm",
+                "article": "https://en.wikipedia.org/wiki/Helm_(mountain)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.6,
+                    46.16667
+                ]
+            },
+            "properties": {
+                "name": "Cima d’Asta",
+                "article": "https://en.wikipedia.org/wiki/Cima_d%27Asta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.492764,
+                    41.880264
+                ]
+            },
+            "properties": {
+                "name": "Baths of Caracalla",
+                "article": "https://en.wikipedia.org/wiki/Baths_of_Caracalla"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.168055555,
+                    45.755277777
+                ]
+            },
+            "properties": {
+                "name": "Monte Guglielmo",
+                "article": "https://en.wikipedia.org/wiki/Monte_Guglielmo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.334553,
+                    37.364723
+                ]
+            },
+            "properties": {
+                "name": "Villa Romana del Casale",
+                "article": "https://en.wikipedia.org/wiki/Villa_Romana_del_Casale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.838888888,
+                    38.564722222
+                ]
+            },
+            "properties": {
+                "name": "Salina",
+                "article": "https://en.wikipedia.org/wiki/Salina,_Sicily"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.331,
+                    44.167
+                ]
+            },
+            "properties": {
+                "name": "Lago del Chiotas",
+                "article": "https://en.wikipedia.org/wiki/Lago_del_Chiotas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.8314,
+                    37.0778
+                ]
+            },
+            "properties": {
+                "name": "Casmene",
+                "article": "https://en.wikipedia.org/wiki/Casmenae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5,
+                    45.96667
+                ]
+            },
+            "properties": {
+                "name": "Battle of Sacile",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Sacile"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.635556,
+                    40.948333
+                ]
+            },
+            "properties": {
+                "name": "Monte Vulture",
+                "article": "https://en.wikipedia.org/wiki/Monte_Vulture"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.4104,
+                    44.4198
+                ]
+            },
+            "properties": {
+                "name": "Pietra di Bismantova",
+                "article": "https://en.wikipedia.org/wiki/Pietra_di_Bismantova"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.746111111,
+                    41.879166666
+                ]
+            },
+            "properties": {
+                "name": "Lago di Varano",
+                "article": "https://en.wikipedia.org/wiki/Lago_di_Varano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.053611,
+                    40.848611
+                ]
+            },
+            "properties": {
+                "name": "Battle of Mount Gaurus",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Mount_Gaurus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3248,
+                    45.4438
+                ]
+            },
+            "properties": {
+                "name": "Palazzo Priuli Manfrin",
+                "article": "https://en.wikipedia.org/wiki/Palazzo_Priuli_Manfrin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.76961,
+                    45.6027
+                ]
+            },
+            "properties": {
+                "name": "Donnaz railway station",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.476997,
+                    41.896906
+                ]
+            },
+            "properties": {
+                "name": "Baths of Agrippa",
+                "article": "https://en.wikipedia.org/wiki/Baths_of_Agrippa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.23204,
+                    45.48245
+                ]
+            },
+            "properties": {
+                "name": "Venezia Mestre railway station",
+                "article": "https://en.wikipedia.org/wiki/Venezia_Mestre_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.53576,
+                    46.04498
+                ]
+            },
+            "properties": {
+                "name": "Monte Zeda",
+                "article": "https://en.wikipedia.org/wiki/Monte_Zeda"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.484722222,
+                    41.892777777
+                ]
+            },
+            "properties": {
+                "name": "Basilica Aemilia",
+                "article": "https://en.wikipedia.org/wiki/Basilica_Aemilia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.49311,
+                    41.88795
+                ]
+            },
+            "properties": {
+                "name": "Temple of Claudius",
+                "article": "https://en.wikipedia.org/wiki/Temple_of_Claudius"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.22,
+                    45.3289
+                ]
+            },
+            "properties": {
+                "name": "Uia di Mondrone",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.6625,
+                    43.064166666
+                ]
+            },
+            "properties": {
+                "name": "Monte Subasio",
+                "article": "https://en.wikipedia.org/wiki/Monte_Subasio"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.78178,
+                    46.992455
+                ]
+            },
+            "properties": {
+                "name": "Großer Möseler",
+                "article": "https://en.wikipedia.org/wiki/Gro%C3%9Fer_M%C3%B6seler"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.492222222,
+                    46.615277777
+                ]
+            },
+            "properties": {
+                "name": "Piz Chavalatsch",
+                "article": "https://en.wikipedia.org/wiki/Piz_Chavalatsch"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4869,
+                    41.8885
+                ]
+            },
+            "properties": {
+                "name": "Flavian Palace",
+                "article": "https://en.wikipedia.org/wiki/Flavian_Palace"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.86865,
+                    42.22767
+                ]
+            },
+            "properties": {
+                "name": "Trebula Mutuesca",
+                "article": "https://en.wikipedia.org/wiki/Trebula_Mutusca"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.23694,
+                    38.21694
+                ]
+            },
+            "properties": {
+                "name": "Battle of Milazzo",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Milazzo_(1860)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.7748,
+                    39.8735
+                ]
+            },
+            "properties": {
+                "name": "Dino, Calabria",
+                "article": "https://en.wikipedia.org/wiki/Dino,_Calabria"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.39486111,
+                    45.13719444
+                ]
+            },
+            "properties": {
+                "name": "Battle of Carpi",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Carpi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.51667,
+                    45.5333
+                ]
+            },
+            "properties": {
+                "name": "Battle of Cassano",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Cassano_(1705)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.3994,
+                    43.1556
+                ]
+            },
+            "properties": {
+                "name": "Poggio Civitate",
+                "article": "https://en.wikipedia.org/wiki/Poggio_Civitate"
+            }
+        }
+    ]
+}

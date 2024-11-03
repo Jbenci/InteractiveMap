@@ -1,0 +1,1405 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.583333333,
+                    -1.633333333
+                ]
+            },
+            "properties": {
+                "name": "Franceville",
+                "article": "https://en.wikipedia.org/wiki/Franceville"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.783333333,
+                    -0.716666666
+                ]
+            },
+            "properties": {
+                "name": "Port-Gentil",
+                "article": "https://en.wikipedia.org/wiki/Port-Gentil"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.8633,
+                    -1.6472
+                ]
+            },
+            "properties": {
+                "name": "Bongoville",
+                "article": "https://en.wikipedia.org/wiki/Bongoville"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.483333333,
+                    -1.133333333
+                ]
+            },
+            "properties": {
+                "name": "Koulamoutou",
+                "article": "https://en.wikipedia.org/wiki/Koulamoutou"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.933333333,
+                    -0.1
+                ]
+            },
+            "properties": {
+                "name": "Booué",
+                "article": "https://en.wikipedia.org/wiki/Boou%C3%A9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.133333333,
+                    2.15
+                ]
+            },
+            "properties": {
+                "name": "Minvoul",
+                "article": "https://en.wikipedia.org/wiki/Minvoul"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.6,
+                    -1.216666666
+                ]
+            },
+            "properties": {
+                "name": "Fougamou",
+                "article": "https://en.wikipedia.org/wiki/Fougamou"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.010888888,
+                    -1.826444444
+                ]
+            },
+            "properties": {
+                "name": "Bakoumba",
+                "article": "https://en.wikipedia.org/wiki/Bakoumba"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.166666666,
+                    -1.433333333
+                ]
+            },
+            "properties": {
+                "name": "Mounana",
+                "article": "https://en.wikipedia.org/wiki/Mounana"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.731016666,
+                    -0.8103
+                ]
+            },
+            "properties": {
+                "name": "Lastoursville",
+                "article": "https://en.wikipedia.org/wiki/Lastoursville"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.020555555,
+                    -1.674722222
+                ]
+            },
+            "properties": {
+                "name": "Mont Iboundji",
+                "article": "https://en.wikipedia.org/wiki/Mont_Iboundji"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.35813,
+                    -2.40077
+                ]
+            },
+            "properties": {
+                "name": "Ndendé",
+                "article": "https://en.wikipedia.org/wiki/Ndend%C3%A9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.358888888,
+                    -2.401388888
+                ]
+            },
+            "properties": {
+                "name": "Ndendé",
+                "article": "https://en.wikipedia.org/wiki/Ndend%C3%A9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.65,
+                    -3.416666666
+                ]
+            },
+            "properties": {
+                "name": "Mayumba",
+                "article": "https://en.wikipedia.org/wiki/Mayumba,_Gabon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.453888888,
+                    1.983055555
+                ]
+            },
+            "properties": {
+                "name": "Akok",
+                "article": "https://en.wikipedia.org/wiki/Akok"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.0,
+                    -2.58333333
+                ]
+            },
+            "properties": {
+                "name": "Lagune Ndogo",
+                "article": "https://en.wikipedia.org/wiki/Ndogo_Lagoon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.983333333,
+                    -0.7
+                ]
+            },
+            "properties": {
+                "name": "Nkan",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.566667,
+                    0.783333
+                ]
+            },
+            "properties": {
+                "name": "Mitzic",
+                "article": "https://en.wikipedia.org/wiki/Mitzic"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.683333333,
+                    0.95
+                ]
+            },
+            "properties": {
+                "name": "Mont Bengoué",
+                "article": "https://en.wikipedia.org/wiki/Mont_Bengou%C3%A9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.6833,
+                    -3.45
+                ]
+            },
+            "properties": {
+                "name": "Lagune Banio",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.20833,
+                    -1.51433
+                ]
+            },
+            "properties": {
+                "name": "Fernan Vaz Lagoon",
+                "article": "https://en.wikipedia.org/wiki/Fernan_Vaz_Lagoon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.42905,
+                    -1.59239
+                ]
+            },
+            "properties": {
+                "name": "Fernan Vaz Lagoon",
+                "article": "https://en.wikipedia.org/wiki/Fernan_Vaz_Lagoon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.378939,
+                    0.810309
+                ]
+            },
+            "properties": {
+                "name": "Mbanie",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.383333333,
+                    0.816666666
+                ]
+            },
+            "properties": {
+                "name": "Mbanie",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.933333333,
+                    -1.883333333
+                ]
+            },
+            "properties": {
+                "name": "Mbigou",
+                "article": "https://en.wikipedia.org/wiki/Mbigou"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.783333333,
+                    0.95
+                ]
+            },
+            "properties": {
+                "name": "Médouneu",
+                "article": "https://en.wikipedia.org/wiki/M%C3%A9douneu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.61,
+                    -1.62
+                ]
+            },
+            "properties": {
+                "name": "Mimongo",
+                "article": "https://en.wikipedia.org/wiki/Mimongo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.883333333,
+                    -1.183333333
+                ]
+            },
+            "properties": {
+                "name": "Akiéni",
+                "article": "https://en.wikipedia.org/wiki/Aki%C3%A9ni"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.233333333,
+                    -1.583333333
+                ]
+            },
+            "properties": {
+                "name": "Lekoni",
+                "article": "https://en.wikipedia.org/wiki/L%C3%A9koni,_Gabon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.2,
+                    -1.56666667
+                ]
+            },
+            "properties": {
+                "name": "Moanda Railway Station",
+                "article": "https://en.wikipedia.org/wiki/Moanda_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.5,
+                    -2.13333333
+                ]
+            },
+            "properties": {
+                "name": "Mougambi",
+                "article": "https://en.wikipedia.org/wiki/Mougambi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.76333333,
+                    -1.6475
+                ]
+            },
+            "properties": {
+                "name": "Mount Mimongo",
+                "article": "https://en.wikipedia.org/wiki/Mount_Mimongo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.4756,
+                    -2.21006
+                ]
+            },
+            "properties": {
+                "name": "Lebamba",
+                "article": "https://en.wikipedia.org/wiki/L%C3%A9bamba"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.5,
+                    -2.2
+                ]
+            },
+            "properties": {
+                "name": "Lebamba",
+                "article": "https://en.wikipedia.org/wiki/L%C3%A9bamba"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.177086,
+                    -3.750779
+                ]
+            },
+            "properties": {
+                "name": "Ndindi",
+                "article": "https://en.wikipedia.org/wiki/Ndindi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.45277778,
+                    0.39888889
+                ]
+            },
+            "properties": {
+                "name": "Mont-Bouët",
+                "article": "https://en.wikipedia.org/wiki/Mont-Bou%C3%ABt"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.0324,
+                    -1.6783
+                ]
+            },
+            "properties": {
+                "name": "Mont Milondo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.51049,
+                    0.20956
+                ]
+            },
+            "properties": {
+                "name": "Q24565050",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.076944444,
+                    -2.809722222
+                ]
+            },
+            "properties": {
+                "name": "Lagune Radinga",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.28333,
+                    -1.68333
+                ]
+            },
+            "properties": {
+                "name": "Rendyego",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.316666666,
+                    -1.65
+                ]
+            },
+            "properties": {
+                "name": "Q24608383",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.9336,
+                    -3.378
+                ]
+            },
+            "properties": {
+                "name": "Q24608380",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.596944444,
+                    -0.601111111
+                ]
+            },
+            "properties": {
+                "name": "Q24608387",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.0,
+                    -0.816666666
+                ]
+            },
+            "properties": {
+                "name": "Sapania",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.85,
+                    0.133333333
+                ]
+            },
+            "properties": {
+                "name": "Q24608394",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.861388888,
+                    -3.406666666
+                ]
+            },
+            "properties": {
+                "name": "Q24608393",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.750555555,
+                    -2.446666666
+                ]
+            },
+            "properties": {
+                "name": "Lagune Simba",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.450555555,
+                    -1.581111111
+                ]
+            },
+            "properties": {
+                "name": "Q24608396",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.283333333,
+                    -1.866666666
+                ]
+            },
+            "properties": {
+                "name": "Q24608397",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.033333333,
+                    0.166666666
+                ]
+            },
+            "properties": {
+                "name": "Q24608405",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.571666666,
+                    0.523611111
+                ]
+            },
+            "properties": {
+                "name": "Q24608408",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.8,
+                    1.0
+                ]
+            },
+            "properties": {
+                "name": "Q24608412",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.6067,
+                    -0.1267
+                ]
+            },
+            "properties": {
+                "name": "Mont Mboungoue",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.971944444,
+                    -2.584722222
+                ]
+            },
+            "properties": {
+                "name": "Mifouma",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.9625,
+                    -0.098888888
+                ]
+            },
+            "properties": {
+                "name": "Q24621684",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.9,
+                    -0.4
+                ]
+            },
+            "properties": {
+                "name": "Q24608422",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.666666666,
+                    -3.383333333
+                ]
+            },
+            "properties": {
+                "name": "Q24608430",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.1683,
+                    1.5158
+                ]
+            },
+            "properties": {
+                "name": "Mont Tit",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.291111111,
+                    -1.314444444
+                ]
+            },
+            "properties": {
+                "name": "Mont Tsetsi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.629,
+                    -2.7191
+                ]
+            },
+            "properties": {
+                "name": "Mont Tsibou",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.216666666,
+                    -1.816666666
+                ]
+            },
+            "properties": {
+                "name": "Pic Vianga",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.979444444,
+                    -2.746666666
+                ]
+            },
+            "properties": {
+                "name": "Lagune Vevy",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.517222222,
+                    -3.398055555
+                ]
+            },
+            "properties": {
+                "name": "Q24608461",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.559722222,
+                    -0.125277777
+                ]
+            },
+            "properties": {
+                "name": "Mont Yindo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.718055555,
+                    -1.174444444
+                ]
+            },
+            "properties": {
+                "name": "Mont Youngo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.28,
+                    -0.676388888
+                ]
+            },
+            "properties": {
+                "name": "Lac Zilé",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.556666666,
+                    -0.37
+                ]
+            },
+            "properties": {
+                "name": "Lac Ngoleu",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.455833333,
+                    -1.918888888
+                ]
+            },
+            "properties": {
+                "name": "Lagune Iguéla",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.083333333,
+                    -0.883333333
+                ]
+            },
+            "properties": {
+                "name": "Lac Ngoua",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3556,
+                    -1.884
+                ]
+            },
+            "properties": {
+                "name": "Mont Nguengue",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.315555555,
+                    -1.071944444
+                ]
+            },
+            "properties": {
+                "name": "Ngubout",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.088888888,
+                    -3.905833333
+                ]
+            },
+            "properties": {
+                "name": "Lagune Niabessa",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.3734,
+                    -1.89073
+                ]
+            },
+            "properties": {
+                "name": "Nimbe",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.869166666,
+                    -0.998888888
+                ]
+            },
+            "properties": {
+                "name": "Lac Nguilombé",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.6001,
+                    -1.5682
+                ]
+            },
+            "properties": {
+                "name": "Mont Nimi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.944722222,
+                    0.186944444
+                ]
+            },
+            "properties": {
+                "name": "Q24611546",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.133333333,
+                    0.133333333
+                ]
+            },
+            "properties": {
+                "name": "Q24611544",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.2,
+                    0.1
+                ]
+            },
+            "properties": {
+                "name": "Mont Nkam",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.0975,
+                    -0.690555555
+                ]
+            },
+            "properties": {
+                "name": "Q24611548",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.233333333,
+                    0.966666666
+                ]
+            },
+            "properties": {
+                "name": "Nkan Menogo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.516666666,
+                    0.616666666
+                ]
+            },
+            "properties": {
+                "name": "Nkolaayolo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.003888888,
+                    -0.812222222
+                ]
+            },
+            "properties": {
+                "name": "Lac Nkénié",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.933333333,
+                    -0.571666666
+                ]
+            },
+            "properties": {
+                "name": "Lac Nkonié",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.8,
+                    -0.1
+                ]
+            },
+            "properties": {
+                "name": "Q24611567",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.226666666,
+                    -1.053888888
+                ]
+            },
+            "properties": {
+                "name": "Q24611564",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.75,
+                    -0.65
+                ]
+            },
+            "properties": {
+                "name": "Mont Noire",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.370277777,
+                    -3.498611111
+                ]
+            },
+            "properties": {
+                "name": "Q24611574",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.3675,
+                    -1.092777777
+                ]
+            },
+            "properties": {
+                "name": "Nwarongoe",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.803888888,
+                    -0.655833333
+                ]
+            },
+            "properties": {
+                "name": "Lac Ntchonié",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.85,
+                    -0.866666666
+                ]
+            },
+            "properties": {
+                "name": "Lacs Nyondjé",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.768333333,
+                    -0.821666666
+                ]
+            },
+            "properties": {
+                "name": "Lac Nyayé",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.925277777,
+                    -0.8675
+                ]
+            },
+            "properties": {
+                "name": "Lac Nyondjé d'Amont",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.829166666,
+                    -0.877222222
+                ]
+            },
+            "properties": {
+                "name": "Lac Nyondjé d'Aval",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.535,
+                    -1.5833
+                ]
+            },
+            "properties": {
+                "name": "Mont Oboudji",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.6825,
+                    -0.972777777
+                ]
+            },
+            "properties": {
+                "name": "Lac Ogognié",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.050833333,
+                    -1.074722222
+                ]
+            },
+            "properties": {
+                "name": "Lac Ogemoué",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.969444444,
+                    -0.579444444
+                ]
+            },
+            "properties": {
+                "name": "Lac Ogonbié",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.019722222,
+                    -1.239444444
+                ]
+            },
+            "properties": {
+                "name": "Golfe d'Olindé",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.5352,
+                    1.2978
+                ]
+            },
+            "properties": {
+                "name": "Mont Olong",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.07001,
+                    -0.95707
+                ]
+            },
+            "properties": {
+                "name": "Lac Onangué",
+                "article": null
+            }
+        }
+    ]
+}

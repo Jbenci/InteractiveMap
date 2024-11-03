@@ -1,0 +1,1209 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    176.416666666,
+                    -6.333333333
+                ]
+            },
+            "properties": {
+                "name": "Nanumanga",
+                "article": "https://en.wikipedia.org/wiki/Nanumanga"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    177.341388888,
+                    -6.108333333
+                ]
+            },
+            "properties": {
+                "name": "Niutao",
+                "article": "https://en.wikipedia.org/wiki/Niutao"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    179.5,
+                    -10.75
+                ]
+            },
+            "properties": {
+                "name": "Niulakita",
+                "article": "https://en.wikipedia.org/wiki/Niulakita"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    179.07073,
+                    -8.59781
+                ]
+            },
+            "properties": {
+                "name": "Tefala",
+                "article": "https://en.wikipedia.org/wiki/Tefala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    179.083,
+                    -8.6
+                ]
+            },
+            "properties": {
+                "name": "Tefala",
+                "article": "https://en.wikipedia.org/wiki/Tefala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    179.083333333,
+                    -8.6
+                ]
+            },
+            "properties": {
+                "name": "Tefala",
+                "article": "https://en.wikipedia.org/wiki/Tefala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    179.0802,
+                    -8.4627
+                ]
+            },
+            "properties": {
+                "name": "Tepuka",
+                "article": "https://en.wikipedia.org/wiki/Tepuka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    176.114597222,
+                    -5.660611111
+                ]
+            },
+            "properties": {
+                "name": "Temotufoliki",
+                "article": "https://en.wikipedia.org/wiki/Temotufoliki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    176.116666666,
+                    -5.683333333
+                ]
+            },
+            "properties": {
+                "name": "Nanumea",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    176.12822,
+                    -5.68556
+                ]
+            },
+            "properties": {
+                "name": "Nanumea",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    179.10186,
+                    -8.62834
+                ]
+            },
+            "properties": {
+                "name": "Funafala",
+                "article": "https://en.wikipedia.org/wiki/Funafala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    179.1016,
+                    -8.6281
+                ]
+            },
+            "properties": {
+                "name": "Funafala",
+                "article": "https://en.wikipedia.org/wiki/Funafala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    177.147222222,
+                    -7.245833333
+                ]
+            },
+            "properties": {
+                "name": "Fenua Tapu",
+                "article": "https://en.wikipedia.org/wiki/Fenua_Tapu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    179.05,
+                    -8.516666666
+                ]
+            },
+            "properties": {
+                "name": "Fuafatu",
+                "article": "https://en.wikipedia.org/wiki/Fuafatu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    178.316666666,
+                    -8.033333333
+                ]
+            },
+            "properties": {
+                "name": "Savave",
+                "article": "https://en.wikipedia.org/wiki/Savave"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    179.1224,
+                    -8.4274
+                ]
+            },
+            "properties": {
+                "name": "Fualefeke",
+                "article": "https://en.wikipedia.org/wiki/Fualefeke"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    179.1,
+                    -8.433333333
+                ]
+            },
+            "properties": {
+                "name": "Te Afualiku",
+                "article": "https://en.wikipedia.org/wiki/Te_Afualiku"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    179.116666666,
+                    -8.6
+                ]
+            },
+            "properties": {
+                "name": "Mateika",
+                "article": "https://en.wikipedia.org/wiki/Mateika"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    179.083333333,
+                    -8.583333333
+                ]
+            },
+            "properties": {
+                "name": "Fuagea",
+                "article": "https://en.wikipedia.org/wiki/Fuagea"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    179.0984,
+                    -8.6339
+                ]
+            },
+            "properties": {
+                "name": "Telele",
+                "article": "https://en.wikipedia.org/wiki/Telele"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    177.162777777,
+                    -7.229166666
+                ]
+            },
+            "properties": {
+                "name": "Unimai",
+                "article": "https://en.wikipedia.org/wiki/Unimai"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    177.1625,
+                    -7.224444444
+                ]
+            },
+            "properties": {
+                "name": "Piliaieve",
+                "article": "https://en.wikipedia.org/wiki/Piliaieve"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    178.3855,
+                    -7.9343
+                ]
+            },
+            "properties": {
+                "name": "Matanukulaelae",
+                "article": "https://en.wikipedia.org/wiki/Matanukulaelae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    178.4244,
+                    -7.9855
+                ]
+            },
+            "properties": {
+                "name": "Faiava Lasi",
+                "article": "https://en.wikipedia.org/wiki/Faiava_Lasi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    177.147777777,
+                    -7.197222222
+                ]
+            },
+            "properties": {
+                "name": "Meang",
+                "article": "https://en.wikipedia.org/wiki/Meang"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    177.164444444,
+                    -7.240277777
+                ]
+            },
+            "properties": {
+                "name": "Motupuakaka",
+                "article": "https://en.wikipedia.org/wiki/Motupuakaka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    178.4356,
+                    -7.9719
+                ]
+            },
+            "properties": {
+                "name": "Lafanga",
+                "article": "https://en.wikipedia.org/wiki/Lafanga"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    178.3771,
+                    -8.0647
+                ]
+            },
+            "properties": {
+                "name": "Motulalo",
+                "article": "https://en.wikipedia.org/wiki/Motulalo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    178.3,
+                    -8.033333333
+                ]
+            },
+            "properties": {
+                "name": "Fale",
+                "article": "https://en.wikipedia.org/wiki/Fale,_Tuvalu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    179.171666666,
+                    -8.437777777
+                ]
+            },
+            "properties": {
+                "name": "Amatuku",
+                "article": "https://en.wikipedia.org/wiki/Amatuku"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    179.0748,
+                    -8.6396
+                ]
+            },
+            "properties": {
+                "name": "Avalau",
+                "article": "https://en.wikipedia.org/wiki/Avalau"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    179.066666666,
+                    -8.566666666
+                ]
+            },
+            "properties": {
+                "name": "Vasafua",
+                "article": "https://en.wikipedia.org/wiki/Vasafua"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    179.079,
+                    -8.6251
+                ]
+            },
+            "properties": {
+                "name": "Falaoigo",
+                "article": "https://en.wikipedia.org/wiki/Falaoigo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    179.115,
+                    -8.5825
+                ]
+            },
+            "properties": {
+                "name": "Fale Fatu",
+                "article": "https://en.wikipedia.org/wiki/Fale_Fatu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    179.183333333,
+                    -8.55
+                ]
+            },
+            "properties": {
+                "name": "Fatato",
+                "article": "https://en.wikipedia.org/wiki/Fatato"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    179.066666666,
+                    -8.483333333
+                ]
+            },
+            "properties": {
+                "name": "Fualopa",
+                "article": "https://en.wikipedia.org/wiki/Fualopa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    179.15,
+                    -8.566666666
+                ]
+            },
+            "properties": {
+                "name": "Funamanu",
+                "article": "https://en.wikipedia.org/wiki/Funamanu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    178.383333333,
+                    -7.933333333
+                ]
+            },
+            "properties": {
+                "name": "Funaota",
+                "article": "https://en.wikipedia.org/wiki/Funaota"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    178.6939,
+                    -7.4804
+                ]
+            },
+            "properties": {
+                "name": "Isles of Mosana",
+                "article": "https://en.wikipedia.org/wiki/Isles_of_Mosana"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    178.4225,
+                    -7.9893
+                ]
+            },
+            "properties": {
+                "name": "Kongo Loto Lafanga",
+                "article": "https://en.wikipedia.org/wiki/Kongo_Loto_Lafanga"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    176.1008,
+                    -5.6638
+                ]
+            },
+            "properties": {
+                "name": "Lefogaki",
+                "article": "https://en.wikipedia.org/wiki/Lefogaki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    179.0991,
+                    -8.6095
+                ]
+            },
+            "properties": {
+                "name": "Luamotu",
+                "article": "https://en.wikipedia.org/wiki/Luamotu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    178.6971,
+                    -7.485
+                ]
+            },
+            "properties": {
+                "name": "Luasamotu",
+                "article": "https://en.wikipedia.org/wiki/Luasamotu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    179.080880555,
+                    -8.6426
+                ]
+            },
+            "properties": {
+                "name": "Motugie",
+                "article": "https://en.wikipedia.org/wiki/Motugie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    178.4083,
+                    -8.005
+                ]
+            },
+            "properties": {
+                "name": "Motufetau",
+                "article": "https://en.wikipedia.org/wiki/Motufetau"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    178.4223,
+                    -7.9531
+                ]
+            },
+            "properties": {
+                "name": "Motuloa",
+                "article": "https://en.wikipedia.org/wiki/Motuloa_(north_of_Nukufetau)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    178.402,
+                    -8.0113
+                ]
+            },
+            "properties": {
+                "name": "Motuloa",
+                "article": "https://en.wikipedia.org/wiki/Motuloa_(south_of_Nukufetau)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    179.0867,
+                    -8.6412
+                ]
+            },
+            "properties": {
+                "name": "Motuloa",
+                "article": "https://en.wikipedia.org/wiki/Motuloa_(Funafuti)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    178.6789,
+                    -7.4687
+                ]
+            },
+            "properties": {
+                "name": "Motutanifa",
+                "article": "https://en.wikipedia.org/wiki/Motutanifa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    178.4282,
+                    -7.9583
+                ]
+            },
+            "properties": {
+                "name": "Niuatui",
+                "article": "https://en.wikipedia.org/wiki/Niuatui"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    179.2,
+                    -8.516666666
+                ]
+            },
+            "properties": {
+                "name": "Nukusavalevale",
+                "article": "https://en.wikipedia.org/wiki/Nukusavalevale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    178.4294,
+                    -7.9603
+                ]
+            },
+            "properties": {
+                "name": "Oua",
+                "article": "https://en.wikipedia.org/wiki/Oua"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    179.1465,
+                    -8.5578
+                ]
+            },
+            "properties": {
+                "name": "Papa Elise",
+                "article": "https://en.wikipedia.org/wiki/Papa_Elise"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    177.163888888,
+                    -7.236111111
+                ]
+            },
+            "properties": {
+                "name": "Pongalei",
+                "article": "https://en.wikipedia.org/wiki/Pongalei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    179.2,
+                    -8.516666666
+                ]
+            },
+            "properties": {
+                "name": "Pukasavilivili",
+                "article": "https://en.wikipedia.org/wiki/Pukasavilivili"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    178.3487,
+                    -7.9902
+                ]
+            },
+            "properties": {
+                "name": "Sakalua",
+                "article": "https://en.wikipedia.org/wiki/Sakalua"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    177.161944444,
+                    -7.213888888
+                ]
+            },
+            "properties": {
+                "name": "Talalolae",
+                "article": "https://en.wikipedia.org/wiki/Talalolae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    179.0742,
+                    -8.6372
+                ]
+            },
+            "properties": {
+                "name": "Te Afuafou",
+                "article": "https://en.wikipedia.org/wiki/Te_Afuafou"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    178.697,
+                    -7.4824
+                ]
+            },
+            "properties": {
+                "name": "Te Motu Olepa",
+                "article": "https://en.wikipedia.org/wiki/Te_Motu_Olepa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    178.4248,
+                    -7.9553
+                ]
+            },
+            "properties": {
+                "name": "Teafuaniua",
+                "article": "https://en.wikipedia.org/wiki/Teafuaniua"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    178.3483,
+                    -7.9567
+                ]
+            },
+            "properties": {
+                "name": "Teafatule",
+                "article": "https://en.wikipedia.org/wiki/Teafatule"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    178.3397,
+                    -7.9887
+                ]
+            },
+            "properties": {
+                "name": "Teafuone",
+                "article": "https://en.wikipedia.org/wiki/Teafuone"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    178.4197,
+                    -7.9516
+                ]
+            },
+            "properties": {
+                "name": "Teafuanonu",
+                "article": "https://en.wikipedia.org/wiki/Teafuanonu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    178.333333333,
+                    -7.983333333
+                ]
+            },
+            "properties": {
+                "name": "Teafuaono",
+                "article": "https://en.wikipedia.org/wiki/Teafuaono"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    176.1041,
+                    -5.659
+                ]
+            },
+            "properties": {
+                "name": "Teatua a Taepoa",
+                "article": "https://en.wikipedia.org/wiki/Teatua_a_Taepoa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    178.3199,
+                    -8.0353
+                ]
+            },
+            "properties": {
+                "name": "Temotuloto",
+                "article": "https://en.wikipedia.org/wiki/Temotuloto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    179.1853,
+                    -8.4622
+                ]
+            },
+            "properties": {
+                "name": "Tengako",
+                "article": "https://en.wikipedia.org/wiki/Tengako"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    179.18545,
+                    -8.46242
+                ]
+            },
+            "properties": {
+                "name": "Tengako",
+                "article": "https://en.wikipedia.org/wiki/Tengako"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    179.0758,
+                    -8.633
+                ]
+            },
+            "properties": {
+                "name": "Tengasu",
+                "article": "https://en.wikipedia.org/wiki/Tengasu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    179.083333333,
+                    -8.466666666
+                ]
+            },
+            "properties": {
+                "name": "Tepuka Vili Vili",
+                "article": "https://en.wikipedia.org/wiki/Tepuka_Vili_Vili"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    178.6818,
+                    -7.478
+                ]
+            },
+            "properties": {
+                "name": "Tofia",
+                "article": "https://en.wikipedia.org/wiki/Tofia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    177.155555555,
+                    -7.201388888
+                ]
+            },
+            "properties": {
+                "name": "Tokinivae",
+                "article": "https://en.wikipedia.org/wiki/Tokinivae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    179.0782,
+                    -8.6275
+                ]
+            },
+            "properties": {
+                "name": "Tutanga",
+                "article": "https://en.wikipedia.org/wiki/Tutanga"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    178.316666666,
+                    -8.033333333
+                ]
+            },
+            "properties": {
+                "name": "Motumua",
+                "article": "https://en.wikipedia.org/wiki/Motumua"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    179.167222222,
+                    -8.434166666
+                ]
+            },
+            "properties": {
+                "name": "Mulitefala",
+                "article": "https://en.wikipedia.org/wiki/Mulitefala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    178.4295,
+                    -7.9792
+                ]
+            },
+            "properties": {
+                "name": "Niualuka",
+                "article": "https://en.wikipedia.org/wiki/Niualuka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    177.1625,
+                    -7.221111111
+                ]
+            },
+            "properties": {
+                "name": "Pakantou",
+                "article": "https://en.wikipedia.org/wiki/Pakantou"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    179.146666666,
+                    -8.557777777
+                ]
+            },
+            "properties": {
+                "name": "Funagogo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    178.667,
+                    -7.45
+                ]
+            },
+            "properties": {
+                "name": "Temotu",
+                "article": "https://en.wikipedia.org/wiki/Temotu,_Tuvalu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    177.148,
+                    -7.19722
+                ]
+            },
+            "properties": {
+                "name": "Telikiai",
+                "article": "https://en.wikipedia.org/wiki/Telikiai"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    179.117361111,
+                    -8.504777777
+                ]
+            },
+            "properties": {
+                "name": "Funafuti",
+                "article": "https://en.wikipedia.org/wiki/Funafuti"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    179.07428,
+                    -8.63722
+                ]
+            },
+            "properties": {
+                "name": "Teafuafou",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    179.85278,
+                    -9.427
+                ]
+            },
+            "properties": {
+                "name": "Aula",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    179.852833333,
+                    -9.427055555
+                ]
+            },
+            "properties": {
+                "name": "Aula",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    179.11646,
+                    -8.42734
+                ]
+            },
+            "properties": {
+                "name": "Paava",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    179.201944444,
+                    -8.520555555
+                ]
+            },
+            "properties": {
+                "name": "Tafua Pond",
+                "article": null
+            }
+        }
+    ]
+}

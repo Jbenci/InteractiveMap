@@ -1,0 +1,607 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.61,
+                    25.18
+                ]
+            },
+            "properties": {
+                "name": "Al Wakrah",
+                "article": "https://en.wikipedia.org/wiki/Al_Wakrah"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.5075,
+                    25.4175
+                ]
+            },
+            "properties": {
+                "name": "Lusail",
+                "article": "https://en.wikipedia.org/wiki/Lusail"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.184444444,
+                    24.946111111
+                ]
+            },
+            "properties": {
+                "name": "Qurayn Abu al Bawl",
+                "article": "https://en.wikipedia.org/wiki/Qurayn_Abu_al_Bawl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.0272187,
+                    25.9833949
+                ]
+            },
+            "properties": {
+                "name": "Zubarah",
+                "article": "https://en.wikipedia.org/wiki/Zubarah"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.216666666,
+                    26.133333333
+                ]
+            },
+            "properties": {
+                "name": "Ar Ru'ays",
+                "article": "https://en.wikipedia.org/wiki/Ar-Ru%CA%BCays"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.20472222,
+                    25.37222222
+                ]
+            },
+            "properties": {
+                "name": "Al-Shahaniya",
+                "article": "https://en.wikipedia.org/wiki/Al-Shahaniya_(city)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.3975,
+                    25.46972222
+                ]
+            },
+            "properties": {
+                "name": "Umm Salal Ali",
+                "article": "https://en.wikipedia.org/wiki/Umm_Salal_Ali"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    50.955555555,
+                    26.261111111
+                ]
+            },
+            "properties": {
+                "name": "Q12230827",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    52.408333333,
+                    25.672222222
+                ]
+            },
+            "properties": {
+                "name": "Halul Island",
+                "article": "https://en.wikipedia.org/wiki/Halul_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.2478,
+                    25.83
+                ]
+            },
+            "properties": {
+                "name": "Al Ghuwariyah",
+                "article": "https://en.wikipedia.org/wiki/Al_Ghuwariyah"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    50.808888888,
+                    25.369444444
+                ]
+            },
+            "properties": {
+                "name": "Al Da'asa",
+                "article": "https://en.wikipedia.org/wiki/Al_Da%27asa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.5489,
+                    25.6928
+                ]
+            },
+            "properties": {
+                "name": "Al Khor Islands",
+                "article": "https://en.wikipedia.org/wiki/Al_Khor_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.019597,
+                    25.859714
+                ]
+            },
+            "properties": {
+                "name": "Murwab",
+                "article": "https://en.wikipedia.org/wiki/Murwab"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.425,
+                    25.4
+                ]
+            },
+            "properties": {
+                "name": "Al Kharaitiyat",
+                "article": "https://en.wikipedia.org/wiki/Al_Kharaitiyat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.21666667,
+                    26.11666667
+                ]
+            },
+            "properties": {
+                "name": "Al Shamal",
+                "article": "https://en.wikipedia.org/wiki/Madinat_ash_Shamal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.02,
+                    25.94
+                ]
+            },
+            "properties": {
+                "name": "Wadi Debayan",
+                "article": "https://en.wikipedia.org/wiki/Wadi_Debayan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.88361,
+                    25.69722
+                ]
+            },
+            "properties": {
+                "name": "Al Jazīrah",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.577777777,
+                    25.346388888
+                ]
+            },
+            "properties": {
+                "name": "Al Jazīrah as Sāfilīyah",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.535277777,
+                    25.601111111
+                ]
+            },
+            "properties": {
+                "name": "Ḩālat Wabīr",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    52.41096,
+                    25.67325
+                ]
+            },
+            "properties": {
+                "name": "Ḩālūl",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    50.97531,
+                    24.69434
+                ]
+            },
+            "properties": {
+                "name": "Q49627635",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    50.923611111,
+                    25.618055555
+                ]
+            },
+            "properties": {
+                "name": "Q49644310",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.551944444,
+                    25.632777777
+                ]
+            },
+            "properties": {
+                "name": "Q49644311",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.61167,
+                    24.74972
+                ]
+            },
+            "properties": {
+                "name": "Q49644314",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.62,
+                    24.967777777
+                ]
+            },
+            "properties": {
+                "name": "Q49644317",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.084722222,
+                    26.077222222
+                ]
+            },
+            "properties": {
+                "name": "Q49644320",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.486944444,
+                    25.535277777
+                ]
+            },
+            "properties": {
+                "name": "Q49644325",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.566666666,
+                    25.406666666
+                ]
+            },
+            "properties": {
+                "name": "Q49644330",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.5275,
+                    25.305
+                ]
+            },
+            "properties": {
+                "name": "Q49644334",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    50.816666666,
+                    25.65
+                ]
+            },
+            "properties": {
+                "name": "Q49644347",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    50.735,
+                    25.558611111
+                ]
+            },
+            "properties": {
+                "name": "Jinan Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    50.75,
+                    25.766666666
+                ]
+            },
+            "properties": {
+                "name": "Q49644368",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.233333333,
+                    26.15
+                ]
+            },
+            "properties": {
+                "name": "Q49644377",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.220555555,
+                    26.177222222
+                ]
+            },
+            "properties": {
+                "name": "Q49644380",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.274722222,
+                    26.153888888
+                ]
+            },
+            "properties": {
+                "name": "Q49644410",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.143284,
+                    26.079098
+                ]
+            },
+            "properties": {
+                "name": "Ruwayda",
+                "article": "https://en.wikipedia.org/wiki/Ruwayda"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    50.990465,
+                    25.817443
+                ]
+            },
+            "properties": {
+                "name": "Umm Al Maa",
+                "article": "https://en.wikipedia.org/wiki/Umm_Al_Maa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.64528,
+                    25.29801
+                ]
+            },
+            "properties": {
+                "name": "Banana Island",
+                "article": "https://en.wikipedia.org/wiki/Banana_Island_(Qatar)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.535759,
+                    25.324409
+                ]
+            },
+            "properties": {
+                "name": "Al Jazeera Tower",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.535812,
+                    25.324429
+                ]
+            },
+            "properties": {
+                "name": "Al Jazeera Tower",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.35215,
+                    24.487961
+                ]
+            },
+            "properties": {
+                "name": "Al Jazeera Tower",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.50612,
+                    25.41756
+                ]
+            },
+            "properties": {
+                "name": "Lusail Plaza Towers",
+                "article": "https://en.wikipedia.org/wiki/Lusail_Plaza_Towers"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    50.84466,
+                    25.48993
+                ]
+            },
+            "properties": {
+                "name": "Zekreet Fort",
+                "article": null
+            }
+        }
+    ]
+}

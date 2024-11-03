@@ -1,0 +1,817 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.166666666,
+                    46.25
+                ]
+            },
+            "properties": {
+                "name": "Szeged",
+                "article": "https://en.wikipedia.org/wiki/Szeged"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.783333333,
+                    48.1
+                ]
+            },
+            "properties": {
+                "name": "Miskolc",
+                "article": "https://en.wikipedia.org/wiki/Miskolc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.41888889,
+                    48.07166667
+                ]
+            },
+            "properties": {
+                "name": "Istállós-kői Cave",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.416666666,
+                    47.2
+                ]
+            },
+            "properties": {
+                "name": "Székesfehérvár",
+                "article": "https://en.wikipedia.org/wiki/Sz%C3%A9kesfeh%C3%A9rv%C3%A1r"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.040833333,
+                    47.498333333
+                ]
+            },
+            "properties": {
+                "name": "Siege of Budapest",
+                "article": "https://en.wikipedia.org/wiki/Siege_of_Budapest"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.21666667,
+                    46.94166667
+                ]
+            },
+            "properties": {
+                "name": "Battle of Saint Gotthard",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Saint_Gotthard_(1664)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.716666666,
+                    47.95
+                ]
+            },
+            "properties": {
+                "name": "Nyíregyháza",
+                "article": "https://en.wikipedia.org/wiki/Ny%C3%ADregyh%C3%A1za"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.06236111,
+                    47.53933611
+                ]
+            },
+            "properties": {
+                "name": "Transaquincum",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.647222222,
+                    45.941388888
+                ]
+            },
+            "properties": {
+                "name": "Battle of Mohács",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Moh%C3%A1cs"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.383333333,
+                    46.183333333
+                ]
+            },
+            "properties": {
+                "name": "Zengő",
+                "article": "https://en.wikipedia.org/wiki/Zeng%C5%91"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.05,
+                    47.466666666
+                ]
+            },
+            "properties": {
+                "name": "Buda",
+                "article": "https://en.wikipedia.org/wiki/Buda"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.1706,
+                    47.4465
+                ]
+            },
+            "properties": {
+                "name": "Üllői út",
+                "article": "https://en.wikipedia.org/wiki/%C3%9Cll%C5%91i_%C3%BAt"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.097572,
+                    47.510428
+                ]
+            },
+            "properties": {
+                "name": "Thököly út",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.86472222,
+                    47.76916667
+                ]
+            },
+            "properties": {
+                "name": "Abapuszta",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.865380555,
+                    47.11895
+                ]
+            },
+            "properties": {
+                "name": "Adony",
+                "article": "https://en.wikipedia.org/wiki/Adony"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.004444444,
+                    47.373055555
+                ]
+            },
+            "properties": {
+                "name": "Lakihegy Tower",
+                "article": "https://en.wikipedia.org/wiki/Lakihegy_Tower"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.23027778,
+                    47.73666667
+                ]
+            },
+            "properties": {
+                "name": "Battle of the Leitha River",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_the_Leitha_River"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.18416667,
+                    47.48083333
+                ]
+            },
+            "properties": {
+                "name": "Mortuary of the Kozma Street Jewish Cemetery",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.189083333,
+                    47.387638888
+                ]
+            },
+            "properties": {
+                "name": "Battle of Mór",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_M%C3%B3r"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.140344,
+                    46.093247
+                ]
+            },
+            "properties": {
+                "name": "Jakab-hegy",
+                "article": "https://en.wikipedia.org/wiki/Jakab-hegy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0575,
+                    47.510833333
+                ]
+            },
+            "properties": {
+                "name": "Budapest-Nyugati railway station",
+                "article": "https://en.wikipedia.org/wiki/Budapest_Nyugati_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.074197,
+                    47.489659
+                ]
+            },
+            "properties": {
+                "name": "Baross Street (Budapest District VIII)",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1481,
+                    47.9125
+                ]
+            },
+            "properties": {
+                "name": "Hegyeshalom railway station",
+                "article": "https://en.wikipedia.org/wiki/Hegyeshalom_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.066512,
+                    47.499457
+                ]
+            },
+            "properties": {
+                "name": "Akácfa utca",
+                "article": "https://en.wikipedia.org/wiki/Ak%C3%A1cfa_utca"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.08805556,
+                    47.51444444
+                ]
+            },
+            "properties": {
+                "name": "Petőfi Csarnok",
+                "article": "https://en.wikipedia.org/wiki/Pet%C5%91fi_Csarnok"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.134444444,
+                    47.690555555
+                ]
+            },
+            "properties": {
+                "name": "Göd",
+                "article": "https://en.wikipedia.org/wiki/G%C3%B6d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.796944444,
+                    46.050833333
+                ]
+            },
+            "properties": {
+                "name": "Siege of Szigetvár",
+                "article": "https://en.wikipedia.org/wiki/Siege_of_Szigetv%C3%A1r"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.86527778,
+                    47.55194444
+                ]
+            },
+            "properties": {
+                "name": "Nagy-Kopasz",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.84722222,
+                    48.14472222
+                ]
+            },
+            "properties": {
+                "name": "Castle of Salgó, Salgótarján",
+                "article": "https://en.wikipedia.org/wiki/Salg%C3%B3_Castle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.049472,
+                    47.564139
+                ]
+            },
+            "properties": {
+                "name": "Aquincum",
+                "article": "https://en.wikipedia.org/wiki/Aquincum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4336948,
+                    47.352808
+                ]
+            },
+            "properties": {
+                "name": "Írott-kő",
+                "article": "https://en.wikipedia.org/wiki/Geschriebenstein"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9156,
+                    47.825
+                ]
+            },
+            "properties": {
+                "name": "Mezőcsát railway station",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.54166667,
+                    47.38805556
+                ]
+            },
+            "properties": {
+                "name": "Siege of Güns",
+                "article": "https://en.wikipedia.org/wiki/Siege_of_K%C5%91szeg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.551944444,
+                    47.381666666
+                ]
+            },
+            "properties": {
+                "name": "Siege of Güns",
+                "article": "https://en.wikipedia.org/wiki/Siege_of_K%C5%91szeg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.40944444,
+                    45.85125
+                ]
+            },
+            "properties": {
+                "name": "Battle of Mohács",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Moh%C3%A1cs_(1687)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.688055555,
+                    47.825277777
+                ]
+            },
+            "properties": {
+                "name": "Battle of Keresztes",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Keresztes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.776309,
+                    48.103534
+                ]
+            },
+            "properties": {
+                "name": "Palace of Music",
+                "article": "https://en.wikipedia.org/wiki/Palace_of_Music"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.05,
+                    47.466666666
+                ]
+            },
+            "properties": {
+                "name": "Battle of Buda",
+                "article": "https://en.wikipedia.org/wiki/Siege_of_Buda_(1686)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.913055555,
+                    47.977777777
+                ]
+            },
+            "properties": {
+                "name": "Battle of Mohi",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Mohi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.041388888,
+                    47.476666666
+                ]
+            },
+            "properties": {
+                "name": "Lake Feneketlen",
+                "article": "https://en.wikipedia.org/wiki/Lake_Feneketlen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.371186,
+                    47.147758
+                ]
+            },
+            "properties": {
+                "name": "Somló",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.012777777,
+                    47.872222222
+                ]
+            },
+            "properties": {
+                "name": "Kékes",
+                "article": "https://en.wikipedia.org/wiki/K%C3%A9kes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.9,
+                    47.916666666
+                ]
+            },
+            "properties": {
+                "name": "Galya-tető",
+                "article": "https://en.wikipedia.org/wiki/Galya-tet%C5%91"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.025,
+                    47.499444444
+                ]
+            },
+            "properties": {
+                "name": "Budapest-Déli railway station",
+                "article": "https://en.wikipedia.org/wiki/Budapest_D%C3%A9li_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.236527777,
+                    47.758388888
+                ]
+            },
+            "properties": {
+                "name": "Battle of Kápolna",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_K%C3%A1polna"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.049786111,
+                    47.495452777
+                ]
+            },
+            "properties": {
+                "name": "Q769677",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.05567,
+                    47.498168
+                ]
+            },
+            "properties": {
+                "name": "Anker köz",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.034111111,
+                    47.500555555
+                ]
+            },
+            "properties": {
+                "name": "Anna utca",
+                "article": "https://en.wikipedia.org/wiki/Anna_utca"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.646111111,
+                    46.468333333
+                ]
+            },
+            "properties": {
+                "name": "Apponyi Mansion in Medina, Hungary",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.049922,
+                    47.494916
+                ]
+            },
+            "properties": {
+                "name": "Apáczai Csere János utca",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.038888888,
+                    47.532777777
+                ]
+            },
+            "properties": {
+                "name": "Aquincum military amphitheatre",
+                "article": "https://en.wikipedia.org/wiki/Aquincum_Military_Amphitheatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.021211,
+                    47.578342
+                ]
+            },
+            "properties": {
+                "name": "Arany-hegy",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.72,
+                    46.85
+                ]
+            },
+            "properties": {
+                "name": "Lake Balaton",
+                "article": "https://en.wikipedia.org/wiki/Lake_Balaton"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.054961,
+                    47.503122
+                ]
+            },
+            "properties": {
+                "name": "Bajcsy-Zsilinszky út",
+                "article": "https://en.wikipedia.org/wiki/Bajcsy-Zsilinszky_%C3%BAt"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.072307,
+                    47.511195
+                ]
+            },
+            "properties": {
+                "name": "Bajza utca",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.372778,
+                    46.227222
+                ]
+            },
+            "properties": {
+                "name": "Bargyag",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.038,
+                    47.506944444
+                ]
+            },
+            "properties": {
+                "name": "Batthyány Street, Budapest",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.047777777,
+                    47.496666666
+                ]
+            },
+            "properties": {
+                "name": "Belgrád rakpart",
+                "article": null
+            }
+        }
+    ]
+}

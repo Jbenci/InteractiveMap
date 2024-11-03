@@ -1,0 +1,4695 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.893333333,
+                    0.020833333
+                ]
+            },
+            "properties": {
+                "name": "Etoumbi",
+                "article": "https://en.wikipedia.org/wiki/Etoumbi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.850277777,
+                    -4.7975
+                ]
+            },
+            "properties": {
+                "name": "Pointe-Noire",
+                "article": "https://en.wikipedia.org/wiki/Pointe-Noire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.679166666,
+                    -4.200555555
+                ]
+            },
+            "properties": {
+                "name": "Dolisie",
+                "article": "https://en.wikipedia.org/wiki/Dolisie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.051388888,
+                    1.610555555
+                ]
+            },
+            "properties": {
+                "name": "Ouésso",
+                "article": "https://en.wikipedia.org/wiki/Ou%C3%A9sso"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.758888888,
+                    -4.356666666
+                ]
+            },
+            "properties": {
+                "name": "Kinkala",
+                "article": "https://en.wikipedia.org/wiki/Kinkala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.351111111,
+                    -3.685
+                ]
+            },
+            "properties": {
+                "name": "Sibiti",
+                "article": "https://en.wikipedia.org/wiki/Sibiti"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.488611111,
+                    -4.281944444
+                ]
+            },
+            "properties": {
+                "name": "Pool Malebo",
+                "article": "https://en.wikipedia.org/wiki/Pool_Malebo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.062222222,
+                    1.618611111
+                ]
+            },
+            "properties": {
+                "name": "Impfondo",
+                "article": "https://en.wikipedia.org/wiki/Impfondo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.406,
+                    -4.2227
+                ]
+            },
+            "properties": {
+                "name": "Mbamu",
+                "article": "https://en.wikipedia.org/wiki/Mbamu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.8975,
+                    -0.483333333
+                ]
+            },
+            "properties": {
+                "name": "Owando",
+                "article": "https://en.wikipedia.org/wiki/Owando"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.618055555,
+                    -0.006666666
+                ]
+            },
+            "properties": {
+                "name": "Makoua",
+                "article": "https://en.wikipedia.org/wiki/Makoua"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.44,
+                    -3.55
+                ]
+            },
+            "properties": {
+                "name": "Q1785551",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.15,
+                    1.333333333
+                ]
+            },
+            "properties": {
+                "name": "Lake Tele",
+                "article": "https://en.wikipedia.org/wiki/Lake_Tele"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.551666666,
+                    -4.164166666
+                ]
+            },
+            "properties": {
+                "name": "Madingou",
+                "article": "https://en.wikipedia.org/wiki/Madingou,_Bouenza"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.288333333,
+                    -4.184166666
+                ]
+            },
+            "properties": {
+                "name": "Nkayi",
+                "article": "https://en.wikipedia.org/wiki/Nkayi,_Republic_of_the_Congo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.816666666,
+                    -0.874166666
+                ]
+            },
+            "properties": {
+                "name": "Ewo",
+                "article": "https://en.wikipedia.org/wiki/Ewo,_Republic_of_the_Congo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.751944444,
+                    -2.54
+                ]
+            },
+            "properties": {
+                "name": "Djambala",
+                "article": "https://en.wikipedia.org/wiki/Djambala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.519944444,
+                    -1.333916666
+                ]
+            },
+            "properties": {
+                "name": "Abala",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.55577,
+                    -4.77743
+                ]
+            },
+            "properties": {
+                "name": "Bombo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.558055555,
+                    -4.7775
+                ]
+            },
+            "properties": {
+                "name": "Bombo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.4075,
+                    -4.87722
+                ]
+            },
+            "properties": {
+                "name": "Bouloukombo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.408341,
+                    -4.877136
+                ]
+            },
+            "properties": {
+                "name": "Bouloukombo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.347777777,
+                    -1.026388888
+                ]
+            },
+            "properties": {
+                "name": "Boundji",
+                "article": "https://en.wikipedia.org/wiki/Boundji"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.027777777,
+                    -2.707222222
+                ]
+            },
+            "properties": {
+                "name": "Divénié",
+                "article": "https://en.wikipedia.org/wiki/Div%C3%A9ni%C3%A9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0525,
+                    2.044722222
+                ]
+            },
+            "properties": {
+                "name": "Dongou",
+                "article": "https://en.wikipedia.org/wiki/Dongou"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.89694,
+                    1.94806
+                ]
+            },
+            "properties": {
+                "name": "Mont Nabemba",
+                "article": "https://en.wikipedia.org/wiki/Mont_Nabemba"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.983333333,
+                    1.85
+                ]
+            },
+            "properties": {
+                "name": "Mont Nabemba",
+                "article": "https://en.wikipedia.org/wiki/Mont_Nabemba"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.973611111,
+                    -1.160277777
+                ]
+            },
+            "properties": {
+                "name": "Oyo",
+                "article": "https://en.wikipedia.org/wiki/Oyo,_Republic_of_the_Congo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.317777777,
+                    -3.482222222
+                ]
+            },
+            "properties": {
+                "name": "Kibangou",
+                "article": "https://en.wikipedia.org/wiki/Kibangou"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.06,
+                    -4.112222222
+                ]
+            },
+            "properties": {
+                "name": "Loudima",
+                "article": "https://en.wikipedia.org/wiki/Loudima"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.606666666,
+                    -3.483333333
+                ]
+            },
+            "properties": {
+                "name": "Makabana",
+                "article": "https://en.wikipedia.org/wiki/Makabana"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.701944444,
+                    -4.431111111
+                ]
+            },
+            "properties": {
+                "name": "Madingo-Kayes",
+                "article": "https://en.wikipedia.org/wiki/Madingo-Kayes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.878055555,
+                    -1.871111111
+                ]
+            },
+            "properties": {
+                "name": "Gamboma",
+                "article": "https://en.wikipedia.org/wiki/Gamboma"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.715555555,
+                    -2.945277777
+                ]
+            },
+            "properties": {
+                "name": "Mossendjo",
+                "article": "https://en.wikipedia.org/wiki/Mossendjo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3575,
+                    -4.274722222
+                ]
+            },
+            "properties": {
+                "name": "Mindouli",
+                "article": "https://en.wikipedia.org/wiki/Mindouli"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.91361111,
+                    -4.14277778
+                ]
+            },
+            "properties": {
+                "name": "Monto Bello",
+                "article": "https://en.wikipedia.org/wiki/Monto_Bello"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5381,
+                    -4.2042
+                ]
+            },
+            "properties": {
+                "name": "Mont Bamba",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5381,
+                    -4.2033
+                ]
+            },
+            "properties": {
+                "name": "Mont Bamba",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.794722222,
+                    -1.225833333
+                ]
+            },
+            "properties": {
+                "name": "Mossaka",
+                "article": "https://en.wikipedia.org/wiki/Mossaka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.921944444,
+                    -3.995555555
+                ]
+            },
+            "properties": {
+                "name": "Mouyondzi",
+                "article": "https://en.wikipedia.org/wiki/Mouyondzi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.08333333,
+                    -1.46666667
+                ]
+            },
+            "properties": {
+                "name": "Okoyo",
+                "article": "https://en.wikipedia.org/wiki/Okoyo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.426666666,
+                    -4.913888888
+                ]
+            },
+            "properties": {
+                "name": "Pic Kiama",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.4336,
+                    -4.9147
+                ]
+            },
+            "properties": {
+                "name": "Pic Kiama",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.4725,
+                    2.9125
+                ]
+            },
+            "properties": {
+                "name": "Île de Bétou",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.473,
+                    2.913
+                ]
+            },
+            "properties": {
+                "name": "Île de Bétou",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.235277777,
+                    1.544722222
+                ]
+            },
+            "properties": {
+                "name": "Mounts Badondo",
+                "article": "https://en.wikipedia.org/wiki/Badondo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.76166667,
+                    -4.21861111
+                ]
+            },
+            "properties": {
+                "name": "Bouansa",
+                "article": "https://en.wikipedia.org/wiki/Bouansa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.514166666,
+                    3.059444444
+                ]
+            },
+            "properties": {
+                "name": "Bétou",
+                "article": "https://en.wikipedia.org/wiki/B%C3%A9tou"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.855555555,
+                    -4.297222222
+                ]
+            },
+            "properties": {
+                "name": "Loutété",
+                "article": "https://en.wikipedia.org/wiki/Lout%C3%A9t%C3%A9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.300277777,
+                    1.906111111
+                ]
+            },
+            "properties": {
+                "name": "Monts Avima",
+                "article": "https://en.wikipedia.org/wiki/Avima"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.388055555,
+                    -4.192777777
+                ]
+            },
+            "properties": {
+                "name": "Q22352932",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.282777777,
+                    -3.443333333
+                ]
+            },
+            "properties": {
+                "name": "Mont Moufila",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6572,
+                    -3.3675
+                ]
+            },
+            "properties": {
+                "name": "Mont Ndoumo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.5886,
+                    -2.9075
+                ]
+            },
+            "properties": {
+                "name": "Mont Ngankolo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.599166666,
+                    -2.882777777
+                ]
+            },
+            "properties": {
+                "name": "Mont Ngawa",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.856666666,
+                    -1.719166666
+                ]
+            },
+            "properties": {
+                "name": "Mont Nguéangoua",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.8386,
+                    -4.1461
+                ]
+            },
+            "properties": {
+                "name": "Mont Nkomo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.350833333,
+                    -4.078055555
+                ]
+            },
+            "properties": {
+                "name": "Mont Nsila",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.357222222,
+                    -3.174166666
+                ]
+            },
+            "properties": {
+                "name": "Mont Obima",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.7,
+                    -2.8319
+                ]
+            },
+            "properties": {
+                "name": "Mont Okouloumbon",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.715833333,
+                    -2.907777777
+                ]
+            },
+            "properties": {
+                "name": "Mont Okouloumpo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.306111111,
+                    -3.998333333
+                ]
+            },
+            "properties": {
+                "name": "Mont Ousondo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2903,
+                    -3.0706
+                ]
+            },
+            "properties": {
+                "name": "Mont Paga",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.45,
+                    -3.983333333
+                ]
+            },
+            "properties": {
+                "name": "Mont Pengo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.545,
+                    -4.0533
+                ]
+            },
+            "properties": {
+                "name": "Mont Pika",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.6817,
+                    -4.4183
+                ]
+            },
+            "properties": {
+                "name": "Mont Secco-Secco",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5142,
+                    -4.0592
+                ]
+            },
+            "properties": {
+                "name": "Mont Seso",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.35,
+                    -4.2
+                ]
+            },
+            "properties": {
+                "name": "Q22357166",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4164,
+                    -4.1758
+                ]
+            },
+            "properties": {
+                "name": "Mont Tokoy",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.501388888,
+                    -4.545555555
+                ]
+            },
+            "properties": {
+                "name": "Montagnes Foumbo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.649722222,
+                    -4.271944444
+                ]
+            },
+            "properties": {
+                "name": "Montagnes Kihinzi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.115555555,
+                    -3.705
+                ]
+            },
+            "properties": {
+                "name": "Montagnes Tobo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.271111111,
+                    -4.269444444
+                ]
+            },
+            "properties": {
+                "name": "Brazzaville",
+                "article": "https://en.wikipedia.org/wiki/Brazzaville"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.85,
+                    -2.616666666
+                ]
+            },
+            "properties": {
+                "name": "Kébiti",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.509722222,
+                    -4.341111111
+                ]
+            },
+            "properties": {
+                "name": "Q22369130",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.033611111,
+                    -4.283611111
+                ]
+            },
+            "properties": {
+                "name": "Monts Biahama",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.01667,
+                    -4.23444
+                ]
+            },
+            "properties": {
+                "name": "Monts Bounzikaba",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.581944444,
+                    -4.362777777
+                ]
+            },
+            "properties": {
+                "name": "Monts de Pangala",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.548055555,
+                    -4.541388888
+                ]
+            },
+            "properties": {
+                "name": "Monts Kambala",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.8825,
+                    -4.12
+                ]
+            },
+            "properties": {
+                "name": "Monts Kinoumbou, Moudzanga",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.448055555,
+                    -4.573611111
+                ]
+            },
+            "properties": {
+                "name": "Monts Kousombi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.080277777,
+                    1.664444444
+                ]
+            },
+            "properties": {
+                "name": "Monts Letioukbala",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4997,
+                    -3.7464
+                ]
+            },
+            "properties": {
+                "name": "Monts Malolo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.883055555,
+                    -4.168611111
+                ]
+            },
+            "properties": {
+                "name": "Q22370134",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.500277777,
+                    -4.514166666
+                ]
+            },
+            "properties": {
+                "name": "Monts Mbao",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.189722222,
+                    -2.588888888
+                ]
+            },
+            "properties": {
+                "name": "Q22370172",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.016388888,
+                    -4.379722222
+                ]
+            },
+            "properties": {
+                "name": "Monts Moutouombi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.59,
+                    -4.208611111
+                ]
+            },
+            "properties": {
+                "name": "Monts Paka",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.316666666,
+                    -4.116388888
+                ]
+            },
+            "properties": {
+                "name": "Monts Sako",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.260833333,
+                    -4.06
+                ]
+            },
+            "properties": {
+                "name": "Monts Soulo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.124166666,
+                    -2.460833333
+                ]
+            },
+            "properties": {
+                "name": "Monts Yolengomo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.840555555,
+                    -4.239722222
+                ]
+            },
+            "properties": {
+                "name": "Monts Yongoudo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.609722222,
+                    -4.620277777
+                ]
+            },
+            "properties": {
+                "name": "Monts Zoulazando",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.174444444,
+                    -0.288611111
+                ]
+            },
+            "properties": {
+                "name": "Q22377108",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.126388888,
+                    2.312777777
+                ]
+            },
+            "properties": {
+                "name": "Q22377192",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.088888888,
+                    2.133888888
+                ]
+            },
+            "properties": {
+                "name": "Q22377211",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.033611111,
+                    1.641666666
+                ]
+            },
+            "properties": {
+                "name": "Q22377230",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.104722222,
+                    -0.044444444
+                ]
+            },
+            "properties": {
+                "name": "Oyongo Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.1025,
+                    2.265555555
+                ]
+            },
+            "properties": {
+                "name": "Q22377676",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.03823,
+                    1.46708
+                ]
+            },
+            "properties": {
+                "name": "Ile de Bouboura",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.90703,
+                    1.12638
+                ]
+            },
+            "properties": {
+                "name": "Ile de Boyoka",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.448055555,
+                    2.931666666
+                ]
+            },
+            "properties": {
+                "name": "Q22380043",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.415277777,
+                    2.864722222
+                ]
+            },
+            "properties": {
+                "name": "Q22380563",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.088611111,
+                    2.213888888
+                ]
+            },
+            "properties": {
+                "name": "Q22380683",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.945555555,
+                    1.240277777
+                ]
+            },
+            "properties": {
+                "name": "Q22380705",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.07978,
+                    1.69482
+                ]
+            },
+            "properties": {
+                "name": "Ile de Mongandzi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.795833333,
+                    -4.208055555
+                ]
+            },
+            "properties": {
+                "name": "Lac Nanga",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.011388888,
+                    -3.709444444
+                ]
+            },
+            "properties": {
+                "name": "Q22381754",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.21488,
+                    -4.32221
+                ]
+            },
+            "properties": {
+                "name": "Ile des Singes",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.633333333,
+                    3.266666666
+                ]
+            },
+            "properties": {
+                "name": "Q22383371",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.646111111,
+                    -4.356111111
+                ]
+            },
+            "properties": {
+                "name": "Lac Ndembo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.580555555,
+                    -4.761944444
+                ]
+            },
+            "properties": {
+                "name": "Bende-Bende",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.65,
+                    3.333333333
+                ]
+            },
+            "properties": {
+                "name": "Q22386643",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.785277777,
+                    -3.789166666
+                ]
+            },
+            "properties": {
+                "name": "Q22386835",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.202777777,
+                    -3.321388888
+                ]
+            },
+            "properties": {
+                "name": "Q22392322",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.64093,
+                    3.45654
+                ]
+            },
+            "properties": {
+                "name": "Ile Longue",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.17094,
+                    -4.3746
+                ]
+            },
+            "properties": {
+                "name": "Ile Lutea",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.211111111,
+                    -4.614722222
+                ]
+            },
+            "properties": {
+                "name": "Kidimimba",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.418333333,
+                    -4.209444444
+                ]
+            },
+            "properties": {
+                "name": "Q22400356",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.8164,
+                    -4.3636
+                ]
+            },
+            "properties": {
+                "name": "Ntadi-Oubouka",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.883333333,
+                    -4.75
+                ]
+            },
+            "properties": {
+                "name": "Ntandou Mboulo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.032777777,
+                    -4.615277777
+                ]
+            },
+            "properties": {
+                "name": "Kifousa",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.806388888,
+                    0.194166666
+                ]
+            },
+            "properties": {
+                "name": "Q22402095",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0825,
+                    2.175833333
+                ]
+            },
+            "properties": {
+                "name": "Q22396098",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.401944444,
+                    2.848333333
+                ]
+            },
+            "properties": {
+                "name": "Q22396655",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.879444444,
+                    -4.857777777
+                ]
+            },
+            "properties": {
+                "name": "Lac Noumbo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.06439,
+                    1.8353
+                ]
+            },
+            "properties": {
+                "name": "Ile Niangi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.031666666,
+                    -4.418888888
+                ]
+            },
+            "properties": {
+                "name": "Kikokoula",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.676111111,
+                    -4.401666666
+                ]
+            },
+            "properties": {
+                "name": "Mangoumbo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.233055555,
+                    -4.401111111
+                ]
+            },
+            "properties": {
+                "name": "Kilounga",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.309166666,
+                    -4.4575
+                ]
+            },
+            "properties": {
+                "name": "Mouhondo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.560555555,
+                    -4.758611111
+                ]
+            },
+            "properties": {
+                "name": "Moukasou",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.638055555,
+                    -4.464722222
+                ]
+            },
+            "properties": {
+                "name": "Q22411249",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.362222222,
+                    -4.3225
+                ]
+            },
+            "properties": {
+                "name": "Kimembo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.64685,
+                    3.96788
+                ]
+            },
+            "properties": {
+                "name": "Île Zouambimba",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3347,
+                    -2.8522
+                ]
+            },
+            "properties": {
+                "name": "Kingami",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.026666666,
+                    -4.481666666
+                ]
+            },
+            "properties": {
+                "name": "Kingoanda",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.0275,
+                    -4.493055555
+                ]
+            },
+            "properties": {
+                "name": "Kingon",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.018888888,
+                    -4.565833333
+                ]
+            },
+            "properties": {
+                "name": "Eso",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.132777777,
+                    -4.495277777
+                ]
+            },
+            "properties": {
+                "name": "Ilougoundo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.55,
+                    -3.733333333
+                ]
+            },
+            "properties": {
+                "name": "Mare Bifousa",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6,
+                    -3.65
+                ]
+            },
+            "properties": {
+                "name": "Mare de Galiba",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.533333333,
+                    -3.683333333
+                ]
+            },
+            "properties": {
+                "name": "Mare Maka Mangando",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.55,
+                    -3.75
+                ]
+            },
+            "properties": {
+                "name": "Mare Mamboumi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.55,
+                    -3.566666666
+                ]
+            },
+            "properties": {
+                "name": "Mare Moukanga",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.759166666,
+                    -4.496944444
+                ]
+            },
+            "properties": {
+                "name": "Lac Foni",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9086,
+                    -4.4044
+                ]
+            },
+            "properties": {
+                "name": "Q22437363",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.404444444,
+                    -4.201388888
+                ]
+            },
+            "properties": {
+                "name": "Q22442211",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.25,
+                    -4.429166666
+                ]
+            },
+            "properties": {
+                "name": "Q22442245",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.194166666,
+                    -4.441666666
+                ]
+            },
+            "properties": {
+                "name": "Q22442262",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.55,
+                    3.416666666
+                ]
+            },
+            "properties": {
+                "name": "Q22442297",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.278611111,
+                    -4.403055555
+                ]
+            },
+            "properties": {
+                "name": "Q22442361",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.284444444,
+                    -4.503333333
+                ]
+            },
+            "properties": {
+                "name": "Q22442380",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.183611111,
+                    -4.435277777
+                ]
+            },
+            "properties": {
+                "name": "Q22442568",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.766666666,
+                    -3.7
+                ]
+            },
+            "properties": {
+                "name": "Q22444041",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.200833333,
+                    -4.568333333
+                ]
+            },
+            "properties": {
+                "name": "Iokoula",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.2478,
+                    -4.6386
+                ]
+            },
+            "properties": {
+                "name": "Masoko",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.1358,
+                    -3.4983
+                ]
+            },
+            "properties": {
+                "name": "Massif de Bakota",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3167,
+                    -3.4792
+                ]
+            },
+            "properties": {
+                "name": "Massif de Libinga",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.92556,
+                    -4.92306
+                ]
+            },
+            "properties": {
+                "name": "Q22451766",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.266666666,
+                    -3.6
+                ]
+            },
+            "properties": {
+                "name": "Rochers de la Louna",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.283333333,
+                    -3.416666666
+                ]
+            },
+            "properties": {
+                "name": "Rochers de Zan",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.170833333,
+                    -3.829166666
+                ]
+            },
+            "properties": {
+                "name": "Q22452292",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.35,
+                    -3.4
+                ]
+            },
+            "properties": {
+                "name": "Falaise de Ndolo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.412777777,
+                    -4.101666666
+                ]
+            },
+            "properties": {
+                "name": "Falaises de Douvres",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.142222222,
+                    -2.344166666
+                ]
+            },
+            "properties": {
+                "name": "Otsima",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.070833333,
+                    -4.613611111
+                ]
+            },
+            "properties": {
+                "name": "Mayouka",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.023611111,
+                    -4.579722222
+                ]
+            },
+            "properties": {
+                "name": "Mazila",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.8,
+                    -2.166666666
+                ]
+            },
+            "properties": {
+                "name": "Oukila",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.608611111,
+                    -3.573888888
+                ]
+            },
+            "properties": {
+                "name": "Q22462494",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3878,
+                    -2.1092
+                ]
+            },
+            "properties": {
+                "name": "Mbouma",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.283611111,
+                    -4.682777777
+                ]
+            },
+            "properties": {
+                "name": "Mbousi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.102777777,
+                    -4.776666666
+                ]
+            },
+            "properties": {
+                "name": "Lac Tinzomongo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.115833333,
+                    -4.637777777
+                ]
+            },
+            "properties": {
+                "name": "Lac Tisimbi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.073611111,
+                    -4.465555555
+                ]
+            },
+            "properties": {
+                "name": "Tikaka",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.895277777,
+                    -4.510277777
+                ]
+            },
+            "properties": {
+                "name": "Lac Titina",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.116666666,
+                    -3.8
+                ]
+            },
+            "properties": {
+                "name": "Q22506977",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9867,
+                    -2.5125
+                ]
+            },
+            "properties": {
+                "name": "Ballouni",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.011944444,
+                    -4.556388888
+                ]
+            },
+            "properties": {
+                "name": "Mifounvo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.051666666,
+                    -4.430555555
+                ]
+            },
+            "properties": {
+                "name": "Mikomba",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.85,
+                    -4.783333333
+                ]
+            },
+            "properties": {
+                "name": "Tchikoba",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.86667,
+                    -4.71667
+                ]
+            },
+            "properties": {
+                "name": "Tchimpounga",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.95,
+                    -4.75
+                ]
+            },
+            "properties": {
+                "name": "Tchisala",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.083333333,
+                    -4.636388888
+                ]
+            },
+            "properties": {
+                "name": "Tchounkouto",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.280833333,
+                    -4.667777777
+                ]
+            },
+            "properties": {
+                "name": "Tembo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.361666666,
+                    -3.606388888
+                ]
+            },
+            "properties": {
+                "name": "Q22476026",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.50194,
+                    -3.2375
+                ]
+            },
+            "properties": {
+                "name": "Lac Sanpion",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.954444444,
+                    -4.877222222
+                ]
+            },
+            "properties": {
+                "name": "Lac Nanga",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.766111111,
+                    0.868333333
+                ]
+            },
+            "properties": {
+                "name": "Q22492817",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.138888888,
+                    -4.620833333
+                ]
+            },
+            "properties": {
+                "name": "Lac Tchibamba",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.281944444,
+                    -3.846388888
+                ]
+            },
+            "properties": {
+                "name": "Lac Tchibenda",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.31729,
+                    -3.96701
+                ]
+            },
+            "properties": {
+                "name": "Lac Tchimba",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.303611111,
+                    -3.908611111
+                ]
+            },
+            "properties": {
+                "name": "Lac Tchivoka",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.12,
+                    -4.215555555
+                ]
+            },
+            "properties": {
+                "name": "Q22500479",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.891111111,
+                    -4.1825
+                ]
+            },
+            "properties": {
+                "name": "Lac Dinga",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.443055555,
+                    1.647222222
+                ]
+            },
+            "properties": {
+                "name": "Lac Djaka",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.9,
+                    -4.7375
+                ]
+            },
+            "properties": {
+                "name": "Banga",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.008333333,
+                    -4.580555555
+                ]
+            },
+            "properties": {
+                "name": "Peso",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.4467,
+                    -4.7642
+                ]
+            },
+            "properties": {
+                "name": "Kamba",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.0975,
+                    -4.1539
+                ]
+            },
+            "properties": {
+                "name": "Colline de Ngounga",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.008333333,
+                    -4.580555555
+                ]
+            },
+            "properties": {
+                "name": "Peso",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.4467,
+                    -4.7642
+                ]
+            },
+            "properties": {
+                "name": "Kamba",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.0975,
+                    -4.1539
+                ]
+            },
+            "properties": {
+                "name": "Colline de Ngounga",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.6108,
+                    -4.4703
+                ]
+            },
+            "properties": {
+                "name": "Colline Tobobi Zoulo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6725,
+                    -4.634444444
+                ]
+            },
+            "properties": {
+                "name": "Kanga",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5122,
+                    -4.4611
+                ]
+            },
+            "properties": {
+                "name": "Colline Yongongo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.885555555,
+                    -4.020833333
+                ]
+            },
+            "properties": {
+                "name": "Collines de Diangala",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.35,
+                    -4.066944444
+                ]
+            },
+            "properties": {
+                "name": "Collines de Mbomo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.158333333,
+                    -2.811388888
+                ]
+            },
+            "properties": {
+                "name": "Collines Gamfiné",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.488055555,
+                    -4.321111111
+                ]
+            },
+            "properties": {
+                "name": "Collines Kidiadia",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.316388888,
+                    -4.235555555
+                ]
+            },
+            "properties": {
+                "name": "Collines Massinngui",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.6875,
+                    -4.279444444
+                ]
+            },
+            "properties": {
+                "name": "Collines Matita",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.519444444,
+                    -4.250277777
+                ]
+            },
+            "properties": {
+                "name": "Collines Moupépé",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.373611111,
+                    -4.247222222
+                ]
+            },
+            "properties": {
+                "name": "Collines Ngouma",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.7175,
+                    -4.312777777
+                ]
+            },
+            "properties": {
+                "name": "Collines Pika",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.588888888,
+                    -4.125833333
+                ]
+            },
+            "properties": {
+                "name": "Lac Yangala",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.0678,
+                    -4.4353
+                ]
+            },
+            "properties": {
+                "name": "Mkito",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.661666666,
+                    -4.430833333
+                ]
+            },
+            "properties": {
+                "name": "Lac Yombo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.676944444,
+                    -4.186388888
+                ]
+            },
+            "properties": {
+                "name": "Lac Youbi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.051944444,
+                    -4.67
+                ]
+            },
+            "properties": {
+                "name": "Moana Bingo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.023611111,
+                    -4.592777777
+                ]
+            },
+            "properties": {
+                "name": "Mohi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.630277777,
+                    -4.084722222
+                ]
+            },
+            "properties": {
+                "name": "Batsuongo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.199444444,
+                    -4.211111111
+                ]
+            },
+            "properties": {
+                "name": "Lacs Konzi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.841944444,
+                    -4.337777777
+                ]
+            },
+            "properties": {
+                "name": "Pic Albert",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.054444444,
+                    -4.632222222
+                ]
+            },
+            "properties": {
+                "name": "Tsinda",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.352777777,
+                    -4.666111111
+                ]
+            },
+            "properties": {
+                "name": "Tsongo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.326388888,
+                    -3.956111111
+                ]
+            },
+            "properties": {
+                "name": "Lagune Conkouati",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.929444444,
+                    -4.8975
+                ]
+            },
+            "properties": {
+                "name": "Lagune de Loubi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.900555555,
+                    -4.875555555
+                ]
+            },
+            "properties": {
+                "name": "Lagune de Mvasa",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.966666666,
+                    -4.933333333
+                ]
+            },
+            "properties": {
+                "name": "Lagune Malonda",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.165555555,
+                    -3.943888888
+                ]
+            },
+            "properties": {
+                "name": "Lagune Mekoundji",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.216666666,
+                    -3.983333333
+                ]
+            },
+            "properties": {
+                "name": "Lagune Niandji",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.303333333,
+                    -4.066388888
+                ]
+            },
+            "properties": {
+                "name": "Lagune Vandji",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.2761,
+                    -3.2397
+                ]
+            },
+            "properties": {
+                "name": "Mont Abonogo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5242,
+                    -0.6225
+                ]
+            },
+            "properties": {
+                "name": "Q22540274",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4033,
+                    -3.05
+                ]
+            },
+            "properties": {
+                "name": "Mont Banvouri",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.9528,
+                    -4.175
+                ]
+            },
+            "properties": {
+                "name": "Q22540760",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.227222222,
+                    -3.215
+                ]
+            },
+            "properties": {
+                "name": "Q22540873",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1978,
+                    -3.9764
+                ]
+            },
+            "properties": {
+                "name": "Mont Bilira",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5483,
+                    -4.2192
+                ]
+            },
+            "properties": {
+                "name": "Mont Boukonzo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.315,
+                    -4.0847
+                ]
+            },
+            "properties": {
+                "name": "Mont Boungo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.683333333,
+                    -4.3
+                ]
+            },
+            "properties": {
+                "name": "Q22541427",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2592,
+                    -4.0542
+                ]
+            },
+            "properties": {
+                "name": "Mont de Migaya",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.433333333,
+                    -3.3
+                ]
+            },
+            "properties": {
+                "name": "Mont de Oziba",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.291388888,
+                    -3.505277777
+                ]
+            },
+            "properties": {
+                "name": "Mont Dibinga",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.425833333,
+                    -4.063333333
+                ]
+            },
+            "properties": {
+                "name": "Q22542600",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.7133,
+                    -4.3867
+                ]
+            },
+            "properties": {
+                "name": "Mont Foungouti",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4733,
+                    -4.1192
+                ]
+            },
+            "properties": {
+                "name": "Mont Gara",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4658,
+                    -1.0192
+                ]
+            },
+            "properties": {
+                "name": "Mont Goungo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.616666666,
+                    -3.266666666
+                ]
+            },
+            "properties": {
+                "name": "Q22543315",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.226944444,
+                    0.198055555
+                ]
+            },
+            "properties": {
+                "name": "Mont Kéka",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.555,
+                    -4.1417
+                ]
+            },
+            "properties": {
+                "name": "Q22543985",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.452222222,
+                    -4.326944444
+                ]
+            },
+            "properties": {
+                "name": "Q22544004",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.380833333,
+                    -4.139166666
+                ]
+            },
+            "properties": {
+                "name": "Mont Kintari",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.1675,
+                    -4.2717
+                ]
+            },
+            "properties": {
+                "name": "Mont Kitamba",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4597,
+                    -4.3786
+                ]
+            },
+            "properties": {
+                "name": "Mont Kokoyi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3917,
+                    -3.2422
+                ]
+            },
+            "properties": {
+                "name": "Mont Kouanga",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.8533,
+                    -2.3075
+                ]
+            },
+            "properties": {
+                "name": "Q22544393",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.6183,
+                    -4.2881
+                ]
+            },
+            "properties": {
+                "name": "Mont Lihoumbo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.6992,
+                    -4.4642
+                ]
+            },
+            "properties": {
+                "name": "Mont Lombo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.666111111,
+                    -3.534722222
+                ]
+            },
+            "properties": {
+                "name": "Q22545059",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.7794,
+                    -4.2814
+                ]
+            },
+            "properties": {
+                "name": "Mont Mbamo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.2303,
+                    -3.8006
+                ]
+            },
+            "properties": {
+                "name": "Mont Mbengi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.483333333,
+                    -0.833333333
+                ]
+            },
+            "properties": {
+                "name": "Mont Mbili",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3397,
+                    -4.2067
+                ]
+            },
+            "properties": {
+                "name": "Mont Mboumo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.2933,
+                    -3.3667
+                ]
+            },
+            "properties": {
+                "name": "Mont Mfila",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.4197,
+                    -3.1225
+                ]
+            },
+            "properties": {
+                "name": "Mont Mikoyo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.18,
+                    1.8956
+                ]
+            },
+            "properties": {
+                "name": "Mont Misséké",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.585,
+                    -3.43
+                ]
+            },
+            "properties": {
+                "name": "Mont Moguindou",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.348888888,
+                    -4.426388888
+                ]
+            },
+            "properties": {
+                "name": "Binga",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3336,
+                    -4.3747
+                ]
+            },
+            "properties": {
+                "name": "Binkembélé",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4397,
+                    -2.1975
+                ]
+            },
+            "properties": {
+                "name": "Kouelo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.0994,
+                    -2.7264
+                ]
+            },
+            "properties": {
+                "name": "Kounyou Kounyo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.021111111,
+                    -4.398333333
+                ]
+            },
+            "properties": {
+                "name": "Kouonzi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.2525,
+                    -4.406111111
+                ]
+            },
+            "properties": {
+                "name": "Koye",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.834722222,
+                    -3.847777777
+                ]
+            },
+            "properties": {
+                "name": "Q22560213",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.433333333,
+                    -4.75
+                ]
+            },
+            "properties": {
+                "name": "Kyowa",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2833,
+                    -4.1869
+                ]
+            },
+            "properties": {
+                "name": "Boukiéro",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.443888888,
+                    -3.970555555
+                ]
+            },
+            "properties": {
+                "name": "Boulou Ngimbi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.669166666,
+                    -4.0925
+                ]
+            },
+            "properties": {
+                "name": "Loukougi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.0147,
+                    -4.91639
+                ]
+            },
+            "properties": {
+                "name": "Lac Kayo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.014722222,
+                    -4.916388888
+                ]
+            },
+            "properties": {
+                "name": "Lac Kayo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.997222222,
+                    -4.261388888
+                ]
+            },
+            "properties": {
+                "name": "Lac Kitina",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.748055555,
+                    -4.153888888
+                ]
+            },
+            "properties": {
+                "name": "Lac Kobambi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.311944444,
+                    -4.235
+                ]
+            },
+            "properties": {
+                "name": "Lac Kongo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.8594,
+                    -4.3703
+                ]
+            },
+            "properties": {
+                "name": "Ngonda",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.613611111,
+                    -1.364444444
+                ]
+            },
+            "properties": {
+                "name": "Lac Libala",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.413888888,
+                    -4.102777777
+                ]
+            },
+            "properties": {
+                "name": "Lac Lilo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.623055555,
+                    -4.351944444
+                ]
+            },
+            "properties": {
+                "name": "Lac Louandjili",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.588888888,
+                    -4.323611111
+                ]
+            },
+            "properties": {
+                "name": "Lac Loufoumbo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.083888888,
+                    -4.626944444
+                ]
+            },
+            "properties": {
+                "name": "Niombo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.388055555,
+                    -4.778333333
+                ]
+            },
+            "properties": {
+                "name": "Nioundo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4608,
+                    -3.6317
+                ]
+            },
+            "properties": {
+                "name": "Maala",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.831111111,
+                    -3.8375
+                ]
+            },
+            "properties": {
+                "name": "Q22615566",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.848333333,
+                    -3.890833333
+                ]
+            },
+            "properties": {
+                "name": "Mabou",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.161666666,
+                    1.239722222
+                ]
+            },
+            "properties": {
+                "name": "Lac Malara",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.322777777,
+                    -4.245833333
+                ]
+            },
+            "properties": {
+                "name": "Lac Malosa",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.801388888,
+                    1.853888888
+                ]
+            },
+            "properties": {
+                "name": "Lac Manangoya",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.095277777,
+                    -3.077777777
+                ]
+            },
+            "properties": {
+                "name": "Gamfoula",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.716111111,
+                    -4.672777777
+                ]
+            },
+            "properties": {
+                "name": "Gandabounzi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.693333333,
+                    -3.670555555
+                ]
+            },
+            "properties": {
+                "name": "Dibada",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.876111111,
+                    1.434722222
+                ]
+            },
+            "properties": {
+                "name": "Lac Massingala",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.803611111,
+                    -3.835833333
+                ]
+            },
+            "properties": {
+                "name": "Sinda",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.076944444,
+                    -3.581111111
+                ]
+            },
+            "properties": {
+                "name": "Q22630975",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.887777777,
+                    -1.757222222
+                ]
+            },
+            "properties": {
+                "name": "Lac Mbili",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.013611111,
+                    -4.532222222
+                ]
+            },
+            "properties": {
+                "name": "Lac Mbouda",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.125,
+                    -4.726666666
+                ]
+            },
+            "properties": {
+                "name": "Lac Bindi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.215555555,
+                    1.260833333
+                ]
+            },
+            "properties": {
+                "name": "Q22633292",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.722777777,
+                    -4.692777777
+                ]
+            },
+            "properties": {
+                "name": "Djambala",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.563888888,
+                    -1.450277777
+                ]
+            },
+            "properties": {
+                "name": "Lac Bouatanga",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.353055555,
+                    -4.735555555
+                ]
+            },
+            "properties": {
+                "name": "Lac Bouta",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3047,
+                    -4.32
+                ]
+            },
+            "properties": {
+                "name": "Mvouka",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9792,
+                    -2.5483
+                ]
+            },
+            "properties": {
+                "name": "Yama",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.496111111,
+                    -1.341666666
+                ]
+            },
+            "properties": {
+                "name": "Lac Ibila",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.841388888,
+                    -4.705
+                ]
+            },
+            "properties": {
+                "name": "Yooulo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9828,
+                    -4.3622
+                ]
+            },
+            "properties": {
+                "name": "Youngongo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.675555555,
+                    -4.701666666
+                ]
+            },
+            "properties": {
+                "name": "Sonanzanza",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.628055555,
+                    -4.468611111
+                ]
+            },
+            "properties": {
+                "name": "Badondo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4008,
+                    -4.2817
+                ]
+            },
+            "properties": {
+                "name": "Mont Kaba",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.189722222,
+                    -4.602777777
+                ]
+            },
+            "properties": {
+                "name": "Soundi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.36666667,
+                    0.95
+                ]
+            },
+            "properties": {
+                "name": "Lake Mboukou",
+                "article": "https://en.wikipedia.org/wiki/Lake_Mboukou"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.811388888,
+                    -4.656111111
+                ]
+            },
+            "properties": {
+                "name": "Loango, Republic of Congo",
+                "article": "https://en.wikipedia.org/wiki/Loango,_Republic_of_Congo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.897393,
+                    -4.805128
+                ]
+            },
+            "properties": {
+                "name": "Q56302464",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.69888889,
+                    -4.21805556
+                ]
+            },
+            "properties": {
+                "name": "Q60848484",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.322777777,
+                    1.411666666
+                ]
+            },
+            "properties": {
+                "name": "Pokola",
+                "article": "https://en.wikipedia.org/wiki/Pokola"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.265833333,
+                    -4.291111111
+                ]
+            },
+            "properties": {
+                "name": "Case de Gaulle",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.840066,
+                    -4.801237
+                ]
+            },
+            "properties": {
+                "name": "Gare de Pointe-Noire",
+                "article": "https://en.wikipedia.org/wiki/Pointe-Noire_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2884,
+                    -4.2694
+                ]
+            },
+            "properties": {
+                "name": "Gare de Brazzaville",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.28303,
+                    -4.18939
+                ]
+            },
+            "properties": {
+                "name": "Q72865106",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.349166666,
+                    -4.135833333
+                ]
+            },
+            "properties": {
+                "name": "Kintélé",
+                "article": "https://en.wikipedia.org/wiki/Kint%C3%A9l%C3%A9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.67611,
+                    -4.19822
+                ]
+            },
+            "properties": {
+                "name": "Q112033500",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.756999135,
+                    -4.155278676
+                ]
+            },
+            "properties": {
+                "name": "Tao-Tao",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.624680399,
+                    -4.196603436
+                ]
+            },
+            "properties": {
+                "name": "Moukondo station",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.666667,
+                    -4.2
+                ]
+            },
+            "properties": {
+                "name": "Q113835989",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.866666336,
+                    -4.715041034
+                ]
+            },
+            "properties": {
+                "name": "Q130076414",
+                "article": null
+            }
+        }
+    ]
+}

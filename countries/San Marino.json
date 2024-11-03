@@ -1,0 +1,201 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.452222222,
+                    43.928333333
+                ]
+            },
+            "properties": {
+                "name": "Monte Titano",
+                "article": "https://en.wikipedia.org/wiki/Monte_Titano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4526,
+                    43.9301
+                ]
+            },
+            "properties": {
+                "name": "Montale",
+                "article": "https://en.wikipedia.org/wiki/Montale_(San_Marino)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.464722222,
+                    43.906944444
+                ]
+            },
+            "properties": {
+                "name": "Monte San Cristoforo",
+                "article": "https://en.wikipedia.org/wiki/Monte_San_Cristoforo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4496,
+                    43.9354
+                ]
+            },
+            "properties": {
+                "name": "Guaita",
+                "article": "https://en.wikipedia.org/wiki/Guaita"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4555556,
+                    43.915
+                ]
+            },
+            "properties": {
+                "name": "Q3498210",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.490289,
+                    43.930941
+                ]
+            },
+            "properties": {
+                "name": "Q3861877",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.472,
+                    43.9195
+                ]
+            },
+            "properties": {
+                "name": "Q3862154",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.447,
+                    43.9362
+                ]
+            },
+            "properties": {
+                "name": "Parva Domus",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.49319,
+                    43.982017
+                ]
+            },
+            "properties": {
+                "name": "World Trade Center, San Marino",
+                "article": "https://en.wikipedia.org/wiki/World_Trade_Center,_San_Marino"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4466,
+                    43.9412
+                ]
+            },
+            "properties": {
+                "name": "Borgo Maggiore railway station",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4917,
+                    43.9812
+                ]
+            },
+            "properties": {
+                "name": "Dogana railway station",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.47,
+                    43.9521
+                ]
+            },
+            "properties": {
+                "name": "Domagnano-Montelupo railway station",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4746,
+                    43.9674
+                ]
+            },
+            "properties": {
+                "name": "Serravalle railway station",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.44845,
+                    43.932011111
+                ]
+            },
+            "properties": {
+                "name": "San Marino",
+                "article": "https://en.wikipedia.org/wiki/City_of_San_Marino"
+            }
+        }
+    ]
+}

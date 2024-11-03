@@ -1,0 +1,3169 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.022777777,
+                    -0.760833333
+                ]
+            },
+            "properties": {
+                "name": "Isabela Island",
+                "article": "https://en.wikipedia.org/wiki/Isabela_Island_(Gal%C3%A1pagos)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.025277777,
+                    -0.592777777
+                ]
+            },
+            "properties": {
+                "name": "Isabela Island",
+                "article": "https://en.wikipedia.org/wiki/Isabela_Island_(Gal%C3%A1pagos)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.8583,
+                    -2.2267
+                ]
+            },
+            "properties": {
+                "name": "Santa Elena",
+                "article": "https://en.wikipedia.org/wiki/Santa_Elena,_Ecuador"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.6,
+                    -3.683333333
+                ]
+            },
+            "properties": {
+                "name": "Zaruma",
+                "article": "https://en.wikipedia.org/wiki/Zaruma"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.666666666,
+                    0.95
+                ]
+            },
+            "properties": {
+                "name": "Esmeraldas",
+                "article": "https://en.wikipedia.org/wiki/Esmeraldas,_Ecuador"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.437777777,
+                    -0.680555555
+                ]
+            },
+            "properties": {
+                "name": "Cotopaxi volcano",
+                "article": "https://en.wikipedia.org/wiki/Cotopaxi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.26666667,
+                    -0.45
+                ]
+            },
+            "properties": {
+                "name": "Baltra Island",
+                "article": "https://en.wikipedia.org/wiki/Baltra_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.441666666,
+                    -1.466944444
+                ]
+            },
+            "properties": {
+                "name": "Tungurahua volcano",
+                "article": "https://en.wikipedia.org/wiki/Tungurahua"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.628888888,
+                    -1.242222222
+                ]
+            },
+            "properties": {
+                "name": "Ambato",
+                "article": "https://en.wikipedia.org/wiki/Ambato,_Ecuador"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.709,
+                    -0.413
+                ]
+            },
+            "properties": {
+                "name": "Rábida Island",
+                "article": "https://en.wikipedia.org/wiki/R%C3%A1bida_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.011111111,
+                    -2.925833333
+                ]
+            },
+            "properties": {
+                "name": "Turi",
+                "article": "https://en.wikipedia.org/wiki/Turi,_Ecuador"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.440277777,
+                    -2.212222222
+                ]
+            },
+            "properties": {
+                "name": "Coronel Marcelino Maridueña",
+                "article": "https://en.wikipedia.org/wiki/Coronel_Marcelino_Maridue%C3%B1a"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.002222222,
+                    -1.490277777
+                ]
+            },
+            "properties": {
+                "name": "Puyo",
+                "article": "https://en.wikipedia.org/wiki/Puyo,_Pastaza"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.891111111,
+                    0.084444444
+                ]
+            },
+            "properties": {
+                "name": "Nueva Loja",
+                "article": "https://en.wikipedia.org/wiki/Nueva_Loja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.609166666,
+                    -0.9025
+                ]
+            },
+            "properties": {
+                "name": "Puerto Baquerizo Moreno",
+                "article": "https://en.wikipedia.org/wiki/Puerto_Baquerizo_Moreno"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.35805556,
+                    -0.64361111
+                ]
+            },
+            "properties": {
+                "name": "Santa Cruz Island",
+                "article": "https://en.wikipedia.org/wiki/Santa_Cruz_Island_(Gal%C3%A1pagos)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.713611111,
+                    -0.659444444
+                ]
+            },
+            "properties": {
+                "name": "Illiniza volcano",
+                "article": "https://en.wikipedia.org/wiki/Illiniza"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.598888888,
+                    -0.177222222
+                ]
+            },
+            "properties": {
+                "name": "Pichincha Volcano",
+                "article": "https://en.wikipedia.org/wiki/Pichincha_(volcano)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.411111111,
+                    -1.664166666
+                ]
+            },
+            "properties": {
+                "name": "El Altar volcano",
+                "article": "https://en.wikipedia.org/wiki/El_Altar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.7162,
+                    -0.950022222
+                ]
+            },
+            "properties": {
+                "name": "Manta",
+                "article": "https://en.wikipedia.org/wiki/Manta,_Ecuador"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.8159,
+                    -0.989
+                ]
+            },
+            "properties": {
+                "name": "Tena",
+                "article": "https://en.wikipedia.org/wiki/Tena,_Ecuador"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.26666667,
+                    0.3
+                ]
+            },
+            "properties": {
+                "name": "Cotacachi",
+                "article": "https://en.wikipedia.org/wiki/Cotacachi_(city)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.313888888,
+                    -0.744444444
+                ]
+            },
+            "properties": {
+                "name": "Puerto Ayora",
+                "article": "https://en.wikipedia.org/wiki/Puerto_Ayora"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.98333333,
+                    -1.86666667
+                ]
+            },
+            "properties": {
+                "name": "Daule",
+                "article": "https://en.wikipedia.org/wiki/Daule,_Guayas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.66666667,
+                    -1.05
+                ]
+            },
+            "properties": {
+                "name": "Monte Cristi",
+                "article": "https://en.wikipedia.org/wiki/Montecristi,_Ecuador"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.116666666,
+                    -2.3
+                ]
+            },
+            "properties": {
+                "name": "Macas",
+                "article": "https://en.wikipedia.org/wiki/Macas_(city)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.984166666,
+                    -0.4625
+                ]
+            },
+            "properties": {
+                "name": "Coca",
+                "article": "https://en.wikipedia.org/wiki/Puerto_Francisco_de_Orellana"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.997527777,
+                    -2.906388888
+                ]
+            },
+            "properties": {
+                "name": "Tumebamba",
+                "article": "https://en.wikipedia.org/wiki/Tumebamba"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.266667,
+                    0.233333
+                ]
+            },
+            "properties": {
+                "name": "Otavalo",
+                "article": "https://en.wikipedia.org/wiki/Otavalo_(city)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.968055555,
+                    -2.208333333
+                ]
+            },
+            "properties": {
+                "name": "Salinas",
+                "article": "https://en.wikipedia.org/wiki/Salinas,_Ecuador"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.253138888,
+                    0.1272
+                ]
+            },
+            "properties": {
+                "name": "Puerto Quito",
+                "article": "https://en.wikipedia.org/wiki/Puerto_Quito"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.75,
+                    -1.406944444
+                ]
+            },
+            "properties": {
+                "name": "Carihuairazo volcano",
+                "article": "https://en.wikipedia.org/wiki/Carihuairazo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.434166666,
+                    -1.2975
+                ]
+            },
+            "properties": {
+                "name": "Floreana Island",
+                "article": "https://en.wikipedia.org/wiki/Floreana_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.156111111,
+                    0.043888888
+                ]
+            },
+            "properties": {
+                "name": "Cayambe",
+                "article": "https://en.wikipedia.org/wiki/Cayambe,_Ecuador"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.408333333,
+                    -0.916666666
+                ]
+            },
+            "properties": {
+                "name": "Cerro Azul",
+                "article": "https://en.wikipedia.org/wiki/Cerro_Azul_(Ecuador_volcano)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.683333333,
+                    -1.366666666
+                ]
+            },
+            "properties": {
+                "name": "Española Island",
+                "article": "https://en.wikipedia.org/wiki/Espa%C3%B1ola_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.753588888,
+                    0.5833
+                ]
+            },
+            "properties": {
+                "name": "Pinta Island",
+                "article": "https://en.wikipedia.org/wiki/Pinta_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.831111111,
+                    -2.173333333
+                ]
+            },
+            "properties": {
+                "name": "Durán",
+                "article": "https://en.wikipedia.org/wiki/Dur%C3%A1n,_Ecuador"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.349166666,
+                    -0.360833333
+                ]
+            },
+            "properties": {
+                "name": "Cotacachi Volcano",
+                "article": "https://en.wikipedia.org/wiki/Cotacachi_Volcano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.5,
+                    0.35
+                ]
+            },
+            "properties": {
+                "name": "Marchena Island",
+                "article": "https://en.wikipedia.org/wiki/Marchena_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.815,
+                    1.3825
+                ]
+            },
+            "properties": {
+                "name": "Wolf Island",
+                "article": "https://en.wikipedia.org/wiki/Wolf_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.17,
+                    -0.83
+                ]
+            },
+            "properties": {
+                "name": "Sierra Negra",
+                "article": "https://en.wikipedia.org/wiki/Sierra_Negra_(Gal%C3%A1pagos)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.65,
+                    -0.6
+                ]
+            },
+            "properties": {
+                "name": "Pinzón Island",
+                "article": "https://en.wikipedia.org/wiki/Pinz%C3%B3n_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.9675,
+                    -0.956666666
+                ]
+            },
+            "properties": {
+                "name": "Puerto Villamil",
+                "article": "https://en.wikipedia.org/wiki/Puerto_Villamil"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.1625,
+                    -0.583611
+                ]
+            },
+            "properties": {
+                "name": "South Plaza Island",
+                "article": "https://en.wikipedia.org/wiki/South_Plaza_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.5125,
+                    -0.22
+                ]
+            },
+            "properties": {
+                "name": "Quito",
+                "article": "https://en.wikipedia.org/wiki/Quito"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.340833333,
+                    -2.0025
+                ]
+            },
+            "properties": {
+                "name": "Sangay volcano",
+                "article": "https://en.wikipedia.org/wiki/Sangay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.140833333,
+                    -0.481388888
+                ]
+            },
+            "properties": {
+                "name": "Antisana volcano",
+                "article": "https://en.wikipedia.org/wiki/Antisana"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.8175,
+                    -1.469166666
+                ]
+            },
+            "properties": {
+                "name": "Chimborazo",
+                "article": "https://en.wikipedia.org/wiki/Chimborazo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8875,
+                    -2.19
+                ]
+            },
+            "properties": {
+                "name": "Guayaquil",
+                "article": "https://en.wikipedia.org/wiki/Guayaquil"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.004480555,
+                    -2.897413888
+                ]
+            },
+            "properties": {
+                "name": "Cuenca",
+                "article": "https://en.wikipedia.org/wiki/Cuenca,_Ecuador"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.56,
+                    -4.32
+                ]
+            },
+            "properties": {
+                "name": "Cariamanga",
+                "article": "https://en.wikipedia.org/wiki/Cariamanga"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.966666666,
+                    -3.266666666
+                ]
+            },
+            "properties": {
+                "name": "Machala",
+                "article": "https://en.wikipedia.org/wiki/Machala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.656111111,
+                    -0.076944444
+                ]
+            },
+            "properties": {
+                "name": "Reventador",
+                "article": "https://en.wikipedia.org/wiki/Reventador"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.003055555,
+                    -1.605555555
+                ]
+            },
+            "properties": {
+                "name": "Guaranda",
+                "article": "https://en.wikipedia.org/wiki/Guaranda"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.725555555,
+                    -1.961111111
+                ]
+            },
+            "properties": {
+                "name": "Samborondón",
+                "article": "https://en.wikipedia.org/wiki/Samborond%C3%B3n"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.616666666,
+                    -0.933333333
+                ]
+            },
+            "properties": {
+                "name": "Latacunga",
+                "article": "https://en.wikipedia.org/wiki/Latacunga"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.548611111,
+                    -0.285
+                ]
+            },
+            "properties": {
+                "name": "Bartolomé Island",
+                "article": "https://en.wikipedia.org/wiki/Bartolom%C3%A9_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.06,
+                    -0.82
+                ]
+            },
+            "properties": {
+                "name": "Santa Fe Island",
+                "article": "https://en.wikipedia.org/wiki/Santa_Fe_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.7,
+                    -0.25
+                ]
+            },
+            "properties": {
+                "name": "Santiago Island",
+                "article": "https://en.wikipedia.org/wiki/Santiago_Island_(Gal%C3%A1pagos)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.648333333,
+                    -1.673055555
+                ]
+            },
+            "properties": {
+                "name": "Riobamba",
+                "article": "https://en.wikipedia.org/wiki/Riobamba"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.2841,
+                    -0.3915
+                ]
+            },
+            "properties": {
+                "name": "North Seymour Island",
+                "article": "https://en.wikipedia.org/wiki/North_Seymour_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.998611111,
+                    1.6675
+                ]
+            },
+            "properties": {
+                "name": "Darwin Island",
+                "article": "https://en.wikipedia.org/wiki/Darwin_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.3725,
+                    -0.4225
+                ]
+            },
+            "properties": {
+                "name": "Daphne Major",
+                "article": "https://en.wikipedia.org/wiki/Daphne_Major"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.506944444,
+                    -1.311944444
+                ]
+            },
+            "properties": {
+                "name": "Patate",
+                "article": "https://en.wikipedia.org/wiki/Patate"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.718611111,
+                    0.811666666
+                ]
+            },
+            "properties": {
+                "name": "Tulcán",
+                "article": "https://en.wikipedia.org/wiki/Tulc%C3%A1n"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.833333333,
+                    0.866666666
+                ]
+            },
+            "properties": {
+                "name": "Atacames",
+                "article": "https://en.wikipedia.org/wiki/Atacames"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.9888,
+                    0.0239
+                ]
+            },
+            "properties": {
+                "name": "Cayambe",
+                "article": "https://en.wikipedia.org/wiki/Cayambe_(volcano)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.45,
+                    -1.033333333
+                ]
+            },
+            "properties": {
+                "name": "Quevedo",
+                "article": "https://en.wikipedia.org/wiki/Quevedo,_Ecuador"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.587222222,
+                    -2.134722222
+                ]
+            },
+            "properties": {
+                "name": "Milagro",
+                "article": "https://en.wikipedia.org/wiki/Milagro,_Ecuador"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.833333333,
+                    -2.733333333
+                ]
+            },
+            "properties": {
+                "name": "Azogues",
+                "article": "https://en.wikipedia.org/wiki/Azogues"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.516666666,
+                    -1.816666666
+                ]
+            },
+            "properties": {
+                "name": "Babahoyo",
+                "article": "https://en.wikipedia.org/wiki/Babahoyo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.424722222,
+                    -1.396388888
+                ]
+            },
+            "properties": {
+                "name": "Baños",
+                "article": "https://en.wikipedia.org/wiki/Ba%C3%B1os_de_Agua_Santa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.4,
+                    -0.8
+                ]
+            },
+            "properties": {
+                "name": "San Cristóbal Island",
+                "article": "https://en.wikipedia.org/wiki/San_Crist%C3%B3bal_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.47,
+                    -1.45
+                ]
+            },
+            "properties": {
+                "name": "Ventanas",
+                "article": "https://en.wikipedia.org/wiki/Ventanas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.205,
+                    -3.990555555
+                ]
+            },
+            "properties": {
+                "name": "Loja",
+                "article": "https://en.wikipedia.org/wiki/Loja,_Ecuador"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.13,
+                    0.362778
+                ]
+            },
+            "properties": {
+                "name": "Ibarra",
+                "article": "https://en.wikipedia.org/wiki/Ibarra,_Ecuador"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.465277777,
+                    -2.166666666
+                ]
+            },
+            "properties": {
+                "name": "Naranjito",
+                "article": "https://en.wikipedia.org/wiki/Naranjito,_Ecuador"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.333333333,
+                    0.033333333
+                ]
+            },
+            "properties": {
+                "name": "Volcán Wolf",
+                "article": "https://en.wikipedia.org/wiki/Volc%C3%A1n_Wolf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.527261111,
+                    -0.219088888
+                ]
+            },
+            "properties": {
+                "name": "Battle of Pichincha",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Pichincha"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.6255,
+                    0.269883
+                ]
+            },
+            "properties": {
+                "name": "Redonda Rock",
+                "article": "https://en.wikipedia.org/wiki/Redonda_Rock"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.109104,
+                    -0.396583
+                ]
+            },
+            "properties": {
+                "name": "Alcedo Volcano",
+                "article": "https://en.wikipedia.org/wiki/Alcedo_Volcano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.875,
+                    -2.539722222
+                ]
+            },
+            "properties": {
+                "name": "Ingapirca",
+                "article": "https://en.wikipedia.org/wiki/Ingapirca"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.86666667,
+                    -1.6
+                ]
+            },
+            "properties": {
+                "name": "Isla Salango",
+                "article": "https://en.wikipedia.org/wiki/Salango_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.866666666,
+                    -1.6
+                ]
+            },
+            "properties": {
+                "name": "Isla Salango",
+                "article": "https://en.wikipedia.org/wiki/Salango_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.068611111,
+                    -1.278611111
+                ]
+            },
+            "properties": {
+                "name": "Isla de la Plata",
+                "article": "https://en.wikipedia.org/wiki/Isla_de_la_Plata"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.179722222,
+                    0.258055555
+                ]
+            },
+            "properties": {
+                "name": "Imbabura Volcano",
+                "article": "https://en.wikipedia.org/wiki/Imbabura_Volcano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.50888889,
+                    -0.58972222
+                ]
+            },
+            "properties": {
+                "name": "Rumiñahui volcano",
+                "article": "https://en.wikipedia.org/wiki/Rumi%C3%B1ahui_(volcano)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.9,
+                    -2.23333333
+                ]
+            },
+            "properties": {
+                "name": "La Libertad",
+                "article": "https://en.wikipedia.org/wiki/La_Libertad,_Ecuador"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.22407,
+                    0.20903
+                ]
+            },
+            "properties": {
+                "name": "Laguna de San Pablo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.223589658,
+                    0.209254753
+                ]
+            },
+            "properties": {
+                "name": "Laguna de San Pablo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.219132,
+                    0.205967
+                ]
+            },
+            "properties": {
+                "name": "Laguna de San Pablo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.518611111,
+                    -0.228611111
+                ]
+            },
+            "properties": {
+                "name": "El Panecillo",
+                "article": "https://en.wikipedia.org/wiki/El_Panecillo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.8729,
+                    -1.00919
+                ]
+            },
+            "properties": {
+                "name": "Tortuga Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.133333333,
+                    -2.833333333
+                ]
+            },
+            "properties": {
+                "name": "Puná Island",
+                "article": "https://en.wikipedia.org/wiki/Pun%C3%A1_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.69,
+                    -0.95
+                ]
+            },
+            "properties": {
+                "name": "Pujilí",
+                "article": "https://en.wikipedia.org/wiki/Pujil%C3%AD"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.58333333,
+                    -1.05
+                ]
+            },
+            "properties": {
+                "name": "San Miguel de Salcedo",
+                "article": "https://en.wikipedia.org/wiki/Salcedo,_Ecuador"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.240277777,
+                    -3.621388888
+                ]
+            },
+            "properties": {
+                "name": "Saraguro",
+                "article": "https://en.wikipedia.org/wiki/Saraguro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.956666666,
+                    -4.069166666
+                ]
+            },
+            "properties": {
+                "name": "Zamora",
+                "article": "https://en.wikipedia.org/wiki/Zamora,_Ecuador"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.4475,
+                    -0.334444
+                ]
+            },
+            "properties": {
+                "name": "Sangolquí",
+                "article": "https://en.wikipedia.org/wiki/Sangolqu%C3%AD"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.234722222,
+                    -0.941666666
+                ]
+            },
+            "properties": {
+                "name": "La Maná",
+                "article": "https://en.wikipedia.org/wiki/La_Man%C3%A1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.846388888,
+                    -2.201388888
+                ]
+            },
+            "properties": {
+                "name": "Alausi",
+                "article": "https://en.wikipedia.org/wiki/Alaus%C3%AD"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.25,
+                    -0.375
+                ]
+            },
+            "properties": {
+                "name": "Chacana",
+                "article": "https://en.wikipedia.org/wiki/Chacana"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.483333333,
+                    -0.433333333
+                ]
+            },
+            "properties": {
+                "name": "Pasochoa",
+                "article": "https://en.wikipedia.org/wiki/Pasochoa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.935,
+                    0.82111111
+                ]
+            },
+            "properties": {
+                "name": "Chiles volcano",
+                "article": "https://en.wikipedia.org/wiki/Chiles_(volcano)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.463,
+                    0.038
+                ]
+            },
+            "properties": {
+                "name": "Pululagua",
+                "article": "https://en.wikipedia.org/wiki/Pululahua"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.283333333,
+                    -0.183333333
+                ]
+            },
+            "properties": {
+                "name": "Volcán Darwin",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.425,
+                    -0.6
+                ]
+            },
+            "properties": {
+                "name": "Bahía de Caráquez",
+                "article": "https://en.wikipedia.org/wiki/Bah%C3%ADa_de_Car%C3%A1quez"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.1,
+                    -0.68333333
+                ]
+            },
+            "properties": {
+                "name": "Chone",
+                "article": "https://en.wikipedia.org/wiki/Chone,_Ecuador"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.990725,
+                    1.671986
+                ]
+            },
+            "properties": {
+                "name": "Darwin's Arch",
+                "article": "https://en.wikipedia.org/wiki/Darwin%27s_Arch"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.650235212,
+                    -2.170589374
+                ]
+            },
+            "properties": {
+                "name": "Battle of Yaguachi",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Yaguachi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.457222222,
+                    -1.293611111
+                ]
+            },
+            "properties": {
+                "name": "Cerro Pajas",
+                "article": "https://en.wikipedia.org/wiki/Cerro_Pajas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.543,
+                    -2.3325
+                ]
+            },
+            "properties": {
+                "name": "Cerro Soroche",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.287,
+                    0.468
+                ]
+            },
+            "properties": {
+                "name": "Chachimbiro",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.492,
+                    -3.5005
+                ]
+            },
+            "properties": {
+                "name": "Battle of Punta Malpelo",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Punta_Malpelo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.48,
+                    -0.895
+                ]
+            },
+            "properties": {
+                "name": "El Junco",
+                "article": "https://en.wikipedia.org/wiki/El_Junco"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -59.95678,
+                    -37.89303
+                ]
+            },
+            "properties": {
+                "name": "El Junco",
+                "article": "https://en.wikipedia.org/wiki/El_Junco"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.39,
+                    -2.63
+                ]
+            },
+            "properties": {
+                "name": "General Villamil",
+                "article": "https://en.wikipedia.org/wiki/Playas,_Ecuador"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.613,
+                    -1.78
+                ]
+            },
+            "properties": {
+                "name": "Licto volcanic field",
+                "article": "https://en.wikipedia.org/wiki/Licto_volcanic_field"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.5125,
+                    -0.21972222
+                ]
+            },
+            "properties": {
+                "name": "Carondelet Palace",
+                "article": "https://en.wikipedia.org/wiki/Palacio_de_Carondelet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.231666666,
+                    -3.480277777
+                ]
+            },
+            "properties": {
+                "name": "Huaquillas",
+                "article": "https://en.wikipedia.org/wiki/Huaquillas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8049,
+                    -3.3269
+                ]
+            },
+            "properties": {
+                "name": "Pasaje",
+                "article": "https://en.wikipedia.org/wiki/Pasaje"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.488,
+                    -1.2748
+                ]
+            },
+            "properties": {
+                "name": "Puerto Velasco Ibarra",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.33046,
+                    -0.784125
+                ]
+            },
+            "properties": {
+                "name": "Quilindaña",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.5193,
+                    -0.777452
+                ]
+            },
+            "properties": {
+                "name": "León Dormido",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.58,
+                    0.552
+                ]
+            },
+            "properties": {
+                "name": "Soche",
+                "article": "https://en.wikipedia.org/wiki/Soche"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.5,
+                    -4.0
+                ]
+            },
+            "properties": {
+                "name": "Cordillera del Cóndor",
+                "article": "https://en.wikipedia.org/wiki/Cordillera_del_C%C3%B3ndor"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.54277778,
+                    -1.33055556
+                ]
+            },
+            "properties": {
+                "name": "Pelileo",
+                "article": "https://en.wikipedia.org/wiki/Pelileo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.69,
+                    -2.12
+                ]
+            },
+            "properties": {
+                "name": "Yaguachi Nuevo",
+                "article": "https://en.wikipedia.org/wiki/Yaguachi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.828888888,
+                    0.592777777
+                ]
+            },
+            "properties": {
+                "name": "San Gabriel",
+                "article": "https://en.wikipedia.org/wiki/San_Gabriel,_Ecuador"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.638333333,
+                    -1.043888888
+                ]
+            },
+            "properties": {
+                "name": "Velasco Ibarra",
+                "article": "https://en.wikipedia.org/wiki/El_Empalme,_Ecuador"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8292,
+                    -3.2388
+                ]
+            },
+            "properties": {
+                "name": "El Guabo",
+                "article": "https://en.wikipedia.org/wiki/El_Guabo,_Ecuador"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.4,
+                    -2.33
+                ]
+            },
+            "properties": {
+                "name": "El Triunfo",
+                "article": "https://en.wikipedia.org/wiki/El_Triunfo,_Ecuador"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.01971,
+                    -4.01808
+                ]
+            },
+            "properties": {
+                "name": "Alamor",
+                "article": "https://en.wikipedia.org/wiki/Alamor"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.5575,
+                    -1.891666666
+                ]
+            },
+            "properties": {
+                "name": "Jujan",
+                "article": "https://en.wikipedia.org/wiki/Alfredo_Baquerizo_Moreno_(town)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.213611111,
+                    0.3325
+                ]
+            },
+            "properties": {
+                "name": "Atuntaqui",
+                "article": "https://en.wikipedia.org/wiki/Atuntaqui"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.940555555,
+                    0.391111111
+                ]
+            },
+            "properties": {
+                "name": "Pimampiro",
+                "article": "https://en.wikipedia.org/wiki/Pimampiro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.80772,
+                    -0.9095
+                ]
+            },
+            "properties": {
+                "name": "Archidona",
+                "article": "https://en.wikipedia.org/wiki/Archidona,_Ecuador"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.89277778,
+                    -0.46361111
+                ]
+            },
+            "properties": {
+                "name": "Baeza",
+                "article": "https://en.wikipedia.org/wiki/Baeza,_Ecuador"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.81,
+                    -2.91
+                ]
+            },
+            "properties": {
+                "name": "Balao",
+                "article": "https://en.wikipedia.org/wiki/Balao"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.82363,
+                    -3.76087
+                ]
+            },
+            "properties": {
+                "name": "Balsas",
+                "article": "https://en.wikipedia.org/wiki/Balsas,_Ecuador"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9,
+                    -1.36
+                ]
+            },
+            "properties": {
+                "name": "Balzar",
+                "article": "https://en.wikipedia.org/wiki/Balzar,_Ecuador"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.889885,
+                    -2.193661
+                ]
+            },
+            "properties": {
+                "name": "Battle of Guayaquil",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Guayaquil"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.138888888,
+                    -2.201666666
+                ]
+            },
+            "properties": {
+                "name": "Bucay",
+                "article": "https://en.wikipedia.org/wiki/Bucay,_Ecuador"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.490722222,
+                    -0.893194444
+                ]
+            },
+            "properties": {
+                "name": "Buena Fe",
+                "article": "https://en.wikipedia.org/wiki/Buena_Fe,_Ecuador"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.77273,
+                    -1.70154
+                ]
+            },
+            "properties": {
+                "name": "Villa La Unión",
+                "article": "https://en.wikipedia.org/wiki/Cajabamba,_Ecuador"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.17,
+                    -0.84
+                ]
+            },
+            "properties": {
+                "name": "Calceta",
+                "article": "https://en.wikipedia.org/wiki/Calceta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.256944444,
+                    -1.6325
+                ]
+            },
+            "properties": {
+                "name": "Caluma",
+                "article": "https://en.wikipedia.org/wiki/Caluma"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.73333333,
+                    -3.05
+                ]
+            },
+            "properties": {
+                "name": "Camilo Ponce Enríquez",
+                "article": "https://en.wikipedia.org/wiki/Camilo_Ponce_Enr%C3%ADquez_(parish)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.645277777,
+                    -4.052222222
+                ]
+            },
+            "properties": {
+                "name": "Catacocha",
+                "article": "https://en.wikipedia.org/wiki/Catacocha"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.47,
+                    -1.57
+                ]
+            },
+            "properties": {
+                "name": "Catarama",
+                "article": "https://en.wikipedia.org/wiki/Catarama"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.42869444,
+                    0.0
+                ]
+            },
+            "properties": {
+                "name": "Catequilla",
+                "article": "https://en.wikipedia.org/wiki/Catequilla"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.469444444,
+                    -3.564166666
+                ]
+            },
+            "properties": {
+                "name": "Cerro de Arcos",
+                "article": "https://en.wikipedia.org/wiki/Cerro_de_Arcos"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.06666667,
+                    -1.93333333
+                ]
+            },
+            "properties": {
+                "name": "Chillanes",
+                "article": "https://en.wikipedia.org/wiki/Chillanes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.02537,
+                    -1.68341
+                ]
+            },
+            "properties": {
+                "name": "Chimbo",
+                "article": "https://en.wikipedia.org/wiki/Chimbo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.30408333,
+                    0.05505556
+                ]
+            },
+            "properties": {
+                "name": "Cochasquí",
+                "article": "https://en.wikipedia.org/wiki/Cochasqu%C3%AD"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.9198,
+                    -2.28933
+                ]
+            },
+            "properties": {
+                "name": "Chunchi",
+                "article": "https://en.wikipedia.org/wiki/Chunchi,_Ecuador"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.0093,
+                    -1.54651
+                ]
+            },
+            "properties": {
+                "name": "Colimes",
+                "article": "https://en.wikipedia.org/wiki/Colimes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.22168,
+                    0.04774
+                ]
+            },
+            "properties": {
+                "name": "Tabacundo",
+                "article": "https://en.wikipedia.org/wiki/Tabacundo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.280277777,
+                    -1.431388888
+                ]
+            },
+            "properties": {
+                "name": "Echeandía",
+                "article": "https://en.wikipedia.org/wiki/Echeand%C3%ADa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.147568,
+                    -3.159028
+                ]
+            },
+            "properties": {
+                "name": "Girón",
+                "article": "https://en.wikipedia.org/wiki/Gir%C3%B3n,_Azuay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.58114,
+                    -3.40111
+                ]
+            },
+            "properties": {
+                "name": "Gualaquiza",
+                "article": "https://en.wikipedia.org/wiki/Gualaquiza"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.58539,
+                    -3.62551
+                ]
+            },
+            "properties": {
+                "name": "El Pangui",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.85028,
+                    -4.57472
+                ]
+            },
+            "properties": {
+                "name": "Alto Nangaritza",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.264380555,
+                    -3.155769444
+                ]
+            },
+            "properties": {
+                "name": "Busa Lake",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.2675,
+                    -3.3775
+                ]
+            },
+            "properties": {
+                "name": "Isla Puercos",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.733333333,
+                    -1.55
+                ]
+            },
+            "properties": {
+                "name": "Vinces",
+                "article": "https://en.wikipedia.org/wiki/Vinces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.06113,
+                    -1.49973
+                ]
+            },
+            "properties": {
+                "name": "Shell",
+                "article": "https://en.wikipedia.org/wiki/Shell,_Ecuador"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.810555555,
+                    -1.558888888
+                ]
+            },
+            "properties": {
+                "name": "Puerto López",
+                "article": "https://en.wikipedia.org/wiki/Puerto_L%C3%B3pez"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.760555555,
+                    -3.827777777
+                ]
+            },
+            "properties": {
+                "name": "Yantzaza",
+                "article": "https://en.wikipedia.org/wiki/Yantzaza"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.234166666,
+                    -0.786388888
+                ]
+            },
+            "properties": {
+                "name": "Tosagua",
+                "article": "https://en.wikipedia.org/wiki/Tosagua"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.68201,
+                    -4.04687
+                ]
+            },
+            "properties": {
+                "name": "Guayzimi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.63,
+                    -0.418888888
+                ]
+            },
+            "properties": {
+                "name": "Isla Beagle",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.61666667,
+                    -0.41666667
+                ]
+            },
+            "properties": {
+                "name": "Isla Beagle",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.56666667,
+                    -0.85
+                ]
+            },
+            "properties": {
+                "name": "Lobos Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.28138889,
+                    -3.38444444
+                ]
+            },
+            "properties": {
+                "name": "Isla Payana",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.436111111,
+                    -3.173611111
+                ]
+            },
+            "properties": {
+                "name": "Q5921929",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.58361111,
+                    -0.36944444
+                ]
+            },
+            "properties": {
+                "name": "Sombrero Chino island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.26833333,
+                    -3.41055556
+                ]
+            },
+            "properties": {
+                "name": "Isla Vacas",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.7147,
+                    -0.6639
+                ]
+            },
+            "properties": {
+                "name": "Iliniza Sur",
+                "article": "https://en.wikipedia.org/wiki/Iliniza_Sur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.4964,
+                    -0.20987
+                ]
+            },
+            "properties": {
+                "name": "Benjamín Carrión Palace",
+                "article": "https://en.wikipedia.org/wiki/Benjam%C3%ADn_Carri%C3%B3n_Palace"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.88092,
+                    -2.195168
+                ]
+            },
+            "properties": {
+                "name": "Q6057736",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.5123,
+                    -0.231
+                ]
+            },
+            "properties": {
+                "name": "Palacio de La Recoleta",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.5125,
+                    -0.219722222
+                ]
+            },
+            "properties": {
+                "name": "Palacio de la Curia Metropolitana",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.39154,
+                    -1.70571
+                ]
+            },
+            "properties": {
+                "name": "La Unión",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.144722222,
+                    -1.880833333
+                ]
+            },
+            "properties": {
+                "name": "Isidro Ayora",
+                "article": "https://en.wikipedia.org/wiki/Isidro_Ayora,_Ecuador"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.369969444,
+                    -0.652127777
+                ]
+            },
+            "properties": {
+                "name": "Isla Corazón",
+                "article": "https://en.wikipedia.org/wiki/Isla_Coraz%C3%B3n"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.496,
+                    -0.2081
+                ]
+            },
+            "properties": {
+                "name": "Torre CFN",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.48305556,
+                    0.20388889
+                ]
+            },
+            "properties": {
+                "name": "Torre Urban Plaza",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.338888888,
+                    -2.427777777
+                ]
+            },
+            "properties": {
+                "name": "La Troncal",
+                "article": "https://en.wikipedia.org/wiki/La_Troncal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.315833333,
+                    -1.285833333
+                ]
+            },
+            "properties": {
+                "name": "Las Naves",
+                "article": "https://en.wikipedia.org/wiki/Las_Naves"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.6,
+                    -0.66666667
+                ]
+            },
+            "properties": {
+                "name": "Nameless Island",
+                "article": "https://en.wikipedia.org/wiki/Nameless_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.19861,
+                    -2.62605
+                ]
+            },
+            "properties": {
+                "name": "Logroño",
+                "article": "https://en.wikipedia.org/wiki/Logro%C3%B1o,_Ecuador"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.085555555,
+                    -1.8775
+                ]
+            },
+            "properties": {
+                "name": "Lomas de Sargentillo",
+                "article": "https://en.wikipedia.org/wiki/Lomas_de_Sargentillo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.95,
+                    -4.383333333
+                ]
+            },
+            "properties": {
+                "name": "Macará",
+                "article": "https://en.wikipedia.org/wiki/Macar%C3%A1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.57,
+                    -0.51
+                ]
+            },
+            "properties": {
+                "name": "Machachi",
+                "article": "https://en.wikipedia.org/wiki/Machachi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.36666667,
+                    -1.23333333
+                ]
+            },
+            "properties": {
+                "name": "Q9009544",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.65,
+                    -1.35
+                ]
+            },
+            "properties": {
+                "name": "Q9009556",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.96666667,
+                    -0.96666667
+                ]
+            },
+            "properties": {
+                "name": "Las Tintoreras Islet",
+                "article": "https://en.wikipedia.org/wiki/Las_Tintoreras_Islet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.0183,
+                    0.6067
+                ]
+            },
+            "properties": {
+                "name": "Muisne",
+                "article": "https://en.wikipedia.org/wiki/Muisne"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.2,
+                    -0.066666666
+                ]
+            },
+            "properties": {
+                "name": "Pambamarca",
+                "article": "https://en.wikipedia.org/wiki/Pambamarca"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.61666667,
+                    -1.38333333
+                ]
+            },
+            "properties": {
+                "name": "Quero",
+                "article": "https://en.wikipedia.org/wiki/Santiago_de_Quero"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.468888888,
+                    0.327222222
+                ]
+            },
+            "properties": {
+                "name": "Rosa Zárate",
+                "article": "https://en.wikipedia.org/wiki/Quinind%C3%A9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.835277777,
+                    1.286388888
+                ]
+            },
+            "properties": {
+                "name": "San Lorenzo",
+                "article": "https://en.wikipedia.org/wiki/San_Lorenzo,_Ecuador"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.041944444,
+                    -1.708333333
+                ]
+            },
+            "properties": {
+                "name": "San Miguel",
+                "article": "https://en.wikipedia.org/wiki/San_Miguel,_Bol%C3%ADvar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.96166667,
+                    -3.45222222
+                ]
+            },
+            "properties": {
+                "name": "Santa Rosa",
+                "article": "https://en.wikipedia.org/wiki/Santa_Rosa,_El_Oro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8536,
+                    -2.2181
+                ]
+            },
+            "properties": {
+                "name": "Santay Island",
+                "article": "https://en.wikipedia.org/wiki/Santay_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.418611111,
+                    -1.279444444
+                ]
+            },
+            "properties": {
+                "name": "Sucre",
+                "article": "https://en.wikipedia.org/wiki/Sucre,_Manab%C3%AD"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.6806,
+                    -3.68056
+                ]
+            },
+            "properties": {
+                "name": "Piñas",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.98421,
+                    1.24994
+                ]
+            },
+            "properties": {
+                "name": "Valdez",
+                "article": "https://en.wikipedia.org/wiki/Valdez,_Esmeraldas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.53333333,
+                    -1.16666667
+                ]
+            },
+            "properties": {
+                "name": "Pillaro",
+                "article": "https://en.wikipedia.org/wiki/Pillaro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.459722222,
+                    -0.273611111
+                ]
+            },
+            "properties": {
+                "name": "El Carmen",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.42974,
+                    -2.9656
+                ]
+            },
+            "properties": {
+                "name": "General Leonidas Plaza Gutiérrez",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.42974,
+                    -2.9656
+                ]
+            },
+            "properties": {
+                "name": "General Leonidas Plaza Gutiérrez",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.23416,
+                    0.27208
+                ]
+            },
+            "properties": {
+                "name": "San Juan de Ilumán",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.85,
+                    -0.16666667
+                ]
+            },
+            "properties": {
+                "name": "Isla Albany",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.339722222,
+                    -1.308333333
+                ]
+            },
+            "properties": {
+                "name": "Isla Caldwell",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.36666667,
+                    -1.23333333
+                ]
+            },
+            "properties": {
+                "name": "Q9009544",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.65,
+                    -1.35
+                ]
+            },
+            "properties": {
+                "name": "Q9009556",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.96666667,
+                    -0.96666667
+                ]
+            },
+            "properties": {
+                "name": "Las Tintoreras Islet",
+                "article": "https://en.wikipedia.org/wiki/Las_Tintoreras_Islet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.9261,
+                    -3.63551
+                ]
+            },
+            "properties": {
+                "name": "May 28",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.7771,
+                    -3.89599
+                ]
+            },
+            "properties": {
+                "name": "Zumbi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.233333333,
+                    -1.816666666
+                ]
+            },
+            "properties": {
+                "name": "Pedro Carbo",
+                "article": "https://en.wikipedia.org/wiki/Pedro_Carbo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.17,
+                    -2.46
+                ]
+            },
+            "properties": {
+                "name": "Sucúa",
+                "article": "https://en.wikipedia.org/wiki/Suc%C3%BAa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.578611111,
+                    -1.348611111
+                ]
+            },
+            "properties": {
+                "name": "Jipijapa",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.06,
+                    -3.55
+                ]
+            },
+            "properties": {
+                "name": "Arenillas",
+                "article": null
+            }
+        }
+    ]
+}

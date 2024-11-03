@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.453333333,
+                    41.900555555
+                ]
+            },
+            "properties": {
+                "name": "Domus Sanctae Marthae",
+                "article": "https://en.wikipedia.org/wiki/Domus_Sanctae_Marthae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.45333333,
+                    41.90222222
+                ]
+            },
+            "properties": {
+                "name": "Vatican Grotto",
+                "article": "https://en.wikipedia.org/wiki/Vatican_Grottoes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.453293,
+                    41.902301
+                ]
+            },
+            "properties": {
+                "name": "Vatican Necropolis",
+                "article": "https://en.wikipedia.org/wiki/Vatican_Necropolis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4533,
+                    41.9022
+                ]
+            },
+            "properties": {
+                "name": "Saint Peter's tomb",
+                "article": "https://en.wikipedia.org/wiki/Saint_Peter%27s_tomb"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4525,
+                    41.904167
+                ]
+            },
+            "properties": {
+                "name": "Casina Pio IV",
+                "article": "https://en.wikipedia.org/wiki/Casina_Pio_IV"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.455913,
+                    41.905665
+                ]
+            },
+            "properties": {
+                "name": "Santa Rosa necropolis",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.447595,
+                    41.901546
+                ]
+            },
+            "properties": {
+                "name": "Saint John's Tower",
+                "article": "https://en.wikipedia.org/wiki/Saint_John%27s_Tower_(Vatican_City)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.45565,
+                    41.90502
+                ]
+            },
+            "properties": {
+                "name": "Via Pio X",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.45603,
+                    41.90448
+                ]
+            },
+            "properties": {
+                "name": "Via della Posta",
+                "article": null
+            }
+        }
+    ]
+}

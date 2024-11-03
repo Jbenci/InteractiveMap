@@ -1,0 +1,5367 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.133333,
+                    27.7
+                ]
+            },
+            "properties": {
+                "name": "Kanchenjunga",
+                "article": "https://en.wikipedia.org/wiki/Kangchenjunga"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.49,
+                    28.696666666
+                ]
+            },
+            "properties": {
+                "name": "Dhaulagiri",
+                "article": "https://en.wikipedia.org/wiki/Dhaulagiri"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.933333333,
+                    27.961666666
+                ]
+            },
+            "properties": {
+                "name": "Lhotse",
+                "article": "https://en.wikipedia.org/wiki/Lhotse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    87.088611111,
+                    27.889166666
+                ]
+            },
+            "properties": {
+                "name": "Makalu",
+                "article": "https://en.wikipedia.org/wiki/Makalu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    84.559722222,
+                    28.55
+                ]
+            },
+            "properties": {
+                "name": "Manaslu",
+                "article": "https://en.wikipedia.org/wiki/Manaslu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.660833333,
+                    28.094166666
+                ]
+            },
+            "properties": {
+                "name": "Cho Oyu",
+                "article": "https://en.wikipedia.org/wiki/Cho_Oyu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.921666666,
+                    26.712222222
+                ]
+            },
+            "properties": {
+                "name": "Janakpurdham",
+                "article": "https://en.wikipedia.org/wiki/Janakpur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.983333333,
+                    27.883333333
+                ]
+            },
+            "properties": {
+                "name": "Baruntse",
+                "article": "https://en.wikipedia.org/wiki/Baruntse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.766666666,
+                    27.918055555
+                ]
+            },
+            "properties": {
+                "name": "Cholatse",
+                "article": "https://en.wikipedia.org/wiki/Cholatse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.981944444,
+                    27.919166666
+                ]
+            },
+            "properties": {
+                "name": "Cho Polu",
+                "article": "https://en.wikipedia.org/wiki/Cho_Polu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    84.12219,
+                    28.53495
+                ]
+            },
+            "properties": {
+                "name": "Annapurna II",
+                "article": "https://en.wikipedia.org/wiki/Annapurna_II"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    84.135,
+                    28.53806
+                ]
+            },
+            "properties": {
+                "name": "Annapurna II",
+                "article": "https://en.wikipedia.org/wiki/Annapurna_II"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.861388888,
+                    27.861111111
+                ]
+            },
+            "properties": {
+                "name": "Ama Dablam",
+                "article": "https://en.wikipedia.org/wiki/Ama_Dablam"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.8167,
+                    27.7833
+                ]
+            },
+            "properties": {
+                "name": "Kangtega",
+                "article": "https://en.wikipedia.org/wiki/Kangtega"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.99,
+                    28.58527778
+                ]
+            },
+            "properties": {
+                "name": "Annapurna III",
+                "article": "https://en.wikipedia.org/wiki/Annapurna_III"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.742222222,
+                    28.098055555
+                ]
+            },
+            "properties": {
+                "name": "Gyachung Kang",
+                "article": "https://en.wikipedia.org/wiki/Gyachung_Kang"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.856666666,
+                    28.683333333
+                ]
+            },
+            "properties": {
+                "name": "Tilicho Lake",
+                "article": "https://en.wikipedia.org/wiki/Tilicho_Lake"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.933333333,
+                    27.916666666
+                ]
+            },
+            "properties": {
+                "name": "Imja Tse",
+                "article": "https://en.wikipedia.org/wiki/Imja_Tse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.93763,
+                    27.92509
+                ]
+            },
+            "properties": {
+                "name": "Imja Tse",
+                "article": "https://en.wikipedia.org/wiki/Imja_Tse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.278333333,
+                    26.764444444
+                ]
+            },
+            "properties": {
+                "name": "Gaur",
+                "article": "https://en.wikipedia.org/wiki/Gaur,_Nepal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.427777777,
+                    27.672222222
+                ]
+            },
+            "properties": {
+                "name": "Bhaktapur",
+                "article": "https://en.wikipedia.org/wiki/Bhaktapur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.633333333,
+                    28.6
+                ]
+            },
+            "properties": {
+                "name": "Birendranagar",
+                "article": "https://en.wikipedia.org/wiki/Birendranagar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.833333333,
+                    27.925
+                ]
+            },
+            "properties": {
+                "name": "Pokalde",
+                "article": "https://en.wikipedia.org/wiki/Pokalde"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.616666666,
+                    28.05
+                ]
+            },
+            "properties": {
+                "name": "Nepalgunj",
+                "article": "https://en.wikipedia.org/wiki/Nepalgunj"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.949166666,
+                    28.495
+                ]
+            },
+            "properties": {
+                "name": "Machhapuchhre",
+                "article": "https://en.wikipedia.org/wiki/Machapuchare"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.98,
+                    27.775833333
+                ]
+            },
+            "properties": {
+                "name": "Chamlang",
+                "article": "https://en.wikipedia.org/wiki/Chamlang"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.964166666,
+                    28.604722222
+                ]
+            },
+            "properties": {
+                "name": "Gangapurna",
+                "article": "https://en.wikipedia.org/wiki/Gangapurna"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.96336,
+                    28.6054
+                ]
+            },
+            "properties": {
+                "name": "Gangapurna",
+                "article": "https://en.wikipedia.org/wiki/Gangapurna"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.828056,
+                    28.014722
+                ]
+            },
+            "properties": {
+                "name": "Pumori",
+                "article": "https://en.wikipedia.org/wiki/Pumori"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.89,
+                    27.966388888
+                ]
+            },
+            "properties": {
+                "name": "Nuptse",
+                "article": "https://en.wikipedia.org/wiki/Nuptse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    84.639444444,
+                    28.436111111
+                ]
+            },
+            "properties": {
+                "name": "Himalchuli",
+                "article": "https://en.wikipedia.org/wiki/Himalchuli"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.947222222,
+                    28.214166666
+                ]
+            },
+            "properties": {
+                "name": "Phewa Lake",
+                "article": "https://en.wikipedia.org/wiki/Phewa_Lake"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.38795,
+                    28.76299
+                ]
+            },
+            "properties": {
+                "name": "Dhaulagiri II",
+                "article": "https://en.wikipedia.org/wiki/Dhaulagiri_II"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.38833333,
+                    28.76333333
+                ]
+            },
+            "properties": {
+                "name": "Dhaulagiri II",
+                "article": "https://en.wikipedia.org/wiki/Dhaulagiri_II"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.033333333,
+                    27.666666666
+                ]
+            },
+            "properties": {
+                "name": "Jannu",
+                "article": "https://en.wikipedia.org/wiki/Kumbhakarna_Mountain"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.789944444,
+                    27.9595
+                ]
+            },
+            "properties": {
+                "name": "Lobuche",
+                "article": "https://en.wikipedia.org/wiki/Lobuche"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.14583333,
+                    28.7475
+                ]
+            },
+            "properties": {
+                "name": "Putha Hiunchuli",
+                "article": "https://en.wikipedia.org/wiki/Putha_Hiunchuli"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.7875,
+                    27.790277777
+                ]
+            },
+            "properties": {
+                "name": "Thamserku",
+                "article": "https://en.wikipedia.org/wiki/Thamserku"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.970833,
+                    27.894722
+                ]
+            },
+            "properties": {
+                "name": "Num Ri",
+                "article": "https://en.wikipedia.org/wiki/Num_Ri"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.866666666,
+                    27.7
+                ]
+            },
+            "properties": {
+                "name": "Mera Peak",
+                "article": "https://en.wikipedia.org/wiki/Mera_Peak"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.486111111,
+                    28.040833333
+                ]
+            },
+            "properties": {
+                "name": "Ghorahi",
+                "article": "https://en.wikipedia.org/wiki/Ghorahi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.335833333,
+                    27.953333333
+                ]
+            },
+            "properties": {
+                "name": "Gauri Sankar",
+                "article": "https://en.wikipedia.org/wiki/Gaurishankar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.55,
+                    27.866666666
+                ]
+            },
+            "properties": {
+                "name": "Tansen",
+                "article": "https://en.wikipedia.org/wiki/Tansen,_Nepal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.828416666,
+                    27.995833333
+                ]
+            },
+            "properties": {
+                "name": "Kala Patthar",
+                "article": "https://en.wikipedia.org/wiki/Kala_Patthar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.283333333,
+                    27.666666666
+                ]
+            },
+            "properties": {
+                "name": "Kirtipur",
+                "article": "https://en.wikipedia.org/wiki/Kirtipur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.96451,
+                    27.95578
+                ]
+            },
+            "properties": {
+                "name": "Peak 38",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.45,
+                    27.5
+                ]
+            },
+            "properties": {
+                "name": "Siddharthanagar",
+                "article": "https://en.wikipedia.org/wiki/Siddharthanagar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.519444444,
+                    28.256111111
+                ]
+            },
+            "properties": {
+                "name": "Langtang Lirung",
+                "article": "https://en.wikipedia.org/wiki/Langtang_Lirung"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.426666666,
+                    29.554722222
+                ]
+            },
+            "properties": {
+                "name": "Dasharathchand",
+                "article": "https://en.wikipedia.org/wiki/Dasharathchand"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.713888888,
+                    28.845277777
+                ]
+            },
+            "properties": {
+                "name": "Narayan",
+                "article": "https://en.wikipedia.org/wiki/Narayan_Municipality"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.048055555,
+                    27.663333333
+                ]
+            },
+            "properties": {
+                "name": "Bhimeshwar",
+                "article": "https://en.wikipedia.org/wiki/Bhimeshwar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.118888888,
+                    28.527777777
+                ]
+            },
+            "properties": {
+                "name": "Tikapur",
+                "article": "https://en.wikipedia.org/wiki/Tikapur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    87.283333333,
+                    26.666666666
+                ]
+            },
+            "properties": {
+                "name": "Itahari",
+                "article": "https://en.wikipedia.org/wiki/Itahari"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.730555555,
+                    28.783333333
+                ]
+            },
+            "properties": {
+                "name": "Jomsom",
+                "article": "https://en.wikipedia.org/wiki/Jomsom"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    84.301388888,
+                    28.6575
+                ]
+            },
+            "properties": {
+                "name": "Kang Guru",
+                "article": "https://en.wikipedia.org/wiki/Kang_Guru"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.1105,
+                    27.7166
+                ]
+            },
+            "properties": {
+                "name": "Kangbachen",
+                "article": "https://en.wikipedia.org/wiki/Kangbachen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    87.216666666,
+                    27.366666666
+                ]
+            },
+            "properties": {
+                "name": "Khandbari",
+                "article": "https://en.wikipedia.org/wiki/Khandbari_Municipality"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.699958333,
+                    27.850527777
+                ]
+            },
+            "properties": {
+                "name": "Mount Khumbila",
+                "article": "https://en.wikipedia.org/wiki/Mount_Khumbila"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.70934,
+                    27.84841
+                ]
+            },
+            "properties": {
+                "name": "Mount Khumbila",
+                "article": "https://en.wikipedia.org/wiki/Mount_Khumbila"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.483333333,
+                    26.716666666
+                ]
+            },
+            "properties": {
+                "name": "Lahan",
+                "article": "https://en.wikipedia.org/wiki/Lahan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.094444444,
+                    26.541944444
+                ]
+            },
+            "properties": {
+                "name": "Bhadrapur",
+                "article": "https://en.wikipedia.org/wiki/Bhadrapur_Municipality"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    84.566388888,
+                    28.503333333
+                ]
+            },
+            "properties": {
+                "name": "Ngadi Chuli",
+                "article": "https://en.wikipedia.org/wiki/Ngadi_Chuli"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.516666666,
+                    27.633333333
+                ]
+            },
+            "properties": {
+                "name": "Banepa",
+                "article": "https://en.wikipedia.org/wiki/Banepa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.347222222,
+                    28.205555555
+                ]
+            },
+            "properties": {
+                "name": "Gulariya",
+                "article": "https://en.wikipedia.org/wiki/Gulariya"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.297222222,
+                    28.131111111
+                ]
+            },
+            "properties": {
+                "name": "Tulsipur",
+                "article": "https://en.wikipedia.org/wiki/Tulsipur,_Dang"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.85,
+                    28.0167
+                ]
+            },
+            "properties": {
+                "name": "Lingtren",
+                "article": "https://en.wikipedia.org/wiki/Lingtren"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.85525,
+                    28.02748
+                ]
+            },
+            "properties": {
+                "name": "Lingtren",
+                "article": "https://en.wikipedia.org/wiki/Lingtren"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    84.5,
+                    27.583333333
+                ]
+            },
+            "properties": {
+                "name": "Ratnanagar",
+                "article": "https://en.wikipedia.org/wiki/Ratnanagar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.145555555,
+                    27.896111111
+                ]
+            },
+            "properties": {
+                "name": "Bidur",
+                "article": "https://en.wikipedia.org/wiki/Bidur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.516666666,
+                    27.583333333
+                ]
+            },
+            "properties": {
+                "name": "Panauti",
+                "article": "https://en.wikipedia.org/wiki/Panauti"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.514722222,
+                    27.584444444
+                ]
+            },
+            "properties": {
+                "name": "Panauti",
+                "article": "https://en.wikipedia.org/wiki/Panauti"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.090211111,
+                    29.525722222
+                ]
+            },
+            "properties": {
+                "name": "Rara Lake",
+                "article": "https://en.wikipedia.org/wiki/Rara_Lake"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.804444444,
+                    28.684444444
+                ]
+            },
+            "properties": {
+                "name": "Tilicho Peak",
+                "article": "https://en.wikipedia.org/wiki/Tilicho_Peak"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.925,
+                    27.988055555
+                ]
+            },
+            "properties": {
+                "name": "Mount Everest",
+                "article": "https://en.wikipedia.org/wiki/Mount_Everest"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.32,
+                    27.71
+                ]
+            },
+            "properties": {
+                "name": "Kathmandu",
+                "article": "https://en.wikipedia.org/wiki/Kathmandu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.116666666,
+                    27.083333333
+                ]
+            },
+            "properties": {
+                "name": "Kakadi",
+                "article": "https://en.wikipedia.org/wiki/Kakadi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.3333,
+                    27.6833
+                ]
+            },
+            "properties": {
+                "name": "Lalitpur",
+                "article": "https://en.wikipedia.org/wiki/Lalitpur,_Nepal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.033333333,
+                    27.416666666
+                ]
+            },
+            "properties": {
+                "name": "Hetauda",
+                "article": "https://en.wikipedia.org/wiki/Hetauda"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.7775,
+                    27.896666666
+                ]
+            },
+            "properties": {
+                "name": "Taboche",
+                "article": "https://en.wikipedia.org/wiki/Taboche"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.182222222,
+                    29.276944444
+                ]
+            },
+            "properties": {
+                "name": "Jumla",
+                "article": "https://en.wikipedia.org/wiki/Jumla_(town)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.9222,
+                    27.8986
+                ]
+            },
+            "properties": {
+                "name": "Imja Tsho",
+                "article": "https://en.wikipedia.org/wiki/Imja_Tsho"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.928,
+                    27.898
+                ]
+            },
+            "properties": {
+                "name": "Imja Tsho",
+                "article": "https://en.wikipedia.org/wiki/Imja_Tsho"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.9,
+                    27.15
+                ]
+            },
+            "properties": {
+                "name": "Kamalamai",
+                "article": "https://en.wikipedia.org/wiki/Kamalamai"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.0,
+                    27.033333333
+                ]
+            },
+            "properties": {
+                "name": "Kalaiya",
+                "article": "https://en.wikipedia.org/wiki/Kalaiya"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.2,
+                    29.55
+                ]
+            },
+            "properties": {
+                "name": "Chainpur",
+                "article": "https://en.wikipedia.org/wiki/Chainpur,_Bajhang"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.11833333,
+                    27.635
+                ]
+            },
+            "properties": {
+                "name": "Kabru",
+                "article": "https://en.wikipedia.org/wiki/Kabru"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.883333333,
+                    28.516666666
+                ]
+            },
+            "properties": {
+                "name": "Hiunchuli",
+                "article": "https://en.wikipedia.org/wiki/Hiunchuli"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.952222222,
+                    29.2
+                ]
+            },
+            "properties": {
+                "name": "Phoksundo Lake",
+                "article": "https://en.wikipedia.org/wiki/Phoksundo_Lake"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    84.09,
+                    28.07
+                ]
+            },
+            "properties": {
+                "name": "Dulegaunda",
+                "article": "https://en.wikipedia.org/wiki/Dulegaunda"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    84.183333333,
+                    27.666666666
+                ]
+            },
+            "properties": {
+                "name": "Pragatinagar",
+                "article": "https://en.wikipedia.org/wiki/Pragatinagar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.2672456,
+                    27.608909
+                ]
+            },
+            "properties": {
+                "name": "Dakshinkali",
+                "article": "https://en.wikipedia.org/wiki/Dakshinkali"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    84.425277777,
+                    27.739166666
+                ]
+            },
+            "properties": {
+                "name": "Devghat",
+                "article": "https://en.wikipedia.org/wiki/Devghat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.069444444,
+                    26.893888888
+                ]
+            },
+            "properties": {
+                "name": "Phikkal Bazar",
+                "article": "https://en.wikipedia.org/wiki/Phikkal_Bazar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.164722222,
+                    27.913611111
+                ]
+            },
+            "properties": {
+                "name": "Nuwakot",
+                "article": "https://en.wikipedia.org/wiki/Nuwakot,_Bagmati_Province"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    84.11111111,
+                    28.14861111
+                ]
+            },
+            "properties": {
+                "name": "Rupa Lake",
+                "article": "https://en.wikipedia.org/wiki/Rupa_Lake"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    84.1,
+                    28.171666666
+                ]
+            },
+            "properties": {
+                "name": "Begnas Lake",
+                "article": "https://en.wikipedia.org/wiki/Begnas_Lake"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.779166666,
+                    28.173888888
+                ]
+            },
+            "properties": {
+                "name": "Dorje Lhakpa",
+                "article": "https://en.wikipedia.org/wiki/Dorje_Lhakpa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.77953,
+                    28.17432
+                ]
+            },
+            "properties": {
+                "name": "Dorje Lhakpa",
+                "article": "https://en.wikipedia.org/wiki/Dorje_Lhakpa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.88967,
+                    28.56217
+                ]
+            },
+            "properties": {
+                "name": "Tharpu Chuli",
+                "article": "https://en.wikipedia.org/wiki/Tharpu_Chuli"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.89027778,
+                    28.56166667
+                ]
+            },
+            "properties": {
+                "name": "Tharpu Chuli",
+                "article": "https://en.wikipedia.org/wiki/Tharpu_Chuli"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.628,
+                    28.2286
+                ]
+            },
+            "properties": {
+                "name": "Yala Peak",
+                "article": "https://en.wikipedia.org/wiki/Yala_Peak"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.9775,
+                    28.0625
+                ]
+            },
+            "properties": {
+                "name": "Khartaphu",
+                "article": "https://en.wikipedia.org/wiki/Khartaphu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.746666666,
+                    28.689166666
+                ]
+            },
+            "properties": {
+                "name": "Nilgiri Himal",
+                "article": "https://en.wikipedia.org/wiki/Nilgiri_Himal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.683333333,
+                    27.961111111
+                ]
+            },
+            "properties": {
+                "name": "Gokyo Ri",
+                "article": "https://en.wikipedia.org/wiki/Gokyo_Ri"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.919444444,
+                    28.777222222
+                ]
+            },
+            "properties": {
+                "name": "Khatung Kang",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.6,
+                    28.06666667
+                ]
+            },
+            "properties": {
+                "name": "Nangpai Gosum",
+                "article": "https://en.wikipedia.org/wiki/Nangpai_Gosum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.614444444,
+                    28.072222222
+                ]
+            },
+            "properties": {
+                "name": "Nangpai Gosum",
+                "article": "https://en.wikipedia.org/wiki/Nangpai_Gosum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.26666667,
+                    27.6
+                ]
+            },
+            "properties": {
+                "name": "Pharping",
+                "article": "https://en.wikipedia.org/wiki/Pharping"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    84.036111111,
+                    28.735833333
+                ]
+            },
+            "properties": {
+                "name": "Q4517942",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.9425,
+                    28.807777777
+                ]
+            },
+            "properties": {
+                "name": "Yakawa Kang",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.929722222,
+                    30.005277777
+                ]
+            },
+            "properties": {
+                "name": "Api",
+                "article": "https://en.wikipedia.org/wiki/Api_(mountain)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.53337,
+                    28.16757
+                ]
+            },
+            "properties": {
+                "name": "Baden-Powell Peak",
+                "article": "https://en.wikipedia.org/wiki/Baden-Powell_Peak"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.366666666,
+                    27.716666666
+                ]
+            },
+            "properties": {
+                "name": "Battle of Kathmandu",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Kathmandu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    84.08,
+                    27.978611111
+                ]
+            },
+            "properties": {
+                "name": "Bhimad",
+                "article": "https://en.wikipedia.org/wiki/Bhimad"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    84.94527778,
+                    28.55527778
+                ]
+            },
+            "properties": {
+                "name": "Chamar",
+                "article": "https://en.wikipedia.org/wiki/Chamar_(mountain)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.6614,
+                    28.3257
+                ]
+            },
+            "properties": {
+                "name": "Dragmarpo Ri",
+                "article": "https://en.wikipedia.org/wiki/Dragmarpo_Ri"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.7815,
+                    27.9696
+                ]
+            },
+            "properties": {
+                "name": "Lobuche West",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.05666667,
+                    28.37916667
+                ]
+            },
+            "properties": {
+                "name": "Ganesh NW",
+                "article": "https://en.wikipedia.org/wiki/Ganesh_NW_(Ganesh_II/III)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    87.506388888,
+                    27.285277777
+                ]
+            },
+            "properties": {
+                "name": "Guphapokhari",
+                "article": "https://en.wikipedia.org/wiki/Gupha_Pokhari"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    84.72,
+                    27.18
+                ]
+            },
+            "properties": {
+                "name": "Jeetpursimara",
+                "article": "https://en.wikipedia.org/wiki/Jitpursimara"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.6431456,
+                    27.7931932
+                ]
+            },
+            "properties": {
+                "name": "Kongde Ri",
+                "article": "https://en.wikipedia.org/wiki/Kongde_Ri"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.790833333,
+                    27.730555555
+                ]
+            },
+            "properties": {
+                "name": "Kusum Kanguru",
+                "article": "https://en.wikipedia.org/wiki/Kusum_Kanguru"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.9,
+                    28.583333333
+                ]
+            },
+            "properties": {
+                "name": "Singu Chuli",
+                "article": "https://en.wikipedia.org/wiki/Singu_Chuli"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.3331,
+                    27.6246
+                ]
+            },
+            "properties": {
+                "name": "Nagdaha",
+                "article": "https://en.wikipedia.org/wiki/Nagdaha"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    84.41666667,
+                    28.735
+                ]
+            },
+            "properties": {
+                "name": "Nemjung",
+                "article": "https://en.wikipedia.org/wiki/Nemjung"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.883436,
+                    27.852816
+                ]
+            },
+            "properties": {
+                "name": "Ombigaichan",
+                "article": "https://en.wikipedia.org/wiki/Ombigaichan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.681111111,
+                    27.497777777
+                ]
+            },
+            "properties": {
+                "name": "Ramagrama stupa",
+                "article": "https://en.wikipedia.org/wiki/Ramagrama_stupa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.495,
+                    29.890833333
+                ]
+            },
+            "properties": {
+                "name": "Saipal",
+                "article": "https://en.wikipedia.org/wiki/Saipal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.121666666,
+                    28.335
+                ]
+            },
+            "properties": {
+                "name": "Salasungo",
+                "article": "https://en.wikipedia.org/wiki/Salasungo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.9825,
+                    29.324444444
+                ]
+            },
+            "properties": {
+                "name": "Sinja Valley",
+                "article": "https://en.wikipedia.org/wiki/Sinja_Valley"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.282,
+                    27.6487
+                ]
+            },
+            "properties": {
+                "name": "Taudaha Lake",
+                "article": "https://en.wikipedia.org/wiki/Taudaha_Lake"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.76270294,
+                    27.97747803
+                ]
+            },
+            "properties": {
+                "name": "Nirekha",
+                "article": "https://en.wikipedia.org/wiki/Nirekha"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.943333333,
+                    27.958333333
+                ]
+            },
+            "properties": {
+                "name": "Lhotse Shar",
+                "article": "https://en.wikipedia.org/wiki/Lhotse_Shar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.6836,
+                    28.3814
+                ]
+            },
+            "properties": {
+                "name": "Langtang Ri",
+                "article": "https://en.wikipedia.org/wiki/Langtang_Ri"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.822811,
+                    27.754987
+                ]
+            },
+            "properties": {
+                "name": "Kyashar",
+                "article": "https://en.wikipedia.org/wiki/Kyashar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.790931,
+                    27.958356
+                ]
+            },
+            "properties": {
+                "name": "Lobuche East",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.908738,
+                    27.774256
+                ]
+            },
+            "properties": {
+                "name": "Q11887046",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.455,
+                    27.926111111
+                ]
+            },
+            "properties": {
+                "name": "Argali Darbar",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.716,
+                    28.042
+                ]
+            },
+            "properties": {
+                "name": "Panch Pokhari",
+                "article": "https://en.wikipedia.org/wiki/Panch_Pokhari"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    84.560459467,
+                    27.857126303
+                ]
+            },
+            "properties": {
+                "name": "Mugling",
+                "article": "https://en.wikipedia.org/wiki/Mugling"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    87.247925,
+                    26.823536111
+                ]
+            },
+            "properties": {
+                "name": "Bishnupaduka, Dharan",
+                "article": "https://en.wikipedia.org/wiki/Bishnupaduka_(shrine)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.4758,
+                    28.6969
+                ]
+            },
+            "properties": {
+                "name": "Syarpu lake",
+                "article": "https://en.wikipedia.org/wiki/Syarpu_lake"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.14751,
+                    27.655
+                ]
+            },
+            "properties": {
+                "name": "Talung",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.37833,
+                    27.68111
+                ]
+            },
+            "properties": {
+                "name": "Thimi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.57307434,
+                    27.75444603
+                ]
+            },
+            "properties": {
+                "name": "Numbur",
+                "article": "https://en.wikipedia.org/wiki/Numbur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.3075,
+                    27.703333333
+                ]
+            },
+            "properties": {
+                "name": "Jhochhen",
+                "article": "https://en.wikipedia.org/wiki/Old_Freak_Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.82,
+                    28.5958
+                ]
+            },
+            "properties": {
+                "name": "Annapurna I",
+                "article": "https://en.wikipedia.org/wiki/Annapurna"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.6847,
+                    28.1058
+                ]
+            },
+            "properties": {
+                "name": "Tenzing Peak",
+                "article": "https://en.wikipedia.org/wiki/Tenzing_Peak"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.7528,
+                    29.3918
+                ]
+            },
+            "properties": {
+                "name": "Kanjiroba Himal",
+                "article": "https://en.wikipedia.org/wiki/Kanjiroba_Himal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.92799,
+                    28.47518
+                ]
+            },
+            "properties": {
+                "name": "Mardi Himal",
+                "article": "https://en.wikipedia.org/wiki/Mardi_Himal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    84.05,
+                    28.194444444
+                ]
+            },
+            "properties": {
+                "name": "Khaste lake",
+                "article": "https://en.wikipedia.org/wiki/Khaste_Lake"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    84.069,
+                    28.18
+                ]
+            },
+            "properties": {
+                "name": "Depang lake",
+                "article": "https://en.wikipedia.org/wiki/Dipang_Lake"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.5269,
+                    27.6172
+                ]
+            },
+            "properties": {
+                "name": "Information Technology Park, Nepal",
+                "article": "https://en.wikipedia.org/wiki/Information_Technology_Park,_Nepal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    84.08103527,
+                    28.176502805
+                ]
+            },
+            "properties": {
+                "name": "Maidi lake",
+                "article": "https://en.wikipedia.org/wiki/Maidi_Lake"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    84.041555555,
+                    28.191527777
+                ]
+            },
+            "properties": {
+                "name": "Gudal lake",
+                "article": "https://en.wikipedia.org/wiki/Gude_Lake"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    84.1859,
+                    28.6466
+                ]
+            },
+            "properties": {
+                "name": "Pisang Peak",
+                "article": "https://en.wikipedia.org/wiki/Pisang_Peak"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    84.18454,
+                    28.64721
+                ]
+            },
+            "properties": {
+                "name": "Pisang Peak",
+                "article": "https://en.wikipedia.org/wiki/Pisang_Peak"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    84.048611111,
+                    28.191666666
+                ]
+            },
+            "properties": {
+                "name": "Neureni lake",
+                "article": "https://en.wikipedia.org/wiki/Neureni_Lake"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.629522,
+                    28.852707
+                ]
+            },
+            "properties": {
+                "name": "Tashi Kang",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.678351,
+                    28.168874
+                ]
+            },
+            "properties": {
+                "name": "Gangchempo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.553691666,
+                    28.272130555
+                ]
+            },
+            "properties": {
+                "name": "Kimshung",
+                "article": "https://en.wikipedia.org/wiki/Tsangbu_Ri"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.71360016,
+                    28.21689987
+                ]
+            },
+            "properties": {
+                "name": "Langshisa Ri",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.1275,
+                    28.391666666
+                ]
+            },
+            "properties": {
+                "name": "Langtang Himal",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.6308,
+                    28.2725
+                ]
+            },
+            "properties": {
+                "name": "Langtang Himal",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.5102,
+                    28.15283
+                ]
+            },
+            "properties": {
+                "name": "Naya Kanga",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.548541,
+                    28.168322
+                ]
+            },
+            "properties": {
+                "name": "Naya Kanga",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.08,
+                    28.345833
+                ]
+            },
+            "properties": {
+                "name": "Pabil",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.0801,
+                    28.34578
+                ]
+            },
+            "properties": {
+                "name": "Pabil",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.1958,
+                    30.1375
+                ]
+            },
+            "properties": {
+                "name": "Changla",
+                "article": "https://en.wikipedia.org/wiki/Changla"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.6392,
+                    29.3783
+                ]
+            },
+            "properties": {
+                "name": "Kanjiroba",
+                "article": "https://en.wikipedia.org/wiki/Kanjiroba"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.67,
+                    26.63
+                ]
+            },
+            "properties": {
+                "name": "Kathauna",
+                "article": "https://en.wikipedia.org/wiki/Kathauna"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.7517,
+                    29.7658
+                ]
+            },
+            "properties": {
+                "name": "Kubi Gangri",
+                "article": "https://en.wikipedia.org/wiki/Kubi_Gangri"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.75163,
+                    29.766053
+                ]
+            },
+            "properties": {
+                "name": "Kubi Gangri",
+                "article": "https://en.wikipedia.org/wiki/Kubi_Gangri"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.787478,
+                    28.234541
+                ]
+            },
+            "properties": {
+                "name": "Panchase Lake",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.3222,
+                    27.6928
+                ]
+            },
+            "properties": {
+                "name": "Babar Mahal",
+                "article": "https://en.wikipedia.org/wiki/Babar_Mahal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.619444444,
+                    28.581388888
+                ]
+            },
+            "properties": {
+                "name": "Bulbule Lake",
+                "article": "https://en.wikipedia.org/wiki/Bulbule_Lake"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.625555555,
+                    28.614166666
+                ]
+            },
+            "properties": {
+                "name": "Kamal lake",
+                "article": "https://en.wikipedia.org/wiki/Kamal_lake"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.933611111,
+                    27.446388888
+                ]
+            },
+            "properties": {
+                "name": "Salpa Pokhari",
+                "article": "https://en.wikipedia.org/wiki/Salpa_Pokhari"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.98318,
+                    27.9493
+                ]
+            },
+            "properties": {
+                "name": "Shar Tse",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    87.078571,
+                    27.915086
+                ]
+            },
+            "properties": {
+                "name": "Kangchungtse",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.565585,
+                    28.042563
+                ]
+            },
+            "properties": {
+                "name": "Jobo Rinjang",
+                "article": "https://en.wikipedia.org/wiki/Jobo_Rinjang"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.021302,
+                    29.958321
+                ]
+            },
+            "properties": {
+                "name": "Bobaye",
+                "article": "https://en.wikipedia.org/wiki/Bobaye"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    84.452111,
+                    28.764991
+                ]
+            },
+            "properties": {
+                "name": "Q20757615",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.524034,
+                    27.939402
+                ]
+            },
+            "properties": {
+                "name": "Drangnag Ri",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.275813,
+                    28.67435
+                ]
+            },
+            "properties": {
+                "name": "Gurja Himal",
+                "article": "https://en.wikipedia.org/wiki/Gurja_Himal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.879196,
+                    27.926057
+                ]
+            },
+            "properties": {
+                "name": "Chhukung Ri",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.450005,
+                    27.832433
+                ]
+            },
+            "properties": {
+                "name": "Chukyima Go",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.091297,
+                    27.87183
+                ]
+            },
+            "properties": {
+                "name": "Q20757622",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.442457,
+                    27.906036
+                ]
+            },
+            "properties": {
+                "name": "Kang Nachugo",
+                "article": "https://en.wikipedia.org/wiki/Kang_Nachugo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    84.083,
+                    28.53639
+                ]
+            },
+            "properties": {
+                "name": "Annapurna IV",
+                "article": "https://en.wikipedia.org/wiki/Annapurna_IV"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    84.082778,
+                    28.5375
+                ]
+            },
+            "properties": {
+                "name": "Annapurna IV",
+                "article": "https://en.wikipedia.org/wiki/Annapurna_IV"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.758817,
+                    28.035068
+                ]
+            },
+            "properties": {
+                "name": "Hungchi",
+                "article": "https://en.wikipedia.org/wiki/Hungchi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.595671,
+                    27.757836
+                ]
+            },
+            "properties": {
+                "name": "Khatang",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.540882,
+                    27.808787
+                ]
+            },
+            "properties": {
+                "name": "Likhu Chuli",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.611939,
+                    27.733438
+                ]
+            },
+            "properties": {
+                "name": "Karyolung",
+                "article": "https://en.wikipedia.org/wiki/Karyolung"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.812008,
+                    28.019746
+                ]
+            },
+            "properties": {
+                "name": "Khangri Shar",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.99452209,
+                    30.00444031
+                ]
+            },
+            "properties": {
+                "name": "Q20757630",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.902612,
+                    27.687574
+                ]
+            },
+            "properties": {
+                "name": "Naulekh",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.551629,
+                    28.052968
+                ]
+            },
+            "properties": {
+                "name": "Lunag Ri",
+                "article": "https://en.wikipedia.org/wiki/Lunag_Ri"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.866896,
+                    27.807772
+                ]
+            },
+            "properties": {
+                "name": "Malangphutang",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.680911,
+                    27.929108
+                ]
+            },
+            "properties": {
+                "name": "Pharilapcha",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.990296,
+                    28.814746
+                ]
+            },
+            "properties": {
+                "name": "Q20191193",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    84.017912,
+                    28.801348
+                ]
+            },
+            "properties": {
+                "name": "Q20191196",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.431135,
+                    27.818848
+                ]
+            },
+            "properties": {
+                "name": "Ramdung Go",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    84.375052,
+                    28.864613
+                ]
+            },
+            "properties": {
+                "name": "Ratna Chuli",
+                "article": "https://en.wikipedia.org/wiki/Ratna_Chuli"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.616729,
+                    28.827583
+                ]
+            },
+            "properties": {
+                "name": "Sisne Himal",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.98318,
+                    27.9493
+                ]
+            },
+            "properties": {
+                "name": "Shar Tse",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    87.078571,
+                    27.915086
+                ]
+            },
+            "properties": {
+                "name": "Kangchungtse",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.565585,
+                    28.042563
+                ]
+            },
+            "properties": {
+                "name": "Jobo Rinjang",
+                "article": "https://en.wikipedia.org/wiki/Jobo_Rinjang"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.021302,
+                    29.958321
+                ]
+            },
+            "properties": {
+                "name": "Bobaye",
+                "article": "https://en.wikipedia.org/wiki/Bobaye"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    84.452111,
+                    28.764991
+                ]
+            },
+            "properties": {
+                "name": "Q20757615",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.524034,
+                    27.939402
+                ]
+            },
+            "properties": {
+                "name": "Drangnag Ri",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.275813,
+                    28.67435
+                ]
+            },
+            "properties": {
+                "name": "Gurja Himal",
+                "article": "https://en.wikipedia.org/wiki/Gurja_Himal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.879196,
+                    27.926057
+                ]
+            },
+            "properties": {
+                "name": "Chhukung Ri",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.450005,
+                    27.832433
+                ]
+            },
+            "properties": {
+                "name": "Chukyima Go",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.091297,
+                    27.87183
+                ]
+            },
+            "properties": {
+                "name": "Q20757622",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.442457,
+                    27.906036
+                ]
+            },
+            "properties": {
+                "name": "Kang Nachugo",
+                "article": "https://en.wikipedia.org/wiki/Kang_Nachugo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    84.083,
+                    28.53639
+                ]
+            },
+            "properties": {
+                "name": "Annapurna IV",
+                "article": "https://en.wikipedia.org/wiki/Annapurna_IV"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    84.082778,
+                    28.5375
+                ]
+            },
+            "properties": {
+                "name": "Annapurna IV",
+                "article": "https://en.wikipedia.org/wiki/Annapurna_IV"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.758817,
+                    28.035068
+                ]
+            },
+            "properties": {
+                "name": "Hungchi",
+                "article": "https://en.wikipedia.org/wiki/Hungchi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.595671,
+                    27.757836
+                ]
+            },
+            "properties": {
+                "name": "Khatang",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.540882,
+                    27.808787
+                ]
+            },
+            "properties": {
+                "name": "Likhu Chuli",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.611939,
+                    27.733438
+                ]
+            },
+            "properties": {
+                "name": "Karyolung",
+                "article": "https://en.wikipedia.org/wiki/Karyolung"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.812008,
+                    28.019746
+                ]
+            },
+            "properties": {
+                "name": "Khangri Shar",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.99452209,
+                    30.00444031
+                ]
+            },
+            "properties": {
+                "name": "Q20757630",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.902612,
+                    27.687574
+                ]
+            },
+            "properties": {
+                "name": "Naulekh",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.551629,
+                    28.052968
+                ]
+            },
+            "properties": {
+                "name": "Lunag Ri",
+                "article": "https://en.wikipedia.org/wiki/Lunag_Ri"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.866896,
+                    27.807772
+                ]
+            },
+            "properties": {
+                "name": "Malangphutang",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.730025,
+                    28.654817
+                ]
+            },
+            "properties": {
+                "name": "Nilgiri South",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.788414,
+                    28.01393318
+                ]
+            },
+            "properties": {
+                "name": "Chumbu",
+                "article": "https://en.wikipedia.org/wiki/Chumbu_(mountain)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.78847,
+                    28.01414
+                ]
+            },
+            "properties": {
+                "name": "Chumbu",
+                "article": "https://en.wikipedia.org/wiki/Chumbu_(mountain)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.519977,
+                    28.005892
+                ]
+            },
+            "properties": {
+                "name": "Q20757639",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    87.964158,
+                    27.896905
+                ]
+            },
+            "properties": {
+                "name": "Q20757636",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    84.482386,
+                    28.718353
+                ]
+            },
+            "properties": {
+                "name": "Panbari",
+                "article": "https://en.wikipedia.org/wiki/Panbari"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.483197,
+                    28.782633
+                ]
+            },
+            "properties": {
+                "name": "Sita Chuchura",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    87.01601,
+                    27.95745
+                ]
+            },
+            "properties": {
+                "name": "Pethang Tse",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.084056,
+                    27.765722
+                ]
+            },
+            "properties": {
+                "name": "Ramthang Chang",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    84.520366,
+                    28.527476
+                ]
+            },
+            "properties": {
+                "name": "Thulagi Chuli",
+                "article": "https://en.wikipedia.org/wiki/Thulagi_Chuli"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.2096,
+                    28.7316
+                ]
+            },
+            "properties": {
+                "name": "Churen Himal",
+                "article": "https://en.wikipedia.org/wiki/Churen_Himal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.21011,
+                    28.731595
+                ]
+            },
+            "properties": {
+                "name": "Churen Himal",
+                "article": "https://en.wikipedia.org/wiki/Churen_Himal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.554091,
+                    27.857915
+                ]
+            },
+            "properties": {
+                "name": "Tengi Ragi Tau",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.509169,
+                    27.875578
+                ]
+            },
+            "properties": {
+                "name": "Takargo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.256667,
+                    27.7325
+                ]
+            },
+            "properties": {
+                "name": "Nagarjun Municipality",
+                "article": "https://en.wikipedia.org/wiki/Nagarjun_Municipality"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.411667,
+                    27.725833
+                ]
+            },
+            "properties": {
+                "name": "Kageshwari-Manohara",
+                "article": "https://en.wikipedia.org/wiki/Kageshwari-Manohara"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.25,
+                    27.68333333
+                ]
+            },
+            "properties": {
+                "name": "Chandragiri Municipality",
+                "article": "https://en.wikipedia.org/wiki/Chandragiri_Municipality"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.4,
+                    27.73333333
+                ]
+            },
+            "properties": {
+                "name": "Gokarneshwor",
+                "article": "https://en.wikipedia.org/wiki/Gokarneshwor"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.19,
+                    28.64
+                ]
+            },
+            "properties": {
+                "name": "Lamki",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.098165,
+                    28.7665
+                ]
+            },
+            "properties": {
+                "name": "Q20999752",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.245258,
+                    28.680091
+                ]
+            },
+            "properties": {
+                "name": "Ghustang",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.77513,
+                    28.209334
+                ]
+            },
+            "properties": {
+                "name": "Gurkarpo Ri",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.77748,
+                    28.20928
+                ]
+            },
+            "properties": {
+                "name": "Gurkarpo Ri",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.497393,
+                    28.842759
+                ]
+            },
+            "properties": {
+                "name": "Q20999970",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.558904,
+                    29.411871
+                ]
+            },
+            "properties": {
+                "name": "Q20999992",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.166341,
+                    28.532029
+                ]
+            },
+            "properties": {
+                "name": "Q21000062",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.748201,
+                    28.249206
+                ]
+            },
+            "properties": {
+                "name": "Pemthang Karpo Ri",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.315833,
+                    27.691111
+                ]
+            },
+            "properties": {
+                "name": "Thapathali Durbar",
+                "article": "https://en.wikipedia.org/wiki/Thapathali_Durbar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.191,
+                    27.4243
+                ]
+            },
+            "properties": {
+                "name": "Lal Durbar",
+                "article": "https://en.wikipedia.org/wiki/Lal_Durbar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.191,
+                    27.4243
+                ]
+            },
+            "properties": {
+                "name": "Seto Durbar",
+                "article": "https://en.wikipedia.org/wiki/Seto_Durbar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.191,
+                    27.4243
+                ]
+            },
+            "properties": {
+                "name": "Jaulakhel Durbar",
+                "article": "https://en.wikipedia.org/wiki/Jaulakhel_Durbar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.191,
+                    27.4243
+                ]
+            },
+            "properties": {
+                "name": "Tangal Durbar",
+                "article": "https://en.wikipedia.org/wiki/Sita_Bhawan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.31312,
+                    27.6807
+                ]
+            },
+            "properties": {
+                "name": "Harihar Bhawan",
+                "article": "https://en.wikipedia.org/wiki/Harihar_Bhawan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.319761,
+                    27.677968
+                ]
+            },
+            "properties": {
+                "name": "Shree Durbar",
+                "article": "https://en.wikipedia.org/wiki/Shree_Durbar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.193601,
+                    27.4128598
+                ]
+            },
+            "properties": {
+                "name": "Charburja Durbar",
+                "article": "https://en.wikipedia.org/wiki/Charburja_Durbar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.1846398,
+                    29.0680169
+                ]
+            },
+            "properties": {
+                "name": "Jhilmila Lake",
+                "article": "https://en.wikipedia.org/wiki/Jhilmila_Lake"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    84.704166666,
+                    28.117777777
+                ]
+            },
+            "properties": {
+                "name": "Ghunchok Pokhari",
+                "article": "https://en.wikipedia.org/wiki/Ghunchok_Pokhari"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.533355,
+                    27.615013
+                ]
+            },
+            "properties": {
+                "name": "Shreekhandpur",
+                "article": "https://en.wikipedia.org/wiki/Shreekhandapur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    87.19694444,
+                    26.66888889
+                ]
+            },
+            "properties": {
+                "name": "Jhumka",
+                "article": "https://en.wikipedia.org/wiki/Jhumka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.088842,
+                    27.594235
+                ]
+            },
+            "properties": {
+                "name": "Q25378206",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.093625,
+                    27.75132
+                ]
+            },
+            "properties": {
+                "name": "Ramthang Lho",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.116815,
+                    26.889339
+                ]
+            },
+            "properties": {
+                "name": "Simraungadh",
+                "article": "https://en.wikipedia.org/wiki/Simraungadh_(Municipality)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.464199,
+                    26.998981
+                ]
+            },
+            "properties": {
+                "name": "Barahathawa Municipality",
+                "article": "https://en.wikipedia.org/wiki/Barahathwa_Municipality"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.566666666,
+                    29.3
+                ]
+            },
+            "properties": {
+                "name": "Amaragadhi",
+                "article": "https://en.wikipedia.org/wiki/Amaragadhi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.575,
+                    29.3
+                ]
+            },
+            "properties": {
+                "name": "Amaragadhi",
+                "article": "https://en.wikipedia.org/wiki/Amaragadhi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.826389,
+                    26.701667
+                ]
+            },
+            "properties": {
+                "name": "Anaittha",
+                "article": "https://en.wikipedia.org/wiki/Anaittha"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.182927,
+                    27.776802
+                ]
+            },
+            "properties": {
+                "name": "Nepal Peak",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.083333333,
+                    28.666666666
+                ]
+            },
+            "properties": {
+                "name": "Murgiya",
+                "article": "https://en.wikipedia.org/wiki/Murgiya"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.58955833,
+                    27.97192222
+                ]
+            },
+            "properties": {
+                "name": "Mirmi",
+                "article": "https://en.wikipedia.org/wiki/Mirmi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.488888888,
+                    27.883333333
+                ]
+            },
+            "properties": {
+                "name": "Tsoboje",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.488888888,
+                    27.883333333
+                ]
+            },
+            "properties": {
+                "name": "Yalung Ri",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.68896,
+                    28.39903
+                ]
+            },
+            "properties": {
+                "name": "Poon Hill",
+                "article": "https://en.wikipedia.org/wiki/Poon_Hill"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.383333333,
+                    27.866666666
+                ]
+            },
+            "properties": {
+                "name": "Khiji Tholedemba",
+                "article": "https://en.wikipedia.org/wiki/Khiji_Tholedemba"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.573611111,
+                    27.875
+                ]
+            },
+            "properties": {
+                "name": "Jakhera Lake",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    84.628333333,
+                    28.595833333
+                ]
+            },
+            "properties": {
+                "name": "Birendra Lake",
+                "article": "https://en.wikipedia.org/wiki/Birendra_Lake"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    84.21833333,
+                    28.58611111
+                ]
+            },
+            "properties": {
+                "name": "Paungda Danda",
+                "article": "https://en.wikipedia.org/wiki/Paungda_Danda"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.40691,
+                    27.5708
+                ]
+            },
+            "properties": {
+                "name": "Pulchoki Mountain",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.185807,
+                    28.276765
+                ]
+            },
+            "properties": {
+                "name": "Bhrānge",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.189722222,
+                    28.277777777
+                ]
+            },
+            "properties": {
+                "name": "Bhrānge",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.4975,
+                    28.843333333
+                ]
+            },
+            "properties": {
+                "name": "Mukut Himāl",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.8625,
+                    28.15
+                ]
+            },
+            "properties": {
+                "name": "Loengpogang",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.795833333,
+                    27.967777777
+                ]
+            },
+            "properties": {
+                "name": "Lobujya West",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.6164,
+                    28.828
+                ]
+            },
+            "properties": {
+                "name": "Hiūnchuli Pātan",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.80131,
+                    28.57766
+                ]
+            },
+            "properties": {
+                "name": "Annapurna Fang",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.73633,
+                    28.67914
+                ]
+            },
+            "properties": {
+                "name": "Nilgiri",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.55772,
+                    28.74554
+                ]
+            },
+            "properties": {
+                "name": "Tukuche Peak",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.558885,
+                    28.746006
+                ]
+            },
+            "properties": {
+                "name": "Tukuche Peak",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.60527,
+                    28.7979
+                ]
+            },
+            "properties": {
+                "name": "Dhampus Peak",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.93881,
+                    28.80986
+                ]
+            },
+            "properties": {
+                "name": "Thorungste",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.91829,
+                    28.77849
+                ]
+            },
+            "properties": {
+                "name": "Yak Gawa",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    84.02807,
+                    28.74147
+                ]
+            },
+            "properties": {
+                "name": "Chulu",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    84.64339,
+                    28.58467
+                ]
+            },
+            "properties": {
+                "name": "Samagoan",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.7658,
+                    28.3689
+                ]
+            },
+            "properties": {
+                "name": "Tirkhe Dhunga",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.15867,
+                    27.74059
+                ]
+            },
+            "properties": {
+                "name": "Gimmigela Chuli I",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.68415,
+                    28.10594
+                ]
+            },
+            "properties": {
+                "name": "Ngozumpa Kang I",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.70612,
+                    28.10602
+                ]
+            },
+            "properties": {
+                "name": "Ngozumpa Kang II",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.44346,
+                    28.08997
+                ]
+            },
+            "properties": {
+                "name": "N Surya Peak",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.41321,
+                    28.06675
+                ]
+            },
+            "properties": {
+                "name": "N Chhyarkung Chuli",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.43218,
+                    28.0808
+                ]
+            },
+            "properties": {
+                "name": "Surya Peak",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.40458,
+                    28.0557
+                ]
+            },
+            "properties": {
+                "name": "S Chhyarkung Chuli",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.49848,
+                    28.25979
+                ]
+            },
+            "properties": {
+                "name": "Langtang II",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.38531,
+                    27.81221
+                ]
+            },
+            "properties": {
+                "name": "Shivapuri Peak",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    84.37163,
+                    28.73335
+                ]
+            },
+            "properties": {
+                "name": "Gyajin Kang",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.451,
+                    28.2769
+                ]
+            },
+            "properties": {
+                "name": "Machhuwā Ḍā̃ḍā",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.432,
+                    28.2601
+                ]
+            },
+            "properties": {
+                "name": "Kālsi̇̄ Ḍā̃ḍā",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.38304,
+                    28.26742
+                ]
+            },
+            "properties": {
+                "name": "Bedāṅ Ḍā̃ḍā",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.5439,
+                    28.2991
+                ]
+            },
+            "properties": {
+                "name": "Pāri̇̄ Himāl",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.5528,
+                    28.272
+                ]
+            },
+            "properties": {
+                "name": "Yubrā Himāl",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.77703,
+                    28.17482
+                ]
+            },
+            "properties": {
+                "name": "Liṅsiṅ Himāl",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.0082,
+                    28.4075
+                ]
+            },
+            "properties": {
+                "name": "Lumbo Himāl",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.1333,
+                    28.3081
+                ]
+            },
+            "properties": {
+                "name": "Kālo Pokhari̇̄ Himāl",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.1975,
+                    28.229166666
+                ]
+            },
+            "properties": {
+                "name": "Lāri̇̄",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.23163,
+                    28.24187
+                ]
+            },
+            "properties": {
+                "name": "Rināmo Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.613055555,
+                    28.1625
+                ]
+            },
+            "properties": {
+                "name": "Kāṅālā Himāl",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.6777,
+                    28.1698
+                ]
+            },
+            "properties": {
+                "name": "Dorje Himāl",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.725555555,
+                    28.177777777
+                ]
+            },
+            "properties": {
+                "name": "Liṅsin Himāl",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.717,
+                    28.109
+                ]
+            },
+            "properties": {
+                "name": "Panchpokhari̇̄ Lek",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.558611111,
+                    28.175
+                ]
+            },
+            "properties": {
+                "name": "Urkiṅ Kāṅgāri̇̄",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.6877,
+                    27.6234
+                ]
+            },
+            "properties": {
+                "name": "Ṭapalḍā̃ḍā",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.7175,
+                    27.9712
+                ]
+            },
+            "properties": {
+                "name": "Chang Samarphu",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.468611111,
+                    28.124444444
+                ]
+            },
+            "properties": {
+                "name": "Gaṇesh Kuṇḍ",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.170277777,
+                    28.2925
+                ]
+            },
+            "properties": {
+                "name": "Kālo Pokhari̇̄",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    87.61,
+                    26.67
+                ]
+            },
+            "properties": {
+                "name": "Biratchowk",
+                "article": "https://en.wikipedia.org/wiki/Biratchowk"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.477222222,
+                    27.861388888
+                ]
+            },
+            "properties": {
+                "name": "Q49300502",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    84.113055555,
+                    28.151944444
+                ]
+            },
+            "properties": {
+                "name": "Q49309502",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.6,
+                    28.066666666
+                ]
+            },
+            "properties": {
+                "name": "Nangpai Gosum II",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.8674922,
+                    28.1260087
+                ]
+            },
+            "properties": {
+                "name": "Phurbi Chhyachu",
+                "article": "https://en.wikipedia.org/wiki/Phurbi_Chyachu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.766944444,
+                    28.074166666
+                ]
+            },
+            "properties": {
+                "name": "Nupla Khang",
+                "article": "https://en.wikipedia.org/wiki/Nupla_Khang"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.6895402,
+                    28.4000425
+                ]
+            },
+            "properties": {
+                "name": "Poon Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    84.256166666,
+                    28.496861111
+                ]
+            },
+            "properties": {
+                "name": "Kajin Sara",
+                "article": "https://en.wikipedia.org/wiki/Kajin_Sara_Lake"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.49,
+                    29.09
+                ]
+            },
+            "properties": {
+                "name": "Ali Taal",
+                "article": "https://en.wikipedia.org/wiki/Ali_Taal_(Dadeldhura)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    87.173222222,
+                    26.485444444
+                ]
+            },
+            "properties": {
+                "name": "Barju Taal",
+                "article": "https://en.wikipedia.org/wiki/Barju_Taal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.97,
+                    27.89
+                ]
+            },
+            "properties": {
+                "name": "Q105724355",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    84.0175,
+                    28.663888888
+                ]
+            },
+            "properties": {
+                "name": "Gangapurna Lake",
+                "article": "https://en.wikipedia.org/wiki/Gangapurna_Lake"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.200681463,
+                    28.699101189
+                ]
+            },
+            "properties": {
+                "name": "Jajarkot Palace",
+                "article": "https://en.wikipedia.org/wiki/Jajarkot_Palace"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.6004521,
+                    28.2132408
+                ]
+            },
+            "properties": {
+                "name": "Tserko Ri",
+                "article": "https://en.wikipedia.org/wiki/Tsergo_Ri_landslide"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.0999524,
+                    28.1697923
+                ]
+            },
+            "properties": {
+                "name": "Parvati Kunda",
+                "article": "https://en.wikipedia.org/wiki/Parvati_Kunda"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.47306,
+                    0.49111
+                ]
+            },
+            "properties": {
+                "name": "2004 Beni attack",
+                "article": "https://en.wikipedia.org/wiki/2004_Beni_attack"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.058333333,
+                    27.4375
+                ]
+            },
+            "properties": {
+                "name": "Timbung Pokhari",
+                "article": "https://en.wikipedia.org/wiki/Timbung_Pokhari"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.8795,
+                    27.8765
+                ]
+            },
+            "properties": {
+                "name": "Taalpokhara",
+                "article": "https://en.wikipedia.org/wiki/Taalpokhara"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    84.582777777,
+                    27.761666666
+                ]
+            },
+            "properties": {
+                "name": "Upardanggadhi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.307476932,
+                    27.703881611
+                ]
+            },
+            "properties": {
+                "name": "Nautalle Durbar",
+                "article": "https://en.wikipedia.org/wiki/Nautalle_Durbar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.114722222,
+                    26.641944444
+                ]
+            },
+            "properties": {
+                "name": "Khajuri railway station",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.064722222,
+                    26.663333333
+                ]
+            },
+            "properties": {
+                "name": "Thadi Jhijha railway station",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.936666666,
+                    26.734166666
+                ]
+            },
+            "properties": {
+                "name": "Janakpur railway station",
+                "article": "https://en.wikipedia.org/wiki/Janakpurdham_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.459554228,
+                    27.7034416
+                ]
+            },
+            "properties": {
+                "name": "Battle of Jit Gadhi",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Jit_Gadhi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.325277777,
+                    27.696666666
+                ]
+            },
+            "properties": {
+                "name": "Gallery Baithak",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.55368,
+                    29.67979
+                ]
+            },
+            "properties": {
+                "name": "Sertojen Ḍā̃ḍā",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.72551,
+                    29.68814
+                ]
+            },
+            "properties": {
+                "name": "Maksyā Ḍā̃ḍā",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.72468,
+                    29.60893
+                ]
+            },
+            "properties": {
+                "name": "Yulkoṅmā Ḍā̃ḍā",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.57047,
+                    29.67084
+                ]
+            },
+            "properties": {
+                "name": "Rolājen Ḍā̃ḍā",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.57007,
+                    29.62516
+                ]
+            },
+            "properties": {
+                "name": "Kuldum Ḍā̃ḍā",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.6115,
+                    29.63976
+                ]
+            },
+            "properties": {
+                "name": "Nāgpi̇̄ Ḍā̃ḍā",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.67344,
+                    29.56001
+                ]
+            },
+            "properties": {
+                "name": "Chhāliṅ Ḍā̃ḍā",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.72572,
+                    29.52408
+                ]
+            },
+            "properties": {
+                "name": "Jhoṅpālā Ḍā̃ḍā",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.7028,
+                    29.50989
+                ]
+            },
+            "properties": {
+                "name": "Nisiṅyāṅ Ḍāḍā̃",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.65284,
+                    29.51296
+                ]
+            },
+            "properties": {
+                "name": "Ītiṅ Ḍāḍā̃",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.59636,
+                    29.53448
+                ]
+            },
+            "properties": {
+                "name": "Muga Ḍā̃ḍā",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.51175,
+                    29.51774
+                ]
+            },
+            "properties": {
+                "name": "Dābsāl Ḍā̃ḍā",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.55817,
+                    29.70165
+                ]
+            },
+            "properties": {
+                "name": "Mugu Ḍā̃ḍā",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.61562,
+                    29.70009
+                ]
+            },
+            "properties": {
+                "name": "Chhimi̇̄maru Ḍā̃ḍā",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.57101,
+                    29.61349
+                ]
+            },
+            "properties": {
+                "name": "Syānāṭh",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.55063,
+                    29.51162
+                ]
+            },
+            "properties": {
+                "name": "Pāṅkāyāṅ Ḍā̃ḍā",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.716388888,
+                    28.763333333
+                ]
+            },
+            "properties": {
+                "name": "Dhumba lake",
+                "article": "https://en.wikipedia.org/wiki/Dhumba_lake"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.6129635,
+                    28.1626803
+                ]
+            },
+            "properties": {
+                "name": "Ponggen Dopku",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.287222222,
+                    28.670555555
+                ]
+            },
+            "properties": {
+                "name": "Kubinde Daha",
+                "article": "https://en.wikipedia.org/wiki/Kubinde_Daha"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    84.020555555,
+                    28.801388888
+                ]
+            },
+            "properties": {
+                "name": "Purbung",
+                "article": "https://en.wikipedia.org/wiki/Purbung"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.485555555,
+                    28.073333333
+                ]
+            },
+            "properties": {
+                "name": "Barhakune Daha",
+                "article": "https://en.wikipedia.org/wiki/Barhakune_Daha"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.1408,
+                    26.6154
+                ]
+            },
+            "properties": {
+                "name": "Inarwa railway station",
+                "article": "https://en.wikipedia.org/wiki/Inarwa_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.573333333,
+                    27.875277777
+                ]
+            },
+            "properties": {
+                "name": "Jakhera Tal",
+                "article": "https://en.wikipedia.org/wiki/Jakhera_Tal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.6,
+                    28.212777777
+                ]
+            },
+            "properties": {
+                "name": "Tsergo Ri",
+                "article": "https://en.wikipedia.org/wiki/Tsergo_Ri"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.320555555,
+                    29.026666666
+                ]
+            },
+            "properties": {
+                "name": "Betkot Lake",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.54624,
+                    27.581746
+                ]
+            },
+            "properties": {
+                "name": "Junbesi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.7195,
+                    27.9843
+                ]
+            },
+            "properties": {
+                "name": "Cholo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.6601,
+                    27.7719
+                ]
+            },
+            "properties": {
+                "name": "Nupla",
+                "article": null
+            }
+        }
+    ]
+}

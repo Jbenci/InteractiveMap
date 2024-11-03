@@ -1,0 +1,1797 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    64.2,
+                    41.566666666
+                ]
+            },
+            "properties": {
+                "name": "Zarafshon",
+                "article": "https://en.wikipedia.org/wiki/Zarafshon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.284722222,
+                    40.356666666
+                ]
+            },
+            "properties": {
+                "name": "Rishton",
+                "article": "https://en.wikipedia.org/wiki/Rishton,_Uzbekistan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.333333333,
+                    42.0
+                ]
+            },
+            "properties": {
+                "name": "Sarygamysh Lake",
+                "article": "https://en.wikipedia.org/wiki/Sarygamysh_Lake"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.716666666,
+                    40.466666666
+                ]
+            },
+            "properties": {
+                "name": "Margilan",
+                "article": "https://en.wikipedia.org/wiki/Margilan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    67.25,
+                    39.4
+                ]
+            },
+            "properties": {
+                "name": "Urgut",
+                "article": "https://en.wikipedia.org/wiki/Urgut"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    66.75,
+                    40.916666666
+                ]
+            },
+            "properties": {
+                "name": "Aydar Lake",
+                "article": "https://en.wikipedia.org/wiki/Aydar_Lake"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.966666666,
+                    42.116666666
+                ]
+            },
+            "properties": {
+                "name": "Mount Adelung",
+                "article": "https://en.wikipedia.org/wiki/Mount_Adelung"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.046666666,
+                    41.1125
+                ]
+            },
+            "properties": {
+                "name": "Yangiyo‘l",
+                "article": "https://en.wikipedia.org/wiki/Yangiyo%CA%BBl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    66.265555555,
+                    39.895833333
+                ]
+            },
+            "properties": {
+                "name": "Kattakurgan",
+                "article": "https://en.wikipedia.org/wiki/Kattakurgan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    60.6249,
+                    41.5345
+                ]
+            },
+            "properties": {
+                "name": "Urgench",
+                "article": "https://en.wikipedia.org/wiki/Urgench"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    60.361111111,
+                    41.381388888
+                ]
+            },
+            "properties": {
+                "name": "Khiva",
+                "article": "https://en.wikipedia.org/wiki/Khiva"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.786388888,
+                    40.386388888
+                ]
+            },
+            "properties": {
+                "name": "Fergana",
+                "article": "https://en.wikipedia.org/wiki/Fergana"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.9425,
+                    40.528611111
+                ]
+            },
+            "properties": {
+                "name": "Kokand",
+                "article": "https://en.wikipedia.org/wiki/Kokand"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    59.602222222,
+                    42.464722222
+                ]
+            },
+            "properties": {
+                "name": "Nukus",
+                "article": "https://en.wikipedia.org/wiki/Nukus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    67.278333333,
+                    37.224166666
+                ]
+            },
+            "properties": {
+                "name": "Termez",
+                "article": "https://en.wikipedia.org/wiki/Termez"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.6725,
+                    40.995277777
+                ]
+            },
+            "properties": {
+                "name": "Namangan",
+                "article": "https://en.wikipedia.org/wiki/Namangan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    64.51395,
+                    40.023277
+                ]
+            },
+            "properties": {
+                "name": "Vabkent",
+                "article": "https://en.wikipedia.org/wiki/Vobkent"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.172222222,
+                    38.948333333
+                ]
+            },
+            "properties": {
+                "name": "Khazret Sultan",
+                "article": "https://en.wikipedia.org/wiki/Khazret_Sultan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.133333333,
+                    41.016666666
+                ]
+            },
+            "properties": {
+                "name": "Angren",
+                "article": "https://en.wikipedia.org/wiki/Angren,_Uzbekistan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    66.833333333,
+                    39.05
+                ]
+            },
+            "properties": {
+                "name": "Shahrisabz",
+                "article": "https://en.wikipedia.org/wiki/Shahrisabz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    67.85,
+                    40.116666666
+                ]
+            },
+            "properties": {
+                "name": "Jizzakh",
+                "article": "https://en.wikipedia.org/wiki/Jizzakh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    65.155833333,
+                    39.259722222
+                ]
+            },
+            "properties": {
+                "name": "Muborak",
+                "article": "https://en.wikipedia.org/wiki/Muborak"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    67.198888888,
+                    38.212222222
+                ]
+            },
+            "properties": {
+                "name": "Boysun",
+                "article": "https://en.wikipedia.org/wiki/Boysun"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    65.685,
+                    40.565
+                ]
+            },
+            "properties": {
+                "name": "Nurata",
+                "article": "https://en.wikipedia.org/wiki/Nurota"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.7833,
+                    40.5153
+                ]
+            },
+            "properties": {
+                "name": "Guliston",
+                "article": "https://en.wikipedia.org/wiki/Guliston"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.545833333,
+                    41.249166666
+                ]
+            },
+            "properties": {
+                "name": "Kosonsoy",
+                "article": "https://en.wikipedia.org/wiki/Kosonsoy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.97314,
+                    40.812689
+                ]
+            },
+            "properties": {
+                "name": "Xonobod",
+                "article": "https://en.wikipedia.org/wiki/Xonobod"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    60.35,
+                    41.533333333
+                ]
+            },
+            "properties": {
+                "name": "Qo‘shko‘pir",
+                "article": "https://en.wikipedia.org/wiki/Qo%CA%BBshko%CA%BBpir"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    60.3,
+                    41.65
+                ]
+            },
+            "properties": {
+                "name": "Shovot",
+                "article": "https://en.wikipedia.org/wiki/Shovot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    60.3025,
+                    41.655833333
+                ]
+            },
+            "properties": {
+                "name": "Shovot",
+                "article": "https://en.wikipedia.org/wiki/Shovot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    61.083333333,
+                    41.3
+                ]
+            },
+            "properties": {
+                "name": "Hazorasp",
+                "article": "https://en.wikipedia.org/wiki/Hazorasp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    60.783333333,
+                    41.466666666
+                ]
+            },
+            "properties": {
+                "name": "Xonqa",
+                "article": "https://en.wikipedia.org/wiki/Xonqa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    64.849166666,
+                    40.031944444
+                ]
+            },
+            "properties": {
+                "name": "Kyzyltepa",
+                "article": "https://en.wikipedia.org/wiki/Qiziltepa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.815277777,
+                    41.068888888
+                ]
+            },
+            "properties": {
+                "name": "Chortoq",
+                "article": "https://en.wikipedia.org/wiki/Chortoq"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.1089,
+                    40.8736
+                ]
+            },
+            "properties": {
+                "name": "Pap",
+                "article": "https://en.wikipedia.org/wiki/Pop,_Uzbekistan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    59.033333333,
+                    43.766666666
+                ]
+            },
+            "properties": {
+                "name": "Moynaq",
+                "article": "https://en.wikipedia.org/wiki/Moynaq"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    65.383333333,
+                    40.083333333
+                ]
+            },
+            "properties": {
+                "name": "Navoiy",
+                "article": "https://en.wikipedia.org/wiki/Navoiy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    61.02722222,
+                    42.00972222
+                ]
+            },
+            "properties": {
+                "name": "Ayaz-Kala",
+                "article": "https://en.wikipedia.org/wiki/Ayaz-Kala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    66.566666666,
+                    37.833333333
+                ]
+            },
+            "properties": {
+                "name": "Aýrybaba",
+                "article": "https://en.wikipedia.org/wiki/Ayribobo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.229166666,
+                    40.225833333
+                ]
+            },
+            "properties": {
+                "name": "Bekobod",
+                "article": "https://en.wikipedia.org/wiki/Bekabad"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.495555555,
+                    40.426388888
+                ]
+            },
+            "properties": {
+                "name": "Tinchlik",
+                "article": "https://en.wikipedia.org/wiki/Tinchlik,_Fergana_Region"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.505277777,
+                    40.4275
+                ]
+            },
+            "properties": {
+                "name": "Tinchlik",
+                "article": "https://en.wikipedia.org/wiki/Tinchlik,_Fergana_Region"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.358333333,
+                    41.040277777
+                ]
+            },
+            "properties": {
+                "name": "Nurafshon",
+                "article": "https://en.wikipedia.org/wiki/Nurafshon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    66.661388888,
+                    39.709444444
+                ]
+            },
+            "properties": {
+                "name": "Juma",
+                "article": "https://en.wikipedia.org/wiki/Juma,_Uzbekistan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.583333333,
+                    41.466666666
+                ]
+            },
+            "properties": {
+                "name": "Chirchiq",
+                "article": "https://en.wikipedia.org/wiki/Chirchiq"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.6,
+                    40.85
+                ]
+            },
+            "properties": {
+                "name": "Olmaliq",
+                "article": "https://en.wikipedia.org/wiki/Olmaliq"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    64.666666666,
+                    40.1
+                ]
+            },
+            "properties": {
+                "name": "Gijduvan",
+                "article": "https://en.wikipedia.org/wiki/Gijduvon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    64.666666666,
+                    40.1
+                ]
+            },
+            "properties": {
+                "name": "Gijduvan",
+                "article": "https://en.wikipedia.org/wiki/Gijduvon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    64.683333333,
+                    40.1
+                ]
+            },
+            "properties": {
+                "name": "Gijduvan",
+                "article": "https://en.wikipedia.org/wiki/Gijduvon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    64.683333333,
+                    40.1
+                ]
+            },
+            "properties": {
+                "name": "Gijduvan",
+                "article": "https://en.wikipedia.org/wiki/Gijduvon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    61.0,
+                    41.55
+                ]
+            },
+            "properties": {
+                "name": "Tortkul",
+                "article": "https://en.wikipedia.org/wiki/To%CA%BBrtko%CA%BBl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    67.97888889,
+                    38.29361111
+                ]
+            },
+            "properties": {
+                "name": "Khalchayan",
+                "article": "https://en.wikipedia.org/wiki/Khalchayan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    59.775277777,
+                    42.935833333
+                ]
+            },
+            "properties": {
+                "name": "Shimbay",
+                "article": "https://en.wikipedia.org/wiki/Sh%C4%B1mbay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    67.86055556,
+                    38.10111111
+                ]
+            },
+            "properties": {
+                "name": "Dalverzin Tepe",
+                "article": "https://en.wikipedia.org/wiki/Dalverzin_Tepe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.279722222,
+                    41.311111111
+                ]
+            },
+            "properties": {
+                "name": "Tashkent",
+                "article": "https://en.wikipedia.org/wiki/Tashkent"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    66.975833333,
+                    39.654722222
+                ]
+            },
+            "properties": {
+                "name": "Samarkand",
+                "article": "https://en.wikipedia.org/wiki/Samarkand"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    64.428611111,
+                    39.774722222
+                ]
+            },
+            "properties": {
+                "name": "Bukhara",
+                "article": "https://en.wikipedia.org/wiki/Bukhara"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    63.555555555,
+                    42.156666666
+                ]
+            },
+            "properties": {
+                "name": "Uchkuduk",
+                "article": "https://en.wikipedia.org/wiki/Uchquduq"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.9333,
+                    41.0333
+                ]
+            },
+            "properties": {
+                "name": "Djarkutan",
+                "article": "https://en.wikipedia.org/wiki/Djarkutan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.027211111,
+                    42.308927777
+                ]
+            },
+            "properties": {
+                "name": "Talas Alatau",
+                "article": "https://en.wikipedia.org/wiki/Talas_Alatau"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    59.433333333,
+                    42.4
+                ]
+            },
+            "properties": {
+                "name": "Xojeli",
+                "article": "https://en.wikipedia.org/wiki/Xojeli"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    58.906666666,
+                    43.075833333
+                ]
+            },
+            "properties": {
+                "name": "Kungrad",
+                "article": "https://en.wikipedia.org/wiki/Qo%C5%84irat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.816666666,
+                    40.266666666
+                ]
+            },
+            "properties": {
+                "name": "Yangiyer",
+                "article": "https://en.wikipedia.org/wiki/Yangiyer"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    64.916666666,
+                    40.2
+                ]
+            },
+            "properties": {
+                "name": "Kagan",
+                "article": "https://en.wikipedia.org/wiki/Kogon,_Uzbekistan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    67.15651111,
+                    37.96596389
+                ]
+            },
+            "properties": {
+                "name": "Teshik-Tash",
+                "article": "https://en.wikipedia.org/wiki/Teshik-Tash_1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    64.0116725,
+                    39.5870597
+                ]
+            },
+            "properties": {
+                "name": "Paikend",
+                "article": "https://en.wikipedia.org/wiki/Paykend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    66.91805556,
+                    39.89333333
+                ]
+            },
+            "properties": {
+                "name": "Koktepe",
+                "article": "https://en.wikipedia.org/wiki/Koktepe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    60.288611111,
+                    43.0225
+                ]
+            },
+            "properties": {
+                "name": "Taxtako‘pir",
+                "article": "https://en.wikipedia.org/wiki/Taxtak%C3%B3pir"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    60.5,
+                    41.716666666
+                ]
+            },
+            "properties": {
+                "name": "Yangibozor",
+                "article": "https://en.wikipedia.org/wiki/Yangibozor,_Xorazm_Region"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    60.539166666,
+                    41.710833333
+                ]
+            },
+            "properties": {
+                "name": "Yangibozor",
+                "article": "https://en.wikipedia.org/wiki/Yangibozor,_Xorazm_Region"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.887222222,
+                    40.722222222
+                ]
+            },
+            "properties": {
+                "name": "Qorasuv",
+                "article": "https://en.wikipedia.org/wiki/Qorasuv"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    66.987708333,
+                    39.671325
+                ]
+            },
+            "properties": {
+                "name": "Afrasiyab",
+                "article": "https://en.wikipedia.org/wiki/Afrasiyab_(Samarkand)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    58.917222222,
+                    42.638611111
+                ]
+            },
+            "properties": {
+                "name": "Shumanay",
+                "article": "https://en.wikipedia.org/wiki/Shomanay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    60.93,
+                    41.847777777
+                ]
+            },
+            "properties": {
+                "name": "Bo‘ston",
+                "article": "https://en.wikipedia.org/wiki/Bo%CA%BBston"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.450602,
+                    40.886569
+                ]
+            },
+            "properties": {
+                "name": "Akhsikath",
+                "article": "https://en.wikipedia.org/wiki/Akhsikath"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.4506,
+                    40.8866
+                ]
+            },
+            "properties": {
+                "name": "Akhsikath",
+                "article": "https://en.wikipedia.org/wiki/Akhsikath"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    66.248055555,
+                    38.620833333
+                ]
+            },
+            "properties": {
+                "name": "G‘uzor",
+                "article": "https://en.wikipedia.org/wiki/G%CA%BBuzor"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.835,
+                    40.2101
+                ]
+            },
+            "properties": {
+                "name": "Khavast",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    66.829475,
+                    39.060776
+                ]
+            },
+            "properties": {
+                "name": "Ak-Saray Palace",
+                "article": "https://en.wikipedia.org/wiki/Ak-Saray_Palace"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    59.607777777,
+                    42.776666666
+                ]
+            },
+            "properties": {
+                "name": "Kegeyli",
+                "article": "https://en.wikipedia.org/wiki/Kegeyli"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.2668,
+                    41.3164
+                ]
+            },
+            "properties": {
+                "name": "Mustaqillik Maydoni",
+                "article": "https://en.wikipedia.org/wiki/Mustaqillik_Maydoni"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    60.058333333,
+                    42.123611111
+                ]
+            },
+            "properties": {
+                "name": "Mang‘it",
+                "article": "https://en.wikipedia.org/wiki/Mang%CA%BBit"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.815555555,
+                    40.375833333
+                ]
+            },
+            "properties": {
+                "name": "Yaypan",
+                "article": "https://en.wikipedia.org/wiki/Yaypan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    60.81666667,
+                    41.35
+                ]
+            },
+            "properties": {
+                "name": "Bog‘ot",
+                "article": "https://en.wikipedia.org/wiki/Bog%CA%BBot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    60.0125,
+                    43.0275
+                ]
+            },
+            "properties": {
+                "name": "Qorao‘zak",
+                "article": "https://en.wikipedia.org/wiki/Qaraozek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    59.0,
+                    42.833333333
+                ]
+            },
+            "properties": {
+                "name": "Qanliko‘l",
+                "article": "https://en.wikipedia.org/wiki/Qanlik%C3%B3l"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    59.533333333,
+                    42.6
+                ]
+            },
+            "properties": {
+                "name": "Oqmang‘it",
+                "article": "https://en.wikipedia.org/wiki/Aqmangit"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    65.138055555,
+                    40.275555555
+                ]
+            },
+            "properties": {
+                "name": "Kanimekh",
+                "article": "https://en.wikipedia.org/wiki/Kenimekh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    60.391944444,
+                    41.844722222
+                ]
+            },
+            "properties": {
+                "name": "Gurlan",
+                "article": "https://en.wikipedia.org/wiki/Gurlan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.194166666,
+                    40.811111111
+                ]
+            },
+            "properties": {
+                "name": "Buka",
+                "article": "https://en.wikipedia.org/wiki/Bo%CA%BBka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.201944444,
+                    40.813611111
+                ]
+            },
+            "properties": {
+                "name": "Buka",
+                "article": "https://en.wikipedia.org/wiki/Bo%CA%BBka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    60.346111111,
+                    41.536944444
+                ]
+            },
+            "properties": {
+                "name": "Qorovul",
+                "article": "https://en.wikipedia.org/wiki/Qorovul"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    60.6075,
+                    41.362777777
+                ]
+            },
+            "properties": {
+                "name": "Yangiariq",
+                "article": "https://en.wikipedia.org/wiki/Yangiariq"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.508055555,
+                    41.727777777
+                ]
+            },
+            "properties": {
+                "name": "Aktash",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    64.073183,
+                    39.862927
+                ]
+            },
+            "properties": {
+                "name": "Varahsha",
+                "article": "https://en.wikipedia.org/wiki/Varakhsha"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    65.496388888,
+                    40.594444444
+                ]
+            },
+            "properties": {
+                "name": "G'ozg'on",
+                "article": "https://en.wikipedia.org/wiki/G%CA%BBozg%CA%BBon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.98541667,
+                    40.80652778
+                ]
+            },
+            "properties": {
+                "name": "Kanka",
+                "article": "https://en.wikipedia.org/wiki/Kanka,_Uzbekistan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.311111111,
+                    40.858333333
+                ]
+            },
+            "properties": {
+                "name": "Kuyganyar",
+                "article": "https://en.wikipedia.org/wiki/Kuyganyor"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.966666666,
+                    41.267222222
+                ]
+            },
+            "properties": {
+                "name": "Gora Kyzylnura",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    64.40343,
+                    39.76681
+                ]
+            },
+            "properties": {
+                "name": "Juybori Kalon Madrasa",
+                "article": "https://en.wikipedia.org/wiki/Joybori_Kalon_Madrasah"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    64.4038,
+                    39.7659
+                ]
+            },
+            "properties": {
+                "name": "Volidai Abdulaziz Khan mosque",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    67.141388888,
+                    37.297222222
+                ]
+            },
+            "properties": {
+                "name": "Aral-Paygambar",
+                "article": "https://en.wikipedia.org/wiki/Aral-Paygambar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.643333333,
+                    40.999444444
+                ]
+            },
+            "properties": {
+                "name": "Namangan",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.29202,
+                    41.3165
+                ]
+            },
+            "properties": {
+                "name": "Mustaqillik Avenue",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    64.417239,
+                    39.773856
+                ]
+            },
+            "properties": {
+                "name": "Tok-i-Telpak Furushon",
+                "article": "https://en.wikipedia.org/wiki/Toqi_Telpak_Furushon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    64.417136,
+                    39.775391
+                ]
+            },
+            "properties": {
+                "name": "Tim of Abdullah Khan",
+                "article": "https://en.wikipedia.org/wiki/Tim_Abdullah_Khan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    64.41871,
+                    39.772502
+                ]
+            },
+            "properties": {
+                "name": "Tok-i-Sarrafon",
+                "article": "https://en.wikipedia.org/wiki/Toqi_Sarrofon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    64.416639,
+                    39.776391
+                ]
+            },
+            "properties": {
+                "name": "Tok-i-Zargoron",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.848333333,
+                    41.029444444
+                ]
+            },
+            "properties": {
+                "name": "Uychi",
+                "article": "https://en.wikipedia.org/wiki/Uychi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.92331,
+                    41.08073
+                ]
+            },
+            "properties": {
+                "name": "Uychi",
+                "article": "https://en.wikipedia.org/wiki/Uychi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.9183,
+                    41.6178
+                ]
+            },
+            "properties": {
+                "name": "Khodzhikent",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    66.861111111,
+                    39.920277777
+                ]
+            },
+            "properties": {
+                "name": "Chelak",
+                "article": "https://en.wikipedia.org/wiki/Chelak,_Uzbekistan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    66.86111111,
+                    39.92027778
+                ]
+            },
+            "properties": {
+                "name": "Chelak",
+                "article": "https://en.wikipedia.org/wiki/Chelak,_Uzbekistan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    67.966944444,
+                    38.46
+                ]
+            },
+            "properties": {
+                "name": "Shargʻun",
+                "article": "https://en.wikipedia.org/wiki/Sharg%CA%BBun"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    67.96722222,
+                    38.46388889
+                ]
+            },
+            "properties": {
+                "name": "Shargʻun",
+                "article": "https://en.wikipedia.org/wiki/Sharg%CA%BBun"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.7239,
+                    41.1819
+                ]
+            },
+            "properties": {
+                "name": "Yangiqoʻrgʻon",
+                "article": "https://en.wikipedia.org/wiki/Yangiqo%CA%BBrg%CA%BBon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.73333,
+                    41.18722
+                ]
+            },
+            "properties": {
+                "name": "Yangiqoʻrgʻon",
+                "article": "https://en.wikipedia.org/wiki/Yangiqo%CA%BBrg%CA%BBon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.73333333,
+                    41.18722222
+                ]
+            },
+            "properties": {
+                "name": "Yangiqoʻrgʻon",
+                "article": "https://en.wikipedia.org/wiki/Yangiqo%CA%BBrg%CA%BBon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.728055555,
+                    41.192222222
+                ]
+            },
+            "properties": {
+                "name": "Yangiqoʻrgʻon",
+                "article": "https://en.wikipedia.org/wiki/Yangiqo%CA%BBrg%CA%BBon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.033333333,
+                    40.833333333
+                ]
+            },
+            "properties": {
+                "name": "Ancient Pap",
+                "article": "https://en.wikipedia.org/wiki/Ancient_Pap"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    65.3,
+                    40.216667
+                ]
+            },
+            "properties": {
+                "name": "Beshrabot",
+                "article": "https://en.wikipedia.org/wiki/Beshrabot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    65.966666666,
+                    40.033333333
+                ]
+            },
+            "properties": {
+                "name": "Yangirabad",
+                "article": "https://en.wikipedia.org/wiki/Yangirabod"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.866666666,
+                    42.1
+                ]
+            },
+            "properties": {
+                "name": "Mount Beshtor",
+                "article": "https://en.wikipedia.org/wiki/Mount_Beshtor"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.901359,
+                    40.766345
+                ]
+            },
+            "properties": {
+                "name": "Shahrukhiya",
+                "article": "https://en.wikipedia.org/wiki/Shahrukhiya"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    64.62056,
+                    41.75306
+                ]
+            },
+            "properties": {
+                "name": "Tamdibulok",
+                "article": "https://en.wikipedia.org/wiki/Tamdybulak"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    66.9289146,
+                    39.6858876
+                ]
+            },
+            "properties": {
+                "name": "Samarkand railway station",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    64.18333333,
+                    39.08333333
+                ]
+            },
+            "properties": {
+                "name": "Lake Dengizkul",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    64.2055556,
+                    39.0902778
+                ]
+            },
+            "properties": {
+                "name": "Lake Dengizkul",
+                "article": null
+            }
+        }
+    ]
+}

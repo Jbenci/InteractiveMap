@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.36144,
+                    13.31753
+                ]
+            },
+            "properties": {
+                "name": "Kunta Kinteh Island",
+                "article": "https://en.wikipedia.org/wiki/Kunta_Kinteh_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.38240388,
+                    13.33640793
+                ]
+            },
+            "properties": {
+                "name": "Maurel Frères Building",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.57444444,
+                    13.45616667
+                ]
+            },
+            "properties": {
+                "name": "State House of the Gambia",
+                "article": "https://en.wikipedia.org/wiki/State_House,_Banjul"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.728888888,
+                    13.407686111
+                ]
+            },
+            "properties": {
+                "name": "Q27926289",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.385,
+                    13.3332
+                ]
+            },
+            "properties": {
+                "name": "CFAO Building",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.5775,
+                    13.453055555
+                ]
+            },
+            "properties": {
+                "name": "Banjul",
+                "article": "https://en.wikipedia.org/wiki/Banjul"
+            }
+        }
+    ]
+}

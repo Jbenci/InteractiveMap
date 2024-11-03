@@ -1,0 +1,775 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.493333,
+                    12.431667
+                ]
+            },
+            "properties": {
+                "name": "Mushroom Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.73,
+                    12.166388888
+                ]
+            },
+            "properties": {
+                "name": "Gouyave",
+                "article": "https://en.wikipedia.org/wiki/Gouyave"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.5865,
+                    12.304
+                ]
+            },
+            "properties": {
+                "name": "Ronde Island",
+                "article": "https://en.wikipedia.org/wiki/Ronde_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.675277777,
+                    12.162222222
+                ]
+            },
+            "properties": {
+                "name": "Mount Saint Catherine",
+                "article": "https://en.wikipedia.org/wiki/Mount_Saint_Catherine_(Grenada)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.45,
+                    12.466667
+                ]
+            },
+            "properties": {
+                "name": "Carriacou Island",
+                "article": "https://en.wikipedia.org/wiki/Carriacou"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.3844,
+                    12.5164
+                ]
+            },
+            "properties": {
+                "name": "Petite Martinique",
+                "article": "https://en.wikipedia.org/wiki/Petite_Martinique"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.639166666,
+                    12.218333333
+                ]
+            },
+            "properties": {
+                "name": "Sauteurs",
+                "article": "https://en.wikipedia.org/wiki/Sauteurs"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.686944444,
+                    12.128611111
+                ]
+            },
+            "properties": {
+                "name": "Grenada",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.626388888,
+                    12.119166666
+                ]
+            },
+            "properties": {
+                "name": "Grenville",
+                "article": "https://en.wikipedia.org/wiki/Grenville,_Grenada"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.5,
+                    12.4
+                ]
+            },
+            "properties": {
+                "name": "Large Island",
+                "article": "https://en.wikipedia.org/wiki/Large_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.45732,
+                    12.482993
+                ]
+            },
+            "properties": {
+                "name": "Hillsborough",
+                "article": "https://en.wikipedia.org/wiki/Hillsborough,_Carriacou"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.466666666,
+                    12.433333333
+                ]
+            },
+            "properties": {
+                "name": "Saline Island",
+                "article": "https://en.wikipedia.org/wiki/Saline_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.58333333,
+                    12.33333333
+                ]
+            },
+            "properties": {
+                "name": "Diamond Island",
+                "article": "https://en.wikipedia.org/wiki/Diamond_Island_(Grenadines)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.581944444,
+                    12.286111111
+                ]
+            },
+            "properties": {
+                "name": "Caille Island",
+                "article": "https://en.wikipedia.org/wiki/Caille_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.7,
+                    12.083333333
+                ]
+            },
+            "properties": {
+                "name": "Grand Etang Lake",
+                "article": "https://en.wikipedia.org/wiki/Grand_Etang_Lake"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.666388888,
+                    12.032777777
+                ]
+            },
+            "properties": {
+                "name": "St. David's",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.66875,
+                    12.04903
+                ]
+            },
+            "properties": {
+                "name": "St. David's",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.606,
+                    12.23
+                ]
+            },
+            "properties": {
+                "name": "Sugar Loaf Island",
+                "article": "https://en.wikipedia.org/wiki/Sugar_Loaf_Island_(Grenada)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.7675,
+                    12.00028
+                ]
+            },
+            "properties": {
+                "name": "True Blue",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.61246,
+                    12.18472
+                ]
+            },
+            "properties": {
+                "name": "Lake Antoine",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.733333333,
+                    12.083333333
+                ]
+            },
+            "properties": {
+                "name": "Q24678980",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.733333333,
+                    12.066666666
+                ]
+            },
+            "properties": {
+                "name": "Mount Melville Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.73333,
+                    12.15
+                ]
+            },
+            "properties": {
+                "name": "Mount Nesbit",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.68333,
+                    12.16667
+                ]
+            },
+            "properties": {
+                "name": "Mount Nelson, Grenada",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.733333333,
+                    12.133333333
+                ]
+            },
+            "properties": {
+                "name": "Palmiste Lake",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.401694444,
+                    12.508333333
+                ]
+            },
+            "properties": {
+                "name": "Petite Dominique",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.733333333,
+                    12.133333333
+                ]
+            },
+            "properties": {
+                "name": "Mount Plaisir",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.63333,
+                    12.2
+                ]
+            },
+            "properties": {
+                "name": "Q24679015",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.7,
+                    12.0975
+                ]
+            },
+            "properties": {
+                "name": "Mount Qua Qua",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.616666666,
+                    12.183333333
+                ]
+            },
+            "properties": {
+                "name": "Q24679021",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.65,
+                    12.216666666
+                ]
+            },
+            "properties": {
+                "name": "Mount Rodney",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.46667,
+                    12.4
+                ]
+            },
+            "properties": {
+                "name": "Rose Rock, Grenada",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.671388888,
+                    12.087222222
+                ]
+            },
+            "properties": {
+                "name": "South East Mountain",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.62359,
+                    12.07024
+                ]
+            },
+            "properties": {
+                "name": "Bacolet Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.55165,
+                    12.20782
+                ]
+            },
+            "properties": {
+                "name": "Bird Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.58532,
+                    12.17504
+                ]
+            },
+            "properties": {
+                "name": "Black Rock, Grenada",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.7308,
+                    12.1042
+                ]
+            },
+            "properties": {
+                "name": "Q24679893",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.7,
+                    12.15
+                ]
+            },
+            "properties": {
+                "name": "Q24679899",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.39967,
+                    12.51477
+                ]
+            },
+            "properties": {
+                "name": "Fota, Grenadines",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.4,
+                    12.51667
+                ]
+            },
+            "properties": {
+                "name": "Fota, Grenadines",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.71667,
+                    12.0
+                ]
+            },
+            "properties": {
+                "name": "Q24679914",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.4775,
+                    12.414166666
+                ]
+            },
+            "properties": {
+                "name": "Frigate Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.78651,
+                    11.98698
+                ]
+            },
+            "properties": {
+                "name": "Glover Island",
+                "article": "https://en.wikipedia.org/wiki/Glover_Island,_Grenada"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.59683,
+                    12.23004
+                ]
+            },
+            "properties": {
+                "name": "Green Island, Grenada",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.619967238,
+                    12.145369274
+                ]
+            },
+            "properties": {
+                "name": "Mount Horn, Grenada",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.75,
+                    12.05
+                ]
+            },
+            "properties": {
+                "name": "Q24679947",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.73333,
+                    12.0
+                ]
+            },
+            "properties": {
+                "name": "Q24679945",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.666666666,
+                    12.066666666
+                ]
+            },
+            "properties": {
+                "name": "Mount Lebanon, Grenada",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.716666666,
+                    12.05
+                ]
+            },
+            "properties": {
+                "name": "Mount Maitland",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.61713,
+                    12.09972
+                ]
+            },
+            "properties": {
+                "name": "Marquis Island, Grenada",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.683333333,
+                    12.066666666
+                ]
+            },
+            "properties": {
+                "name": "Q24680007",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.65,
+                    12.216666666
+                ]
+            },
+            "properties": {
+                "name": "Q24680974",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.707777777,
+                    12.134722222
+                ]
+            },
+            "properties": {
+                "name": "Mount Granby",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.4775,
+                    12.414166666
+                ]
+            },
+            "properties": {
+                "name": "Frigate Island",
+                "article": "https://en.wikipedia.org/wiki/Frigate_Island,_Grenada"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.741666666,
+                    12.044444444
+                ]
+            },
+            "properties": {
+                "name": "St. George's",
+                "article": "https://en.wikipedia.org/wiki/St._George%27s,_Grenada"
+            }
+        }
+    ]
+}

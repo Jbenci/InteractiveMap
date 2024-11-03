@@ -1,0 +1,2539 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.614166666,
+                    -19.984166666
+                ]
+            },
+            "properties": {
+                "name": "Cap Malheureux",
+                "article": "https://en.wikipedia.org/wiki/Cap_Malheureux"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    63.43444444,
+                    -19.775
+                ]
+            },
+            "properties": {
+                "name": "Cat Island",
+                "article": "https://en.wikipedia.org/wiki/Cat_Island_(Rodrigues)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    56.635,
+                    -10.415
+                ]
+            },
+            "properties": {
+                "name": "Agaléga",
+                "article": "https://en.wikipedia.org/wiki/Agal%C3%A9ga"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.555172,
+                    -20.192271
+                ]
+            },
+            "properties": {
+                "name": "Pieter Both",
+                "article": "https://en.wikipedia.org/wiki/Pieter_Both_(mountain)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.6726,
+                    -19.8866
+                ]
+            },
+            "properties": {
+                "name": "Îlot Gabriel",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.7,
+                    -20.036944444
+                ]
+            },
+            "properties": {
+                "name": "Île D'Ambre",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.733,
+                    -20.42
+                ]
+            },
+            "properties": {
+                "name": "Île aux Aigrettes",
+                "article": "https://en.wikipedia.org/wiki/%C3%8Ele_aux_Aigrettes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.3439,
+                    -20.4189
+                ]
+            },
+            "properties": {
+                "name": "Île aux Bénitiers",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.8041,
+                    -20.2724
+                ]
+            },
+            "properties": {
+                "name": "Île aux Cerfs",
+                "article": "https://en.wikipedia.org/wiki/%C3%8Ele_aux_Cerfs"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    63.3,
+                    -19.719444444
+                ]
+            },
+            "properties": {
+                "name": "Île aux Cocos",
+                "article": "https://en.wikipedia.org/wiki/%C3%8Ele_aux_Cocos"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.767222222,
+                    -20.398888888
+                ]
+            },
+            "properties": {
+                "name": "Île de la Passe",
+                "article": "https://en.wikipedia.org/wiki/%C3%8Ele_de_la_Passe_(Mauritius)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.511532,
+                    -20.318119
+                ]
+            },
+            "properties": {
+                "name": "Trou aux Cerfs",
+                "article": "https://en.wikipedia.org/wiki/Trou_aux_Cerfs"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.54528,
+                    -20.05472
+                ]
+            },
+            "properties": {
+                "name": "Triolet",
+                "article": "https://en.wikipedia.org/wiki/Triolet,_Mauritius"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.668,
+                    -19.8797
+                ]
+            },
+            "properties": {
+                "name": "Île Plate",
+                "article": "https://en.wikipedia.org/wiki/%C3%8Ele_Plate"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.55,
+                    -20.25
+                ]
+            },
+            "properties": {
+                "name": "Quartier-Militaire",
+                "article": "https://en.wikipedia.org/wiki/Quartier-Militaire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    63.4167,
+                    -19.77
+                ]
+            },
+            "properties": {
+                "name": "Q780140",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.5,
+                    -20.366666666
+                ]
+            },
+            "properties": {
+                "name": "Mare aux Vacoas",
+                "article": "https://en.wikipedia.org/wiki/Mare_aux_Vacoas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.584444444,
+                    -20.013055555
+                ]
+            },
+            "properties": {
+                "name": "Grand Baie",
+                "article": "https://en.wikipedia.org/wiki/Grand_Baie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    63.421111111,
+                    -19.683333333
+                ]
+            },
+            "properties": {
+                "name": "Port Mathurin",
+                "article": "https://en.wikipedia.org/wiki/Port_Mathurin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.717658333,
+                    -20.2002
+                ]
+            },
+            "properties": {
+                "name": "Centre de Flacq",
+                "article": "https://en.wikipedia.org/wiki/Centre_de_Flacq"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.783333333,
+                    -19.850036111
+                ]
+            },
+            "properties": {
+                "name": "Île Ronde",
+                "article": "https://en.wikipedia.org/wiki/%C3%8Ele_Ronde,_Mauritius"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.313611111,
+                    -20.460555555
+                ]
+            },
+            "properties": {
+                "name": "Le Morne Brabant",
+                "article": "https://en.wikipedia.org/wiki/Le_Morne_Brabant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    63.3425,
+                    -19.76
+                ]
+            },
+            "properties": {
+                "name": "Q1200970",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    63.433333333,
+                    -19.75
+                ]
+            },
+            "properties": {
+                "name": "Hermitage Island",
+                "article": "https://en.wikipedia.org/wiki/Hermitage_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    63.34305556,
+                    -19.75611111
+                ]
+            },
+            "properties": {
+                "name": "Q1413202",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.58333333,
+                    -20.11666667
+                ]
+            },
+            "properties": {
+                "name": "Pamplemousses",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.620555555,
+                    -19.941111111
+                ]
+            },
+            "properties": {
+                "name": "Coin de Mire",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.466666666,
+                    -20.4
+                ]
+            },
+            "properties": {
+                "name": "Piton de la Petite Rivière Noire",
+                "article": "https://en.wikipedia.org/wiki/Piton_de_la_Petite_Rivi%C3%A8re_Noire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.525,
+                    -20.519444444
+                ]
+            },
+            "properties": {
+                "name": "Souillac",
+                "article": "https://en.wikipedia.org/wiki/Souillac,_Mauritius"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.491944444,
+                    -20.418055555
+                ]
+            },
+            "properties": {
+                "name": "Ganga Talao",
+                "article": "https://en.wikipedia.org/wiki/Ganga_Talao"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.5285,
+                    -20.19722222
+                ]
+            },
+            "properties": {
+                "name": "Le Pouce",
+                "article": "https://en.wikipedia.org/wiki/Le_Pouce"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.7008,
+                    -20.025
+                ]
+            },
+            "properties": {
+                "name": "Pointe Bernache",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.583333333,
+                    -20.3
+                ]
+            },
+            "properties": {
+                "name": "Mauritius Island",
+                "article": "https://en.wikipedia.org/wiki/Mauritius_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.450555555,
+                    -20.252222222
+                ]
+            },
+            "properties": {
+                "name": "Corps de Garde",
+                "article": "https://en.wikipedia.org/wiki/Corps_de_Garde"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.61,
+                    -20.15
+                ]
+            },
+            "properties": {
+                "name": "Q3211085",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.47,
+                    -20.44
+                ]
+            },
+            "properties": {
+                "name": "Montagne Cocotte",
+                "article": "https://en.wikipedia.org/wiki/Montagne_Cocotte"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.7117,
+                    -20.4056
+                ]
+            },
+            "properties": {
+                "name": "Mouchoir Rouge",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.71208,
+                    -20.40554
+                ]
+            },
+            "properties": {
+                "name": "Mouchoir Rouge",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.6574,
+                    -19.8627
+                ]
+            },
+            "properties": {
+                "name": "Q3437603",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.7897,
+                    -20.3803
+                ]
+            },
+            "properties": {
+                "name": "Q3437615",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.525,
+                    -20.15
+                ]
+            },
+            "properties": {
+                "name": "Sainte-Croix",
+                "article": "https://en.wikipedia.org/wiki/Sainte-Croix,_Mauritius"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.44083,
+                    -20.30722
+                ]
+            },
+            "properties": {
+                "name": "Trois Mamelles",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.45,
+                    -20.311
+                ]
+            },
+            "properties": {
+                "name": "Trois Mamelles",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.7857,
+                    -20.2417
+                ]
+            },
+            "properties": {
+                "name": "Trou d'Eau Douce",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    63.3897,
+                    -19.6661
+                ]
+            },
+            "properties": {
+                "name": "Q3593022",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    63.3222,
+                    -19.7497
+                ]
+            },
+            "properties": {
+                "name": "Q3593038",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    63.3608,
+                    -19.7708
+                ]
+            },
+            "properties": {
+                "name": "Q3593050",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    63.3972,
+                    -19.6839
+                ]
+            },
+            "properties": {
+                "name": "Q3593060",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    63.435,
+                    -19.775
+                ]
+            },
+            "properties": {
+                "name": "île Pierrot",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    63.4319,
+                    -19.785
+                ]
+            },
+            "properties": {
+                "name": "Q3593179",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.8209,
+                    -20.322
+                ]
+            },
+            "properties": {
+                "name": "Q3593270",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.78056,
+                    -20.37944
+                ]
+            },
+            "properties": {
+                "name": "Q3593271",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.7878,
+                    -20.383
+                ]
+            },
+            "properties": {
+                "name": "Q3593271",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.77111,
+                    -20.39278
+                ]
+            },
+            "properties": {
+                "name": "Île aux Fouquets",
+                "article": "https://en.wikipedia.org/wiki/%C3%8Ele_aux_Fouquets"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.7872,
+                    -20.3801
+                ]
+            },
+            "properties": {
+                "name": "Q3593278",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.8142,
+                    -20.3273
+                ]
+            },
+            "properties": {
+                "name": "Q3593290",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.7992,
+                    -19.8158
+                ]
+            },
+            "properties": {
+                "name": "Q3593298",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    63.3058,
+                    -19.7022
+                ]
+            },
+            "properties": {
+                "name": "Q3593297",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    63.316666666,
+                    -19.7
+                ]
+            },
+            "properties": {
+                "name": "Q3593297",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.763611111,
+                    -20.395
+                ]
+            },
+            "properties": {
+                "name": "Q3593303",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.7703,
+                    -20.3978
+                ]
+            },
+            "properties": {
+                "name": "Q3593303",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.49497,
+                    -20.14256
+                ]
+            },
+            "properties": {
+                "name": "Île aux Tonneliers",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.7178,
+                    -20.42
+                ]
+            },
+            "properties": {
+                "name": "Q3593488",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.71865,
+                    -20.41833
+                ]
+            },
+            "properties": {
+                "name": "Q3593488",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.6856,
+                    -20.4723
+                ]
+            },
+            "properties": {
+                "name": "Q3593595",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.33,
+                    -20.46833
+                ]
+            },
+            "properties": {
+                "name": "Q3593596",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.6743,
+                    -20.4783
+                ]
+            },
+            "properties": {
+                "name": "Q3593597",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.66667,
+                    -20.47528
+                ]
+            },
+            "properties": {
+                "name": "Q3593597",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.44139,
+                    -20.50083
+                ]
+            },
+            "properties": {
+                "name": "Q3593604",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.4483,
+                    -20.5039
+                ]
+            },
+            "properties": {
+                "name": "Q3593604",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.7108,
+                    -20.4497
+                ]
+            },
+            "properties": {
+                "name": "Q3593618",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.50418889,
+                    -20.29664444
+                ]
+            },
+            "properties": {
+                "name": "Clarisse House",
+                "article": "https://en.wikipedia.org/wiki/Clarisse_House"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    63.433333333,
+                    -19.716666666
+                ]
+            },
+            "properties": {
+                "name": "Mont Malartic",
+                "article": "https://en.wikipedia.org/wiki/Mont_Malartic"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.5009166,
+                    -20.1642271
+                ]
+            },
+            "properties": {
+                "name": "Mauritius Telecom Tower",
+                "article": "https://en.wikipedia.org/wiki/Mauritius_Telecom_Tower"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    59.61666667,
+                    -16.45
+                ]
+            },
+            "properties": {
+                "name": "Île Raphael",
+                "article": "https://en.wikipedia.org/wiki/%C3%8Ele_Raphael"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    59.591944444,
+                    -16.241111111
+                ]
+            },
+            "properties": {
+                "name": "Albatross Island, St. Brandon",
+                "article": "https://en.wikipedia.org/wiki/Albatross_Island,_St._Brandon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.498888888,
+                    -20.161944444
+                ]
+            },
+            "properties": {
+                "name": "Port Louis",
+                "article": "https://en.wikipedia.org/wiki/Port_Louis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.375,
+                    -20.35
+                ]
+            },
+            "properties": {
+                "name": "Rempart Mountain",
+                "article": "https://en.wikipedia.org/wiki/Rempart_Mountain"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.5575,
+                    -20.27444
+                ]
+            },
+            "properties": {
+                "name": "Q27759748",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.816666666,
+                    -20.283333333
+                ]
+            },
+            "properties": {
+                "name": "Q27760889",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.425555555,
+                    -20.263888888
+                ]
+            },
+            "properties": {
+                "name": "Mont Saint Pierre",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.484444444,
+                    -20.17
+                ]
+            },
+            "properties": {
+                "name": "Q27760954",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.45,
+                    -20.26667
+                ]
+            },
+            "properties": {
+                "name": "Q27760952",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.71423,
+                    -20.38341
+                ]
+            },
+            "properties": {
+                "name": "Q27760958",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.44333,
+                    -20.34111
+                ]
+            },
+            "properties": {
+                "name": "Simonet",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    59.58333,
+                    -16.46667
+                ]
+            },
+            "properties": {
+                "name": "Siren Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.36917,
+                    -20.34528
+                ]
+            },
+            "properties": {
+                "name": "Tamarin Mountain",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.724893,
+                    -20.361217
+                ]
+            },
+            "properties": {
+                "name": "Lion Mountain",
+                "article": "https://en.wikipedia.org/wiki/Lion_Mountain,_Mauritius"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.725,
+                    -20.3606
+                ]
+            },
+            "properties": {
+                "name": "Lion Mountain",
+                "article": "https://en.wikipedia.org/wiki/Lion_Mountain,_Mauritius"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.6425,
+                    -20.487222222
+                ]
+            },
+            "properties": {
+                "name": "Q27762508",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.544444444,
+                    -20.151944444
+                ]
+            },
+            "properties": {
+                "name": "Q27762514",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.7975,
+                    -20.264166666
+                ]
+            },
+            "properties": {
+                "name": "Q27762520",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.745555555,
+                    -20.1475
+                ]
+            },
+            "properties": {
+                "name": "Q27762528",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    59.7,
+                    -16.6
+                ]
+            },
+            "properties": {
+                "name": "Mapare",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.780277777,
+                    -20.3775
+                ]
+            },
+            "properties": {
+                "name": "Q27762535",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.671666666,
+                    -20.300555555
+                ]
+            },
+            "properties": {
+                "name": "Montagne Maurice",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.55,
+                    -20.16667
+                ]
+            },
+            "properties": {
+                "name": "Q27762566",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.705555555,
+                    -20.090555555
+                ]
+            },
+            "properties": {
+                "name": "Q27762568",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    56.6,
+                    -10.36667
+                ]
+            },
+            "properties": {
+                "name": "Q27762586",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.625555555,
+                    -20.175833333
+                ]
+            },
+            "properties": {
+                "name": "Mont Nouvelle Découverte",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    59.5,
+                    -16.55
+                ]
+            },
+            "properties": {
+                "name": "Q27762623",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.5178,
+                    -20.3872
+                ]
+            },
+            "properties": {
+                "name": "Mont Perruche",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.716666666,
+                    -20.233333333
+                ]
+            },
+            "properties": {
+                "name": "Q27762641",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.51806,
+                    -20.16111
+                ]
+            },
+            "properties": {
+                "name": "Q27762665",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.42111,
+                    -20.30056
+                ]
+            },
+            "properties": {
+                "name": "Montagne du Rempart",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.53333,
+                    -20.18333
+                ]
+            },
+            "properties": {
+                "name": "Q27763576",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.424444444,
+                    -20.376388888
+                ]
+            },
+            "properties": {
+                "name": "Brise Fer Mountain",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.576944444,
+                    -20.178055555
+                ]
+            },
+            "properties": {
+                "name": "Mont Calebasses",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.789722222,
+                    -20.287777777
+                ]
+            },
+            "properties": {
+                "name": "Q27763592",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.366666666,
+                    -20.4
+                ]
+            },
+            "properties": {
+                "name": "Case Noyale",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.786388888,
+                    -20.281388888
+                ]
+            },
+            "properties": {
+                "name": "Q27763615",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.707777777,
+                    -20.38
+                ]
+            },
+            "properties": {
+                "name": "Île Chat",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.6267,
+                    -20.3506
+                ]
+            },
+            "properties": {
+                "name": "Mont Citronniers",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.461111111,
+                    -20.436944444
+                ]
+            },
+            "properties": {
+                "name": "Mont Cocotte",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    59.5,
+                    -16.816666666
+                ]
+            },
+            "properties": {
+                "name": "Coco Island",
+                "article": "https://en.wikipedia.org/wiki/L%27%C3%8Ele_Coco"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.674722222,
+                    -20.381388888
+                ]
+            },
+            "properties": {
+                "name": "Q27763630",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.545833333,
+                    -20.191666666
+                ]
+            },
+            "properties": {
+                "name": "Crève Coeur",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.531111111,
+                    -20.353611111
+                ]
+            },
+            "properties": {
+                "name": "Curepipe Point",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.56139,
+                    -20.19444
+                ]
+            },
+            "properties": {
+                "name": "Mont Deux Mamelles",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.704166666,
+                    -20.446388888
+                ]
+            },
+            "properties": {
+                "name": "Q27763636",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.798888888,
+                    -20.257777777
+                ]
+            },
+            "properties": {
+                "name": "Q27763651",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.69,
+                    -20.240555555
+                ]
+            },
+            "properties": {
+                "name": "Fayence Mountain",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.765833333,
+                    -20.31
+                ]
+            },
+            "properties": {
+                "name": "Mount Feuilles",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.397222222,
+                    -20.466111111
+                ]
+            },
+            "properties": {
+                "name": "Fantaisie",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.48972,
+                    -20.14667
+                ]
+            },
+            "properties": {
+                "name": "Fever Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.814722222,
+                    -20.320277777
+                ]
+            },
+            "properties": {
+                "name": "Q27763660",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.800555555,
+                    -20.2725
+                ]
+            },
+            "properties": {
+                "name": "Q27763664",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.36958,
+                    -20.38514
+                ]
+            },
+            "properties": {
+                "name": "Q27763665",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.668611111,
+                    -20.321111111
+                ]
+            },
+            "properties": {
+                "name": "Gingembre",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    59.516666666,
+                    -16.6
+                ]
+            },
+            "properties": {
+                "name": "Frigate Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.665277777,
+                    -19.883611111
+                ]
+            },
+            "properties": {
+                "name": "Gabriel Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.541111111,
+                    -20.193055555
+                ]
+            },
+            "properties": {
+                "name": "Grand Peak",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.716666666,
+                    -20.366666666
+                ]
+            },
+            "properties": {
+                "name": "Grand Port Mountain",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.613611111,
+                    -19.939166666
+                ]
+            },
+            "properties": {
+                "name": "Gunner's Quoin",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.45,
+                    -20.25
+                ]
+            },
+            "properties": {
+                "name": "Q27763694",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.5581,
+                    -20.3222
+                ]
+            },
+            "properties": {
+                "name": "Q27763692",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.55,
+                    -20.183333333
+                ]
+            },
+            "properties": {
+                "name": "Q27763699",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.594722222,
+                    -20.332222222
+                ]
+            },
+            "properties": {
+                "name": "Montagne Lagrave",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.350555555,
+                    -20.445833333
+                ]
+            },
+            "properties": {
+                "name": "Mont Laporte",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.606944444,
+                    -20.332777777
+                ]
+            },
+            "properties": {
+                "name": "Mont Laselle",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.588333333,
+                    -20.2675
+                ]
+            },
+            "properties": {
+                "name": "Mont La Terre",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.8079,
+                    -20.23152
+                ]
+            },
+            "properties": {
+                "name": "Ilot Bacouas",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    63.454166666,
+                    -19.716666666
+                ]
+            },
+            "properties": {
+                "name": "Mont Bois Noir",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    63.425,
+                    -19.711111111
+                ]
+            },
+            "properties": {
+                "name": "Q27764174",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    63.409722222,
+                    -19.716666666
+                ]
+            },
+            "properties": {
+                "name": "Mont Quatre Vents",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    63.398611111,
+                    -19.765277777
+                ]
+            },
+            "properties": {
+                "name": "Pintades Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    63.4,
+                    -19.716666666
+                ]
+            },
+            "properties": {
+                "name": "Mont Adonis",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    63.297222222,
+                    -19.722222222
+                ]
+            },
+            "properties": {
+                "name": "Q27764237",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    63.4,
+                    -19.666666666
+                ]
+            },
+            "properties": {
+                "name": "Booby Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    63.316666666,
+                    -19.75
+                ]
+            },
+            "properties": {
+                "name": "Catherine Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    63.35,
+                    -19.766666666
+                ]
+            },
+            "properties": {
+                "name": "Crab Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    63.333333333,
+                    -19.75
+                ]
+            },
+            "properties": {
+                "name": "Destinée Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    63.35,
+                    -19.716666666
+                ]
+            },
+            "properties": {
+                "name": "Mont Croupier",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    63.4,
+                    -19.683333333
+                ]
+            },
+            "properties": {
+                "name": "Diamond Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    63.416666666,
+                    -19.783333333
+                ]
+            },
+            "properties": {
+                "name": "Flat Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    63.416666666,
+                    -19.766666666
+                ]
+            },
+            "properties": {
+                "name": "Gombrani Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    63.333333333,
+                    -19.75
+                ]
+            },
+            "properties": {
+                "name": "Frégate Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    63.466666666,
+                    -19.7
+                ]
+            },
+            "properties": {
+                "name": "Grande Montagne",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    63.433333333,
+                    -19.7
+                ]
+            },
+            "properties": {
+                "name": "Mont Limon",
+                "article": "https://en.wikipedia.org/wiki/Mont_Limon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    63.333333333,
+                    -19.733333333
+                ]
+            },
+            "properties": {
+                "name": "Marianne Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    63.4,
+                    -19.75
+                ]
+            },
+            "properties": {
+                "name": "Paille en Queue Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    63.383333333,
+                    -19.716666666
+                ]
+            },
+            "properties": {
+                "name": "Mont Piments",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    63.429166666,
+                    -19.704166666
+                ]
+            },
+            "properties": {
+                "name": "Q27764325",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.566666666,
+                    -2.9
+                ]
+            },
+            "properties": {
+                "name": "Q27764347",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.86667,
+                    -5.25
+                ]
+            },
+            "properties": {
+                "name": "Q27764345",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.357777777,
+                    -20.394722222
+                ]
+            },
+            "properties": {
+                "name": "Q27764375",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.791944444,
+                    -20.248055555
+                ]
+            },
+            "properties": {
+                "name": "Q27764398",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.789444444,
+                    -20.246111111
+                ]
+            },
+            "properties": {
+                "name": "Q27764400",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.800833333,
+                    -20.228333333
+                ]
+            },
+            "properties": {
+                "name": "Vacoas-Phoenix (Mauritius)",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.683611111,
+                    -20.039722222
+                ]
+            },
+            "properties": {
+                "name": "Q27764423",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.676944444,
+                    -20.024444444
+                ]
+            },
+            "properties": {
+                "name": "Matapan Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.663888888,
+                    -20.313333333
+                ]
+            },
+            "properties": {
+                "name": "Agapit",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    59.583333333,
+                    -16.25
+                ]
+            },
+            "properties": {
+                "name": "Albatross Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    59.640555555,
+                    -16.602777777
+                ]
+            },
+            "properties": {
+                "name": "Avocaré Island",
+                "article": "https://en.wikipedia.org/wiki/Avocar%C3%A9_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.47472,
+                    -20.14944
+                ]
+            },
+            "properties": {
+                "name": "Barkly Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.58,
+                    -20.205
+                ]
+            },
+            "properties": {
+                "name": "Mont Bar le Duc",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.764444444,
+                    -20.285555555
+                ]
+            },
+            "properties": {
+                "name": "Mont Beau Champ",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.492222222,
+                    -20.208888888
+                ]
+            },
+            "properties": {
+                "name": "Berthelot Peak",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.685277777,
+                    -20.267222222
+                ]
+            },
+            "properties": {
+                "name": "Blanche Mountain",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.4659,
+                    -20.1879
+                ]
+            },
+            "properties": {
+                "name": "Coromandel",
+                "article": "https://en.wikipedia.org/wiki/Coromandel,_Mauritius"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    59.5025,
+                    -16.815555555
+                ]
+            },
+            "properties": {
+                "name": "L'île du Sud",
+                "article": "https://en.wikipedia.org/wiki/L%27%C3%AEle_du_Sud"
+            }
+        }
+    ]
+}

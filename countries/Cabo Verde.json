@@ -1,0 +1,2525 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -23.624722222,
+                    15.077777777
+                ]
+            },
+            "properties": {
+                "name": "Santiago",
+                "article": "https://en.wikipedia.org/wiki/Santiago,_Cape_Verde"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -22.803611111,
+                    16.103333333
+                ]
+            },
+            "properties": {
+                "name": "Boa Vista",
+                "article": "https://en.wikipedia.org/wiki/Boa_Vista,_Cape_Verde"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -22.936111111,
+                    16.737222222
+                ]
+            },
+            "properties": {
+                "name": "Sal",
+                "article": "https://en.wikipedia.org/wiki/Sal,_Cape_Verde"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -24.966666666,
+                    16.85
+                ]
+            },
+            "properties": {
+                "name": "São Vicente",
+                "article": "https://en.wikipedia.org/wiki/S%C3%A3o_Vicente,_Cape_Verde"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -25.171111111,
+                    17.069722222
+                ]
+            },
+            "properties": {
+                "name": "Santo Antão",
+                "article": "https://en.wikipedia.org/wiki/Santo_Ant%C3%A3o,_Cape_Verde"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -24.35,
+                    14.95
+                ]
+            },
+            "properties": {
+                "name": "Fogo",
+                "article": "https://en.wikipedia.org/wiki/Fogo,_Cape_Verde"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -23.604166666,
+                    14.916666666
+                ]
+            },
+            "properties": {
+                "name": "Cidade Velha",
+                "article": "https://en.wikipedia.org/wiki/Cidade_Velha"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -24.69,
+                    14.97
+                ]
+            },
+            "properties": {
+                "name": "Ilhéu Grande",
+                "article": "https://en.wikipedia.org/wiki/Ilh%C3%A9u_Grande"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -22.754166666,
+                    16.045833333
+                ]
+            },
+            "properties": {
+                "name": "Monte Estância",
+                "article": "https://en.wikipedia.org/wiki/Monte_Est%C3%A2ncia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -23.136902777,
+                    15.312402777
+                ]
+            },
+            "properties": {
+                "name": "Ilhéu Laja Branca",
+                "article": "https://en.wikipedia.org/wiki/Ilh%C3%A9u_Laje_Branca"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -24.635,
+                    14.973333333
+                ]
+            },
+            "properties": {
+                "name": "Ilhéu de Cima",
+                "article": "https://en.wikipedia.org/wiki/Ilh%C3%A9u_de_Cima"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -22.9934,
+                    16.7
+                ]
+            },
+            "properties": {
+                "name": "Ilhéu Rabo de Junco",
+                "article": "https://en.wikipedia.org/wiki/Ilh%C3%A9u_Rabo_de_Junco"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -24.293958333,
+                    14.889902777
+                ]
+            },
+            "properties": {
+                "name": "Cova Figueira",
+                "article": "https://en.wikipedia.org/wiki/Cova_Figueira"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -25.0113,
+                    16.9097
+                ]
+            },
+            "properties": {
+                "name": "Ilhéu dos Pássaros",
+                "article": "https://en.wikipedia.org/wiki/Ilh%C3%A9u_dos_P%C3%A1ssaros"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -23.208333333,
+                    15.1375
+                ]
+            },
+            "properties": {
+                "name": "Porto Inglês",
+                "article": "https://en.wikipedia.org/wiki/Porto_Ingl%C3%AAs"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -23.665394444,
+                    15.094880555
+                ]
+            },
+            "properties": {
+                "name": "Assomada",
+                "article": "https://en.wikipedia.org/wiki/Assomada"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -23.533333333,
+                    15.1375
+                ]
+            },
+            "properties": {
+                "name": "Pedra Badejo",
+                "article": "https://en.wikipedia.org/wiki/Pedra_Badejo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -22.933,
+                    16.173
+                ]
+            },
+            "properties": {
+                "name": "Ilhéu de Sal-Rei",
+                "article": "https://en.wikipedia.org/wiki/Ilh%C3%A9u_de_Sal_Rei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -24.271111111,
+                    16.615277777
+                ]
+            },
+            "properties": {
+                "name": "São Nicolau",
+                "article": "https://en.wikipedia.org/wiki/S%C3%A3o_Nicolau,_Cape_Verde"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -24.743888888,
+                    16.761388888
+                ]
+            },
+            "properties": {
+                "name": "Santa Luzia",
+                "article": "https://en.wikipedia.org/wiki/Santa_Luzia,_Cape_Verde"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -24.7,
+                    14.866666666
+                ]
+            },
+            "properties": {
+                "name": "Brava",
+                "article": "https://en.wikipedia.org/wiki/Brava,_Cape_Verde"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -23.156111111,
+                    15.230555555
+                ]
+            },
+            "properties": {
+                "name": "Maio",
+                "article": "https://en.wikipedia.org/wiki/Maio,_Cape_Verde"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -24.695833333,
+                    14.870833333
+                ]
+            },
+            "properties": {
+                "name": "Nova Sintra",
+                "article": "https://en.wikipedia.org/wiki/Nova_Sintra"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -24.987983333,
+                    16.891352777
+                ]
+            },
+            "properties": {
+                "name": "Mindelo",
+                "article": "https://en.wikipedia.org/wiki/Mindelo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -22.904166666,
+                    16.6
+                ]
+            },
+            "properties": {
+                "name": "Santa Maria",
+                "article": "https://en.wikipedia.org/wiki/Santa_Maria,_Cape_Verde"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -24.586666666,
+                    16.62
+                ]
+            },
+            "properties": {
+                "name": "Ilhéu Raso",
+                "article": "https://en.wikipedia.org/wiki/Ilh%C3%A9u_Raso"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -22.945277777,
+                    16.754583333
+                ]
+            },
+            "properties": {
+                "name": "Espargos",
+                "article": "https://en.wikipedia.org/wiki/Espargos"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -24.669722222,
+                    16.658055555
+                ]
+            },
+            "properties": {
+                "name": "Ilhéu Branco",
+                "article": "https://en.wikipedia.org/wiki/Ilh%C3%A9u_Branco"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -24.340369444,
+                    14.949269444
+                ]
+            },
+            "properties": {
+                "name": "Pico do Fogo",
+                "article": "https://en.wikipedia.org/wiki/Pico_do_Fogo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -22.917077777,
+                    16.176044444
+                ]
+            },
+            "properties": {
+                "name": "Sal Rei",
+                "article": "https://en.wikipedia.org/wiki/Sal_Rei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -24.941666666,
+                    16.870833333
+                ]
+            },
+            "properties": {
+                "name": "Monte Verde, Cape Verde",
+                "article": "https://en.wikipedia.org/wiki/Monte_Verde_(Cape_Verde)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -23.633333333,
+                    15.083333333
+                ]
+            },
+            "properties": {
+                "name": "Picos",
+                "article": "https://en.wikipedia.org/wiki/Picos,_Cape_Verde"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -25.091452777,
+                    17.201755555
+                ]
+            },
+            "properties": {
+                "name": "Ponta do Sol",
+                "article": "https://en.wikipedia.org/wiki/Ponta_do_Sol,_Cape_Verde"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -25.0125,
+                    17.145833333
+                ]
+            },
+            "properties": {
+                "name": "Pombas",
+                "article": "https://en.wikipedia.org/wiki/Pombas,_Cape_Verde"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -25.066666666,
+                    17.020833333
+                ]
+            },
+            "properties": {
+                "name": "Porto Novo",
+                "article": "https://en.wikipedia.org/wiki/Porto_Novo,_Cape_Verde"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -22.98083333,
+                    16.75777778
+                ]
+            },
+            "properties": {
+                "name": "Palmeira",
+                "article": "https://en.wikipedia.org/wiki/Palmeira,_Cape_Verde"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -23.129166666,
+                    15.225
+                ]
+            },
+            "properties": {
+                "name": "Monte Penoso",
+                "article": "https://en.wikipedia.org/wiki/Monte_Penoso"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -24.354166666,
+                    16.620833333
+                ]
+            },
+            "properties": {
+                "name": "Monte Gordo",
+                "article": "https://en.wikipedia.org/wiki/Monte_Gordo_(Cape_Verde)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -23.75,
+                    15.266666666
+                ]
+            },
+            "properties": {
+                "name": "Tarrafal",
+                "article": "https://en.wikipedia.org/wiki/Tarrafal,_Cape_Verde"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -23.591666666,
+                    15.1875
+                ]
+            },
+            "properties": {
+                "name": "Calheta de São Miguel",
+                "article": "https://en.wikipedia.org/wiki/Calheta_de_S%C3%A3o_Miguel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -25.295833333,
+                    17.033333333
+                ]
+            },
+            "properties": {
+                "name": "Topo da Coroa",
+                "article": "https://en.wikipedia.org/wiki/Tope_de_Coroa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -23.5625,
+                    15.025
+                ]
+            },
+            "properties": {
+                "name": "São Domingos",
+                "article": "https://en.wikipedia.org/wiki/S%C3%A3o_Domingos,_Cape_Verde"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -24.355555555,
+                    16.566666666
+                ]
+            },
+            "properties": {
+                "name": "Tarrafal de São Nicolau",
+                "article": "https://en.wikipedia.org/wiki/Tarrafal_de_S%C3%A3o_Nicolau,_Cape_Verde"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -23.591666666,
+                    15.066666666
+                ]
+            },
+            "properties": {
+                "name": "João Teves",
+                "article": "https://en.wikipedia.org/wiki/Jo%C3%A3o_Teves"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -25.065494444,
+                    17.182744444
+                ]
+            },
+            "properties": {
+                "name": "Ribeira Grande",
+                "article": "https://en.wikipedia.org/wiki/Ribeira_Grande,_Cape_Verde"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -24.298347222,
+                    16.615980555
+                ]
+            },
+            "properties": {
+                "name": "Ribeira Brava",
+                "article": "https://en.wikipedia.org/wiki/Ribeira_Brava,_Cape_Verde"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -23.625,
+                    15.05
+                ]
+            },
+            "properties": {
+                "name": "Pico da Antónia",
+                "article": "https://en.wikipedia.org/wiki/Pico_de_Ant%C3%B3nia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -25.0375,
+                    16.875
+                ]
+            },
+            "properties": {
+                "name": "Monte Cara",
+                "article": "https://en.wikipedia.org/wiki/Monte_Cara"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -24.704166666,
+                    14.85
+                ]
+            },
+            "properties": {
+                "name": "Monte Fontainhas",
+                "article": "https://en.wikipedia.org/wiki/Monte_Fontainhas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -23.75,
+                    15.3
+                ]
+            },
+            "properties": {
+                "name": "Monte Graciosa",
+                "article": "https://en.wikipedia.org/wiki/Monte_Graciosa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -22.91010556,
+                    16.82095556
+                ]
+            },
+            "properties": {
+                "name": "Monte Grande (Sal), Cape Verde",
+                "article": "https://en.wikipedia.org/wiki/Monte_Grande_(Sal)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -24.345,
+                    15.0023
+                ]
+            },
+            "properties": {
+                "name": "Monte Velha",
+                "article": "https://en.wikipedia.org/wiki/Monte_Velha"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -22.886622222,
+                    16.129291666
+                ]
+            },
+            "properties": {
+                "name": "Rabil",
+                "article": "https://en.wikipedia.org/wiki/Rabil"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -23.16666667,
+                    15.13333333
+                ]
+            },
+            "properties": {
+                "name": "Barreiro",
+                "article": "https://en.wikipedia.org/wiki/Barreiro,_Cape_Verde"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -24.9968,
+                    16.8246
+                ]
+            },
+            "properties": {
+                "name": "Caixa",
+                "article": "https://en.wikipedia.org/wiki/Caixa_(S%C3%A3o_Vicente)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -25.1643562,
+                    17.1581775
+                ]
+            },
+            "properties": {
+                "name": "Chã de Igreja",
+                "article": "https://en.wikipedia.org/wiki/Ch%C3%A3_de_Igreja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -25.098,
+                    17.165
+                ]
+            },
+            "properties": {
+                "name": "Coculi",
+                "article": "https://en.wikipedia.org/wiki/Coculi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -24.323,
+                    16.648
+                ]
+            },
+            "properties": {
+                "name": "Fajã de Baixo",
+                "article": "https://en.wikipedia.org/wiki/Faj%C3%A3_de_Baixo,_Cape_Verde"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -23.509155555,
+                    14.917719444
+                ]
+            },
+            "properties": {
+                "name": "Praia",
+                "article": "https://en.wikipedia.org/wiki/Praia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -24.133333333,
+                    16.616666666
+                ]
+            },
+            "properties": {
+                "name": "Juncalinho",
+                "article": "https://en.wikipedia.org/wiki/Juncalinho"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -23.1867,
+                    15.2011
+                ]
+            },
+            "properties": {
+                "name": "Monte Batalhas",
+                "article": "https://en.wikipedia.org/wiki/Monte_Batalha"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -24.245833333,
+                    16.6125
+                ]
+            },
+            "properties": {
+                "name": "Monte Bissau",
+                "article": "https://en.wikipedia.org/wiki/Monte_Bissau"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -24.9963,
+                    16.8624
+                ]
+            },
+            "properties": {
+                "name": "Monte São João",
+                "article": "https://en.wikipedia.org/wiki/Monte_S%C3%A3o_Jo%C3%A3o"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -25.0272,
+                    16.8395
+                ]
+            },
+            "properties": {
+                "name": "Monte Montona",
+                "article": "https://en.wikipedia.org/wiki/Monte_Montona"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -22.67805556,
+                    16.10361111
+                ]
+            },
+            "properties": {
+                "name": "Morre Negro",
+                "article": "https://en.wikipedia.org/wiki/Morro_Negro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -24.433333333,
+                    14.866666666
+                ]
+            },
+            "properties": {
+                "name": "Patim",
+                "article": "https://en.wikipedia.org/wiki/Patim"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -25.029166666,
+                    17.1
+                ]
+            },
+            "properties": {
+                "name": "Pico da Cruz",
+                "article": "https://en.wikipedia.org/wiki/Pico_da_Cruz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -24.120833333,
+                    16.5875
+                ]
+            },
+            "properties": {
+                "name": "Pico do Alberto",
+                "article": "https://en.wikipedia.org/wiki/Pico_de_Alberto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -24.9,
+                    16.833333333
+                ]
+            },
+            "properties": {
+                "name": "Pico do Vento",
+                "article": "https://en.wikipedia.org/wiki/Pico_do_Vento"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -24.461,
+                    14.985
+                ]
+            },
+            "properties": {
+                "name": "Ponta Verde",
+                "article": "https://en.wikipedia.org/wiki/Ponta_Verde,_Cape_Verde"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -24.4,
+                    16.65
+                ]
+            },
+            "properties": {
+                "name": "Praia Branca",
+                "article": "https://en.wikipedia.org/wiki/Praia_Branca"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -23.766666666,
+                    15.133333333
+                ]
+            },
+            "properties": {
+                "name": "Ribeira da Barca",
+                "article": "https://en.wikipedia.org/wiki/Ribeira_da_Barca"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -22.91119957,
+                    16.04220009
+                ]
+            },
+            "properties": {
+                "name": "Rocha Estância",
+                "article": "https://en.wikipedia.org/wiki/Rocha_Est%C3%A2ncia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -24.918,
+                    16.866
+                ]
+            },
+            "properties": {
+                "name": "Selada da Baleia",
+                "article": "https://en.wikipedia.org/wiki/Baleia_(S%C3%A3o_Vicente)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -22.88583333,
+                    16.65861111
+                ]
+            },
+            "properties": {
+                "name": "Serra Negra, Cape Verde",
+                "article": "https://en.wikipedia.org/wiki/Serra_Negra_(Cape_Verde)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -22.9125,
+                    16.2121
+                ]
+            },
+            "properties": {
+                "name": "Vigia",
+                "article": "https://en.wikipedia.org/wiki/Vigia_(mountain)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -24.8759,
+                    16.8257
+                ]
+            },
+            "properties": {
+                "name": "Viana",
+                "article": "https://en.wikipedia.org/wiki/Viana,_Cape_Verde"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -25.28333333,
+                    17.13333333
+                ]
+            },
+            "properties": {
+                "name": "Gudo de Cavaleiro",
+                "article": "https://en.wikipedia.org/wiki/Gudo_de_Cavaleiro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -22.659447222,
+                    16.153055555
+                ]
+            },
+            "properties": {
+                "name": "Ilhéu do Baluarte",
+                "article": "https://en.wikipedia.org/wiki/Ilh%C3%A9u_de_Baluarte"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -23.664,
+                    15.248
+                ]
+            },
+            "properties": {
+                "name": "Porto Formoso",
+                "article": "https://en.wikipedia.org/wiki/Achada_Tenda"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -24.73333333,
+                    16.76666667
+                ]
+            },
+            "properties": {
+                "name": "Topona",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -24.49549913,
+                    14.89659863
+                ]
+            },
+            "properties": {
+                "name": "São Filipe",
+                "article": "https://en.wikipedia.org/wiki/S%C3%A3o_Filipe,_Cape_Verde"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -22.789444444,
+                    15.969444444
+                ]
+            },
+            "properties": {
+                "name": "Ilhéu de Curral Velho and adjacent coast Important Bird Area",
+                "article": "https://en.wikipedia.org/wiki/Ilh%C3%A9u_de_Curral_Velho_and_adjacent_coast_Important_Bird_Area"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -23.745,
+                    15.229
+                ]
+            },
+            "properties": {
+                "name": "Ribeira da Prata",
+                "article": "https://en.wikipedia.org/wiki/Ribeira_da_Prata"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -24.9294,
+                    16.89
+                ]
+            },
+            "properties": {
+                "name": "Monte António Gomes",
+                "article": "https://en.wikipedia.org/wiki/Monte_Ant%C3%B3nio_Gomes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -24.733333333,
+                    14.883333333
+                ]
+            },
+            "properties": {
+                "name": "Q23006675",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -25.0,
+                    16.78333
+                ]
+            },
+            "properties": {
+                "name": "Pico Araújo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -25.266666666,
+                    17.016666666
+                ]
+            },
+            "properties": {
+                "name": "Monte Arranha Perna",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -23.55,
+                    14.9433
+                ]
+            },
+            "properties": {
+                "name": "Monte Babosa",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -25.3,
+                    16.933333333
+                ]
+            },
+            "properties": {
+                "name": "Monte de Baixo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -23.15,
+                    15.31667
+                ]
+            },
+            "properties": {
+                "name": "Laje Branca",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -25.25,
+                    16.966666666
+                ]
+            },
+            "properties": {
+                "name": "Morro Branco",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -23.745,
+                    15.1108
+                ]
+            },
+            "properties": {
+                "name": "Monte Brianda",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -24.333333333,
+                    14.9
+                ]
+            },
+            "properties": {
+                "name": "Monte Bula",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -24.7692,
+                    16.7858
+                ]
+            },
+            "properties": {
+                "name": "Tope do Caladouro",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -24.0642,
+                    16.5717
+                ]
+            },
+            "properties": {
+                "name": "Monte Caldeirinha",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -24.9967,
+                    16.8242
+                ]
+            },
+            "properties": {
+                "name": "Tope de Caixa",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -24.985,
+                    16.7808
+                ]
+            },
+            "properties": {
+                "name": "Pico da Calheta",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -25.06667,
+                    16.86667
+                ]
+            },
+            "properties": {
+                "name": "Tope Calheta",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -24.98333,
+                    16.91667
+                ]
+            },
+            "properties": {
+                "name": "Pico Canelinho",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -25.266666666,
+                    17.033333333
+                ]
+            },
+            "properties": {
+                "name": "Monte Carneiro",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -25.283333333,
+                    17.033333333
+                ]
+            },
+            "properties": {
+                "name": "Tope de Coroa",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -23.7342,
+                    15.3117
+                ]
+            },
+            "properties": {
+                "name": "Monte Costa",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -24.35,
+                    14.916666666
+                ]
+            },
+            "properties": {
+                "name": "Monte Cruz",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -24.91667,
+                    16.88333
+                ]
+            },
+            "properties": {
+                "name": "Q23006926",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -25.21667,
+                    17.03333
+                ]
+            },
+            "properties": {
+                "name": "Q23006925",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -24.3092,
+                    16.6292
+                ]
+            },
+            "properties": {
+                "name": "Pico Ladeira de Cabra",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -24.316666666,
+                    16.55
+                ]
+            },
+            "properties": {
+                "name": "Q23006940",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -25.233333333,
+                    17.033333333
+                ]
+            },
+            "properties": {
+                "name": "Monte Lenhal",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -24.383333333,
+                    14.9
+                ]
+            },
+            "properties": {
+                "name": "Monte Losna",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -24.66667,
+                    14.96667
+                ]
+            },
+            "properties": {
+                "name": "Q23006957",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -25.2,
+                    17.033333333
+                ]
+            },
+            "properties": {
+                "name": "Pico do Mato",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -24.96667,
+                    16.8
+                ]
+            },
+            "properties": {
+                "name": "Pico Palha Carga",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -25.266666666,
+                    17.016666666
+                ]
+            },
+            "properties": {
+                "name": "Morros Domingos dos Santos",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -25.3,
+                    17.05
+                ]
+            },
+            "properties": {
+                "name": "Monte Erva Doce",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -24.416666666,
+                    14.916666666
+                ]
+            },
+            "properties": {
+                "name": "Monte Duarte",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -25.2325,
+                    17.0183
+                ]
+            },
+            "properties": {
+                "name": "Monte Feada",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -25.216666666,
+                    17.1
+                ]
+            },
+            "properties": {
+                "name": "Q23006857",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -25.283333333,
+                    17.05
+                ]
+            },
+            "properties": {
+                "name": "Monte Figueira",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -25.055,
+                    16.8125
+                ]
+            },
+            "properties": {
+                "name": "Monte Flamenguinhos",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -25.016666666,
+                    17.15
+                ]
+            },
+            "properties": {
+                "name": "Pedra de Fora",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -25.2392,
+                    16.9867
+                ]
+            },
+            "properties": {
+                "name": "Morro Fundo de Casa Velha",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -22.716666666,
+                    16.216666666
+                ]
+            },
+            "properties": {
+                "name": "Q23006891",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -24.91667,
+                    16.9
+                ]
+            },
+            "properties": {
+                "name": "Gatas",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -25.0975,
+                    17.1017
+                ]
+            },
+            "properties": {
+                "name": "Morro do Galheteiro",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -25.166666666,
+                    17.033333333
+                ]
+            },
+            "properties": {
+                "name": "Morros Gamboeza",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -24.91667,
+                    16.85
+                ]
+            },
+            "properties": {
+                "name": "Goa Alto",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -24.9,
+                    16.85
+                ]
+            },
+            "properties": {
+                "name": "Goa Baixo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -23.7325,
+                    15.1742
+                ]
+            },
+            "properties": {
+                "name": "Monte Henrique",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -24.76667,
+                    16.75
+                ]
+            },
+            "properties": {
+                "name": "Q23006913",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -25.25,
+                    17.05
+                ]
+            },
+            "properties": {
+                "name": "Monte Jacinto",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -25.266666666,
+                    17.05
+                ]
+            },
+            "properties": {
+                "name": "Morro Panela",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -24.9825,
+                    16.8892
+                ]
+            },
+            "properties": {
+                "name": "Monte Pedra Rolada",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -23.7411673,
+                    15.1622183
+                ]
+            },
+            "properties": {
+                "name": "Monte Pedroso",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -25.283333333,
+                    17.033333333
+                ]
+            },
+            "properties": {
+                "name": "Monte Pia",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -24.433333333,
+                    15.0
+                ]
+            },
+            "properties": {
+                "name": "Monte Preto",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -24.35,
+                    14.883333333
+                ]
+            },
+            "properties": {
+                "name": "Monte Quebra Buli",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -24.9333,
+                    16.815
+                ]
+            },
+            "properties": {
+                "name": "Pico Queimado",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -22.9817,
+                    16.6967
+                ]
+            },
+            "properties": {
+                "name": "Rabo de Junco",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -25.1,
+                    16.83333
+                ]
+            },
+            "properties": {
+                "name": "Monte Ribeirinha",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -25.285,
+                    17.0383
+                ]
+            },
+            "properties": {
+                "name": "Morro da Ribeira Larguinha",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -25.24,
+                    17.0742
+                ]
+            },
+            "properties": {
+                "name": "Monte Rocha Quebrada",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -22.666666666,
+                    16.083333333
+                ]
+            },
+            "properties": {
+                "name": "Q23007100",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -25.08333,
+                    16.85
+                ]
+            },
+            "properties": {
+                "name": "Monte Rosa",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -24.95,
+                    16.9
+                ]
+            },
+            "properties": {
+                "name": "Monte Salgadinho",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -23.5075,
+                    14.907777777
+                ]
+            },
+            "properties": {
+                "name": "Ilhéu de Santa Maria",
+                "article": "https://en.wikipedia.org/wiki/Ilh%C3%A9u_de_Santa_Maria"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -24.316666666,
+                    16.583333333
+                ]
+            },
+            "properties": {
+                "name": "Q23007134",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -23.733333333,
+                    15.216666666
+                ]
+            },
+            "properties": {
+                "name": "Monte Semedo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -24.366666666,
+                    14.9
+                ]
+            },
+            "properties": {
+                "name": "Monte Sobrado",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -25.05,
+                    16.88333
+                ]
+            },
+            "properties": {
+                "name": "Tope Suzana",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -23.716666666,
+                    15.066666666
+                ]
+            },
+            "properties": {
+                "name": "Monte Tagarrinho",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -24.75,
+                    16.75
+                ]
+            },
+            "properties": {
+                "name": "Topona",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -24.91667,
+                    16.81667
+                ]
+            },
+            "properties": {
+                "name": "Topona",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -25.266666666,
+                    17.016666666
+                ]
+            },
+            "properties": {
+                "name": "Monte Travessado",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -24.333333333,
+                    14.916666666
+                ]
+            },
+            "properties": {
+                "name": "Monte Tortolho",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -25.283333333,
+                    17.016666666
+                ]
+            },
+            "properties": {
+                "name": "Morro Vermelho de Cova Branca",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -24.3433,
+                    14.95
+                ]
+            },
+            "properties": {
+                "name": "Monte Verde",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -22.9,
+                    16.03333333
+                ]
+            },
+            "properties": {
+                "name": "Monte Santo António",
+                "article": "https://en.wikipedia.org/wiki/Monte_Santo_Ant%C3%B3nio"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -23.508,
+                    14.9178
+                ]
+            },
+            "properties": {
+                "name": "Avenida Andrade Corvo",
+                "article": "https://en.wikipedia.org/wiki/Avenida_Andrade_Corvo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -23.0952,
+                    15.1657
+                ]
+            },
+            "properties": {
+                "name": "Lagoa de Cimidor",
+                "article": "https://en.wikipedia.org/wiki/Lagoa_Cimidor"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -22.76666667,
+                    16.11666667
+                ]
+            },
+            "properties": {
+                "name": "Monte Caçador and Pico Forcado Protected Countryside",
+                "article": "https://en.wikipedia.org/wiki/Monte_Ca%C3%A7ador_and_Pico_Forcado_Protected_Countryside"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -25.1657,
+                    17.0232
+                ]
+            },
+            "properties": {
+                "name": "Lajedo",
+                "article": "https://en.wikipedia.org/wiki/Lajedo,_Cape_Verde"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -23.7024,
+                    15.0922
+                ]
+            },
+            "properties": {
+                "name": "Chã de Tanque",
+                "article": "https://en.wikipedia.org/wiki/Ch%C3%A3_de_Tanque"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -22.9625,
+                    16.72
+                ]
+            },
+            "properties": {
+                "name": "Morrinho de Açúcar",
+                "article": "https://en.wikipedia.org/wiki/Morrinho_de_A%C3%A7%C3%BAcar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -23.5075,
+                    14.9196
+                ]
+            },
+            "properties": {
+                "name": "Rua Serpa Pinto",
+                "article": "https://en.wikipedia.org/wiki/Rua_Serpa_Pinto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -23.507,
+                    14.9222
+                ]
+            },
+            "properties": {
+                "name": "Avenida Amílcar Cabral",
+                "article": "https://en.wikipedia.org/wiki/Avenida_Am%C3%ADlcar_Cabral"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -23.5123,
+                    14.9119
+                ]
+            },
+            "properties": {
+                "name": "Avenida de Cuba",
+                "article": "https://en.wikipedia.org/wiki/Avenida_de_Cuba"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -23.5115,
+                    14.9196
+                ]
+            },
+            "properties": {
+                "name": "Avenida Cidade de Lisboa",
+                "article": "https://en.wikipedia.org/wiki/Avenida_Cidade_de_Lisboa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -23.5083,
+                    14.919
+                ]
+            },
+            "properties": {
+                "name": "Rua 5 de Julho",
+                "article": "https://en.wikipedia.org/wiki/Rua_5_de_Julho"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -22.94277778,
+                    16.75722222
+                ]
+            },
+            "properties": {
+                "name": "Monte Curral",
+                "article": "https://en.wikipedia.org/wiki/Monte_Curral"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -24.9862,
+                    16.8864
+                ]
+            },
+            "properties": {
+                "name": "Escola Jorge Barbosa",
+                "article": "https://en.wikipedia.org/wiki/Liceu_Velho"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -23.539,
+                    14.9923
+                ]
+            },
+            "properties": {
+                "name": "Monte das Vacas",
+                "article": "https://en.wikipedia.org/wiki/Monte_das_Vacas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -22.886,
+                    16.774
+                ]
+            },
+            "properties": {
+                "name": "Cagarral",
+                "article": "https://en.wikipedia.org/wiki/Cagarral"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -24.988,
+                    16.8897
+                ]
+            },
+            "properties": {
+                "name": "Praça Amílcar Cabral",
+                "article": "https://en.wikipedia.org/wiki/Pra%C3%A7a_Am%C3%ADlcar_Cabral"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -23.605438,
+                    14.915895
+                ]
+            },
+            "properties": {
+                "name": "Rua da Banana",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -22.6985,
+                    16.1965
+                ]
+            },
+            "properties": {
+                "name": "Ilhéu dos Pássaros (Boa Vista)",
+                "article": "https://en.wikipedia.org/wiki/Ilh%C3%A9u_dos_P%C3%A1ssaros_(Boa_Vista)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -22.798,
+                    16.2263
+                ]
+            },
+            "properties": {
+                "name": "Ilhéu Derrubado",
+                "article": "https://en.wikipedia.org/wiki/Ilh%C3%A9u_Derrubado"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -23.6257,
+                    15.0379
+                ]
+            },
+            "properties": {
+                "name": "Monte Tchota",
+                "article": "https://en.wikipedia.org/wiki/Monte_Tchota"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -22.982,
+                    16.696
+                ]
+            },
+            "properties": {
+                "name": "Rabo de Junco",
+                "article": "https://en.wikipedia.org/wiki/Rabo_de_Junco"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -23.6858,
+                    15.1504
+                ]
+            },
+            "properties": {
+                "name": "Q119208614",
+                "article": null
+            }
+        }
+    ]
+}

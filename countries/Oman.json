@@ -1,0 +1,467 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.802528,
+                    24.255791
+                ]
+            },
+            "properties": {
+                "name": "Al-Buraimi",
+                "article": "https://en.wikipedia.org/wiki/Al-Buraimi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    56.25,
+                    26.183333333
+                ]
+            },
+            "properties": {
+                "name": "Khasab",
+                "article": "https://en.wikipedia.org/wiki/Khasab"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.4244,
+                    23.3908
+                ]
+            },
+            "properties": {
+                "name": "Rustaq",
+                "article": "https://en.wikipedia.org/wiki/Rustaq"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    58.1833,
+                    23.5333
+                ]
+            },
+            "properties": {
+                "name": "Rusayl",
+                "article": "https://en.wikipedia.org/wiki/Rusayl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    59.528888888,
+                    22.566666666
+                ]
+            },
+            "properties": {
+                "name": "Sur",
+                "article": "https://en.wikipedia.org/wiki/Sur,_Oman"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.4344,
+                    17.039
+                ]
+            },
+            "properties": {
+                "name": "Khor Rori",
+                "article": "https://en.wikipedia.org/wiki/Khor_Rori"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    56.729888888,
+                    24.342
+                ]
+            },
+            "properties": {
+                "name": "Sohar",
+                "article": "https://en.wikipedia.org/wiki/Sohar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    58.161666666,
+                    23.666666666
+                ]
+            },
+            "properties": {
+                "name": "Seeb",
+                "article": "https://en.wikipedia.org/wiki/Seeb"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    58.566666666,
+                    23.616666666
+                ]
+            },
+            "properties": {
+                "name": "Muttrah",
+                "article": "https://en.wikipedia.org/wiki/Muttrah"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.014166666,
+                    23.139444444
+                ]
+            },
+            "properties": {
+                "name": "Jebel Kawr",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    56.99630556,
+                    23.26074444
+                ]
+            },
+            "properties": {
+                "name": "Jebel Misht",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.78086,
+                    24.05796
+                ]
+            },
+            "properties": {
+                "name": "Jabal Hafit",
+                "article": "https://en.wikipedia.org/wiki/Jebel_Hafeet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.2637937,
+                    23.2373882
+                ]
+            },
+            "properties": {
+                "name": "Jebel Shams",
+                "article": "https://en.wikipedia.org/wiki/Jebel_Shams"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.089722222,
+                    17.019722222
+                ]
+            },
+            "properties": {
+                "name": "Salalah",
+                "article": "https://en.wikipedia.org/wiki/Salalah"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    58.815277777,
+                    20.471111111
+                ]
+            },
+            "properties": {
+                "name": "Masirah Island",
+                "article": "https://en.wikipedia.org/wiki/Masirah_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.533333333,
+                    22.933333333
+                ]
+            },
+            "properties": {
+                "name": "Nizwa",
+                "article": "https://en.wikipedia.org/wiki/Nizwa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    58.543333333,
+                    23.600277777
+                ]
+            },
+            "properties": {
+                "name": "Ruwi",
+                "article": "https://en.wikipedia.org/wiki/Ruwi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.775,
+                    22.93388889
+                ]
+            },
+            "properties": {
+                "name": "Izki",
+                "article": "https://en.wikipedia.org/wiki/Izki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.691947,
+                    16.992493
+                ]
+            },
+            "properties": {
+                "name": "Battle of Mirbat",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Mirbat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.7916,
+                    17.1355
+                ]
+            },
+            "properties": {
+                "name": "Jabal Samhan Nature Reserve",
+                "article": "https://en.wikipedia.org/wiki/Jabal_Samhan_Nature_Reserve"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.94,
+                    17.516
+                ]
+            },
+            "properties": {
+                "name": "Jabal Samhan Nature Reserve",
+                "article": "https://en.wikipedia.org/wiki/Jabal_Samhan_Nature_Reserve"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    53.5913,
+                    16.9517
+                ]
+            },
+            "properties": {
+                "name": "Q3032850",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    58.90342,
+                    23.26517
+                ]
+            },
+            "properties": {
+                "name": "Qurayyat",
+                "article": "https://en.wikipedia.org/wiki/Qurayyat,_Oman"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    56.18441,
+                    25.9531
+                ]
+            },
+            "properties": {
+                "name": "Jebel Jais",
+                "article": "https://en.wikipedia.org/wiki/Jebel_Jais"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    56.745,
+                    23.2699
+                ]
+            },
+            "properties": {
+                "name": "Al-Ayn",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    56.023888888,
+                    17.506388888
+                ]
+            },
+            "properties": {
+                "name": "Al-Hallaniyah",
+                "article": "https://en.wikipedia.org/wiki/Al-Hallaniyah"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.0864,
+                    23.9653
+                ]
+            },
+            "properties": {
+                "name": "Al-Khaburah",
+                "article": "https://en.wikipedia.org/wiki/Al-Khaburah"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    58.116666666,
+                    22.566666666
+                ]
+            },
+            "properties": {
+                "name": "Al Mudhaibi",
+                "article": "https://en.wikipedia.org/wiki/Al-Mudhaibi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.6288,
+                    23.7773
+                ]
+            },
+            "properties": {
+                "name": "Al-Musannah",
+                "article": "https://en.wikipedia.org/wiki/Al-Musannah"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    59.3236,
+                    22.0144
+                ]
+            },
+            "properties": {
+                "name": "Jalan bani bu ali",
+                "article": "https://en.wikipedia.org/wiki/Jalan_Bani_Bu_Ali"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    56.745,
+                    23.26986
+                ]
+            },
+            "properties": {
+                "name": "Bat",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    56.745,
+                    23.2699
+                ]
+            },
+            "properties": {
+                "name": "Bat",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    56.745,
+                    23.2699
+                ]
+            },
+            "properties": {
+                "name": "Al-Khutm",
+                "article": null
+            }
+        }
+    ]
+}

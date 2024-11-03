@@ -1,0 +1,1405 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.204444444,
+                    26.799166666
+                ]
+            },
+            "properties": {
+                "name": "Ayodhya",
+                "article": "https://en.wikipedia.org/wiki/Ayodhya"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.62,
+                    27.33
+                ]
+            },
+            "properties": {
+                "name": "Gangtok",
+                "article": "https://en.wikipedia.org/wiki/Gangtok"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.318611111,
+                    32.215277777
+                ]
+            },
+            "properties": {
+                "name": "Dharamshala",
+                "article": "https://en.wikipedia.org/wiki/Dharamshala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    75.179166666,
+                    20.026388888
+                ]
+            },
+            "properties": {
+                "name": "Ellora Caves",
+                "article": "https://en.wikipedia.org/wiki/Ellora_Caves"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    92.716666666,
+                    23.733333333
+                ]
+            },
+            "properties": {
+                "name": "Aizawl",
+                "article": "https://en.wikipedia.org/wiki/Aizawl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.935,
+                    11.305555555
+                ]
+            },
+            "properties": {
+                "name": "Mettupalayam",
+                "article": "https://en.wikipedia.org/wiki/Mettupalayam,_Coimbatore"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.029,
+                    30.318
+                ]
+            },
+            "properties": {
+                "name": "Dehradun",
+                "article": "https://en.wikipedia.org/wiki/Dehradun"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    91.750238,
+                    26.1805876
+                ]
+            },
+            "properties": {
+                "name": "Guwahati",
+                "article": "https://en.wikipedia.org/wiki/Guwahati"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.027777777,
+                    26.294444444
+                ]
+            },
+            "properties": {
+                "name": "Jodhpur",
+                "article": "https://en.wikipedia.org/wiki/Jodhpur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    74.639,
+                    26.468
+                ]
+            },
+            "properties": {
+                "name": "Ajmer",
+                "article": "https://en.wikipedia.org/wiki/Ajmer"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.183333333,
+                    22.8
+                ]
+            },
+            "properties": {
+                "name": "Jamshedpur",
+                "article": "https://en.wikipedia.org/wiki/Jamshedpur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    75.777222222,
+                    23.182777777
+                ]
+            },
+            "properties": {
+                "name": "Ujjain",
+                "article": "https://en.wikipedia.org/wiki/Ujjain"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    75.848611111,
+                    30.908333333
+                ]
+            },
+            "properties": {
+                "name": "Ludhiana",
+                "article": "https://en.wikipedia.org/wiki/Ludhiana"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.706388888,
+                    28.98
+                ]
+            },
+            "properties": {
+                "name": "Meerut",
+                "article": "https://en.wikipedia.org/wiki/Meerut"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.7,
+                    28.99
+                ]
+            },
+            "properties": {
+                "name": "Meerut",
+                "article": "https://en.wikipedia.org/wiki/Meerut"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.3,
+                    28.416666666
+                ]
+            },
+            "properties": {
+                "name": "Faridabad",
+                "article": "https://en.wikipedia.org/wiki/Faridabad"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    75.32,
+                    19.88
+                ]
+            },
+            "properties": {
+                "name": "Aurangabad",
+                "article": "https://en.wikipedia.org/wiki/Aurangabad"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.316944444,
+                    28.018055555
+                ]
+            },
+            "properties": {
+                "name": "Bikaner",
+                "article": "https://en.wikipedia.org/wiki/Bikaner"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.933333333,
+                    23.166666666
+                ]
+            },
+            "properties": {
+                "name": "Jabalpur",
+                "article": "https://en.wikipedia.org/wiki/Jabalpur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.64,
+                    25.35
+                ]
+            },
+            "properties": {
+                "name": "Orchha",
+                "article": "https://en.wikipedia.org/wiki/Orchha"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.64,
+                    25.35
+                ]
+            },
+            "properties": {
+                "name": "Orchha",
+                "article": "https://en.wikipedia.org/wiki/Orchha"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.08,
+                    27.88
+                ]
+            },
+            "properties": {
+                "name": "Aligarh",
+                "article": "https://en.wikipedia.org/wiki/Aligarh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    92.75,
+                    11.666666666
+                ]
+            },
+            "properties": {
+                "name": "Sri Vijaya Puram(Port Blair)",
+                "article": "https://en.wikipedia.org/wiki/Port_Blair"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.416666666,
+                    28.666666666
+                ]
+            },
+            "properties": {
+                "name": "Ghaziabad",
+                "article": "https://en.wikipedia.org/wiki/Ghaziabad"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.866666666,
+                    20.45
+                ]
+            },
+            "properties": {
+                "name": "Cuttack",
+                "article": "https://en.wikipedia.org/wiki/Cuttack"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.87927,
+                    20.46497
+                ]
+            },
+            "properties": {
+                "name": "Cuttack",
+                "article": "https://en.wikipedia.org/wiki/Cuttack"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.963333333,
+                    19.18
+                ]
+            },
+            "properties": {
+                "name": "Thane",
+                "article": "https://en.wikipedia.org/wiki/Thane"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.692777777,
+                    10.826944444
+                ]
+            },
+            "properties": {
+                "name": "Tiruchirappalli",
+                "article": "https://en.wikipedia.org/wiki/Tiruchirappalli"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    91.878888888,
+                    25.574444444
+                ]
+            },
+            "properties": {
+                "name": "Shillong",
+                "article": "https://en.wikipedia.org/wiki/Shillong"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.194444444,
+                    12.619722222
+                ]
+            },
+            "properties": {
+                "name": "Mahabalipuram",
+                "article": "https://en.wikipedia.org/wiki/Mamallapuram"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    93.95,
+                    24.82
+                ]
+            },
+            "properties": {
+                "name": "Imphal",
+                "article": "https://en.wikipedia.org/wiki/Imphal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.633333333,
+                    30.566666666
+                ]
+            },
+            "properties": {
+                "name": "Patiala",
+                "article": "https://en.wikipedia.org/wiki/Patiala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    74.233333333,
+                    16.7
+                ]
+            },
+            "properties": {
+                "name": "Kolhapur",
+                "article": "https://en.wikipedia.org/wiki/Kolhapur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    91.724166666,
+                    25.279166666
+                ]
+            },
+            "properties": {
+                "name": "Cherrapunji",
+                "article": "https://en.wikipedia.org/wiki/Cherrapunji"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.707777777,
+                    12.830833333
+                ]
+            },
+            "properties": {
+                "name": "Kanchipuram",
+                "article": "https://en.wikipedia.org/wiki/Kanchipuram"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.0,
+                    20.733333333
+                ]
+            },
+            "properties": {
+                "name": "Akola",
+                "article": "https://en.wikipedia.org/wiki/Akola"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.579722222,
+                    23.021944444
+                ]
+            },
+            "properties": {
+                "name": "Ahmedabad",
+                "article": "https://en.wikipedia.org/wiki/Ahmedabad"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.07,
+                    22.47
+                ]
+            },
+            "properties": {
+                "name": "Jamnagar",
+                "article": "https://en.wikipedia.org/wiki/Jamnagar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.8775,
+                    19.075833333
+                ]
+            },
+            "properties": {
+                "name": "Mumbai",
+                "article": "https://en.wikipedia.org/wiki/Mumbai"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.5912997,
+                    12.9791198
+                ]
+            },
+            "properties": {
+                "name": "Bengaluru",
+                "article": "https://en.wikipedia.org/wiki/Bangalore"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.275,
+                    13.0825
+                ]
+            },
+            "properties": {
+                "name": "Chennai",
+                "article": "https://en.wikipedia.org/wiki/Chennai"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.080555555,
+                    21.149722222
+                ]
+            },
+            "properties": {
+                "name": "Nagpur",
+                "article": "https://en.wikipedia.org/wiki/Nagpur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.855287,
+                    18.519574
+                ]
+            },
+            "properties": {
+                "name": "Pune",
+                "article": "https://en.wikipedia.org/wiki/Pune"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.283333333,
+                    9.966666666
+                ]
+            },
+            "properties": {
+                "name": "Kochi",
+                "article": "https://en.wikipedia.org/wiki/Kochi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.63,
+                    27.37
+                ]
+            },
+            "properties": {
+                "name": "Farrukhabad",
+                "article": "https://en.wikipedia.org/wiki/Farrukhabad"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.579166666,
+                    27.391388888
+                ]
+            },
+            "properties": {
+                "name": "Farrukhabad",
+                "article": "https://en.wikipedia.org/wiki/Farrukhabad"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.84,
+                    21.205
+                ]
+            },
+            "properties": {
+                "name": "Surat",
+                "article": "https://en.wikipedia.org/wiki/Surat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.249444444,
+                    22.521388888
+                ]
+            },
+            "properties": {
+                "name": "Lothal",
+                "article": "https://en.wikipedia.org/wiki/Lothal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.04632,
+                    24.0299
+                ]
+            },
+            "properties": {
+                "name": "Khedbrahma",
+                "article": "https://en.wikipedia.org/wiki/Khedbrahma"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.21666667,
+                    23.88611111
+                ]
+            },
+            "properties": {
+                "name": "Dholavira",
+                "article": "https://en.wikipedia.org/wiki/Dholavira"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.717222222,
+                    11.340833333
+                ]
+            },
+            "properties": {
+                "name": "Erode",
+                "article": "https://en.wikipedia.org/wiki/Erode"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.72741,
+                    11.3428
+                ]
+            },
+            "properties": {
+                "name": "Erode",
+                "article": "https://en.wikipedia.org/wiki/Erode"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.87,
+                    11.48
+                ]
+            },
+            "properties": {
+                "name": "Sankagiri",
+                "article": "https://en.wikipedia.org/wiki/Sangagiri"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.166666666,
+                    11.65
+                ]
+            },
+            "properties": {
+                "name": "Salem",
+                "article": "https://en.wikipedia.org/wiki/Salem,_Tamil_Nadu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.966666666,
+                    11.0
+                ]
+            },
+            "properties": {
+                "name": "Coimbatore",
+                "article": "https://en.wikipedia.org/wiki/Coimbatore"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.693888888,
+                    11.408611111
+                ]
+            },
+            "properties": {
+                "name": "Ooty",
+                "article": "https://en.wikipedia.org/wiki/Ooty"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.158,
+                    12.127
+                ]
+            },
+            "properties": {
+                "name": "Dharmapuri",
+                "article": "https://en.wikipedia.org/wiki/Dharmapuri"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.8382,
+                    11.5849
+                ]
+            },
+            "properties": {
+                "name": "Edappadi",
+                "article": "https://en.wikipedia.org/wiki/Edappadi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.85,
+                    11.58
+                ]
+            },
+            "properties": {
+                "name": "Edappadi",
+                "article": "https://en.wikipedia.org/wiki/Edappadi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.166666666,
+                    11.233333333
+                ]
+            },
+            "properties": {
+                "name": "Namakkal",
+                "article": "https://en.wikipedia.org/wiki/Namakkal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.07,
+                    11.73
+                ]
+            },
+            "properties": {
+                "name": "Omalur",
+                "article": "https://en.wikipedia.org/wiki/Omalur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.653055555,
+                    12.308611111
+                ]
+            },
+            "properties": {
+                "name": "Mysore",
+                "article": "https://en.wikipedia.org/wiki/Mysore"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.798363888,
+                    22.296908333
+                ]
+            },
+            "properties": {
+                "name": "Rajkot",
+                "article": "https://en.wikipedia.org/wiki/Rajkot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.47,
+                    21.52
+                ]
+            },
+            "properties": {
+                "name": "Junagadh",
+                "article": "https://en.wikipedia.org/wiki/Junagadh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.65,
+                    23.223
+                ]
+            },
+            "properties": {
+                "name": "Gandhinagar",
+                "article": "https://en.wikipedia.org/wiki/Gandhinagar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.2,
+                    22.3
+                ]
+            },
+            "properties": {
+                "name": "Vadodara",
+                "article": "https://en.wikipedia.org/wiki/Vadodara"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    96.166666666,
+                    27.916666666
+                ]
+            },
+            "properties": {
+                "name": "Tezu",
+                "article": "https://en.wikipedia.org/wiki/Tezu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.462162,
+                    15.334547
+                ]
+            },
+            "properties": {
+                "name": "Hampi",
+                "article": "https://en.wikipedia.org/wiki/Hampi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.597944444,
+                    30.145777777
+                ]
+            },
+            "properties": {
+                "name": "Devprayag",
+                "article": "https://en.wikipedia.org/wiki/Devprayag"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.602777777,
+                    30.146111111
+                ]
+            },
+            "properties": {
+                "name": "Devprayag",
+                "article": "https://en.wikipedia.org/wiki/Devprayag"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    75.780277777,
+                    11.247777777
+                ]
+            },
+            "properties": {
+                "name": "Kozhikode",
+                "article": "https://en.wikipedia.org/wiki/Kozhikode"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    75.883333333,
+                    19.833333333
+                ]
+            },
+            "properties": {
+                "name": "Jalna",
+                "article": "https://en.wikipedia.org/wiki/Jalna,_Maharashtra"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    75.566666666,
+                    21.016666666
+                ]
+            },
+            "properties": {
+                "name": "Jalgaon",
+                "article": "https://en.wikipedia.org/wiki/Jalgaon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    75.139722222,
+                    27.611944444
+                ]
+            },
+            "properties": {
+                "name": "Sikar",
+                "article": "https://en.wikipedia.org/wiki/Sikar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    75.579166666,
+                    31.325555555
+                ]
+            },
+            "properties": {
+                "name": "Jalandhar",
+                "article": "https://en.wikipedia.org/wiki/Jalandhar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.4,
+                    15.2667
+                ]
+            },
+            "properties": {
+                "name": "Hosapete",
+                "article": "https://en.wikipedia.org/wiki/Hospet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    75.136175,
+                    15.355
+                ]
+            },
+            "properties": {
+                "name": "Hubballi",
+                "article": "https://en.wikipedia.org/wiki/Hubli"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.465,
+                    25.381
+                ]
+            },
+            "properties": {
+                "name": "Munger",
+                "article": "https://en.wikipedia.org/wiki/Munger"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    93.62,
+                    27.1
+                ]
+            },
+            "properties": {
+                "name": "Itanagar",
+                "article": "https://en.wikipedia.org/wiki/Itanagar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.094,
+                    18.671997222
+                ]
+            },
+            "properties": {
+                "name": "Nizamabad",
+                "article": "https://en.wikipedia.org/wiki/Nizamabad,_Telangana"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.137806,
+                    10.787
+                ]
+            },
+            "properties": {
+                "name": "Thanjavur",
+                "article": "https://en.wikipedia.org/wiki/Thanjavur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.128333333,
+                    23.068055555
+                ]
+            },
+            "properties": {
+                "name": "Gandhidham",
+                "article": "https://en.wikipedia.org/wiki/Gandhidham"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.133333333,
+                    8.783333333
+                ]
+            },
+            "properties": {
+                "name": "Thoothukudi",
+                "article": "https://en.wikipedia.org/wiki/Thoothukudi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.011388888,
+                    28.995833333
+                ]
+            },
+            "properties": {
+                "name": "Sonipat",
+                "article": "https://en.wikipedia.org/wiki/Sonipat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.02,
+                    27.18
+                ]
+            },
+            "properties": {
+                "name": "Agra",
+                "article": "https://en.wikipedia.org/wiki/Agra"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.791111111,
+                    30.735277777
+                ]
+            },
+            "properties": {
+                "name": "Chandigarh",
+                "article": "https://en.wikipedia.org/wiki/Chandigarh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.788333333,
+                    30.736388888
+                ]
+            },
+            "properties": {
+                "name": "Chandigarh",
+                "article": "https://en.wikipedia.org/wiki/Chandigarh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.102777777,
+                    13.005
+                ]
+            },
+            "properties": {
+                "name": "Hassan",
+                "article": "https://en.wikipedia.org/wiki/Hassan,_Karnataka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    74.87704,
+                    31.626917
+                ]
+            },
+            "properties": {
+                "name": "Amritsar",
+                "article": "https://en.wikipedia.org/wiki/Amritsar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.331111111,
+                    26.4725
+                ]
+            },
+            "properties": {
+                "name": "Kanpur",
+                "article": "https://en.wikipedia.org/wiki/Kanpur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.63,
+                    9.03
+                ]
+            },
+            "properties": {
+                "name": "Sasthamcotta Lake",
+                "article": "https://en.wikipedia.org/wiki/Sasthamcotta_Lake"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.012777777,
+                    25.318888888
+                ]
+            },
+            "properties": {
+                "name": "Varanasi",
+                "article": "https://en.wikipedia.org/wiki/Varanasi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.141388888,
+                    25.61
+                ]
+            },
+            "properties": {
+                "name": "Patna",
+                "article": "https://en.wikipedia.org/wiki/Patna"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.133333,
+                    27.7
+                ]
+            },
+            "properties": {
+                "name": "Kanchenjunga",
+                "article": "https://en.wikipedia.org/wiki/Kangchenjunga"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.082,
+                    30.89
+                ]
+            },
+            "properties": {
+                "name": "Barog",
+                "article": "https://en.wikipedia.org/wiki/Barog"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.1,
+                    31.96
+                ]
+            },
+            "properties": {
+                "name": "Kullu",
+                "article": "https://en.wikipedia.org/wiki/Kullu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.10823,
+                    31.95835
+                ]
+            },
+            "properties": {
+                "name": "Kullu",
+                "article": "https://en.wikipedia.org/wiki/Kullu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.345193,
+                    32.026918
+                ]
+            },
+            "properties": {
+                "name": "Manikaran",
+                "article": "https://en.wikipedia.org/wiki/Manikaran"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    75.02,
+                    33.64
+                ]
+            },
+            "properties": {
+                "name": "Kulgam",
+                "article": "https://en.wikipedia.org/wiki/Kulgam"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.172222222,
+                    31.103333333
+                ]
+            },
+            "properties": {
+                "name": "Shimla",
+                "article": "https://en.wikipedia.org/wiki/Shimla"
+            }
+        }
+    ]
+}

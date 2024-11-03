@@ -1,0 +1,2805 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.319166666,
+                    35.340277777
+                ]
+            },
+            "properties": {
+                "name": "Kyrenia",
+                "article": "https://en.wikipedia.org/wiki/Kyrenia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.36138889,
+                    35.17444444
+                ]
+            },
+            "properties": {
+                "name": "Ledra Street",
+                "article": "https://en.wikipedia.org/wiki/Ledra_Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.343719444,
+                    34.796725
+                ]
+            },
+            "properties": {
+                "name": "Khirokitia",
+                "article": "https://en.wikipedia.org/wiki/Khirokitia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.0,
+                    35.0
+                ]
+            },
+            "properties": {
+                "name": "Cyprus",
+                "article": "https://en.wikipedia.org/wiki/Cyprus_(island)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.863888888,
+                    34.936666666
+                ]
+            },
+            "properties": {
+                "name": "Mount Olympus",
+                "article": "https://en.wikipedia.org/wiki/Mount_Olympus_(Cyprus)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.99274853,
+                    35.19777737
+                ]
+            },
+            "properties": {
+                "name": "Morfou",
+                "article": "https://en.wikipedia.org/wiki/Morphou"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.19555556,
+                    35.35583333
+                ]
+            },
+            "properties": {
+                "name": "Lapathus",
+                "article": "https://en.wikipedia.org/wiki/Lapathus_(Cyprus)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.19555556,
+                    35.35583333
+                ]
+            },
+            "properties": {
+                "name": "Lapathus",
+                "article": "https://en.wikipedia.org/wiki/Lapathus_(Cyprus)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.30305556,
+                    34.7525
+                ]
+            },
+            "properties": {
+                "name": "Tenta, Cyprus",
+                "article": "https://en.wikipedia.org/wiki/Tenta,_Cyprus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.333333333,
+                    35.3
+                ]
+            },
+            "properties": {
+                "name": "Kyrenia Mountains",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.423055555,
+                    35.015833333
+                ]
+            },
+            "properties": {
+                "name": "Idalium",
+                "article": "https://en.wikipedia.org/wiki/Idalium"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.24166667,
+                    35.025
+                ]
+            },
+            "properties": {
+                "name": "Tamassos",
+                "article": "https://en.wikipedia.org/wiki/Tamassos"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.40583333,
+                    34.81333333
+                ]
+            },
+            "properties": {
+                "name": "Q1776730",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.28305556,
+                    35.49416667
+                ]
+            },
+            "properties": {
+                "name": "Nitovikla",
+                "article": "https://en.wikipedia.org/wiki/Nitovikla"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.62697,
+                    34.663517
+                ]
+            },
+            "properties": {
+                "name": "Petra tou Romiou",
+                "article": "https://en.wikipedia.org/wiki/Petra_tou_Romiou"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.34456667,
+                    35.18013056
+                ]
+            },
+            "properties": {
+                "name": "Central Jail of Nicosia",
+                "article": "https://en.wikipedia.org/wiki/Central_Jail_of_Nicosia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.05,
+                    35.016666666
+                ]
+            },
+            "properties": {
+                "name": "Protaras",
+                "article": "https://en.wikipedia.org/wiki/Protaras"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.13374,
+                    34.71255
+                ]
+            },
+            "properties": {
+                "name": "Klimonas",
+                "article": "https://en.wikipedia.org/wiki/Klimonas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.1419,
+                    34.7125
+                ]
+            },
+            "properties": {
+                "name": "Amathus",
+                "article": "https://en.wikipedia.org/wiki/Amathus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.435497222,
+                    34.885875
+                ]
+            },
+            "properties": {
+                "name": "Stavrovouni Monastery",
+                "article": "https://en.wikipedia.org/wiki/Stavrovouni_Monastery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.363611111,
+                    35.19
+                ]
+            },
+            "properties": {
+                "name": "North Nicosia",
+                "article": "https://en.wikipedia.org/wiki/North_Nicosia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.46666667,
+                    35.13333333
+                ]
+            },
+            "properties": {
+                "name": "Battle of Tylliria",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Tillyria"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.60866225,
+                    35.08512478
+                ]
+            },
+            "properties": {
+                "name": "Tremetousia",
+                "article": "https://en.wikipedia.org/wiki/Tremetousia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.546666666,
+                    35.068055555
+                ]
+            },
+            "properties": {
+                "name": "Golgoi",
+                "article": "https://en.wikipedia.org/wiki/Golgoi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.233,
+                    35.347
+                ]
+            },
+            "properties": {
+                "name": "Battle of Pentemili beachhead",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Pentemili_beachhead"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.3669,
+                    35.171938
+                ]
+            },
+            "properties": {
+                "name": "Hadjigeorgakis Kornesios Mansion",
+                "article": "https://en.wikipedia.org/wiki/Hadjigeorgakis_Kornesios_Mansion"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.73827,
+                    35.18146
+                ]
+            },
+            "properties": {
+                "name": "Petra tou Limniti",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.70244444,
+                    34.98486111
+                ]
+            },
+            "properties": {
+                "name": "Kokkinokremos",
+                "article": "https://en.wikipedia.org/wiki/Kokkinokremmos"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.1616667,
+                    35.3194444
+                ]
+            },
+            "properties": {
+                "name": "Kyparissovouno",
+                "article": "https://en.wikipedia.org/wiki/Mount_Selvili"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.3605,
+                    35.1686
+                ]
+            },
+            "properties": {
+                "name": "Tower 25",
+                "article": "https://en.wikipedia.org/wiki/Tower_25"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.3117,
+                    34.8996
+                ]
+            },
+            "properties": {
+                "name": "Yeronisos",
+                "article": "https://en.wikipedia.org/wiki/Yeronisos"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.31186,
+                    34.8995
+                ]
+            },
+            "properties": {
+                "name": "Yeronisos",
+                "article": "https://en.wikipedia.org/wiki/Yeronisos"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.957222222,
+                    34.935277777
+                ]
+            },
+            "properties": {
+                "name": "Moutti tou Dia",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.96634,
+                    35.03624
+                ]
+            },
+            "properties": {
+                "name": "Q12880040",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.916388888,
+                    34.978888888
+                ]
+            },
+            "properties": {
+                "name": "Thronoi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.86368,
+                    34.67285
+                ]
+            },
+            "properties": {
+                "name": "Sanctuary of Apollo Hylates",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.88028611,
+                    35.17474167
+                ]
+            },
+            "properties": {
+                "name": "St. Barnabas Monastery",
+                "article": "https://en.wikipedia.org/wiki/Monastery_of_Saint_Barnabas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.8814201,
+                    35.1100082
+                ]
+            },
+            "properties": {
+                "name": "Historic Çamlıköy Lefke Train Station, Cyprus",
+                "article": "https://en.wikipedia.org/wiki/Kalo_Chorio_(%C3%87aml%C4%B1k%C3%B6y)_train_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.31977778,
+                    34.90269444
+                ]
+            },
+            "properties": {
+                "name": "Agios Georgios Pegeia Archaeological Site",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.9225,
+                    34.7116
+                ]
+            },
+            "properties": {
+                "name": "Kaminia",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.097777777,
+                    34.743055555
+                ]
+            },
+            "properties": {
+                "name": "Korifi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.5636,
+                    34.87349
+                ]
+            },
+            "properties": {
+                "name": "Q22985023",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.525833333,
+                    34.801388888
+                ]
+            },
+            "properties": {
+                "name": "Q22985026",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.636111111,
+                    34.875
+                ]
+            },
+            "properties": {
+                "name": "Kashanes",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.50032,
+                    34.75728
+                ]
+            },
+            "properties": {
+                "name": "Q22985332",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.731388888,
+                    34.982777777
+                ]
+            },
+            "properties": {
+                "name": "Kykkos",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.598611111,
+                    34.965
+                ]
+            },
+            "properties": {
+                "name": "Kalogyros",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.734444444,
+                    34.945277777
+                ]
+            },
+            "properties": {
+                "name": "Moutti tous Drimitides",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.641666666,
+                    34.919444444
+                ]
+            },
+            "properties": {
+                "name": "Q22985371",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.789166666,
+                    34.782777777
+                ]
+            },
+            "properties": {
+                "name": "Tofoulia",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.755555555,
+                    34.803888888
+                ]
+            },
+            "properties": {
+                "name": "Mantra tou Tavro",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.825277777,
+                    34.812777777
+                ]
+            },
+            "properties": {
+                "name": "Q22985680",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.983333333,
+                    34.7
+                ]
+            },
+            "properties": {
+                "name": "Kalentzi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.264722222,
+                    34.989444444
+                ]
+            },
+            "properties": {
+                "name": "Arkoloudia",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.261944444,
+                    34.958333333
+                ]
+            },
+            "properties": {
+                "name": "Tyranos",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.316666666,
+                    34.958055555
+                ]
+            },
+            "properties": {
+                "name": "Gerakies",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.348611111,
+                    34.959722222
+                ]
+            },
+            "properties": {
+                "name": "Mouttaria",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.395833333,
+                    34.958888888
+                ]
+            },
+            "properties": {
+                "name": "Karis",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.433055555,
+                    34.958055555
+                ]
+            },
+            "properties": {
+                "name": "Vyzakeri",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.461666666,
+                    34.9825
+                ]
+            },
+            "properties": {
+                "name": "Aetomoutti",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.43,
+                    34.992222222
+                ]
+            },
+            "properties": {
+                "name": "Lariona",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.264444444,
+                    34.931944444
+                ]
+            },
+            "properties": {
+                "name": "Oxys",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.497222222,
+                    34.981111111
+                ]
+            },
+            "properties": {
+                "name": "Profali",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.484444444,
+                    34.968611111
+                ]
+            },
+            "properties": {
+                "name": "Chchinnomoutti",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.314444444,
+                    34.921388888
+                ]
+            },
+            "properties": {
+                "name": "Vulture Point",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.298055555,
+                    34.901666666
+                ]
+            },
+            "properties": {
+                "name": "Kataxylos",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.406944444,
+                    34.93
+                ]
+            },
+            "properties": {
+                "name": "Pikrasidi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.460555555,
+                    34.933055555
+                ]
+            },
+            "properties": {
+                "name": "Appidaki",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.465555555,
+                    34.9
+                ]
+            },
+            "properties": {
+                "name": "Papalias",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.394444444,
+                    34.893888888
+                ]
+            },
+            "properties": {
+                "name": "Malia",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.3475,
+                    34.893611111
+                ]
+            },
+            "properties": {
+                "name": "Kasi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.352222222,
+                    34.8725
+                ]
+            },
+            "properties": {
+                "name": "Chchinnokefalos",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.465833333,
+                    34.8725
+                ]
+            },
+            "properties": {
+                "name": "Aspropetra",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.290833333,
+                    34.816111111
+                ]
+            },
+            "properties": {
+                "name": "Aetomoutti tis Vavlas",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.432777777,
+                    34.865555555
+                ]
+            },
+            "properties": {
+                "name": "Aetomoutti",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.390555555,
+                    34.848055555
+                ]
+            },
+            "properties": {
+                "name": "Mavros",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.333888888,
+                    34.811388888
+                ]
+            },
+            "properties": {
+                "name": "Nemourka",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.338888888,
+                    34.835555555
+                ]
+            },
+            "properties": {
+                "name": "Laona tou Mavro",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.438888888,
+                    34.818333333
+                ]
+            },
+            "properties": {
+                "name": "Trachonia",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.3827,
+                    34.8196
+                ]
+            },
+            "properties": {
+                "name": "Vounon tis Kofinous",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.307777777,
+                    34.779722222
+                ]
+            },
+            "properties": {
+                "name": "Kafkalia",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.460833333,
+                    34.839444444
+                ]
+            },
+            "properties": {
+                "name": "Strachalas",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.482777777,
+                    34.814722222
+                ]
+            },
+            "properties": {
+                "name": "Viklones",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.4061,
+                    34.7831
+                ]
+            },
+            "properties": {
+                "name": "Q22985007",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.356666666,
+                    34.788888888
+                ]
+            },
+            "properties": {
+                "name": "Amala",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.496666666,
+                    34.778333333
+                ]
+            },
+            "properties": {
+                "name": "Q22985010",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.512777777,
+                    34.951111111
+                ]
+            },
+            "properties": {
+                "name": "Q22985011",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.41173,
+                    34.75018
+                ]
+            },
+            "properties": {
+                "name": "Q22985008",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.4448,
+                    34.7828
+                ]
+            },
+            "properties": {
+                "name": "Akonia",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.550277777,
+                    34.914444444
+                ]
+            },
+            "properties": {
+                "name": "Q22985014",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.5147,
+                    34.9222
+                ]
+            },
+            "properties": {
+                "name": "Q22985012",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.540277777,
+                    34.965
+                ]
+            },
+            "properties": {
+                "name": "Q22985013",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.5634,
+                    34.9411
+                ]
+            },
+            "properties": {
+                "name": "Alōna",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.599444444,
+                    34.881944444
+                ]
+            },
+            "properties": {
+                "name": "Q22985017",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.51024,
+                    34.84374
+                ]
+            },
+            "properties": {
+                "name": "Q22985020",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.521388888,
+                    34.877777777
+                ]
+            },
+            "properties": {
+                "name": "Q22985021",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.632777777,
+                    34.904166666
+                ]
+            },
+            "properties": {
+                "name": "Q22985378",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.732777777,
+                    34.903333333
+                ]
+            },
+            "properties": {
+                "name": "Moutti ton Kofinion",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.703055555,
+                    34.87
+                ]
+            },
+            "properties": {
+                "name": "Q22985392",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.598611111,
+                    34.836388888
+                ]
+            },
+            "properties": {
+                "name": "Q22985397",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.5425,
+                    34.777222222
+                ]
+            },
+            "properties": {
+                "name": "Mouttovouni",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.72893,
+                    34.77573
+                ]
+            },
+            "properties": {
+                "name": "Q22985427",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.6022,
+                    34.7706
+                ]
+            },
+            "properties": {
+                "name": "Mouttotegkion",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.673611111,
+                    34.756111111
+                ]
+            },
+            "properties": {
+                "name": "Kafkalla",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.7517,
+                    35.005
+                ]
+            },
+            "properties": {
+                "name": "Geraki",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.7725,
+                    35.0958
+                ]
+            },
+            "properties": {
+                "name": "Moutti tis Pallouras",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.8133,
+                    35.0242
+                ]
+            },
+            "properties": {
+                "name": "Charkeia",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.855555555,
+                    35.070277777
+                ]
+            },
+            "properties": {
+                "name": "Pyrgolofos",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.8375,
+                    35.1
+                ]
+            },
+            "properties": {
+                "name": "Moutti tou Pertiko",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.8526,
+                    35.0306
+                ]
+            },
+            "properties": {
+                "name": "Mosfileri",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.8215,
+                    35.0583
+                ]
+            },
+            "properties": {
+                "name": "Q22985449",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.9135,
+                    35.0196
+                ]
+            },
+            "properties": {
+                "name": "Kylintros",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.8983,
+                    35.0542
+                ]
+            },
+            "properties": {
+                "name": "Lachanides",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.8476,
+                    35.0041
+                ]
+            },
+            "properties": {
+                "name": "Pyrgomoutti",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.968055555,
+                    35.001666666
+                ]
+            },
+            "properties": {
+                "name": "Kalyfes",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.891666666,
+                    35.1625
+                ]
+            },
+            "properties": {
+                "name": "Markos",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.956111111,
+                    35.091944444
+                ]
+            },
+            "properties": {
+                "name": "Q22985463",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.979166666,
+                    35.116666666
+                ]
+            },
+            "properties": {
+                "name": "Mazokampi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.966666666,
+                    35.25
+                ]
+            },
+            "properties": {
+                "name": "Q22985470",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.0025,
+                    35.226111111
+                ]
+            },
+            "properties": {
+                "name": "Q22985471",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.925,
+                    35.204166666
+                ]
+            },
+            "properties": {
+                "name": "Leivadia",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.9625,
+                    35.225
+                ]
+            },
+            "properties": {
+                "name": "Pnasi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.038055555,
+                    35.220833333
+                ]
+            },
+            "properties": {
+                "name": "Q22985473",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.04864,
+                    35.15398
+                ]
+            },
+            "properties": {
+                "name": "Q22985478",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.02405,
+                    35.08108
+                ]
+            },
+            "properties": {
+                "name": "Q22985480",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.021944444,
+                    35.033055555
+                ]
+            },
+            "properties": {
+                "name": "Alesto",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.068888888,
+                    35.017777777
+                ]
+            },
+            "properties": {
+                "name": "Mouttallia ton Gerakion",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.0796,
+                    35.1907
+                ]
+            },
+            "properties": {
+                "name": "Mazeri",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.0924,
+                    35.2322
+                ]
+            },
+            "properties": {
+                "name": "Q22985491",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.073611111,
+                    35.066944444
+                ]
+            },
+            "properties": {
+                "name": "Q22985488",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.08263,
+                    35.10722
+                ]
+            },
+            "properties": {
+                "name": "Q22985489",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.157222222,
+                    35.225833333
+                ]
+            },
+            "properties": {
+                "name": "Q22985495",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.12094,
+                    35.17606
+                ]
+            },
+            "properties": {
+                "name": "Q22985498",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.125555555,
+                    35.221388888
+                ]
+            },
+            "properties": {
+                "name": "Q22985496",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.154722222,
+                    35.093333333
+                ]
+            },
+            "properties": {
+                "name": "Q22985502",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.147222222,
+                    35.131111111
+                ]
+            },
+            "properties": {
+                "name": "Lefkovounos",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.14,
+                    35.046944444
+                ]
+            },
+            "properties": {
+                "name": "Q22985504",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.175277777,
+                    35.001388888
+                ]
+            },
+            "properties": {
+                "name": "Q22985510",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.197222222,
+                    35.0725
+                ]
+            },
+            "properties": {
+                "name": "Korakas",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.21073,
+                    35.03432
+                ]
+            },
+            "properties": {
+                "name": "Q22985516",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.1978,
+                    35.1285
+                ]
+            },
+            "properties": {
+                "name": "Q22985523",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.2175,
+                    35.223055555
+                ]
+            },
+            "properties": {
+                "name": "Q22985526",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.212222222,
+                    35.174166666
+                ]
+            },
+            "properties": {
+                "name": "Gerogiannis",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.170555555,
+                    35.178888888
+                ]
+            },
+            "properties": {
+                "name": "Kommorotso",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.2489,
+                    35.0912
+                ]
+            },
+            "properties": {
+                "name": "Vlokkaria",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.179,
+                    35.1042
+                ]
+            },
+            "properties": {
+                "name": "Q22985528",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.233888888,
+                    35.129166666
+                ]
+            },
+            "properties": {
+                "name": "Q22985529",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.545555555,
+                    35.210833333
+                ]
+            },
+            "properties": {
+                "name": "Rothechia",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.5368,
+                    35.1708
+                ]
+            },
+            "properties": {
+                "name": "Ali Efendi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.54668,
+                    35.10011
+                ]
+            },
+            "properties": {
+                "name": "Sepi Dagh",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.605277777,
+                    35.115833333
+                ]
+            },
+            "properties": {
+                "name": "Q22985548",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.68,
+                    35.172222222
+                ]
+            },
+            "properties": {
+                "name": "Q22985566",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.539444444,
+                    35.0675
+                ]
+            },
+            "properties": {
+                "name": "Koukkounis",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.508055555,
+                    35.076111111
+                ]
+            },
+            "properties": {
+                "name": "Kafkalla tou Pyrogio",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.9,
+                    34.976666666
+                ]
+            },
+            "properties": {
+                "name": "Staoudies",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.789722222,
+                    34.943888888
+                ]
+            },
+            "properties": {
+                "name": "Q22985606",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.813055555,
+                    34.952222222
+                ]
+            },
+            "properties": {
+                "name": "Q22985610",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.804166666,
+                    34.966111111
+                ]
+            },
+            "properties": {
+                "name": "Moutti tou Drakonta",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.856666666,
+                    34.955833333
+                ]
+            },
+            "properties": {
+                "name": "North Shoulder",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.820277777,
+                    34.941388888
+                ]
+            },
+            "properties": {
+                "name": "Koukos",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.863333333,
+                    34.936388888
+                ]
+            },
+            "properties": {
+                "name": "Palea Khora Fortified Settlement",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.845,
+                    34.948611111
+                ]
+            },
+            "properties": {
+                "name": "Prodromas",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.975555555,
+                    34.939444444
+                ]
+            },
+            "properties": {
+                "name": "Timios Stavros",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.9575,
+                    34.958333333
+                ]
+            },
+            "properties": {
+                "name": "Moutti tou Spilio",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.7725,
+                    34.907777777
+                ]
+            },
+            "properties": {
+                "name": "Roskolos",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.80565,
+                    34.91653
+                ]
+            },
+            "properties": {
+                "name": "Lakeras",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.879166666,
+                    34.903055555
+                ]
+            },
+            "properties": {
+                "name": "South Shoulder",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.949722222,
+                    34.894722222
+                ]
+            },
+            "properties": {
+                "name": "Chardachi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.784444444,
+                    34.862222222
+                ]
+            },
+            "properties": {
+                "name": "Kremmos tis Laonas",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.96607,
+                    34.89338
+                ]
+            },
+            "properties": {
+                "name": "Timios Stavros, Pelentri",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.816388888,
+                    34.874166666
+                ]
+            },
+            "properties": {
+                "name": "Kokkinovounos",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.840833333,
+                    34.851388888
+                ]
+            },
+            "properties": {
+                "name": "Afamis",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.8006,
+                    34.846
+                ]
+            },
+            "properties": {
+                "name": "Kountourolaona",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.856944444,
+                    34.875833333
+                ]
+            },
+            "properties": {
+                "name": "Q22985656",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.873055555,
+                    34.836666666
+                ]
+            },
+            "properties": {
+                "name": "Charkeia",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.887777777,
+                    34.8625
+                ]
+            },
+            "properties": {
+                "name": "Xilimpos",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.9625,
+                    34.865
+                ]
+            },
+            "properties": {
+                "name": "Troumithos",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.789166666,
+                    34.782777777
+                ]
+            },
+            "properties": {
+                "name": "Tofoulia",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.755555555,
+                    34.803888888
+                ]
+            },
+            "properties": {
+                "name": "Mantra tou Tavro",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.871666666,
+                    34.796388888
+                ]
+            },
+            "properties": {
+                "name": "Q22985682",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.906944444,
+                    34.811388888
+                ]
+            },
+            "properties": {
+                "name": "Q22985683",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.825277777,
+                    34.812777777
+                ]
+            },
+            "properties": {
+                "name": "Q22985680",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.931944444,
+                    34.809722222
+                ]
+            },
+            "properties": {
+                "name": "Q22985686",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.909722222,
+                    34.808888888
+                ]
+            },
+            "properties": {
+                "name": "Q22985684",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.978333333,
+                    34.800833333
+                ]
+            },
+            "properties": {
+                "name": "Mosfileri",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.778611111,
+                    34.753611111
+                ]
+            },
+            "properties": {
+                "name": "Akradies",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.8306,
+                    34.7673
+                ]
+            },
+            "properties": {
+                "name": "Mersinia",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.915555555,
+                    34.778055555
+                ]
+            },
+            "properties": {
+                "name": "Arkolia",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.8998,
+                    34.7537
+                ]
+            },
+            "properties": {
+                "name": "Stites",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.033888888,
+                    34.971111111
+                ]
+            },
+            "properties": {
+                "name": "Kourtellorotsos",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.9988,
+                    34.7573
+                ]
+            },
+            "properties": {
+                "name": "Kalochi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.114166666,
+                    34.979166666
+                ]
+            },
+            "properties": {
+                "name": "Q22985710",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.216666666,
+                    34.951111111
+                ]
+            },
+            "properties": {
+                "name": "Skordokefalos",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.177222222,
+                    34.955277777
+                ]
+            },
+            "properties": {
+                "name": "Moutti tou Klimato",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.002777777,
+                    34.916666666
+                ]
+            },
+            "properties": {
+                "name": "Fteriki",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.2325,
+                    34.978333333
+                ]
+            },
+            "properties": {
+                "name": "Q22985721",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.029444444,
+                    34.927777777
+                ]
+            },
+            "properties": {
+                "name": "Platys",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.075,
+                    34.946388888
+                ]
+            },
+            "properties": {
+                "name": "Q22985725",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.120833333,
+                    34.919722222
+                ]
+            },
+            "properties": {
+                "name": "Megali Moutti",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.0881,
+                    34.8668
+                ]
+            },
+            "properties": {
+                "name": "Laona",
+                "article": null
+            }
+        }
+    ]
+}

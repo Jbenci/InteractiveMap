@@ -1,0 +1,243 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -62.747222,
+                    17.319722
+                ]
+            },
+            "properties": {
+                "name": "Saint Kitts",
+                "article": "https://en.wikipedia.org/wiki/Saint_Kitts"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -62.583333333,
+                    17.15
+                ]
+            },
+            "properties": {
+                "name": "Nevis",
+                "article": "https://en.wikipedia.org/wiki/Nevis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -62.6103,
+                    17.2267
+                ]
+            },
+            "properties": {
+                "name": "Booby Island",
+                "article": "https://en.wikipedia.org/wiki/Booby_Island_(Saint_Kitts_and_Nevis)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -62.816666666,
+                    17.416666666
+                ]
+            },
+            "properties": {
+                "name": "Dieppe Bay Town",
+                "article": "https://en.wikipedia.org/wiki/Dieppe_Bay_Town"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -62.791944444,
+                    17.404722222
+                ]
+            },
+            "properties": {
+                "name": "Saddlers",
+                "article": "https://en.wikipedia.org/wiki/Saddlers"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -62.833333333,
+                    17.35
+                ]
+            },
+            "properties": {
+                "name": "Sandy Point Town",
+                "article": "https://en.wikipedia.org/wiki/Sandy_Point_Town"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -62.582833333,
+                    17.152833333
+                ]
+            },
+            "properties": {
+                "name": "Nevis Peak",
+                "article": "https://en.wikipedia.org/wiki/Nevis_Peak"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -62.733333333,
+                    17.35
+                ]
+            },
+            "properties": {
+                "name": "Cayon",
+                "article": "https://en.wikipedia.org/wiki/Cayon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -62.754036111,
+                    17.380988888
+                ]
+            },
+            "properties": {
+                "name": "Nichola Town",
+                "article": "https://en.wikipedia.org/wiki/Nichola_Town"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -62.65,
+                    17.233333333
+                ]
+            },
+            "properties": {
+                "name": "Great Salt Pond",
+                "article": "https://en.wikipedia.org/wiki/Great_Salt_Pond"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -62.75,
+                    17.316666666
+                ]
+            },
+            "properties": {
+                "name": "Olivees Mountain",
+                "article": "https://en.wikipedia.org/wiki/Olivees_Mountain"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -62.634166666,
+                    17.245277777
+                ]
+            },
+            "properties": {
+                "name": "St. Anthony's Peak",
+                "article": "https://en.wikipedia.org/wiki/St._Anthony%27s_Peak"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -62.78333,
+                    17.35
+                ]
+            },
+            "properties": {
+                "name": "Verchild's Peak",
+                "article": "https://en.wikipedia.org/wiki/Verchild%27s_Peak"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -62.766666666,
+                    17.333333333
+                ]
+            },
+            "properties": {
+                "name": "The Weir",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -62.73333056,
+                    17.33333056
+                ]
+            },
+            "properties": {
+                "name": "Château de la Montagne",
+                "article": "https://en.wikipedia.org/wiki/Ch%C3%A2teau_de_la_Montagne"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -62.73421,
+                    17.31665
+                ]
+            },
+            "properties": {
+                "name": "Monkey Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -62.734166666,
+                    17.298333333
+                ]
+            },
+            "properties": {
+                "name": "Basseterre",
+                "article": "https://en.wikipedia.org/wiki/Basseterre"
+            }
+        }
+    ]
+}

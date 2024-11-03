@@ -1,0 +1,6459 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6,
+                    5.95
+                ]
+            },
+            "properties": {
+                "name": "Bouar",
+                "article": "https://en.wikipedia.org/wiki/Bouar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.866666666,
+                    4.933333333
+                ]
+            },
+            "properties": {
+                "name": "Carnot",
+                "article": "https://en.wikipedia.org/wiki/Carnot,_Central_African_Republic"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.87735,
+                    4.94273
+                ]
+            },
+            "properties": {
+                "name": "Carnot",
+                "article": "https://en.wikipedia.org/wiki/Carnot,_Central_African_Republic"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.04583,
+                    3.52494
+                ]
+            },
+            "properties": {
+                "name": "Nola",
+                "article": "https://en.wikipedia.org/wiki/Nola,_Central_African_Republic"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.066666666,
+                    3.533333333
+                ]
+            },
+            "properties": {
+                "name": "Nola",
+                "article": "https://en.wikipedia.org/wiki/Nola,_Central_African_Republic"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.783333333,
+                    4.266666666
+                ]
+            },
+            "properties": {
+                "name": "Berbérati",
+                "article": "https://en.wikipedia.org/wiki/Berb%C3%A9rati"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0,
+                    3.883333333
+                ]
+            },
+            "properties": {
+                "name": "Mbaïki",
+                "article": "https://en.wikipedia.org/wiki/Mba%C3%AFki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.991944444,
+                    6.536944444
+                ]
+            },
+            "properties": {
+                "name": "Bria",
+                "article": "https://en.wikipedia.org/wiki/Bria,_Central_African_Republic"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.819166666,
+                    5.783333333
+                ]
+            },
+            "properties": {
+                "name": "Baboua",
+                "article": "https://en.wikipedia.org/wiki/Baboua,_Central_African_Republic"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.683333333,
+                    5.766666666
+                ]
+            },
+            "properties": {
+                "name": "Bambari",
+                "article": "https://en.wikipedia.org/wiki/Bambari"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.819,
+                    4.737
+                ]
+            },
+            "properties": {
+                "name": "Bangassou",
+                "article": "https://en.wikipedia.org/wiki/Bangassou"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.818333333,
+                    4.741388888
+                ]
+            },
+            "properties": {
+                "name": "Bangassou",
+                "article": "https://en.wikipedia.org/wiki/Bangassou"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.516333333,
+                    4.331305555
+                ]
+            },
+            "properties": {
+                "name": "Bimbo",
+                "article": "https://en.wikipedia.org/wiki/Bimbo,_Central_African_Republic"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.45,
+                    6.483333333
+                ]
+            },
+            "properties": {
+                "name": "Bossangoa",
+                "article": "https://en.wikipedia.org/wiki/Bossangoa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.92111111,
+                    3.91111111
+                ]
+            },
+            "properties": {
+                "name": "Q895034",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.378333333,
+                    6.317222222
+                ]
+            },
+            "properties": {
+                "name": "Bozoum",
+                "article": "https://en.wikipedia.org/wiki/Bozoum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.183333333,
+                    4.316666666
+                ]
+            },
+            "properties": {
+                "name": "Mobaye",
+                "article": "https://en.wikipedia.org/wiki/Mobaye"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.27944444,
+                    8.60583333
+                ]
+            },
+            "properties": {
+                "name": "Mont Abourasséin",
+                "article": "https://en.wikipedia.org/wiki/Mont_Abourass%C3%A9in"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.180833333,
+                    7.000555555
+                ]
+            },
+            "properties": {
+                "name": "Kaga-Bandoro",
+                "article": "https://en.wikipedia.org/wiki/Kaga-Bandoro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.12138889,
+                    3.76805556
+                ]
+            },
+            "properties": {
+                "name": "Q1536291",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.04388889,
+                    4.73583333
+                ]
+            },
+            "properties": {
+                "name": "Q1612181",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.086666666,
+                    5.737777777
+                ]
+            },
+            "properties": {
+                "name": "Sibut",
+                "article": "https://en.wikipedia.org/wiki/Sibut"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.81666667,
+                    10.94444444
+                ]
+            },
+            "properties": {
+                "name": "Mare de Tizi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.81036,
+                    10.94938
+                ]
+            },
+            "properties": {
+                "name": "Mare de Tizi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.95,
+                    6.74
+                ]
+            },
+            "properties": {
+                "name": "Mont Ngaoui",
+                "article": "https://en.wikipedia.org/wiki/Mont_Ngaoui"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.629166666,
+                    7.699444444
+                ]
+            },
+            "properties": {
+                "name": "Kabo",
+                "article": "https://en.wikipedia.org/wiki/Kabo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6,
+                    6.64
+                ]
+            },
+            "properties": {
+                "name": "Goroumo",
+                "article": "https://en.wikipedia.org/wiki/Goroumo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8,
+                    6.666666666
+                ]
+            },
+            "properties": {
+                "name": "Mbrès",
+                "article": "https://en.wikipedia.org/wiki/Mbr%C3%A8s"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.555277777,
+                    4.361388888
+                ]
+            },
+            "properties": {
+                "name": "Battle of Bangui",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Bangui_(2013)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.059444444,
+                    5.740555555
+                ]
+            },
+            "properties": {
+                "name": "First Battle of Grimari",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.059444444,
+                    5.740555555
+                ]
+            },
+            "properties": {
+                "name": "Second Battle of Grimari",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.49647,
+                    6.88332
+                ]
+            },
+            "properties": {
+                "name": "Q17634874",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.9516,
+                    4.9768
+                ]
+            },
+            "properties": {
+                "name": "Lake Mbali",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.966666944,
+                    7.166666944
+                ]
+            },
+            "properties": {
+                "name": "Battle of Boguila",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2472,
+                    3.9329
+                ]
+            },
+            "properties": {
+                "name": "Dédé-Makouba",
+                "article": "https://en.wikipedia.org/wiki/D%C3%A9d%C3%A9-Makouba"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.599444444,
+                    4.198055555
+                ]
+            },
+            "properties": {
+                "name": "Q22327189",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.0492,
+                    5.2908
+                ]
+            },
+            "properties": {
+                "name": "Mont Naboro",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.9075,
+                    5.339444444
+                ]
+            },
+            "properties": {
+                "name": "Mont Ndongo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.648888888,
+                    7.928888888
+                ]
+            },
+            "properties": {
+                "name": "Mont Ngouo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.8,
+                    7.116666666
+                ]
+            },
+            "properties": {
+                "name": "Mont Ouatale",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.5707,
+                    7.2007
+                ]
+            },
+            "properties": {
+                "name": "Mont Patara",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.2726,
+                    5.7103
+                ]
+            },
+            "properties": {
+                "name": "Lakpo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4858,
+                    5.5517
+                ]
+            },
+            "properties": {
+                "name": "Mont Regnauld",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.8764,
+                    7.0402
+                ]
+            },
+            "properties": {
+                "name": "Mont Sikoum",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.656111111,
+                    5.244166666
+                ]
+            },
+            "properties": {
+                "name": "Mont Sogongo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.8219,
+                    5.5572
+                ]
+            },
+            "properties": {
+                "name": "Mont Tadeno",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.598333333,
+                    10.191388888
+                ]
+            },
+            "properties": {
+                "name": "Njir",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.9596,
+                    5.5037
+                ]
+            },
+            "properties": {
+                "name": "Mont Tandio",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.033333333,
+                    7.45
+                ]
+            },
+            "properties": {
+                "name": "Mont Tassaore",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.3883,
+                    7.0383
+                ]
+            },
+            "properties": {
+                "name": "Mont Toula",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.233333333,
+                    9.066666666
+                ]
+            },
+            "properties": {
+                "name": "Mont Toussoro",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.983333333,
+                    4.666666666
+                ]
+            },
+            "properties": {
+                "name": "Q22358140",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.833333333,
+                    4.483333333
+                ]
+            },
+            "properties": {
+                "name": "Mont Yalingo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0392,
+                    7.5017
+                ]
+            },
+            "properties": {
+                "name": "Mont Zamani",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.7,
+                    5.766666666
+                ]
+            },
+            "properties": {
+                "name": "Mont Zamouto",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.495833333,
+                    10.026388888
+                ]
+            },
+            "properties": {
+                "name": "Madjia",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.489722222,
+                    9.830833333
+                ]
+            },
+            "properties": {
+                "name": "Madjia",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.562833333,
+                    4.37325
+                ]
+            },
+            "properties": {
+                "name": "Bangui",
+                "article": "https://en.wikipedia.org/wiki/Bangui"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.33377,
+                    5.21411
+                ]
+            },
+            "properties": {
+                "name": "Gongurabaia",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.078888888,
+                    6.621388888
+                ]
+            },
+            "properties": {
+                "name": "Q22369328",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.6,
+                    3.616666666
+                ]
+            },
+            "properties": {
+                "name": "Q22370092",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.333333333,
+                    9.851944444
+                ]
+            },
+            "properties": {
+                "name": "Q22372166",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0254,
+                    7.3588
+                ]
+            },
+            "properties": {
+                "name": "Belabo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.960555555,
+                    10.1175
+                ]
+            },
+            "properties": {
+                "name": "Q22372589",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.96,
+                    9.9394
+                ]
+            },
+            "properties": {
+                "name": "Q22372611",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.91,
+                    4.657222222
+                ]
+            },
+            "properties": {
+                "name": "Q22373558",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.362777777,
+                    10.121388888
+                ]
+            },
+            "properties": {
+                "name": "Makar",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.698,
+                    7.4381
+                ]
+            },
+            "properties": {
+                "name": "Makele",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.1743,
+                    7.3642
+                ]
+            },
+            "properties": {
+                "name": "Gotokoli",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5771,
+                    6.047
+                ]
+            },
+            "properties": {
+                "name": "Bembara",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.218611111,
+                    6.665833333
+                ]
+            },
+            "properties": {
+                "name": "Q22385493",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.851944444,
+                    10.501111111
+                ]
+            },
+            "properties": {
+                "name": "Q22386687",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.187777777,
+                    6.332777777
+                ]
+            },
+            "properties": {
+                "name": "Gougoun",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.845,
+                    9.809166666
+                ]
+            },
+            "properties": {
+                "name": "Goula Kadji",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.842222222,
+                    10.006388888
+                ]
+            },
+            "properties": {
+                "name": "Goula Kadji",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.813055555,
+                    7.359166666
+                ]
+            },
+            "properties": {
+                "name": "Goulé",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.461944444,
+                    9.537777777
+                ]
+            },
+            "properties": {
+                "name": "Malmal",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.312777777,
+                    9.416388888
+                ]
+            },
+            "properties": {
+                "name": "Gounga",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.206111111,
+                    9.376111111
+                ]
+            },
+            "properties": {
+                "name": "Gounga",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.4,
+                    9.7
+                ]
+            },
+            "properties": {
+                "name": "Q22397202",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.631944444,
+                    4.133888888
+                ]
+            },
+            "properties": {
+                "name": "Q22398568",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.125277777,
+                    9.573333333
+                ]
+            },
+            "properties": {
+                "name": "Q22400271",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.606944444,
+                    4.205
+                ]
+            },
+            "properties": {
+                "name": "Q22400452",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.578055555,
+                    4.236388888
+                ]
+            },
+            "properties": {
+                "name": "Q22400473",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.439722222,
+                    8.012777777
+                ]
+            },
+            "properties": {
+                "name": "Am Boro",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.751111111,
+                    8.167777777
+                ]
+            },
+            "properties": {
+                "name": "Am Borogo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.1775,
+                    10.706111111
+                ]
+            },
+            "properties": {
+                "name": "Am Gach",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.59339,
+                    8.21366
+                ]
+            },
+            "properties": {
+                "name": "Ambougoudio",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.614444444,
+                    4.140555555
+                ]
+            },
+            "properties": {
+                "name": "Q22403181",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.045555555,
+                    7.485277777
+                ]
+            },
+            "properties": {
+                "name": "Mangui",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.08,
+                    9.0383
+                ]
+            },
+            "properties": {
+                "name": "Kimba",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.135555555,
+                    7.267222222
+                ]
+            },
+            "properties": {
+                "name": "Poinso",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.933888888,
+                    3.589166666
+                ]
+            },
+            "properties": {
+                "name": "Mapa",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.754166666,
+                    8.040555555
+                ]
+            },
+            "properties": {
+                "name": "Q22419420",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.6225,
+                    9.623055555
+                ]
+            },
+            "properties": {
+                "name": "Mare de Gata",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.738888888,
+                    6.222777777
+                ]
+            },
+            "properties": {
+                "name": "Mare Doungo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.026944444,
+                    8.702777777
+                ]
+            },
+            "properties": {
+                "name": "Kioukio",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.35,
+                    9.783333333
+                ]
+            },
+            "properties": {
+                "name": "Q22427272",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.439,
+                    8.1594
+                ]
+            },
+            "properties": {
+                "name": "Odo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5303,
+                    9.242
+                ]
+            },
+            "properties": {
+                "name": "Vouma",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.4829,
+                    9.3804
+                ]
+            },
+            "properties": {
+                "name": "Q22434088",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.2532,
+                    6.6294
+                ]
+            },
+            "properties": {
+                "name": "Q22438339",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.2933,
+                    6.4726
+                ]
+            },
+            "properties": {
+                "name": "Bilipolo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.1508,
+                    5.8508
+                ]
+            },
+            "properties": {
+                "name": "Q22440896",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.125555555,
+                    6.643333333
+                ]
+            },
+            "properties": {
+                "name": "Bilto",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.272777777,
+                    4.871388888
+                ]
+            },
+            "properties": {
+                "name": "Etang de Kaba",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4646,
+                    6.4422
+                ]
+            },
+            "properties": {
+                "name": "Massif Bata",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6,
+                    7.166666666
+                ]
+            },
+            "properties": {
+                "name": "Q22448255",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.7533,
+                    7.8433
+                ]
+            },
+            "properties": {
+                "name": "Massif du Tondo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.316666666,
+                    7.2
+                ]
+            },
+            "properties": {
+                "name": "Massif Watouno",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.622777777,
+                    7.375555555
+                ]
+            },
+            "properties": {
+                "name": "Fa",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.533333333,
+                    6.916666666
+                ]
+            },
+            "properties": {
+                "name": "Rocher Ndiri",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9846,
+                    3.516
+                ]
+            },
+            "properties": {
+                "name": "Mbali",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.881,
+                    10.0645
+                ]
+            },
+            "properties": {
+                "name": "Tabaldir",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.8869,
+                    9.8692
+                ]
+            },
+            "properties": {
+                "name": "Tabaldir",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3009,
+                    7.3125
+                ]
+            },
+            "properties": {
+                "name": "Ouali",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.964166666,
+                    8.935277777
+                ]
+            },
+            "properties": {
+                "name": "Q22457881",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.064444444,
+                    10.290833333
+                ]
+            },
+            "properties": {
+                "name": "Fatima",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.125,
+                    9.7398
+                ]
+            },
+            "properties": {
+                "name": "Q22459601",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9472,
+                    3.977
+                ]
+            },
+            "properties": {
+                "name": "Mbato",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.83,
+                    8.9665
+                ]
+            },
+            "properties": {
+                "name": "Q22460345",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.381944444,
+                    9.714166666
+                ]
+            },
+            "properties": {
+                "name": "Q22462479",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.6038,
+                    9.6198
+                ]
+            },
+            "properties": {
+                "name": "Tandja",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.1349,
+                    7.3585
+                ]
+            },
+            "properties": {
+                "name": "Mboum Koun",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.25383,
+                    8.2767
+                ]
+            },
+            "properties": {
+                "name": "Jabal Gingamba",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5467,
+                    8.85
+                ]
+            },
+            "properties": {
+                "name": "Jabal Rumbukindi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.6957,
+                    6.684
+                ]
+            },
+            "properties": {
+                "name": "Q22465582",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.681,
+                    7.3685
+                ]
+            },
+            "properties": {
+                "name": "Pahi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.265277777,
+                    9.703888888
+                ]
+            },
+            "properties": {
+                "name": "Baba",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.912222222,
+                    7.436388888
+                ]
+            },
+            "properties": {
+                "name": "Babourou",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.6675,
+                    6.2475
+                ]
+            },
+            "properties": {
+                "name": "Babouta",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.646388888,
+                    7.386666666
+                ]
+            },
+            "properties": {
+                "name": "Pana",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.22351,
+                    8.64094
+                ]
+            },
+            "properties": {
+                "name": "Jebel Abu Rasein",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.994722222,
+                    7.937777777
+                ]
+            },
+            "properties": {
+                "name": "Jebel Amboro",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.8997,
+                    8.0477
+                ]
+            },
+            "properties": {
+                "name": "Jebel Angboti",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.013611111,
+                    8.666944444
+                ]
+            },
+            "properties": {
+                "name": "Jebel Kashi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.6952,
+                    9.6717
+                ]
+            },
+            "properties": {
+                "name": "Jebel Mishmira",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.26973,
+                    8.59176
+                ]
+            },
+            "properties": {
+                "name": "Jebel Ndemi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.0054,
+                    7.9152
+                ]
+            },
+            "properties": {
+                "name": "Jebel Tabar",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.6382,
+                    9.3516
+                ]
+            },
+            "properties": {
+                "name": "Jebel Tinga",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.031111111,
+                    7.466388888
+                ]
+            },
+            "properties": {
+                "name": "Q22478051",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.54756,
+                    9.63426
+                ]
+            },
+            "properties": {
+                "name": "Chele",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.608055555,
+                    3.894444444
+                ]
+            },
+            "properties": {
+                "name": "Bakara",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.742222222,
+                    8.807777777
+                ]
+            },
+            "properties": {
+                "name": "Bakaro",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.736666666,
+                    7.703055555
+                ]
+            },
+            "properties": {
+                "name": "Kaga Alio",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4382,
+                    5.8126
+                ]
+            },
+            "properties": {
+                "name": "Q22500903",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.8793,
+                    6.0212
+                ]
+            },
+            "properties": {
+                "name": "Kaga Apo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.2,
+                    5.85
+                ]
+            },
+            "properties": {
+                "name": "Kaga Badia",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.9101,
+                    6.1731
+                ]
+            },
+            "properties": {
+                "name": "Kaga Badia",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4266,
+                    6.3585
+                ]
+            },
+            "properties": {
+                "name": "Kaga Badia",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.43,
+                    6.326666666
+                ]
+            },
+            "properties": {
+                "name": "Kaga Bahera",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7633,
+                    5.6117
+                ]
+            },
+            "properties": {
+                "name": "Kaga Bakaba",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.4137,
+                    7.3366
+                ]
+            },
+            "properties": {
+                "name": "Q22500964",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.6625,
+                    6.8954
+                ]
+            },
+            "properties": {
+                "name": "Kaga Bakamba",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.527222222,
+                    6.645555555
+                ]
+            },
+            "properties": {
+                "name": "Q22500986",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.731,
+                    8.3134
+                ]
+            },
+            "properties": {
+                "name": "Kaga Bakomba",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.971388888,
+                    7.654166666
+                ]
+            },
+            "properties": {
+                "name": "Kaga Bakouya",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.3533,
+                    6.0858
+                ]
+            },
+            "properties": {
+                "name": "Kaga Ballamba",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9308,
+                    4.7775
+                ]
+            },
+            "properties": {
+                "name": "Kaga Bamandi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.1604,
+                    5.8132
+                ]
+            },
+            "properties": {
+                "name": "Kaga Bamara",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.442222222,
+                    5.575555555
+                ]
+            },
+            "properties": {
+                "name": "Kaga Bambara",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.939722222,
+                    7.636944444
+                ]
+            },
+            "properties": {
+                "name": "Kaga Bamgra",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5005,
+                    6.6252
+                ]
+            },
+            "properties": {
+                "name": "Kaga Bandouko",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.960277777,
+                    7.794166666
+                ]
+            },
+            "properties": {
+                "name": "Kaga Banga",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.2017,
+                    6.3267
+                ]
+            },
+            "properties": {
+                "name": "Kaga Banga",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.183055555,
+                    5.781388888
+                ]
+            },
+            "properties": {
+                "name": "Kaga Bangato",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.1167,
+                    5.5642
+                ]
+            },
+            "properties": {
+                "name": "Q22501097",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.818611111,
+                    6.420277777
+                ]
+            },
+            "properties": {
+                "name": "Kaga Bata",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.949444444,
+                    5.412777777
+                ]
+            },
+            "properties": {
+                "name": "Kaga Soko",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5586,
+                    6.7328
+                ]
+            },
+            "properties": {
+                "name": "Kaga Sosio",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.9538,
+                    6.1415
+                ]
+            },
+            "properties": {
+                "name": "Kaga Sosso",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.562,
+                    6.493
+                ]
+            },
+            "properties": {
+                "name": "Kaga Sosso",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.6008,
+                    6.2492
+                ]
+            },
+            "properties": {
+                "name": "Kaga Srouba",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4784,
+                    6.4931
+                ]
+            },
+            "properties": {
+                "name": "Kaga Tabito",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.7,
+                    6.5036
+                ]
+            },
+            "properties": {
+                "name": "Kadila",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.2928,
+                    6.1102
+                ]
+            },
+            "properties": {
+                "name": "Kaga Batro",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.711111111,
+                    7.694444444
+                ]
+            },
+            "properties": {
+                "name": "Kaga Bazo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.4547,
+                    6.2398
+                ]
+            },
+            "properties": {
+                "name": "Q22501145",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.82,
+                    4.58
+                ]
+            },
+            "properties": {
+                "name": "Kaga Bendo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8922,
+                    5.4938
+                ]
+            },
+            "properties": {
+                "name": "Q22501166",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.272222222,
+                    7.959722222
+                ]
+            },
+            "properties": {
+                "name": "Q22501177",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.850277777,
+                    5.552222222
+                ]
+            },
+            "properties": {
+                "name": "Q22501187",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.104722222,
+                    7.791666666
+                ]
+            },
+            "properties": {
+                "name": "Kaga Bida",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.2003,
+                    5.8316
+                ]
+            },
+            "properties": {
+                "name": "Kaga Biga",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.938055555,
+                    5.865833333
+                ]
+            },
+            "properties": {
+                "name": "Q22501213",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.333333333,
+                    6.033333333
+                ]
+            },
+            "properties": {
+                "name": "Kaga Bla",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.973333333,
+                    7.610555555
+                ]
+            },
+            "properties": {
+                "name": "Kaga Bocho",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.877222222,
+                    7.823888888
+                ]
+            },
+            "properties": {
+                "name": "Kaga Bolowa",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.199166666,
+                    7.845277777
+                ]
+            },
+            "properties": {
+                "name": "Kaga Bongolo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.2032,
+                    7.9708
+                ]
+            },
+            "properties": {
+                "name": "Kaga Bougaza",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4284,
+                    6.5407
+                ]
+            },
+            "properties": {
+                "name": "Kaga Bougouda",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.2433,
+                    6.0358
+                ]
+            },
+            "properties": {
+                "name": "Kaga Bouguepi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.214444444,
+                    7.856388888
+                ]
+            },
+            "properties": {
+                "name": "Kaga Bouka",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4755,
+                    6.6523
+                ]
+            },
+            "properties": {
+                "name": "Kaga Boukaga",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.2367,
+                    5.7916
+                ]
+            },
+            "properties": {
+                "name": "Kaga Boukaga",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8262,
+                    5.9809
+                ]
+            },
+            "properties": {
+                "name": "Kaga Bouko",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.5733,
+                    5.8975
+                ]
+            },
+            "properties": {
+                "name": "Q22501335",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.3717,
+                    5.3583
+                ]
+            },
+            "properties": {
+                "name": "Kaga Boupo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.2601,
+                    7.3547
+                ]
+            },
+            "properties": {
+                "name": "Kaga Bouvo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.833333333,
+                    5.95
+                ]
+            },
+            "properties": {
+                "name": "Kaga Brangoula",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.2583,
+                    4.6125
+                ]
+            },
+            "properties": {
+                "name": "Kaga Ditchila",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4315,
+                    5.5563
+                ]
+            },
+            "properties": {
+                "name": "Kaga Djama",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.033333333,
+                    4.9
+                ]
+            },
+            "properties": {
+                "name": "Kaga Djangas",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0319,
+                    4.92
+                ]
+            },
+            "properties": {
+                "name": "Kaga Djangos",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.906666666,
+                    7.389444444
+                ]
+            },
+            "properties": {
+                "name": "Q22501491",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.6451,
+                    5.7132
+                ]
+            },
+            "properties": {
+                "name": "Kaga Djongo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.633333333,
+                    7.7
+                ]
+            },
+            "properties": {
+                "name": "Kaga Djoua",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0242,
+                    5.9017
+                ]
+            },
+            "properties": {
+                "name": "Kaga Djoungo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.326666666,
+                    6.371944444
+                ]
+            },
+            "properties": {
+                "name": "Kaga Djoungro",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5125,
+                    5.935
+                ]
+            },
+            "properties": {
+                "name": "Kaga Dogbra",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.773055555,
+                    7.671666666
+                ]
+            },
+            "properties": {
+                "name": "Kaga Dokouay",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.962222222,
+                    5.361944444
+                ]
+            },
+            "properties": {
+                "name": "Q22501564",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8506,
+                    6.7369
+                ]
+            },
+            "properties": {
+                "name": "Kaga Dougbala",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.8386,
+                    4.6422
+                ]
+            },
+            "properties": {
+                "name": "Kaga Dzanga",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.85,
+                    6.016666666
+                ]
+            },
+            "properties": {
+                "name": "Kaga Embo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.116666666,
+                    5.416666666
+                ]
+            },
+            "properties": {
+                "name": "Kaga Enguia",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.230277777,
+                    7.888888888
+                ]
+            },
+            "properties": {
+                "name": "Kaga Fanga",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.746944444,
+                    4.622777777
+                ]
+            },
+            "properties": {
+                "name": "Kaga Gaba",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0742,
+                    4.9067
+                ]
+            },
+            "properties": {
+                "name": "Kaga Gadja",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5391,
+                    6.2479
+                ]
+            },
+            "properties": {
+                "name": "Kaga Gama",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.2296,
+                    5.8274
+                ]
+            },
+            "properties": {
+                "name": "Kaga Gando",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.546666666,
+                    6.386944444
+                ]
+            },
+            "properties": {
+                "name": "Kaga Gao",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.315,
+                    8.4995
+                ]
+            },
+            "properties": {
+                "name": "Kaga Gar",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.936666666,
+                    7.751944444
+                ]
+            },
+            "properties": {
+                "name": "Kaga Gata",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.8042,
+                    6.1217
+                ]
+            },
+            "properties": {
+                "name": "Kaga Godo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8671,
+                    6.0945
+                ]
+            },
+            "properties": {
+                "name": "Kaga Gombo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9608,
+                    4.8183
+                ]
+            },
+            "properties": {
+                "name": "Kaga Goumbolo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.368888888,
+                    5.515277777
+                ]
+            },
+            "properties": {
+                "name": "Kaga Goumvro",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.8,
+                    7.983333333
+                ]
+            },
+            "properties": {
+                "name": "Kaga Gousaga",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.3448,
+                    6.4107
+                ]
+            },
+            "properties": {
+                "name": "Kaga Groko",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.8517,
+                    6.05
+                ]
+            },
+            "properties": {
+                "name": "Q22501770",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.583333333,
+                    5.233333333
+                ]
+            },
+            "properties": {
+                "name": "Kaga Guitami",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.338888888,
+                    5.317222222
+                ]
+            },
+            "properties": {
+                "name": "Q22501786",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.763611111,
+                    7.317777777
+                ]
+            },
+            "properties": {
+                "name": "Q22501796",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.17,
+                    7.891388888
+                ]
+            },
+            "properties": {
+                "name": "Kaga Ichi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9992,
+                    4.8567
+                ]
+            },
+            "properties": {
+                "name": "Kaga Jimbo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9215,
+                    6.0086
+                ]
+            },
+            "properties": {
+                "name": "Kaga Kai",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.6925,
+                    7.684722222
+                ]
+            },
+            "properties": {
+                "name": "Q22501838",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.990277777,
+                    7.603611111
+                ]
+            },
+            "properties": {
+                "name": "Kaga Kamara",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.8767,
+                    8.415
+                ]
+            },
+            "properties": {
+                "name": "Kaga Kandjia",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.499722222,
+                    5.619444444
+                ]
+            },
+            "properties": {
+                "name": "Kaga Kava",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.72,
+                    6.0708
+                ]
+            },
+            "properties": {
+                "name": "Kaga Kippi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.192777777,
+                    7.931944444
+                ]
+            },
+            "properties": {
+                "name": "Kaga Kobro",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.3842,
+                    6.0125
+                ]
+            },
+            "properties": {
+                "name": "Kaga Kodo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.193333333,
+                    7.853888888
+                ]
+            },
+            "properties": {
+                "name": "Kaga Kolo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5732,
+                    5.5603
+                ]
+            },
+            "properties": {
+                "name": "Kaga Koro",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0083,
+                    5.6825
+                ]
+            },
+            "properties": {
+                "name": "Kaga Kossigamba",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.869444444,
+                    7.5125
+                ]
+            },
+            "properties": {
+                "name": "Kaga Kossoko",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.250277777,
+                    7.836666666
+                ]
+            },
+            "properties": {
+                "name": "Kaga Kotoa",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.5514,
+                    7.1745
+                ]
+            },
+            "properties": {
+                "name": "Kaga Kouassabangui",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.525833333,
+                    5.932222222
+                ]
+            },
+            "properties": {
+                "name": "Kaga Koudia",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.3025,
+                    7.880833333
+                ]
+            },
+            "properties": {
+                "name": "Kaga Kougala",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9792,
+                    4.915
+                ]
+            },
+            "properties": {
+                "name": "Kaga Kouligo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.531666666,
+                    7.367777777
+                ]
+            },
+            "properties": {
+                "name": "Kaga Kouro",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.2549,
+                    7.8689
+                ]
+            },
+            "properties": {
+                "name": "Kaga Koussaka",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.3,
+                    7.891666666
+                ]
+            },
+            "properties": {
+                "name": "Kaga Kouvo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.95,
+                    5.783333333
+                ]
+            },
+            "properties": {
+                "name": "Kaga Lagbada",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.8575,
+                    8.326944444
+                ]
+            },
+            "properties": {
+                "name": "Q22502042",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.126944444,
+                    5.419444444
+                ]
+            },
+            "properties": {
+                "name": "Kaga Liga",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5,
+                    6.633333333
+                ]
+            },
+            "properties": {
+                "name": "Kaga Likli",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9126,
+                    4.8199
+                ]
+            },
+            "properties": {
+                "name": "Kaga Mabana",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.95,
+                    5.86667
+                ]
+            },
+            "properties": {
+                "name": "Kaga Magandja",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.3927,
+                    6.3788
+                ]
+            },
+            "properties": {
+                "name": "Kaga Manga",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.873055555,
+                    7.904166666
+                ]
+            },
+            "properties": {
+                "name": "Kaga Mango",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.413611111,
+                    5.202777777
+                ]
+            },
+            "properties": {
+                "name": "Kaga Maouro",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.733333333,
+                    8.383333333
+                ]
+            },
+            "properties": {
+                "name": "Kaga Mara",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.416666666,
+                    7.583333333
+                ]
+            },
+            "properties": {
+                "name": "Kaga Mbali",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.779166666,
+                    6.446944444
+                ]
+            },
+            "properties": {
+                "name": "Kaga Mbisa",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.1475,
+                    5.6225
+                ]
+            },
+            "properties": {
+                "name": "Kaga Mbissio",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8328,
+                    6.7051
+                ]
+            },
+            "properties": {
+                "name": "Q22502160",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.766666666,
+                    7.666666666
+                ]
+            },
+            "properties": {
+                "name": "Kaga Mingui",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.3006,
+                    5.9057
+                ]
+            },
+            "properties": {
+                "name": "Kaga Mio",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9008,
+                    7.7467
+                ]
+            },
+            "properties": {
+                "name": "Kaga Monga",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.991388888,
+                    7.7
+                ]
+            },
+            "properties": {
+                "name": "Q22502215",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.417777777,
+                    8.362222222
+                ]
+            },
+            "properties": {
+                "name": "Kaga Naugoudji",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.066666666,
+                    5.85
+                ]
+            },
+            "properties": {
+                "name": "Q22502239",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.5167,
+                    4.6483
+                ]
+            },
+            "properties": {
+                "name": "Kaga Ngomata",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.946388888,
+                    7.7275
+                ]
+            },
+            "properties": {
+                "name": "Q22502260",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.155,
+                    7.36
+                ]
+            },
+            "properties": {
+                "name": "Q22502269",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.783055555,
+                    7.700555555
+                ]
+            },
+            "properties": {
+                "name": "Kaga Omboro",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.5775,
+                    7.4525
+                ]
+            },
+            "properties": {
+                "name": "Kaga Otoro",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.655,
+                    5.2375
+                ]
+            },
+            "properties": {
+                "name": "Kaga Ouaga",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.033333333,
+                    4.816666666
+                ]
+            },
+            "properties": {
+                "name": "Kaga Ouamboko",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.8675,
+                    4.6008
+                ]
+            },
+            "properties": {
+                "name": "Kaga Ouassoungo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4171,
+                    5.6998
+                ]
+            },
+            "properties": {
+                "name": "Kaga Ouo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7667,
+                    5.3075
+                ]
+            },
+            "properties": {
+                "name": "Kaga Paga",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.633333333,
+                    5.083333333
+                ]
+            },
+            "properties": {
+                "name": "Kaga Palaga",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.651111111,
+                    8.601388888
+                ]
+            },
+            "properties": {
+                "name": "Kaga Tologuin",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.5614,
+                    8.487
+                ]
+            },
+            "properties": {
+                "name": "Kaga Torrenguee",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.1575,
+                    8.4264
+                ]
+            },
+            "properties": {
+                "name": "Kaga Toulo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.8217,
+                    4.6625
+                ]
+            },
+            "properties": {
+                "name": "Kaga Toumbala",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.783333333,
+                    7.983333333
+                ]
+            },
+            "properties": {
+                "name": "Kaga Tourba",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.2025,
+                    7.898888888
+                ]
+            },
+            "properties": {
+                "name": "Kaga Varo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.8983,
+                    7.5371
+                ]
+            },
+            "properties": {
+                "name": "Kaga Vonga",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9096,
+                    4.8705
+                ]
+            },
+            "properties": {
+                "name": "Kaga Yaba",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.869,
+                    6.8136
+                ]
+            },
+            "properties": {
+                "name": "Kaga Yakouya",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.506111111,
+                    7.221388888
+                ]
+            },
+            "properties": {
+                "name": "Kaga Yanga",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.215555555,
+                    7.876388888
+                ]
+            },
+            "properties": {
+                "name": "Kaga Yangato",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.602222222,
+                    5.072222222
+                ]
+            },
+            "properties": {
+                "name": "Kaga Yangato",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.688055555,
+                    7.659444444
+                ]
+            },
+            "properties": {
+                "name": "Kaga Yangato",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5586,
+                    6.7328
+                ]
+            },
+            "properties": {
+                "name": "Kaga Sosio",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.9538,
+                    6.1415
+                ]
+            },
+            "properties": {
+                "name": "Kaga Sosso",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.562,
+                    6.493
+                ]
+            },
+            "properties": {
+                "name": "Kaga Sosso",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.6008,
+                    6.2492
+                ]
+            },
+            "properties": {
+                "name": "Kaga Srouba",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4784,
+                    6.4931
+                ]
+            },
+            "properties": {
+                "name": "Kaga Tabito",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.833333333,
+                    5.933333333
+                ]
+            },
+            "properties": {
+                "name": "Q22502525",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7582,
+                    5.9645
+                ]
+            },
+            "properties": {
+                "name": "Kaga Tagbara",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.965277777,
+                    7.6725
+                ]
+            },
+            "properties": {
+                "name": "Q22502546",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8655,
+                    5.5287
+                ]
+            },
+            "properties": {
+                "name": "Kaga Toko",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.651111111,
+                    8.601388888
+                ]
+            },
+            "properties": {
+                "name": "Kaga Tologuin",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.5614,
+                    8.487
+                ]
+            },
+            "properties": {
+                "name": "Kaga Torrenguee",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.1575,
+                    8.4264
+                ]
+            },
+            "properties": {
+                "name": "Kaga Toulo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.8217,
+                    4.6625
+                ]
+            },
+            "properties": {
+                "name": "Kaga Toumbala",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.783333333,
+                    7.983333333
+                ]
+            },
+            "properties": {
+                "name": "Kaga Tourba",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.2025,
+                    7.898888888
+                ]
+            },
+            "properties": {
+                "name": "Kaga Varo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.8983,
+                    7.5371
+                ]
+            },
+            "properties": {
+                "name": "Kaga Vonga",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9096,
+                    4.8705
+                ]
+            },
+            "properties": {
+                "name": "Kaga Yaba",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.869,
+                    6.8136
+                ]
+            },
+            "properties": {
+                "name": "Kaga Yakouya",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.506111111,
+                    7.221388888
+                ]
+            },
+            "properties": {
+                "name": "Kaga Yanga",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.215555555,
+                    7.876388888
+                ]
+            },
+            "properties": {
+                "name": "Kaga Yangato",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.602222222,
+                    5.072222222
+                ]
+            },
+            "properties": {
+                "name": "Kaga Yangato",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.688055555,
+                    7.659444444
+                ]
+            },
+            "properties": {
+                "name": "Kaga Yangato",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0683,
+                    5.8792
+                ]
+            },
+            "properties": {
+                "name": "Kaga Yangba",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.83,
+                    5.035833333
+                ]
+            },
+            "properties": {
+                "name": "Kaga Yango",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.789722222,
+                    5.9875
+                ]
+            },
+            "properties": {
+                "name": "Kaga Yaouaza",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.255555555,
+                    7.913055555
+                ]
+            },
+            "properties": {
+                "name": "Kaga Yara",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.683333333,
+                    7.675
+                ]
+            },
+            "properties": {
+                "name": "Kaga Zo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.65,
+                    7.716666666
+                ]
+            },
+            "properties": {
+                "name": "Kagas Lemas",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.633333333,
+                    7.666666666
+                ]
+            },
+            "properties": {
+                "name": "Q22502842",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.118888888,
+                    6.630833333
+                ]
+            },
+            "properties": {
+                "name": "Balagin",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.230277777,
+                    6.684722222
+                ]
+            },
+            "properties": {
+                "name": "Kahon",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.392222222,
+                    8.125555555
+                ]
+            },
+            "properties": {
+                "name": "Tobo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6041,
+                    3.872
+                ]
+            },
+            "properties": {
+                "name": "Tokini",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.752777777,
+                    9.630833333
+                ]
+            },
+            "properties": {
+                "name": "Tolo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.2375,
+                    9.1367
+                ]
+            },
+            "properties": {
+                "name": "Tousoro",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.2835,
+                    9.2694
+                ]
+            },
+            "properties": {
+                "name": "Mirimbi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.941388888,
+                    7.109444444
+                ]
+            },
+            "properties": {
+                "name": "Kani",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.964722222,
+                    9.765833333
+                ]
+            },
+            "properties": {
+                "name": "Modo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.164722222,
+                    7.294722222
+                ]
+            },
+            "properties": {
+                "name": "Kaon",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.201111111,
+                    6.3525
+                ]
+            },
+            "properties": {
+                "name": "Bata",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.360555555,
+                    9.999166666
+                ]
+            },
+            "properties": {
+                "name": "Q22536217",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.671666666,
+                    6.655
+                ]
+            },
+            "properties": {
+                "name": "Q22536226",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.976388888,
+                    10.68
+                ]
+            },
+            "properties": {
+                "name": "Karkour el Binat",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.776111111,
+                    10.389444444
+                ]
+            },
+            "properties": {
+                "name": "Q22536569",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.2075,
+                    7.446388888
+                ]
+            },
+            "properties": {
+                "name": "Q22538761",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2219,
+                    6.1441
+                ]
+            },
+            "properties": {
+                "name": "Mont Ago",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7594,
+                    7.8152
+                ]
+            },
+            "properties": {
+                "name": "Mont An Gayaba",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.969444444,
+                    7.078611111
+                ]
+            },
+            "properties": {
+                "name": "Mont Angbando",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9,
+                    6.45
+                ]
+            },
+            "properties": {
+                "name": "Q22540311",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.105,
+                    9.139722222
+                ]
+            },
+            "properties": {
+                "name": "Kasmatiti",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.745,
+                    6.8375
+                ]
+            },
+            "properties": {
+                "name": "Mont Ayebouahimi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.9482,
+                    5.5463
+                ]
+            },
+            "properties": {
+                "name": "Mont Badakta",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.425,
+                    5.9208
+                ]
+            },
+            "properties": {
+                "name": "Q22540565",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.9851,
+                    5.6351
+                ]
+            },
+            "properties": {
+                "name": "Mont Bakaa",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.905277777,
+                    7.210277777
+                ]
+            },
+            "properties": {
+                "name": "Mont Bali",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.96,
+                    7.2517
+                ]
+            },
+            "properties": {
+                "name": "Mont Balimbaye",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.195,
+                    6.144166666
+                ]
+            },
+            "properties": {
+                "name": "Mont Bara",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.75,
+                    5.383333333
+                ]
+            },
+            "properties": {
+                "name": "Q22541061",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.316666666,
+                    7.283333333
+                ]
+            },
+            "properties": {
+                "name": "Mont Bouno",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.3643,
+                    6.4795
+                ]
+            },
+            "properties": {
+                "name": "Mont Dagara",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6177,
+                    7.2137
+                ]
+            },
+            "properties": {
+                "name": "Mont Dandji",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.4557,
+                    6.1996
+                ]
+            },
+            "properties": {
+                "name": "Mont Dangoura",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.915,
+                    4.0967
+                ]
+            },
+            "properties": {
+                "name": "Mont de Kouka",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4208,
+                    7.0875
+                ]
+            },
+            "properties": {
+                "name": "Mont Dir",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.882777777,
+                    4.633611111
+                ]
+            },
+            "properties": {
+                "name": "Mont Doundo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.6239,
+                    4.5669
+                ]
+            },
+            "properties": {
+                "name": "Mont Envo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.802222222,
+                    7.903055555
+                ]
+            },
+            "properties": {
+                "name": "Mont Ganougo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.898888888,
+                    4.576388888
+                ]
+            },
+            "properties": {
+                "name": "Mont Gbando",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4,
+                    7.1
+                ]
+            },
+            "properties": {
+                "name": "Mont Gombel",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.883333333,
+                    4.515833333
+                ]
+            },
+            "properties": {
+                "name": "Q22542972",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.433333333,
+                    7.066666666
+                ]
+            },
+            "properties": {
+                "name": "Mont Goundoungan",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.4358,
+                    5.6425
+                ]
+            },
+            "properties": {
+                "name": "Mont Guingagueba",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.96,
+                    5.4325
+                ]
+            },
+            "properties": {
+                "name": "Mont Hongdono",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.938611111,
+                    5.296111111
+                ]
+            },
+            "properties": {
+                "name": "Mont Kaabane",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.833055555,
+                    5.316666666
+                ]
+            },
+            "properties": {
+                "name": "Mont Kaabane",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.7087,
+                    5.3141
+                ]
+            },
+            "properties": {
+                "name": "Mont Kaato",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.7,
+                    7.383333333
+                ]
+            },
+            "properties": {
+                "name": "Kobaye",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.9337,
+                    5.6862
+                ]
+            },
+            "properties": {
+                "name": "Mont Kabio",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.7439,
+                    5.9365
+                ]
+            },
+            "properties": {
+                "name": "Mont Kagna",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.233333333,
+                    6.45
+                ]
+            },
+            "properties": {
+                "name": "Mont Kayagangiri",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9467,
+                    7.1583
+                ]
+            },
+            "properties": {
+                "name": "Mont Koljale",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.266666666,
+                    7.333333333
+                ]
+            },
+            "properties": {
+                "name": "Mont Koungoi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.366666666,
+                    5.916666666
+                ]
+            },
+            "properties": {
+                "name": "Mont Koungo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4167,
+                    7.1417
+                ]
+            },
+            "properties": {
+                "name": "Mont Kounkaya",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.970277777,
+                    7.946388888
+                ]
+            },
+            "properties": {
+                "name": "Mont Kouroumona",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.966666666,
+                    7.316666666
+                ]
+            },
+            "properties": {
+                "name": "Mont Koussai",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9608,
+                    7.2133
+                ]
+            },
+            "properties": {
+                "name": "Mont Krebele",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.416388888,
+                    7.176111111
+                ]
+            },
+            "properties": {
+                "name": "Mont Kwoungo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.882222222,
+                    7.214444444
+                ]
+            },
+            "properties": {
+                "name": "Mont Mali",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.6933,
+                    6.6242
+                ]
+            },
+            "properties": {
+                "name": "Mont Mangaoua",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.300555555,
+                    8.373888888
+                ]
+            },
+            "properties": {
+                "name": "Q22545147",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.0433,
+                    7.0045
+                ]
+            },
+            "properties": {
+                "name": "Q22545163",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0063,
+                    7.4258
+                ]
+            },
+            "properties": {
+                "name": "Bissoro",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.1513,
+                    6.2289
+                ]
+            },
+            "properties": {
+                "name": "Kordango",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.601944444,
+                    7.401944444
+                ]
+            },
+            "properties": {
+                "name": "Q22552883",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.129166666,
+                    9.075277777
+                ]
+            },
+            "properties": {
+                "name": "Q22553011",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.816388888,
+                    9.325277777
+                ]
+            },
+            "properties": {
+                "name": "Q22554234",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.856111111,
+                    10.530833333
+                ]
+            },
+            "properties": {
+                "name": "Dahar",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.1671,
+                    9.1646
+                ]
+            },
+            "properties": {
+                "name": "Koubo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.697222222,
+                    8.190277777
+                ]
+            },
+            "properties": {
+                "name": "Q22554911",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.099166666,
+                    6.644722222
+                ]
+            },
+            "properties": {
+                "name": "Q22554936",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.7676,
+                    7.1261
+                ]
+            },
+            "properties": {
+                "name": "Koulam",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.63041,
+                    9.56299
+                ]
+            },
+            "properties": {
+                "name": "Koumou",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.539444444,
+                    7.164444444
+                ]
+            },
+            "properties": {
+                "name": "Koun Bilay",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.738333333,
+                    7.411111111
+                ]
+            },
+            "properties": {
+                "name": "Koun Nzoro",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.100277777,
+                    7.244166666
+                ]
+            },
+            "properties": {
+                "name": "Koundjouli",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.104166666,
+                    6.09
+                ]
+            },
+            "properties": {
+                "name": "Q22556169",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.990555555,
+                    7.085
+                ]
+            },
+            "properties": {
+                "name": "Dang Lang",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.4758,
+                    9.9386
+                ]
+            },
+            "properties": {
+                "name": "Seringa",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.74442,
+                    10.49625
+                ]
+            },
+            "properties": {
+                "name": "Q22564679",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.8375,
+                    3.681944444
+                ]
+            },
+            "properties": {
+                "name": "Boma",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.113611111,
+                    6.253888888
+                ]
+            },
+            "properties": {
+                "name": "Borango",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.293888888,
+                    7.281388888
+                ]
+            },
+            "properties": {
+                "name": "Bote",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.119166666,
+                    6.475555555
+                ]
+            },
+            "properties": {
+                "name": "Boulo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.749722222,
+                    8.79
+                ]
+            },
+            "properties": {
+                "name": "Hadjer Abdab",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.456666666,
+                    8.834166666
+                ]
+            },
+            "properties": {
+                "name": "Hadjer Keya",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.333333333,
+                    9.816666666
+                ]
+            },
+            "properties": {
+                "name": "Hadjer Odot",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.598888888,
+                    9.758055555
+                ]
+            },
+            "properties": {
+                "name": "Ndara",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9025,
+                    7.45
+                ]
+            },
+            "properties": {
+                "name": "Ndim",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.94,
+                    10.018333333
+                ]
+            },
+            "properties": {
+                "name": "Draka",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.938611111,
+                    9.821388888
+                ]
+            },
+            "properties": {
+                "name": "Draka",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.92674,
+                    6.34669
+                ]
+            },
+            "properties": {
+                "name": "Q22600315",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.1675,
+                    3.2858
+                ]
+            },
+            "properties": {
+                "name": "Ngadi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5219,
+                    9.4008
+                ]
+            },
+            "properties": {
+                "name": "Nganya",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7299,
+                    5.5487
+                ]
+            },
+            "properties": {
+                "name": "Ngao",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.4703,
+                    9.2901
+                ]
+            },
+            "properties": {
+                "name": "Ngaya",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.7997,
+                    8.8036
+                ]
+            },
+            "properties": {
+                "name": "Ngoundou",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.201388888,
+                    9.206388888
+                ]
+            },
+            "properties": {
+                "name": "Niamba",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.939722222,
+                    9.774166666
+                ]
+            },
+            "properties": {
+                "name": "Dyiri",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.126666666,
+                    7.463888888
+                ]
+            },
+            "properties": {
+                "name": "Ologo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.59,
+                    5.125277777
+                ]
+            },
+            "properties": {
+                "name": "Lac Babli",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.071666666,
+                    6.644444444
+                ]
+            },
+            "properties": {
+                "name": "Demin",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.91666667,
+                    10.11666667
+                ]
+            },
+            "properties": {
+                "name": "Lac Mamoun",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.9475,
+                    10.1266
+                ]
+            },
+            "properties": {
+                "name": "Lac Mamoun",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.7874,
+                    7.3435
+                ]
+            },
+            "properties": {
+                "name": "Galan",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.5,
+                    9.633333333
+                ]
+            },
+            "properties": {
+                "name": "Depression de Matoumara",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.270833333,
+                    6.643611111
+                ]
+            },
+            "properties": {
+                "name": "Gamva",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.758055555,
+                    9.786944444
+                ]
+            },
+            "properties": {
+                "name": "Singa",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.2757,
+                    4.1302
+                ]
+            },
+            "properties": {
+                "name": "Gboudo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.916944444,
+                    10.4925
+                ]
+            },
+            "properties": {
+                "name": "Diro",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.026666666,
+                    9.043888888
+                ]
+            },
+            "properties": {
+                "name": "Djadalo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.897222222,
+                    8.733611111
+                ]
+            },
+            "properties": {
+                "name": "Djala",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.31839,
+                    7.6807
+                ]
+            },
+            "properties": {
+                "name": "Lac Bomboro",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.31833333,
+                    7.68111111
+                ]
+            },
+            "properties": {
+                "name": "Lac Bomboro",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.8815,
+                    8.4336
+                ]
+            },
+            "properties": {
+                "name": "Djebel Guyamba",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.4282,
+                    8.9415
+                ]
+            },
+            "properties": {
+                "name": "Djebel Ouada",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.931666666,
+                    10.043333333
+                ]
+            },
+            "properties": {
+                "name": "Q22637032",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.67139,
+                    9.89087
+                ]
+            },
+            "properties": {
+                "name": "Yara",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.600277777,
+                    3.959166666
+                ]
+            },
+            "properties": {
+                "name": "Yangounda",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.1025,
+                    9.704722222
+                ]
+            },
+            "properties": {
+                "name": "Youba",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3204,
+                    6.7074
+                ]
+            },
+            "properties": {
+                "name": "Nan",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.70362,
+                    6.65134
+                ]
+            },
+            "properties": {
+                "name": "Q22656941",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.930833333,
+                    9.851666666
+                ]
+            },
+            "properties": {
+                "name": "Q22697077",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5433,
+                    9.5401
+                ]
+            },
+            "properties": {
+                "name": "Djimi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.1627,
+                    6.3913
+                ]
+            },
+            "properties": {
+                "name": "Manyan",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.829166666,
+                    8.895
+                ]
+            },
+            "properties": {
+                "name": "Radier",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.922777777,
+                    4.555277777
+                ]
+            },
+            "properties": {
+                "name": "Mont Yoko",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.2277,
+                    6.4847
+                ]
+            },
+            "properties": {
+                "name": "Q22703061",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.5628,
+                    4.3933
+                ]
+            },
+            "properties": {
+                "name": "National Assembly of the Central African Republic building",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.59489,
+                    4.364755
+                ]
+            },
+            "properties": {
+                "name": "Oubangui Hotel",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.30068,
+                    8.37398
+                ]
+            },
+            "properties": {
+                "name": "Q130281202",
+                "article": null
+            }
+        }
+    ]
+}

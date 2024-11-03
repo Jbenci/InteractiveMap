@@ -1,0 +1,2007 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.046388888,
+                    9.956388888
+                ]
+            },
+            "properties": {
+                "name": "Kandé",
+                "article": "https://en.wikipedia.org/wiki/Kand%C3%A9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.1,
+                    9.766666666
+                ]
+            },
+            "properties": {
+                "name": "Niamtougou",
+                "article": "https://en.wikipedia.org/wiki/Niamtougou"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.26666667,
+                    9.35
+                ]
+            },
+            "properties": {
+                "name": "Bafilo",
+                "article": "https://en.wikipedia.org/wiki/Bafilo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.783333333,
+                    9.25
+                ]
+            },
+            "properties": {
+                "name": "Bassar",
+                "article": "https://en.wikipedia.org/wiki/Bassar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.133333333,
+                    8.983333333
+                ]
+            },
+            "properties": {
+                "name": "Sokodé",
+                "article": "https://en.wikipedia.org/wiki/Sokod%C3%A9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.415555555,
+                    9.328055555
+                ]
+            },
+            "properties": {
+                "name": "Mont Sokbaro",
+                "article": "https://en.wikipedia.org/wiki/Mont_Sokbaro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.983333333,
+                    8.316666666
+                ]
+            },
+            "properties": {
+                "name": "Blitta",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.416666666,
+                    6.25
+                ]
+            },
+            "properties": {
+                "name": "Lake Togo",
+                "article": "https://en.wikipedia.org/wiki/Lake_Togo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.628055555,
+                    6.91
+                ]
+            },
+            "properties": {
+                "name": "Kpalimé",
+                "article": "https://en.wikipedia.org/wiki/Kpalim%C3%A9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.593055555,
+                    6.228888888
+                ]
+            },
+            "properties": {
+                "name": "Aného",
+                "article": "https://en.wikipedia.org/wiki/An%C3%A9ho"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.983333,
+                    8.566667
+                ]
+            },
+            "properties": {
+                "name": "Sotouboua",
+                "article": "https://en.wikipedia.org/wiki/Sotouboua"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.475555555,
+                    10.355555555
+                ]
+            },
+            "properties": {
+                "name": "Mango",
+                "article": "https://en.wikipedia.org/wiki/Mango,_Togo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.754600679,
+                    6.870536413
+                ]
+            },
+            "properties": {
+                "name": "Mount Agou",
+                "article": "https://en.wikipedia.org/wiki/Mount_Agou"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.311909,
+                    10.547643
+                ]
+            },
+            "properties": {
+                "name": "Barkoissi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.5,
+                    6.583333333
+                ]
+            },
+            "properties": {
+                "name": "Tabligbo",
+                "article": "https://en.wikipedia.org/wiki/Tabligbo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.533333333,
+                    6.333333333
+                ]
+            },
+            "properties": {
+                "name": "Vogan",
+                "article": "https://en.wikipedia.org/wiki/Vogan,_Togo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.916944444,
+                    7.466944444
+                ]
+            },
+            "properties": {
+                "name": "Agou-Gadzépé",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.606651,
+                    7.584327
+                ]
+            },
+            "properties": {
+                "name": "Badou",
+                "article": "https://en.wikipedia.org/wiki/Badou"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.95,
+                    7.25
+                ]
+            },
+            "properties": {
+                "name": "Danyi-Apéyémé",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.749044,
+                    10.3257
+                ]
+            },
+            "properties": {
+                "name": "Gando",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6,
+                    9.683333
+                ]
+            },
+            "properties": {
+                "name": "Guérin-Kouka, Dankpen",
+                "article": "https://en.wikipedia.org/wiki/Gu%C3%A9rin-Kouka,_Dankpen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.168055555,
+                    6.948333333
+                ]
+            },
+            "properties": {
+                "name": "Notsé",
+                "article": "https://en.wikipedia.org/wiki/Nots%C3%A9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.244444444,
+                    6.2
+                ]
+            },
+            "properties": {
+                "name": "Q3201101",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.5,
+                    9.03333333
+                ]
+            },
+            "properties": {
+                "name": "Soumdina",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.96666667,
+                    9.88333333
+                ]
+            },
+            "properties": {
+                "name": "Tcharé",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.183055555,
+                    6.206666666
+                ]
+            },
+            "properties": {
+                "name": "Totsigan",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.13025,
+                    7.528638888
+                ]
+            },
+            "properties": {
+                "name": "Battle of Atakpamé",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Atakpam%C3%A9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.51667,
+                    6.23333
+                ]
+            },
+            "properties": {
+                "name": "Badougbe",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.582142105,
+                    6.951728025
+                ]
+            },
+            "properties": {
+                "name": "Château Vial",
+                "article": "https://en.wikipedia.org/wiki/Ch%C3%A2teau_Vial"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.6339159,
+                    6.4939168
+                ]
+            },
+            "properties": {
+                "name": "Afagnan",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.8583,
+                    7.7467
+                ]
+            },
+            "properties": {
+                "name": "Yagboué",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.8792,
+                    7.0283
+                ]
+            },
+            "properties": {
+                "name": "Mont Tsité",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.8458,
+                    6.9717
+                ]
+            },
+            "properties": {
+                "name": "Toutouto",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.7608,
+                    7.91
+                ]
+            },
+            "properties": {
+                "name": "Mont Toutoubiro",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.635,
+                    7.9208
+                ]
+            },
+            "properties": {
+                "name": "Mont Toumfo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.666666666,
+                    7.45
+                ]
+            },
+            "properties": {
+                "name": "Mont Tomito",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.0125,
+                    7.2833
+                ]
+            },
+            "properties": {
+                "name": "Toklo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.133333333,
+                    7.6
+                ]
+            },
+            "properties": {
+                "name": "Mont To Eketo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.61667,
+                    7.18333
+                ]
+            },
+            "properties": {
+                "name": "Todometo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.8,
+                    7.283333333
+                ]
+            },
+            "properties": {
+                "name": "Mont Tobadia",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.95,
+                    10.116666666
+                ]
+            },
+            "properties": {
+                "name": "Mont Tintioungou",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.0317,
+                    7.3342
+                ]
+            },
+            "properties": {
+                "name": "Massif Tchapali",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.633333333,
+                    7.8
+                ]
+            },
+            "properties": {
+                "name": "Mont Tcha",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.0058,
+                    10.6358
+                ]
+            },
+            "properties": {
+                "name": "Mont Tankbamon",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.016666666,
+                    7.616666666
+                ]
+            },
+            "properties": {
+                "name": "Mont Tamania",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.366666666,
+                    10.8
+                ]
+            },
+            "properties": {
+                "name": "Mont Sogou",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.2325,
+                    10.7558
+                ]
+            },
+            "properties": {
+                "name": "Mont Panabako",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.9775,
+                    9.5717
+                ]
+            },
+            "properties": {
+                "name": "Massif de Pam",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.916666666,
+                    7.816666666
+                ]
+            },
+            "properties": {
+                "name": "Mont Ovasokou",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.215833333,
+                    6.13
+                ]
+            },
+            "properties": {
+                "name": "Lomé",
+                "article": "https://en.wikipedia.org/wiki/Lom%C3%A9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.0092,
+                    7.545
+                ]
+            },
+            "properties": {
+                "name": "Oukouvlé",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.9933,
+                    7.5283
+                ]
+            },
+            "properties": {
+                "name": "Oukouvlé",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.05,
+                    7.71
+                ]
+            },
+            "properties": {
+                "name": "Montagne d'Ouali",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6675,
+                    7.4692
+                ]
+            },
+            "properties": {
+                "name": "Mont Otsona",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6183,
+                    7.5508
+                ]
+            },
+            "properties": {
+                "name": "Mont Otodja",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.966666666,
+                    7.8
+                ]
+            },
+            "properties": {
+                "name": "Mont Otché",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.625,
+                    7.4875
+                ]
+            },
+            "properties": {
+                "name": "Mont Otava",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6325,
+                    7.6367
+                ]
+            },
+            "properties": {
+                "name": "Omleïtché",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.65,
+                    7.566666666
+                ]
+            },
+            "properties": {
+                "name": "Mont Olabé",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.0317,
+                    7.6233
+                ]
+            },
+            "properties": {
+                "name": "Okpouakou Ava",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.8725,
+                    7.825
+                ]
+            },
+            "properties": {
+                "name": "Okoufatché",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.616666666,
+                    7.566666666
+                ]
+            },
+            "properties": {
+                "name": "Mont Okopobé",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.0067,
+                    7.585
+                ]
+            },
+            "properties": {
+                "name": "Oklamoui",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.9867,
+                    7.5608
+                ]
+            },
+            "properties": {
+                "name": "Oklamoui",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.62,
+                    8.0708
+                ]
+            },
+            "properties": {
+                "name": "Oguengui",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.8958,
+                    7.6683
+                ]
+            },
+            "properties": {
+                "name": "Ogaya",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.95,
+                    7.716666666
+                ]
+            },
+            "properties": {
+                "name": "Odalikpodji",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.9967,
+                    9.6683
+                ]
+            },
+            "properties": {
+                "name": "Noumbou",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.8033,
+                    9.5142
+                ]
+            },
+            "properties": {
+                "name": "Noukountindé",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.9675,
+                    7.7767
+                ]
+            },
+            "properties": {
+                "name": "Niagbolou",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.63333,
+                    7.2
+                ]
+            },
+            "properties": {
+                "name": "Ndogbeto",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.9575,
+                    10.155
+                ]
+            },
+            "properties": {
+                "name": "Mont Natobome",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.183333333,
+                    10.716666666
+                ]
+            },
+            "properties": {
+                "name": "Mont Nassiété",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.9833,
+                    9.7217
+                ]
+            },
+            "properties": {
+                "name": "Monda",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.7792,
+                    7.8717
+                ]
+            },
+            "properties": {
+                "name": "Mont Mérinoué",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.8708,
+                    7.1817
+                ]
+            },
+            "properties": {
+                "name": "Mont Mélindo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.5792,
+                    6.93
+                ]
+            },
+            "properties": {
+                "name": "Mélakouto",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.9692,
+                    7.6067
+                ]
+            },
+            "properties": {
+                "name": "Mont Mébetcho",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.965,
+                    9.1667
+                ]
+            },
+            "properties": {
+                "name": "Malfakassa",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6042,
+                    7.1542
+                ]
+            },
+            "properties": {
+                "name": "Lokotrimi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.1125,
+                    7.4825
+                ]
+            },
+            "properties": {
+                "name": "Loboto",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.115,
+                    7.42
+                ]
+            },
+            "properties": {
+                "name": "Loboto",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.835,
+                    7.3783
+                ]
+            },
+            "properties": {
+                "name": "Mont Koufoubé",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.816666666,
+                    9.666666666
+                ]
+            },
+            "properties": {
+                "name": "Koudyopo Youko",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.9267,
+                    7.205
+                ]
+            },
+            "properties": {
+                "name": "Mont Kouakopéto",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6717,
+                    7.87
+                ]
+            },
+            "properties": {
+                "name": "Mont Kolou",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.66667,
+                    7.31667
+                ]
+            },
+            "properties": {
+                "name": "Kodolibi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.8025,
+                    7.6142
+                ]
+            },
+            "properties": {
+                "name": "Mont Klabé Dafé",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.9667,
+                    9.1133
+                ]
+            },
+            "properties": {
+                "name": "Kibedi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.7825,
+                    7.4158
+                ]
+            },
+            "properties": {
+                "name": "Mont Kbobéto",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.1983,
+                    9.6833
+                ]
+            },
+            "properties": {
+                "name": "Mont Kalankpa",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6667,
+                    7.7933
+                ]
+            },
+            "properties": {
+                "name": "Mont Kadjonya",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.816666666,
+                    9.45
+                ]
+            },
+            "properties": {
+                "name": "Montagne de Kabou",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6783,
+                    7.3217
+                ]
+            },
+            "properties": {
+                "name": "Mont Ivla",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.666666666,
+                    7.583333333
+                ]
+            },
+            "properties": {
+                "name": "Mont Itim",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.645,
+                    7.5475
+                ]
+            },
+            "properties": {
+                "name": "Mont Ikobi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.633333333,
+                    7.583333333
+                ]
+            },
+            "properties": {
+                "name": "Igbévé",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.9508,
+                    7.2358
+                ]
+            },
+            "properties": {
+                "name": "Mont Haïto",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0017,
+                    10.6958
+                ]
+            },
+            "properties": {
+                "name": "Mont Guiyayé",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.666666666,
+                    7.533333333
+                ]
+            },
+            "properties": {
+                "name": "Gouédjimo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.0,
+                    7.35
+                ]
+            },
+            "properties": {
+                "name": "Mont Gnéné",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.55,
+                    6.966666666
+                ]
+            },
+            "properties": {
+                "name": "Gbotsoko",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.65,
+                    7.31667
+                ]
+            },
+            "properties": {
+                "name": "Gbewoaya",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.633333333,
+                    7.816666666
+                ]
+            },
+            "properties": {
+                "name": "Mont Foto Doutobiré",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6225,
+                    7.6775
+                ]
+            },
+            "properties": {
+                "name": "Mont Etaha",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.7975,
+                    7.3358
+                ]
+            },
+            "properties": {
+                "name": "Mont Essi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.666666666,
+                    7.916666666
+                ]
+            },
+            "properties": {
+                "name": "Mont Elélé",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6333,
+                    7.425
+                ]
+            },
+            "properties": {
+                "name": "Mont Egboto",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.1158,
+                    7.6117
+                ]
+            },
+            "properties": {
+                "name": "Mont Ebena",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.35,
+                    10.816666666
+                ]
+            },
+            "properties": {
+                "name": "Mont Djapiong",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.63,
+                    7.7692
+                ]
+            },
+            "properties": {
+                "name": "Mont Djandi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.475,
+                    7.7025
+                ]
+            },
+            "properties": {
+                "name": "Montagne Djami",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.255,
+                    10.7067
+                ]
+            },
+            "properties": {
+                "name": "Mont Djabir",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.8192,
+                    7.8342
+                ]
+            },
+            "properties": {
+                "name": "Ditero",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.0633,
+                    7.6258
+                ]
+            },
+            "properties": {
+                "name": "Démé Péto",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.3042,
+                    10.9
+                ]
+            },
+            "properties": {
+                "name": "Mont Dégoumouan",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.3792,
+                    10.7858
+                ]
+            },
+            "properties": {
+                "name": "Mont Dalango",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.9417,
+                    9.5292
+                ]
+            },
+            "properties": {
+                "name": "Boussémou",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.3,
+                    10.8
+                ]
+            },
+            "properties": {
+                "name": "Mont Boundjouaré",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.216666666,
+                    10.716666666
+                ]
+            },
+            "properties": {
+                "name": "Mont Boumbouaka Djouaré",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.616666666,
+                    7.65
+                ]
+            },
+            "properties": {
+                "name": "Mont Bomoudi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0167,
+                    10.67
+                ]
+            },
+            "properties": {
+                "name": "Mont Bikoro",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.066666666,
+                    10.683333333
+                ]
+            },
+            "properties": {
+                "name": "Mont Balidiok",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6383,
+                    7.2367
+                ]
+            },
+            "properties": {
+                "name": "Avegadje",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.933333333,
+                    7.8
+                ]
+            },
+            "properties": {
+                "name": "Mont Atoma",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.95,
+                    9.583333333
+                ]
+            },
+            "properties": {
+                "name": "Atindioudou",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.9692,
+                    9.6808
+                ]
+            },
+            "properties": {
+                "name": "Assiwa",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.8967,
+                    7.4725
+                ]
+            },
+            "properties": {
+                "name": "Mont Amlamé",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.65,
+                    7.65
+                ]
+            },
+            "properties": {
+                "name": "Mont Akoutina",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.78,
+                    7.285
+                ]
+            },
+            "properties": {
+                "name": "Mont Akotsou",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.8125,
+                    7.0675
+                ]
+            },
+            "properties": {
+                "name": "Mont Ahatzé",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6,
+                    7.1
+                ]
+            },
+            "properties": {
+                "name": "Agumasato",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6192,
+                    7.1017
+                ]
+            },
+            "properties": {
+                "name": "Mont Agblévémohoto",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.633333333,
+                    7.183333333
+                ]
+            },
+            "properties": {
+                "name": "Mont Agblénouto",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.0083,
+                    7.7833
+                ]
+            },
+            "properties": {
+                "name": "Adéourou",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.8942,
+                    7.2092
+                ]
+            },
+            "properties": {
+                "name": "Mont Adekpé",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.56,
+                    8.77
+                ]
+            },
+            "properties": {
+                "name": "Djarkpanga",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.11167,
+                    6.34222
+                ]
+            },
+            "properties": {
+                "name": "Q56301283",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.12583,
+                    6.32222
+                ]
+            },
+            "properties": {
+                "name": "Q56301285",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.5639,
+                    6.2825
+                ]
+            },
+            "properties": {
+                "name": "Q60134667",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.416666666,
+                    10.4
+                ]
+            },
+            "properties": {
+                "name": "Akpoissou",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.5,
+                    7.01667
+                ]
+            },
+            "properties": {
+                "name": "Tététou",
+                "article": "https://en.wikipedia.org/wiki/T%C3%A9t%C3%A9tou"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.415935,
+                    10.844285
+                ]
+            },
+            "properties": {
+                "name": "Q122974516",
+                "article": null
+            }
+        }
+    ]
+}

@@ -1,0 +1,2805 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.250833333,
+                    49.593888888
+                ]
+            },
+            "properties": {
+                "name": "Olomouc",
+                "article": "https://en.wikipedia.org/wiki/Olomouc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.196111111,
+                    50.773611111
+                ]
+            },
+            "properties": {
+                "name": "Děčín",
+                "article": "https://en.wikipedia.org/wiki/D%C4%9B%C4%8D%C3%ADn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.816666666,
+                    50.633333333
+                ]
+            },
+            "properties": {
+                "name": "Teplice",
+                "article": "https://en.wikipedia.org/wiki/Teplice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.411111111,
+                    50.462777777
+                ]
+            },
+            "properties": {
+                "name": "Chomutov",
+                "article": "https://en.wikipedia.org/wiki/Chomutov"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.985277777,
+                    50.732222222
+                ]
+            },
+            "properties": {
+                "name": "Ještěd",
+                "article": "https://en.wikipedia.org/wiki/Je%C5%A1t%C4%9Bd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.105277777,
+                    50.143055555
+                ]
+            },
+            "properties": {
+                "name": "Kladno",
+                "article": "https://en.wikipedia.org/wiki/Kladno"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.041666666,
+                    50.659166666
+                ]
+            },
+            "properties": {
+                "name": "Ústí nad Labem",
+                "article": "https://en.wikipedia.org/wiki/%C3%9Ast%C3%AD_nad_Labem"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.65857065,
+                    49.300526299
+                ]
+            },
+            "properties": {
+                "name": "Adamov",
+                "article": "https://en.wikipedia.org/wiki/Adamov_(Blansko_District)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.646944444,
+                    50.848888888
+                ]
+            },
+            "properties": {
+                "name": "Lausche",
+                "article": "https://en.wikipedia.org/wiki/Lausche"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.40841667,
+                    50.08755556
+                ]
+            },
+            "properties": {
+                "name": "Lužický seminář",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.213611,
+                    50.025
+                ]
+            },
+            "properties": {
+                "name": "Kolín train station",
+                "article": "https://en.wikipedia.org/wiki/Kol%C3%ADn_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.075556,
+                    49.956944
+                ]
+            },
+            "properties": {
+                "name": "Beroun",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.831944444,
+                    50.209166666
+                ]
+            },
+            "properties": {
+                "name": "Hradec Králové",
+                "article": "https://en.wikipedia.org/wiki/Hradec_Kr%C3%A1lov%C3%A9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.58166667,
+                    49.49638889
+                ]
+            },
+            "properties": {
+                "name": "Q187390",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.306388888,
+                    50.070833333
+                ]
+            },
+            "properties": {
+                "name": "Zelená hora",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.906388888,
+                    50.4125
+                ]
+            },
+            "properties": {
+                "name": "Mladá Boleslav",
+                "article": "https://en.wikipedia.org/wiki/Mlad%C3%A1_Boleslav"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.74194444,
+                    50.6525
+                ]
+            },
+            "properties": {
+                "name": "Černá hora",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.411944444,
+                    50.086388888
+                ]
+            },
+            "properties": {
+                "name": "Charles Bridge",
+                "article": "https://en.wikipedia.org/wiki/Charles_Bridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.237555555,
+                    50.238
+                ]
+            },
+            "properties": {
+                "name": "Zlatý chlum",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.166388888,
+                    49.173888888
+                ]
+            },
+            "properties": {
+                "name": "Zwercheck",
+                "article": "https://en.wikipedia.org/wiki/Zwercheck"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0437,
+                    49.5727
+                ]
+            },
+            "properties": {
+                "name": "Harusův kopec",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.409230555,
+                    49.743105555
+                ]
+            },
+            "properties": {
+                "name": "Havran",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.502777777,
+                    49.967777777
+                ]
+            },
+            "properties": {
+                "name": "Dyleň",
+                "article": "https://en.wikipedia.org/wiki/Dyle%C5%88"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.312777777,
+                    49.104722222
+                ]
+            },
+            "properties": {
+                "name": "Lackenberg",
+                "article": "https://en.wikipedia.org/wiki/Lackenberg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.47611,
+                    50.5549181
+                ]
+            },
+            "properties": {
+                "name": "Čap",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.7840181,
+                    49.3831917
+                ]
+            },
+            "properties": {
+                "name": "Čerchov",
+                "article": "https://en.wikipedia.org/wiki/%C4%8Cerchov"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.78333333,
+                    49.32555556
+                ]
+            },
+            "properties": {
+                "name": "Čermákův vrch",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.94416667,
+                    50.68472222
+                ]
+            },
+            "properties": {
+                "name": "Černá Voda",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.550833333,
+                    48.978888888
+                ]
+            },
+            "properties": {
+                "name": "Černá hora",
+                "article": "https://en.wikipedia.org/wiki/%C4%8Cern%C3%A1_hora_(Bohemian_Forest)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.233888888,
+                    50.711944444
+                ]
+            },
+            "properties": {
+                "name": "Černá Studnice",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.135972222,
+                    50.14425
+                ]
+            },
+            "properties": {
+                "name": "Červená hora",
+                "article": "https://en.wikipedia.org/wiki/%C4%8Cerven%C3%A1_hora_(Hrub%C3%BD_Jesen%C3%ADk)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.272004,
+                    50.587651
+                ]
+            },
+            "properties": {
+                "name": "Lauschhübel",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.80183083,
+                    50.46112
+                ]
+            },
+            "properties": {
+                "name": "Čičov",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.399722222,
+                    50.871666666
+                ]
+            },
+            "properties": {
+                "name": "Rudolfův kámen",
+                "article": "https://en.wikipedia.org/wiki/Rudolf%C5%AFv_k%C3%A1men"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.701944444,
+                    49.379722222
+                ]
+            },
+            "properties": {
+                "name": "Hostýn",
+                "article": "https://en.wikipedia.org/wiki/Host%C3%BDn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.439919,
+                    50.109667
+                ]
+            },
+            "properties": {
+                "name": "Praha-Holešovice railway station",
+                "article": "https://en.wikipedia.org/wiki/Praha-Hole%C5%A1ovice_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.8725,
+                    50.230555555
+                ]
+            },
+            "properties": {
+                "name": "Karlovy Vary",
+                "article": "https://en.wikipedia.org/wiki/Karlovy_Vary"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.235955055,
+                    49.914028256
+                ]
+            },
+            "properties": {
+                "name": "Řevnice",
+                "article": "https://en.wikipedia.org/wiki/%C5%98evnice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.920277777,
+                    50.783055555
+                ]
+            },
+            "properties": {
+                "name": "Spičák",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.051944444,
+                    50.552777777
+                ]
+            },
+            "properties": {
+                "name": "Žaltman",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.311972222,
+                    50.159777777
+                ]
+            },
+            "properties": {
+                "name": "Medvědí vrch",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.233805555,
+                    50.0685
+                ]
+            },
+            "properties": {
+                "name": "Petrovy kameny",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.15675,
+                    50.07125
+                ]
+            },
+            "properties": {
+                "name": "Dlouhé stráně",
+                "article": "https://en.wikipedia.org/wiki/Dlouh%C3%A9_str%C3%A1n%C4%9B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.145222222,
+                    50.071694444
+                ]
+            },
+            "properties": {
+                "name": "Mravenečník",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.220722222,
+                    50.101027777
+                ]
+            },
+            "properties": {
+                "name": "Malý Děd",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.167220871,
+                    49.781215974
+                ]
+            },
+            "properties": {
+                "name": "Dobříš",
+                "article": "https://en.wikipedia.org/wiki/Dob%C5%99%C3%AD%C5%A1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.42212,
+                    50.08708
+                ]
+            },
+            "properties": {
+                "name": "Storch House",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.77916,
+                    50.03861
+                ]
+            },
+            "properties": {
+                "name": "Pardubice",
+                "article": "https://en.wikipedia.org/wiki/Pardubice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3825,
+                    49.741388888
+                ]
+            },
+            "properties": {
+                "name": "Plzeň",
+                "article": "https://en.wikipedia.org/wiki/Plze%C5%88"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.197777777,
+                    49.165
+                ]
+            },
+            "properties": {
+                "name": "Čertovo jezero",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.1825,
+                    49.179166666
+                ]
+            },
+            "properties": {
+                "name": "Černé jezero",
+                "article": "https://en.wikipedia.org/wiki/%C4%8Cern%C3%A9_jezero"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.394444444,
+                    50.081666666
+                ]
+            },
+            "properties": {
+                "name": "Petřín",
+                "article": "https://en.wikipedia.org/wiki/Pet%C5%99%C3%ADn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.726666666,
+                    50.8225
+                ]
+            },
+            "properties": {
+                "name": "Hochwald",
+                "article": "https://en.wikipedia.org/wiki/Hochwald_(Zittau_Mountains)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.560833333,
+                    50.856944444
+                ]
+            },
+            "properties": {
+                "name": "Jedlová",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.8025,
+                    48.78472222
+                ]
+            },
+            "properties": {
+                "name": "Dreisesselberg",
+                "article": "https://en.wikipedia.org/wiki/Dreisesselberg_(Bavarian_Forest)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.209295,
+                    49.121548
+                ]
+            },
+            "properties": {
+                "name": "Bayerisch Eisenstein / Železná Ruda-Alžbětín",
+                "article": "https://en.wikipedia.org/wiki/Bayerisch_Eisenstein_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.687020558,
+                    49.781695568
+                ]
+            },
+            "properties": {
+                "name": "Benešov",
+                "article": "https://en.wikipedia.org/wiki/Bene%C5%A1ov"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.110555555,
+                    49.472222222
+                ]
+            },
+            "properties": {
+                "name": "Prostějov",
+                "article": "https://en.wikipedia.org/wiki/Prost%C4%9Bjov"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.207222222,
+                    50.560833333
+                ]
+            },
+            "properties": {
+                "name": "Ostaš",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3411,
+                    49.5908
+                ]
+            },
+            "properties": {
+                "name": "Q475311",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.4,
+                    49.0756
+                ]
+            },
+            "properties": {
+                "name": "Prášilské jezero",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.428528,
+                    50.256722
+                ]
+            },
+            "properties": {
+                "name": "Biskupská kupa",
+                "article": "https://en.wikipedia.org/wiki/Biskupia_Kopa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.19,
+                    50.5925
+                ]
+            },
+            "properties": {
+                "name": "Trojhora",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.263333333,
+                    50.593888888
+                ]
+            },
+            "properties": {
+                "name": "Kozákov",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.017977777,
+                    50.527680555
+                ]
+            },
+            "properties": {
+                "name": "Lovoš",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4461,
+                    50.0343
+                ]
+            },
+            "properties": {
+                "name": "Praha-Krč",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.642222222,
+                    50.733888888
+                ]
+            },
+            "properties": {
+                "name": "Kozí hřbety",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.654166666,
+                    50.733888888
+                ]
+            },
+            "properties": {
+                "name": "Kozí hřbety",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.882020775,
+                    48.758991122
+                ]
+            },
+            "properties": {
+                "name": "Břeclav",
+                "article": "https://en.wikipedia.org/wiki/B%C5%99eclav"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.370833333,
+                    49.508055555
+                ]
+            },
+            "properties": {
+                "name": "Smrk",
+                "article": "https://en.wikipedia.org/wiki/Smrk_(Moravian-Silesian_Beskids)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.37222222,
+                    49.50833333
+                ]
+            },
+            "properties": {
+                "name": "Smrk",
+                "article": "https://en.wikipedia.org/wiki/Smrk_(Moravian-Silesian_Beskids)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.080555555,
+                    50.636666666
+                ]
+            },
+            "properties": {
+                "name": "Vysoký Ostrý",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.818333333,
+                    48.991111111
+                ]
+            },
+            "properties": {
+                "name": "Boubín",
+                "article": "https://en.wikipedia.org/wiki/Boub%C3%ADn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.729,
+                    49.6848
+                ]
+            },
+            "properties": {
+                "name": "Q599205",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.596111111,
+                    49.225555555
+                ]
+            },
+            "properties": {
+                "name": "Královo Pole",
+                "article": "https://en.wikipedia.org/wiki/Kr%C3%A1lovo_Pole"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.64774728,
+                    50.82440679
+                ]
+            },
+            "properties": {
+                "name": "Naděje Reservoir",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.796762432,
+                    50.357078457
+                ]
+            },
+            "properties": {
+                "name": "Louny",
+                "article": "https://en.wikipedia.org/wiki/Louny"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.740277777,
+                    50.736111111
+                ]
+            },
+            "properties": {
+                "name": "Sněžka",
+                "article": "https://en.wikipedia.org/wiki/Sn%C4%9B%C5%BEka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.756375277,
+                    50.031890833
+                ]
+            },
+            "properties": {
+                "name": "Pardubice hlavní nádraží",
+                "article": "https://en.wikipedia.org/wiki/Pardubice_main_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.81277778,
+                    50.05666667
+                ]
+            },
+            "properties": {
+                "name": "Jeřáb",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4975,
+                    50.11222222
+                ]
+            },
+            "properties": {
+                "name": "Praha-Vysočany railway station",
+                "article": "https://en.wikipedia.org/wiki/Praha-Vyso%C4%8Dany_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.3011,
+                    49.5114
+                ]
+            },
+            "properties": {
+                "name": "Velká Stolová",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.201666666,
+                    50.233333333
+                ]
+            },
+            "properties": {
+                "name": "Háj u Aše",
+                "article": "https://en.wikipedia.org/wiki/H%C3%A1j_(Fichtel_Mountains)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.331111111,
+                    50.832777777
+                ]
+            },
+            "properties": {
+                "name": "Růžovský vrch",
+                "article": "https://en.wikipedia.org/wiki/R%C5%AF%C5%BEovsk%C3%BD_vrch"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.230861111,
+                    50.083194444
+                ]
+            },
+            "properties": {
+                "name": "Praděd",
+                "article": "https://en.wikipedia.org/wiki/Prad%C4%9Bd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.781666666,
+                    50.400277777
+                ]
+            },
+            "properties": {
+                "name": "Blatenský vrch",
+                "article": "https://en.wikipedia.org/wiki/Blatensk%C3%BD_vrch"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.03416667,
+                    50.22861111
+                ]
+            },
+            "properties": {
+                "name": "Smrk",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.493611,
+                    50.104167
+                ]
+            },
+            "properties": {
+                "name": "O₂ arena",
+                "article": "https://en.wikipedia.org/wiki/O2_Arena_(Prague)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.857222222,
+                    48.771111111
+                ]
+            },
+            "properties": {
+                "name": "Plechý / Plöckenstein",
+                "article": "https://en.wikipedia.org/wiki/Pl%C3%B6ckenstein"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.508888888,
+                    50.389722222
+                ]
+            },
+            "properties": {
+                "name": "Aschberg",
+                "article": "https://en.wikipedia.org/wiki/Aschberg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3954,
+                    50.0888
+                ]
+            },
+            "properties": {
+                "name": "Town hall of Hradčany",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.888888888,
+                    50.400833333
+                ]
+            },
+            "properties": {
+                "name": "Božídarský Špičák",
+                "article": "https://en.wikipedia.org/wiki/Bo%C5%BE%C3%ADdarsk%C3%BD_%C5%A0pi%C4%8D%C3%A1k"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.339444444,
+                    49.221111111
+                ]
+            },
+            "properties": {
+                "name": "Javořice",
+                "article": "https://en.wikipedia.org/wiki/Javo%C5%99ice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2825,
+                    50.751111111
+                ]
+            },
+            "properties": {
+                "name": "Tanvaldský Špičák",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.5869,
+                    49.5967
+                ]
+            },
+            "properties": {
+                "name": "Ropice",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.58668,
+                    49.59699
+                ]
+            },
+            "properties": {
+                "name": "Ropice",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.38008,
+                    50.07408
+                ]
+            },
+            "properties": {
+                "name": "Cheb station",
+                "article": "https://en.wikipedia.org/wiki/Cheb_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.570297777,
+                    50.842715
+                ]
+            },
+            "properties": {
+                "name": "Jedlová railway station",
+                "article": "https://en.wikipedia.org/wiki/Jedlov%C3%A1_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.40888889,
+                    50.06138889
+                ]
+            },
+            "properties": {
+                "name": "Praha-Smíchov railway station",
+                "article": "https://en.wikipedia.org/wiki/Praha-Sm%C3%ADchov_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.550659166,
+                    50.956916944
+                ]
+            },
+            "properties": {
+                "name": "Rumburk railway station",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.829722222,
+                    48.771388888
+                ]
+            },
+            "properties": {
+                "name": "Bayerischer Plöckenstein",
+                "article": "https://en.wikipedia.org/wiki/Bayerischer_Pl%C3%B6ckenstein"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.6812,
+                    50.4102
+                ]
+            },
+            "properties": {
+                "name": "Buchschachtelberg",
+                "article": "https://en.wikipedia.org/wiki/Buchschachtelberg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.6808,
+                    50.4108
+                ]
+            },
+            "properties": {
+                "name": "Buchschachtelberg",
+                "article": "https://en.wikipedia.org/wiki/Buchschachtelberg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.58,
+                    50.556666666
+                ]
+            },
+            "properties": {
+                "name": "Berkovský vrch",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.4491,
+                    48.9642
+                ]
+            },
+            "properties": {
+                "name": "Plattenhausenriegel",
+                "article": "https://en.wikipedia.org/wiki/Plattenhausenriegel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.799722222,
+                    49.531666666
+                ]
+            },
+            "properties": {
+                "name": "Girová",
+                "article": "https://en.wikipedia.org/wiki/Girova"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.921111111,
+                    48.736388888
+                ]
+            },
+            "properties": {
+                "name": "Hochficht",
+                "article": "https://en.wikipedia.org/wiki/Hochficht"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.856666666,
+                    50.706666666
+                ]
+            },
+            "properties": {
+                "name": "Komáří hůrka",
+                "article": "https://en.wikipedia.org/wiki/Kom%C3%A1%C5%99%C3%AD_h%C5%AFrka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.872777777,
+                    49.642222222
+                ]
+            },
+            "properties": {
+                "name": "Blaník",
+                "article": "https://en.wikipedia.org/wiki/Blan%C3%ADk"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.2225,
+                    50.12361111
+                ]
+            },
+            "properties": {
+                "name": "Q882129",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.109722222,
+                    49.203055555
+                ]
+            },
+            "properties": {
+                "name": "Osser",
+                "article": "https://en.wikipedia.org/wiki/Osser"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.706666666,
+                    50.685277777
+                ]
+            },
+            "properties": {
+                "name": "Bouřňák",
+                "article": "https://en.wikipedia.org/wiki/Bou%C5%99%C5%88%C3%A1k"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.7291692,
+                    50.5032394
+                ]
+            },
+            "properties": {
+                "name": "Bradlo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.516,
+                    49.961
+                ]
+            },
+            "properties": {
+                "name": "D0 motorway",
+                "article": "https://en.wikipedia.org/wiki/D0_motorway_(Czech_Republic)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.30838,
+                    49.17088
+                ]
+            },
+            "properties": {
+                "name": "Brdo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.308888888,
+                    49.171111111
+                ]
+            },
+            "properties": {
+                "name": "Brdo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.25926948,
+                    50.83393822
+                ]
+            },
+            "properties": {
+                "name": "Jizera",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.6159745,
+                    49.183067166
+                ]
+            },
+            "properties": {
+                "name": "Brno dolní nádraží",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.61277778,
+                    49.19083333
+                ]
+            },
+            "properties": {
+                "name": "Brno hlavní nádraží",
+                "article": "https://en.wikipedia.org/wiki/Brno_main_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.631918228,
+                    50.36613674
+                ]
+            },
+            "properties": {
+                "name": "Hořice",
+                "article": "https://en.wikipedia.org/wiki/Ho%C5%99ice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.6941,
+                    49.5599
+                ]
+            },
+            "properties": {
+                "name": "Q928953",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.39522222,
+                    49.06416667
+                ]
+            },
+            "properties": {
+                "name": "Poledník",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.128214496,
+                    50.438305994
+                ]
+            },
+            "properties": {
+                "name": "Dolní Bousov",
+                "article": "https://en.wikipedia.org/wiki/Doln%C3%AD_Bousov"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.5298,
+                    50.75233
+                ]
+            },
+            "properties": {
+                "name": "Kotel",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.7819,
+                    49.6256
+                ]
+            },
+            "properties": {
+                "name": "Loučka",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.78235,
+                    49.62513
+                ]
+            },
+            "properties": {
+                "name": "Loučka",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.50536,
+                    49.62055
+                ]
+            },
+            "properties": {
+                "name": "Fidlův kopec",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.5053,
+                    49.6206
+                ]
+            },
+            "properties": {
+                "name": "Fidlův kopec",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.578340885,
+                    49.333314366
+                ]
+            },
+            "properties": {
+                "name": "Holešov",
+                "article": "https://en.wikipedia.org/wiki/Hole%C5%A1ov"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6022,
+                    50.7764
+                ]
+            },
+            "properties": {
+                "name": "Śląskie Kamienie",
+                "article": "https://en.wikipedia.org/wiki/%C5%9Al%C4%85skie_Kamienie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.929798039,
+                    49.44060568
+                ]
+            },
+            "properties": {
+                "name": "Domažlice",
+                "article": "https://en.wikipedia.org/wiki/Doma%C5%BElice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.074220542,
+                    49.561481877
+                ]
+            },
+            "properties": {
+                "name": "Nové Město na Moravě",
+                "article": "https://en.wikipedia.org/wiki/Nov%C3%A9_M%C4%9Bsto_na_Morav%C4%9B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.594638741,
+                    49.742793661
+                ]
+            },
+            "properties": {
+                "name": "Rokycany",
+                "article": "https://en.wikipedia.org/wiki/Rokycany"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.670814768,
+                    49.677609314
+                ]
+            },
+            "properties": {
+                "name": "Třinec",
+                "article": "https://en.wikipedia.org/wiki/T%C5%99inec"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.464759014,
+                    49.988449251
+                ]
+            },
+            "properties": {
+                "name": "Bruntál",
+                "article": "https://en.wikipedia.org/wiki/Brunt%C3%A1l"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.3583,
+                    50.81407
+                ]
+            },
+            "properties": {
+                "name": "Bukovec",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.35799444,
+                    50.81438889
+                ]
+            },
+            "properties": {
+                "name": "Bukovec",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.227222222,
+                    50.671944444
+                ]
+            },
+            "properties": {
+                "name": "Buková hora",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.582779302,
+                    50.428791726
+                ]
+            },
+            "properties": {
+                "name": "Lázně Bělohrad",
+                "article": "https://en.wikipedia.org/wiki/L%C3%A1zn%C4%9B_B%C4%9Blohrad"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2811447,
+                    50.1596375
+                ]
+            },
+            "properties": {
+                "name": "Q1018858",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.114874404,
+                    50.267452244
+                ]
+            },
+            "properties": {
+                "name": "Opočno",
+                "article": "https://en.wikipedia.org/wiki/Opo%C4%8Dno"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3994444,
+                    50.0886111
+                ]
+            },
+            "properties": {
+                "name": "Nerudova",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.24111111,
+                    49.65333333
+                ]
+            },
+            "properties": {
+                "name": "Chomoutovské jezero",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4925,
+                    50.8425
+                ]
+            },
+            "properties": {
+                "name": "Kamzičí vrch (Lužické hory)",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.50027778,
+                    50.82555556
+                ]
+            },
+            "properties": {
+                "name": "Großer Ahrenberg",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4165,
+                    50.0957
+                ]
+            },
+            "properties": {
+                "name": "Letná",
+                "article": "https://en.wikipedia.org/wiki/Letn%C3%A1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.80972,
+                    50.21472
+                ]
+            },
+            "properties": {
+                "name": "Hradec Králové hlavní nádraží",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4156,
+                    50.09
+                ]
+            },
+            "properties": {
+                "name": "Rudolfinum",
+                "article": "https://en.wikipedia.org/wiki/Rudolfinum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.586666666,
+                    50.838055555
+                ]
+            },
+            "properties": {
+                "name": "Stožec",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.718055555,
+                    50.834444444
+                ]
+            },
+            "properties": {
+                "name": "Jánské kameny",
+                "article": "https://en.wikipedia.org/wiki/J%C3%A1nsk%C3%A9_kameny"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.29805556,
+                    49.00694444
+                ]
+            },
+            "properties": {
+                "name": "Dehtář",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.579722222,
+                    48.975833333
+                ]
+            },
+            "properties": {
+                "name": "Stráž",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.55027778,
+                    49.64944444
+                ]
+            },
+            "properties": {
+                "name": "Godula",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.4286,
+                    49.4833
+                ]
+            },
+            "properties": {
+                "name": "Předmostí u Přerova",
+                "article": "https://en.wikipedia.org/wiki/P%C5%99edmost%C3%AD_u_P%C5%99erova_(archaeological_site)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.524722222,
+                    50.940833333
+                ]
+            },
+            "properties": {
+                "name": "Rauchberg",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.108611111,
+                    50.793055555
+                ]
+            },
+            "properties": {
+                "name": "Děčínský Sněžník",
+                "article": "https://en.wikipedia.org/wiki/D%C4%9B%C4%8D%C3%ADnsk%C3%BD_Sn%C4%9B%C5%BEn%C3%ADk"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.454444444,
+                    50.832222222
+                ]
+            },
+            "properties": {
+                "name": "Studenec",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.15722222,
+                    49.36944444
+                ]
+            },
+            "properties": {
+                "name": "Svatá hora",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.67722222,
+                    49.51333333
+                ]
+            },
+            "properties": {
+                "name": "Maleník",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.7825,
+                    48.916666666
+                ]
+            },
+            "properties": {
+                "name": "Velký Lopeník",
+                "article": "https://en.wikipedia.org/wiki/Velk%C3%BD_Lopen%C3%ADk"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.225,
+                    50.15694444
+                ]
+            },
+            "properties": {
+                "name": "Q1303708",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.804709444,
+                    49.678804166
+                ]
+            },
+            "properties": {
+                "name": "Czantoria Wielka",
+                "article": "https://en.wikipedia.org/wiki/Czantoria_Wielka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0335,
+                    50.0664
+                ]
+            },
+            "properties": {
+                "name": "Q1307975",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.08018833,
+                    50.69162139
+                ]
+            },
+            "properties": {
+                "name": "Javorník",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.64805603,
+                    50.80805588
+                ]
+            },
+            "properties": {
+                "name": "Křížová věž",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.00583333,
+                    49.42888889
+                ]
+            },
+            "properties": {
+                "name": "Q1380194",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.846944444,
+                    50.2075
+                ]
+            },
+            "properties": {
+                "name": "Králický Sněžník",
+                "article": "https://en.wikipedia.org/wiki/Kr%C3%A1lick%C3%BD_Sn%C4%9B%C5%BEn%C3%ADk"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.76083333,
+                    50.45111111
+                ]
+            },
+            "properties": {
+                "name": "Q1407468",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.96464833,
+                    50.86142861
+                ]
+            },
+            "properties": {
+                "name": "Gickelsberg",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.80583333,
+                    49.11638889
+                ]
+            },
+            "properties": {
+                "name": "Kavriánov",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.839722222,
+                    50.356111111
+                ]
+            },
+            "properties": {
+                "name": "Plešivec",
+                "article": "https://en.wikipedia.org/wiki/Ple%C5%A1ivec_(Ore_Mountains)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.514166666,
+                    50.791388888
+                ]
+            },
+            "properties": {
+                "name": "Szrenica",
+                "article": "https://en.wikipedia.org/wiki/Szrenica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.95166667,
+                    50.53138889
+                ]
+            },
+            "properties": {
+                "name": "Ostrý",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3679069,
+                    50.077825
+                ]
+            },
+            "properties": {
+                "name": "Franciscan monastery in Cheb",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.360919444,
+                    50.352736111
+                ]
+            },
+            "properties": {
+                "name": "Vrchmezí",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.33888889,
+                    49.54777778
+                ]
+            },
+            "properties": {
+                "name": "Vír II Reservoir",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.253888888,
+                    49.178333333
+                ]
+            },
+            "properties": {
+                "name": "Pancíř",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.100555555,
+                    50.590277777
+                ]
+            },
+            "properties": {
+                "name": "Varhošť",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.31444444,
+                    50.49777778
+                ]
+            },
+            "properties": {
+                "name": "Křimov Reservoir",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.75,
+                    50.80680556
+                ]
+            },
+            "properties": {
+                "name": "Sokol",
+                "article": "https://en.wikipedia.org/wiki/Sokol_(Lusatian_Mountains)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.985833333,
+                    50.395833333
+                ]
+            },
+            "properties": {
+                "name": "Battle of Schweinschädel",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Schweinsch%C3%A4del"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.196388888,
+                    50.773305555
+                ]
+            },
+            "properties": {
+                "name": "Slovanka",
+                "article": "https://en.wikipedia.org/wiki/Slovanka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.865277777,
+                    48.776388888
+                ]
+            },
+            "properties": {
+                "name": "Plešné jezero",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.82611111,
+                    50.86027778
+                ]
+            },
+            "properties": {
+                "name": "Kristýna",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.731938888,
+                    50.699177777
+                ]
+            },
+            "properties": {
+                "name": "Pramenáč",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.669444444,
+                    48.585
+                ]
+            },
+            "properties": {
+                "name": "Kamenec",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.720277777,
+                    50.539166666
+                ]
+            },
+            "properties": {
+                "name": "Bezděz",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4041764,
+                    50.0920358
+                ]
+            },
+            "properties": {
+                "name": "Golden Lane",
+                "article": "https://en.wikipedia.org/wiki/Golden_Lane"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.554166666,
+                    50.75
+                ]
+            },
+            "properties": {
+                "name": "Zlaté návrší",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.545556,
+                    50.780556
+                ]
+            },
+            "properties": {
+                "name": "Łabski Szczyt",
+                "article": "https://en.wikipedia.org/wiki/%C5%81abski_Szczyt"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.048333333,
+                    49.099722222
+                ]
+            },
+            "properties": {
+                "name": "U Slepice",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.04918,
+                    49.10039
+                ]
+            },
+            "properties": {
+                "name": "U Slepice",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.740988888,
+                    50.346588888
+                ]
+            },
+            "properties": {
+                "name": "Tisovský vrch",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.425277777,
+                    50.4725
+                ]
+            },
+            "properties": {
+                "name": "Kamencové jezero",
+                "article": "https://en.wikipedia.org/wiki/Kamencov%C3%A9_jezero"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.5675,
+                    50.7775
+                ]
+            },
+            "properties": {
+                "name": "Wielki Szyszak",
+                "article": "https://en.wikipedia.org/wiki/Wielki_Szyszak"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.967777777,
+                    50.396111111
+                ]
+            },
+            "properties": {
+                "name": "Klínovec",
+                "article": "https://en.wikipedia.org/wiki/Kl%C3%ADnovec"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.448889,
+                    50.064167
+                ]
+            },
+            "properties": {
+                "name": "Praha-Vršovice railway station",
+                "article": "https://en.wikipedia.org/wiki/Praha-Vr%C5%A1ovice_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.851111111,
+                    50.689722222
+                ]
+            },
+            "properties": {
+                "name": "Hamerský Špičák",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.4475,
+                    49.545833333
+                ]
+            },
+            "properties": {
+                "name": "Lysá hora",
+                "article": "https://en.wikipedia.org/wiki/Lys%C3%A1_hora"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.222786111,
+                    49.491838888
+                ]
+            },
+            "properties": {
+                "name": "Radhošť",
+                "article": "https://en.wikipedia.org/wiki/Radho%C5%A1%C5%A5"
+            }
+        }
+    ]
+}

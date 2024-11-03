@@ -1,0 +1,1195 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.466666666,
+                    -25.966666666
+                ]
+            },
+            "properties": {
+                "name": "Matola",
+                "article": "https://en.wikipedia.org/wiki/Matola"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.6667,
+                    -24.6833
+                ]
+            },
+            "properties": {
+                "name": "Zavala",
+                "article": "https://en.wikipedia.org/wiki/Zavala,_Mozambique"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.85,
+                    -19.833333333
+                ]
+            },
+            "properties": {
+                "name": "Beira",
+                "article": "https://en.wikipedia.org/wiki/Beira,_Mozambique"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.0272,
+                    -17.4417
+                ]
+            },
+            "properties": {
+                "name": "Sena",
+                "article": "https://en.wikipedia.org/wiki/Vila_de_Sena"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.444,
+                    -15.614833333
+                ]
+            },
+            "properties": {
+                "name": "Zumbo",
+                "article": "https://en.wikipedia.org/wiki/Zumbo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.84555556,
+                    -22.18694444
+                ]
+            },
+            "properties": {
+                "name": "Manyikeni",
+                "article": "https://en.wikipedia.org/wiki/Manyikeni"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.266666666,
+                    -15.116666666
+                ]
+            },
+            "properties": {
+                "name": "Nampula",
+                "article": "https://en.wikipedia.org/wiki/Nampula"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.732777777,
+                    -15.036666666
+                ]
+            },
+            "properties": {
+                "name": "Island of Mozambique",
+                "article": "https://en.wikipedia.org/wiki/Island_of_Mozambique"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.732777777,
+                    -15.036666666
+                ]
+            },
+            "properties": {
+                "name": "Island of Mozambique",
+                "article": "https://en.wikipedia.org/wiki/Island_of_Mozambique"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.875555555,
+                    -18.934444444
+                ]
+            },
+            "properties": {
+                "name": "Manica",
+                "article": "https://en.wikipedia.org/wiki/Manica,_Mozambique"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.589805555,
+                    -16.157916666
+                ]
+            },
+            "properties": {
+                "name": "Tete",
+                "article": "https://en.wikipedia.org/wiki/Tete,_Mozambique"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.92194444,
+                    -14.3775
+                ]
+            },
+            "properties": {
+                "name": "Lake Amaramba",
+                "article": "https://en.wikipedia.org/wiki/Lake_Amaramba"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.383333333,
+                    -23.865
+                ]
+            },
+            "properties": {
+                "name": "Inhambane",
+                "article": "https://en.wikipedia.org/wiki/Inhambane"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.69138889,
+                    -15.03138889
+                ]
+            },
+            "properties": {
+                "name": "Lumbo",
+                "article": "https://en.wikipedia.org/wiki/Lumbo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.516666666,
+                    -12.966666666
+                ]
+            },
+            "properties": {
+                "name": "Pemba",
+                "article": "https://en.wikipedia.org/wiki/Pemba,_Mozambique"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.98552598,
+                    -16.8390998
+                ]
+            },
+            "properties": {
+                "name": "Mocuba",
+                "article": "https://en.wikipedia.org/wiki/Mocuba"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.347222222,
+                    -23.859722222
+                ]
+            },
+            "properties": {
+                "name": "Maxixe",
+                "article": "https://en.wikipedia.org/wiki/Maxixe,_Mozambique"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.366666666,
+                    -14.716666666
+                ]
+            },
+            "properties": {
+                "name": "Ulongué",
+                "article": "https://en.wikipedia.org/wiki/Ulongu%C3%A9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.85,
+                    -16.333333333
+                ]
+            },
+            "properties": {
+                "name": "Angoche Island",
+                "article": "https://en.wikipedia.org/wiki/Angoche_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.907,
+                    -16.244
+                ]
+            },
+            "properties": {
+                "name": "Angoche Island",
+                "article": "https://en.wikipedia.org/wiki/Angoche_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.910549,
+                    -16.230829
+                ]
+            },
+            "properties": {
+                "name": "Angoche",
+                "article": "https://en.wikipedia.org/wiki/Angoche"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.59,
+                    -12.22
+                ]
+            },
+            "properties": {
+                "name": "Matemo Island",
+                "article": "https://en.wikipedia.org/wiki/Matemo_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.45,
+                    -19.116666666
+                ]
+            },
+            "properties": {
+                "name": "Chimoio",
+                "article": "https://en.wikipedia.org/wiki/Chimoio"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.245555555,
+                    -13.3
+                ]
+            },
+            "properties": {
+                "name": "Lichinga",
+                "article": "https://en.wikipedia.org/wiki/Lichinga"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.321841666,
+                    -14.945147222
+                ]
+            },
+            "properties": {
+                "name": "Ribáuè",
+                "article": "https://en.wikipedia.org/wiki/Rib%C3%A1u%C3%A8"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.4725,
+                    -21.655
+                ]
+            },
+            "properties": {
+                "name": "Bazaruto Island",
+                "article": "https://en.wikipedia.org/wiki/Bazaruto_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.33044624,
+                    -26.04328842
+                ]
+            },
+            "properties": {
+                "name": "Boane",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.530555555,
+                    -24.686666666
+                ]
+            },
+            "properties": {
+                "name": "Chibuto",
+                "article": "https://en.wikipedia.org/wiki/Chibuto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.98333,
+                    -24.53333
+                ]
+            },
+            "properties": {
+                "name": "Chokwe",
+                "article": "https://en.wikipedia.org/wiki/Chokwe,_Mozambique"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.008611111,
+                    -24.525277777
+                ]
+            },
+            "properties": {
+                "name": "Chokwe",
+                "article": "https://en.wikipedia.org/wiki/Chokwe,_Mozambique"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.0,
+                    -13.11666667
+                ]
+            },
+            "properties": {
+                "name": "Montepuez",
+                "article": "https://en.wikipedia.org/wiki/Montepuez"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.977777777,
+                    -15.466944444
+                ]
+            },
+            "properties": {
+                "name": "Gurúè",
+                "article": "https://en.wikipedia.org/wiki/Gur%C3%BA%C3%A8"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.174722222,
+                    -18.056388888
+                ]
+            },
+            "properties": {
+                "name": "Catandica",
+                "article": "https://en.wikipedia.org/wiki/Catandica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.325,
+                    -22.03333333
+                ]
+            },
+            "properties": {
+                "name": "Chibuene",
+                "article": "https://en.wikipedia.org/wiki/Chibuene"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.853888888,
+                    -14.8175
+                ]
+            },
+            "properties": {
+                "name": "Lake Chiuta",
+                "article": "https://en.wikipedia.org/wiki/Lake_Chiuta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.81666667,
+                    -12.7
+                ]
+            },
+            "properties": {
+                "name": "Metangula",
+                "article": "https://en.wikipedia.org/wiki/Metangula"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.05833333,
+                    -22.73055556
+                ]
+            },
+            "properties": {
+                "name": "Mapai",
+                "article": "https://en.wikipedia.org/wiki/Mapai,_Mozambique"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.758611111,
+                    -12.143888888
+                ]
+            },
+            "properties": {
+                "name": "Cobue",
+                "article": "https://en.wikipedia.org/wiki/Cobue"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.94527778,
+                    -18.29083333
+                ]
+            },
+            "properties": {
+                "name": "Marromeu",
+                "article": "https://en.wikipedia.org/wiki/Marromeu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.341,
+                    -21.619
+                ]
+            },
+            "properties": {
+                "name": "Santa Carolina",
+                "article": "https://en.wikipedia.org/wiki/Santa_Carolina"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.548611111,
+                    -14.82
+                ]
+            },
+            "properties": {
+                "name": "Cuamba",
+                "article": "https://en.wikipedia.org/wiki/Cuamba"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.75,
+                    -19.61666667
+                ]
+            },
+            "properties": {
+                "name": "Dondo",
+                "article": "https://en.wikipedia.org/wiki/Dondo,_Mozambique"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.75,
+                    -16.116666666
+                ]
+            },
+            "properties": {
+                "name": "Moatize",
+                "article": "https://en.wikipedia.org/wiki/Moatize"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.060555555,
+                    -19.774166666
+                ]
+            },
+            "properties": {
+                "name": "Monte Binga",
+                "article": "https://en.wikipedia.org/wiki/Monte_Binga"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.716666666,
+                    -20.15
+                ]
+            },
+            "properties": {
+                "name": "Sofala",
+                "article": "https://en.wikipedia.org/wiki/Sofala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.333333333,
+                    -11.35
+                ]
+            },
+            "properties": {
+                "name": "Mocímboa da Praia",
+                "article": "https://en.wikipedia.org/wiki/Moc%C3%ADmboa_da_Praia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.2166667,
+                    -19.2666667
+                ]
+            },
+            "properties": {
+                "name": "Nhamatanda",
+                "article": "https://en.wikipedia.org/wiki/Nhamatanda"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.033333333,
+                    -15.366666666
+                ]
+            },
+            "properties": {
+                "name": "Mount Namuli",
+                "article": "https://en.wikipedia.org/wiki/Mount_Namuli"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.395555555,
+                    -16.298888888
+                ]
+            },
+            "properties": {
+                "name": "Mount Mabu",
+                "article": "https://en.wikipedia.org/wiki/Mount_Mabu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.60092,
+                    -12.33967
+                ]
+            },
+            "properties": {
+                "name": "Ibo",
+                "article": "https://en.wikipedia.org/wiki/Ibo_(Mozambique)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.03333333,
+                    -25.96666667
+                ]
+            },
+            "properties": {
+                "name": "Namaacha",
+                "article": "https://en.wikipedia.org/wiki/Namaacha"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.85,
+                    -12.98333333
+                ]
+            },
+            "properties": {
+                "name": "Ancuabe",
+                "article": "https://en.wikipedia.org/wiki/Ancuabe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.48333333,
+                    -10.78333333
+                ]
+            },
+            "properties": {
+                "name": "Palma",
+                "article": "https://en.wikipedia.org/wiki/Palma,_Mozambique"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.5899,
+                    -25.9805
+                ]
+            },
+            "properties": {
+                "name": "Palácio da Ponta Vermelha",
+                "article": "https://en.wikipedia.org/wiki/Pal%C3%A1cio_da_Ponta_Vermelha"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.8828,
+                    -24.7117
+                ]
+            },
+            "properties": {
+                "name": "Manjacaze",
+                "article": "https://en.wikipedia.org/wiki/Manjacaze"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.603924,
+                    -11.816276
+                ]
+            },
+            "properties": {
+                "name": "Medjumbe Island",
+                "article": "https://en.wikipedia.org/wiki/Medjumbe_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.576388888,
+                    -25.915277777
+                ]
+            },
+            "properties": {
+                "name": "Maputo",
+                "article": "https://en.wikipedia.org/wiki/Maputo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.366666666,
+                    -12.183333333
+                ]
+            },
+            "properties": {
+                "name": "Lake Malawi",
+                "article": "https://en.wikipedia.org/wiki/Lake_Malawi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.616666666,
+                    -11.633333333
+                ]
+            },
+            "properties": {
+                "name": "Mueda",
+                "article": "https://en.wikipedia.org/wiki/Mueda"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.4,
+                    -20.66666667
+                ]
+            },
+            "properties": {
+                "name": "Matope",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.316666666,
+                    -22.0
+                ]
+            },
+            "properties": {
+                "name": "Vilankulo",
+                "article": "https://en.wikipedia.org/wiki/Vilankulo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.12912,
+                    -13.21191
+                ]
+            },
+            "properties": {
+                "name": "Q2125589",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.68333,
+                    -22.08333
+                ]
+            },
+            "properties": {
+                "name": "Chicualacuala",
+                "article": "https://en.wikipedia.org/wiki/Chicualacuala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.07381,
+                    -17.43512
+                ]
+            },
+            "properties": {
+                "name": "Mutarara",
+                "article": "https://en.wikipedia.org/wiki/Mutarara"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.466666666,
+                    -18.583333333
+                ]
+            },
+            "properties": {
+                "name": "Chinde",
+                "article": "https://en.wikipedia.org/wiki/Chinde"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.95,
+                    -26.01666667
+                ]
+            },
+            "properties": {
+                "name": "Inhaca",
+                "article": "https://en.wikipedia.org/wiki/Inhaca_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.1,
+                    -25.03333333
+                ]
+            },
+            "properties": {
+                "name": "Macia",
+                "article": "https://en.wikipedia.org/wiki/Macia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.5644,
+                    -25.971
+                ]
+            },
+            "properties": {
+                "name": "Maputo Railway Station",
+                "article": "https://en.wikipedia.org/wiki/Maputo_Central_Railway_Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.44,
+                    -21.866388888
+                ]
+            },
+            "properties": {
+                "name": "Benguerra Island",
+                "article": "https://en.wikipedia.org/wiki/Benguerra_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.183333333,
+                    -25.166666666
+                ]
+            },
+            "properties": {
+                "name": "Bilene",
+                "article": "https://en.wikipedia.org/wiki/Bilene"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.33333333,
+                    -17.83333333
+                ]
+            },
+            "properties": {
+                "name": "Caia",
+                "article": "https://en.wikipedia.org/wiki/Caia,_Mozambique"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.781666666,
+                    -13.3825
+                ]
+            },
+            "properties": {
+                "name": "Chiure",
+                "article": "https://en.wikipedia.org/wiki/Chiure"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.5,
+                    -13.18333333
+                ]
+            },
+            "properties": {
+                "name": "Marrupa",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.9883,
+                    -25.9767
+                ]
+            },
+            "properties": {
+                "name": "Q6022430",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.373,
+                    -18.715
+                ]
+            },
+            "properties": {
+                "name": "Inhacamba",
+                "article": "https://en.wikipedia.org/wiki/Inhacamba"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.64633,
+                    -19.086387
+                ]
+            },
+            "properties": {
+                "name": "Gondola",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.30222222,
+                    -14.91694444
+                ]
+            },
+            "properties": {
+                "name": "Monapo",
+                "article": "https://en.wikipedia.org/wiki/Monapo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.833333333,
+                    -15.2
+                ]
+            },
+            "properties": {
+                "name": "Lake Shirwa",
+                "article": "https://en.wikipedia.org/wiki/Lake_Shirwa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.094166666,
+                    -16.323055555
+                ]
+            },
+            "properties": {
+                "name": "Monte Muambe",
+                "article": "https://en.wikipedia.org/wiki/Monte_Muambe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.78222222,
+                    -15.05416667
+                ]
+            },
+            "properties": {
+                "name": "São Jorge Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.89277778,
+                    -25.95888889
+                ]
+            },
+            "properties": {
+                "name": "Island of the Portuguese",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.737388888,
+                    -15.031525
+                ]
+            },
+            "properties": {
+                "name": "Jesuit College and Chapel of Saint Paul (Governor’s Palace)",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.572888,
+                    -25.970489
+                ]
+            },
+            "properties": {
+                "name": "Casa de Ferro",
+                "article": "https://en.wikipedia.org/wiki/Casa_de_Ferro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.84038,
+                    -19.8349
+                ]
+            },
+            "properties": {
+                "name": "Casa dos Bicos",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.8384434,
+                    -19.8248118
+                ]
+            },
+            "properties": {
+                "name": "Beira railway station",
+                "article": "https://en.wikipedia.org/wiki/Beira_railway_station"
+            }
+        }
+    ]
+}

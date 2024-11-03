@@ -1,0 +1,4429 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.166666666,
+                    49.566666666
+                ]
+            },
+            "properties": {
+                "name": "Alzingen",
+                "article": "https://en.wikipedia.org/wiki/Alzingen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.421666666,
+                    49.811666666
+                ]
+            },
+            "properties": {
+                "name": "Echternach",
+                "article": "https://en.wikipedia.org/wiki/Echternach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.441666666,
+                    49.680555555
+                ]
+            },
+            "properties": {
+                "name": "Grevenmacher",
+                "article": "https://en.wikipedia.org/wiki/Grevenmacher"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.014722222,
+                    49.548055555
+                ]
+            },
+            "properties": {
+                "name": "Ehlange-sur-Mess",
+                "article": "https://en.wikipedia.org/wiki/Ehlange-sur-Mess"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.268055555,
+                    49.630555555
+                ]
+            },
+            "properties": {
+                "name": "Munsbach railway station",
+                "article": "https://en.wikipedia.org/wiki/Munsbach_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.086111111,
+                    49.492777777
+                ]
+            },
+            "properties": {
+                "name": "Dudelange-Burange railway station",
+                "article": "https://en.wikipedia.org/wiki/Dudelange-Burange_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.25,
+                    49.516666666
+                ]
+            },
+            "properties": {
+                "name": "Altwies",
+                "article": "https://en.wikipedia.org/wiki/Altwies"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.25,
+                    49.683333333
+                ]
+            },
+            "properties": {
+                "name": "Ernster",
+                "article": "https://en.wikipedia.org/wiki/Ernster"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.266666666,
+                    49.6
+                ]
+            },
+            "properties": {
+                "name": "Oetrange",
+                "article": "https://en.wikipedia.org/wiki/Oetrange"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.821930555,
+                    49.793061111
+                ]
+            },
+            "properties": {
+                "name": "Roodt",
+                "article": "https://en.wikipedia.org/wiki/Roodt,_Ell"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.366666666,
+                    49.544444444
+                ]
+            },
+            "properties": {
+                "name": "Remich",
+                "article": "https://en.wikipedia.org/wiki/Remich"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.194722,
+                    49.911944
+                ]
+            },
+            "properties": {
+                "name": "Fouhren",
+                "article": "https://en.wikipedia.org/wiki/Fouhren"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.133889,
+                    49.6
+                ]
+            },
+            "properties": {
+                "name": "Luxembourg railway station",
+                "article": "https://en.wikipedia.org/wiki/Luxembourg_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.110277777,
+                    49.7525
+                ]
+            },
+            "properties": {
+                "name": "Mersch railway station",
+                "article": "https://en.wikipedia.org/wiki/Mersch_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.878611111,
+                    49.553888888
+                ]
+            },
+            "properties": {
+                "name": "Pétange railway station",
+                "article": "https://en.wikipedia.org/wiki/P%C3%A9tange_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.4993,
+                    49.7129
+                ]
+            },
+            "properties": {
+                "name": "Wasserbillig railway station",
+                "article": "https://en.wikipedia.org/wiki/Wasserbillig_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.133333333,
+                    49.55
+                ]
+            },
+            "properties": {
+                "name": "Bivange",
+                "article": "https://en.wikipedia.org/wiki/Bivange"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.030555555,
+                    49.459722222
+                ]
+            },
+            "properties": {
+                "name": "Rumelange",
+                "article": "https://en.wikipedia.org/wiki/Rumelange"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.023611111,
+                    50.161944444
+                ]
+            },
+            "properties": {
+                "name": "Buurgplaatz",
+                "article": "https://en.wikipedia.org/wiki/Buurgplaatz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.061436,
+                    50.053508
+                ]
+            },
+            "properties": {
+                "name": "Marnach",
+                "article": "https://en.wikipedia.org/wiki/Marnach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.5,
+                    49.716666666
+                ]
+            },
+            "properties": {
+                "name": "Wasserbillig",
+                "article": "https://en.wikipedia.org/wiki/Wasserbillig"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.916666666,
+                    49.75
+                ]
+            },
+            "properties": {
+                "name": "Niederpallen",
+                "article": "https://en.wikipedia.org/wiki/Niederpallen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.15,
+                    49.5
+                ]
+            },
+            "properties": {
+                "name": "Hellange",
+                "article": "https://en.wikipedia.org/wiki/Hellange"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.116666666,
+                    49.733333333
+                ]
+            },
+            "properties": {
+                "name": "Gosseldange",
+                "article": "https://en.wikipedia.org/wiki/Gosseldange"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.258333,
+                    49.609444
+                ]
+            },
+            "properties": {
+                "name": "Schrassig",
+                "article": "https://en.wikipedia.org/wiki/Schrassig"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.878147222,
+                    49.684422222
+                ]
+            },
+            "properties": {
+                "name": "Eischen",
+                "article": "https://en.wikipedia.org/wiki/Eischen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.080555555,
+                    49.947222222
+                ]
+            },
+            "properties": {
+                "name": "Hoscheid",
+                "article": "https://en.wikipedia.org/wiki/Hoscheid"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0875,
+                    50.095833333
+                ]
+            },
+            "properties": {
+                "name": "Heinerscheid",
+                "article": "https://en.wikipedia.org/wiki/Heinerscheid"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.08806,
+                    50.09611
+                ]
+            },
+            "properties": {
+                "name": "Heinerscheid",
+                "article": "https://en.wikipedia.org/wiki/Heinerscheid"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.90166667,
+                    49.59138889
+                ]
+            },
+            "properties": {
+                "name": "Q1540844",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1288,
+                    49.61207
+                ]
+            },
+            "properties": {
+                "name": "Grand Rue",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.129466666,
+                    49.612019444
+                ]
+            },
+            "properties": {
+                "name": "Grand Rue",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.139,
+                    49.673
+                ]
+            },
+            "properties": {
+                "name": "Heisdorf",
+                "article": "https://en.wikipedia.org/wiki/Heisdorf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.016666666,
+                    50.166666666
+                ]
+            },
+            "properties": {
+                "name": "Huldange",
+                "article": "https://en.wikipedia.org/wiki/Huldange"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.9,
+                    49.78
+                ]
+            },
+            "properties": {
+                "name": "Ospern",
+                "article": "https://en.wikipedia.org/wiki/Ospern"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.24,
+                    49.53
+                ]
+            },
+            "properties": {
+                "name": "Filsdorf",
+                "article": "https://en.wikipedia.org/wiki/Filsdorf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.44595,
+                    49.67895
+                ]
+            },
+            "properties": {
+                "name": "Q1823264",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.96,
+                    49.52
+                ]
+            },
+            "properties": {
+                "name": "Ehlerange",
+                "article": "https://en.wikipedia.org/wiki/Ehlerange"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.41139,
+                    49.80028
+                ]
+            },
+            "properties": {
+                "name": "Q1883344",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.233333333,
+                    49.733333333
+                ]
+            },
+            "properties": {
+                "name": "Godbrange",
+                "article": "https://en.wikipedia.org/wiki/Godbrange"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.35,
+                    49.516666666
+                ]
+            },
+            "properties": {
+                "name": "Schwebsange",
+                "article": "https://en.wikipedia.org/wiki/Schwebsange"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.079166666,
+                    49.4725
+                ]
+            },
+            "properties": {
+                "name": "Dudelange-Usines railway station",
+                "article": "https://en.wikipedia.org/wiki/Dudelange-Usines_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.245278,
+                    49.658056
+                ]
+            },
+            "properties": {
+                "name": "Oberanven",
+                "article": "https://en.wikipedia.org/wiki/Oberanven"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.02861,
+                    49.45417
+                ]
+            },
+            "properties": {
+                "name": "Rumelange - Ottange train station",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.17194,
+                    49.83
+                ]
+            },
+            "properties": {
+                "name": "Stegen",
+                "article": "https://en.wikipedia.org/wiki/Stegen,_Luxembourg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.166666666,
+                    49.833333333
+                ]
+            },
+            "properties": {
+                "name": "Stegen",
+                "article": "https://en.wikipedia.org/wiki/Stegen,_Luxembourg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.116666666,
+                    49.566666666
+                ]
+            },
+            "properties": {
+                "name": "Kockelscheuer",
+                "article": "https://en.wikipedia.org/wiki/Kockelscheuer"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.081944444,
+                    49.479166666
+                ]
+            },
+            "properties": {
+                "name": "Dudelange-Centre railway station",
+                "article": "https://en.wikipedia.org/wiki/Dudelange-Centre_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.348888888,
+                    49.688888888
+                ]
+            },
+            "properties": {
+                "name": "Betzdorf railway station",
+                "article": "https://en.wikipedia.org/wiki/Betzdorf_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.95,
+                    49.766666666
+                ]
+            },
+            "properties": {
+                "name": "Everlange",
+                "article": "https://en.wikipedia.org/wiki/Everlange"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1,
+                    49.716666666
+                ]
+            },
+            "properties": {
+                "name": "Schoenfels",
+                "article": "https://en.wikipedia.org/wiki/Schoenfels"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.276,
+                    49.632
+                ]
+            },
+            "properties": {
+                "name": "Übersyren",
+                "article": "https://en.wikipedia.org/wiki/%C3%9Cbersyren"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.027778,
+                    49.755278
+                ]
+            },
+            "properties": {
+                "name": "Helperknapp",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.02778,
+                    49.75528
+                ]
+            },
+            "properties": {
+                "name": "Helperknapp",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.14,
+                    49.698611111
+                ]
+            },
+            "properties": {
+                "name": "Lorentzweiler railway station",
+                "article": "https://en.wikipedia.org/wiki/Lorentzweiler_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.13668,
+                    49.633838
+                ]
+            },
+            "properties": {
+                "name": "Dommeldange railway station",
+                "article": "https://en.wikipedia.org/wiki/Dommeldange_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.386111111,
+                    49.699722222
+                ]
+            },
+            "properties": {
+                "name": "Wecker railway station",
+                "article": "https://en.wikipedia.org/wiki/Wecker_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.423333333,
+                    49.706388888
+                ]
+            },
+            "properties": {
+                "name": "Manternach railway station",
+                "article": "https://en.wikipedia.org/wiki/Manternach_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.000555555,
+                    49.988333333
+                ]
+            },
+            "properties": {
+                "name": "Wilwerwiltz railway station",
+                "article": "https://en.wikipedia.org/wiki/Wilwerwiltz_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.06,
+                    49.612778055
+                ]
+            },
+            "properties": {
+                "name": "Bertrange-Strassen railway station",
+                "article": "https://en.wikipedia.org/wiki/Bertrange-Strassen_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.233,
+                    49.657
+                ]
+            },
+            "properties": {
+                "name": "Hostert",
+                "article": "https://en.wikipedia.org/wiki/Hostert,_Niederanven"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.5125,
+                    49.759444444
+                ]
+            },
+            "properties": {
+                "name": "Born",
+                "article": "https://en.wikipedia.org/wiki/Born,_Luxembourg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.132777777,
+                    49.610555555
+                ]
+            },
+            "properties": {
+                "name": "Luxembourg",
+                "article": "https://en.wikipedia.org/wiki/Luxembourg_City"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.980555555,
+                    49.496944444
+                ]
+            },
+            "properties": {
+                "name": "Esch-sur-Alzette",
+                "article": "https://en.wikipedia.org/wiki/Esch-sur-Alzette"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.083333333,
+                    49.483333333
+                ]
+            },
+            "properties": {
+                "name": "Dudelange",
+                "article": "https://en.wikipedia.org/wiki/Dudelange"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.8917,
+                    49.5222
+                ]
+            },
+            "properties": {
+                "name": "Differdange",
+                "article": "https://en.wikipedia.org/wiki/Differdange"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.981667,
+                    49.956389
+                ]
+            },
+            "properties": {
+                "name": "Merkholtz railway station",
+                "article": "https://en.wikipedia.org/wiki/Merkholtz_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.916666666,
+                    50.1
+                ]
+            },
+            "properties": {
+                "name": "Hoffelt",
+                "article": "https://en.wikipedia.org/wiki/Hoffelt"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.399536111,
+                    49.610175
+                ]
+            },
+            "properties": {
+                "name": "Wormeldange-Haut",
+                "article": "https://en.wikipedia.org/wiki/Wormeldange-Haut"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.983333333,
+                    49.8
+                ]
+            },
+            "properties": {
+                "name": "Schandel",
+                "article": "https://en.wikipedia.org/wiki/Schandel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.051666666,
+                    49.921666666
+                ]
+            },
+            "properties": {
+                "name": "Goebelsmühle railway station",
+                "article": "https://en.wikipedia.org/wiki/Goebelsmuhle_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.9,
+                    49.516666666
+                ]
+            },
+            "properties": {
+                "name": "Oberkorn",
+                "article": "https://en.wikipedia.org/wiki/Oberkorn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.153888888,
+                    49.864722222
+                ]
+            },
+            "properties": {
+                "name": "Diekirch railway station",
+                "article": "https://en.wikipedia.org/wiki/Diekirch_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.978056,
+                    50.151111
+                ]
+            },
+            "properties": {
+                "name": "Bellain railway station",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.164166666,
+                    49.614444444
+                ]
+            },
+            "properties": {
+                "name": "Cents-Hamm railway station",
+                "article": "https://en.wikipedia.org/wiki/Cents-Hamm_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0325,
+                    49.460277777
+                ]
+            },
+            "properties": {
+                "name": "Rumelange railway station",
+                "article": "https://en.wikipedia.org/wiki/Rumelange_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.15,
+                    49.683333333
+                ]
+            },
+            "properties": {
+                "name": "Helmdange",
+                "article": "https://en.wikipedia.org/wiki/Helmdange"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.981944444,
+                    49.638611111
+                ]
+            },
+            "properties": {
+                "name": "Capellen railway station",
+                "article": "https://en.wikipedia.org/wiki/Capellen_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.25,
+                    49.583333333
+                ]
+            },
+            "properties": {
+                "name": "Moutfort",
+                "article": "https://en.wikipedia.org/wiki/Moutfort"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.016666666,
+                    50.133333333
+                ]
+            },
+            "properties": {
+                "name": "Wilwerdange",
+                "article": "https://en.wikipedia.org/wiki/Wilwerdange"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.906388888,
+                    49.721944444
+                ]
+            },
+            "properties": {
+                "name": "Hovelange",
+                "article": "https://en.wikipedia.org/wiki/Hovelange"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.120277777,
+                    49.796388888
+                ]
+            },
+            "properties": {
+                "name": "Cruchten railway station",
+                "article": "https://en.wikipedia.org/wiki/Cruchten_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.926666666,
+                    49.966388888
+                ]
+            },
+            "properties": {
+                "name": "Wiltz railway station",
+                "article": "https://en.wikipedia.org/wiki/Wiltz_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.383333333,
+                    49.683333333
+                ]
+            },
+            "properties": {
+                "name": "Wecker",
+                "article": "https://en.wikipedia.org/wiki/Wecker,_Luxembourg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.4783,
+                    49.70345
+                ]
+            },
+            "properties": {
+                "name": "Mertert railway station",
+                "article": "https://en.wikipedia.org/wiki/Mertert_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.500555555,
+                    49.745555555
+                ]
+            },
+            "properties": {
+                "name": "Moersdorf",
+                "article": "https://en.wikipedia.org/wiki/Moersdorf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.123055555,
+                    49.720833333
+                ]
+            },
+            "properties": {
+                "name": "Lintgen railway station",
+                "article": "https://en.wikipedia.org/wiki/Lintgen_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.82952,
+                    50.0017
+                ]
+            },
+            "properties": {
+                "name": "Schimpach-Wampach railway station",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.136244,
+                    49.66188
+                ]
+            },
+            "properties": {
+                "name": "Walferdange railway station",
+                "article": "https://en.wikipedia.org/wiki/Walferdange_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.233333333,
+                    49.65
+                ]
+            },
+            "properties": {
+                "name": "Rameldange",
+                "article": "https://en.wikipedia.org/wiki/Rameldange"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.049166666,
+                    49.507777777
+                ]
+            },
+            "properties": {
+                "name": "Noertzange railway station",
+                "article": "https://en.wikipedia.org/wiki/Noertzange_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.13,
+                    49.69
+                ]
+            },
+            "properties": {
+                "name": "Hunsdorf",
+                "article": "https://en.wikipedia.org/wiki/Hunsdorf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.133333333,
+                    49.7
+                ]
+            },
+            "properties": {
+                "name": "Hunsdorf",
+                "article": "https://en.wikipedia.org/wiki/Hunsdorf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.315,
+                    49.662
+                ]
+            },
+            "properties": {
+                "name": "Widdebierg",
+                "article": "https://en.wikipedia.org/wiki/Widdebierg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.985833333,
+                    49.494722222
+                ]
+            },
+            "properties": {
+                "name": "Esch-sur-Alzette railway station",
+                "article": "https://en.wikipedia.org/wiki/Esch-sur-Alzette_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.89146,
+                    49.96719
+                ]
+            },
+            "properties": {
+                "name": "Winseler train station",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.101944444,
+                    49.515277777
+                ]
+            },
+            "properties": {
+                "name": "Bettembourg railway station",
+                "article": "https://en.wikipedia.org/wiki/Bettembourg_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.024444444,
+                    50.062777777
+                ]
+            },
+            "properties": {
+                "name": "Clervaux railway station",
+                "article": "https://en.wikipedia.org/wiki/Clervaux_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.101666666,
+                    49.815
+                ]
+            },
+            "properties": {
+                "name": "Colmar-Berg railway station",
+                "article": "https://en.wikipedia.org/wiki/Colmar-Berg_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.239167,
+                    49.645833
+                ]
+            },
+            "properties": {
+                "name": "Senningen",
+                "article": "https://en.wikipedia.org/wiki/Senningen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.249166666,
+                    49.691666666
+                ]
+            },
+            "properties": {
+                "name": "Gonderange",
+                "article": "https://en.wikipedia.org/wiki/Gonderange"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.035,
+                    49.475555555
+                ]
+            },
+            "properties": {
+                "name": "Tétange railway station",
+                "article": "https://en.wikipedia.org/wiki/T%C3%A9tange_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.083333333,
+                    49.65
+                ]
+            },
+            "properties": {
+                "name": "Bridel",
+                "article": "https://en.wikipedia.org/wiki/Bridel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.016388888,
+                    49.624166666
+                ]
+            },
+            "properties": {
+                "name": "Mamer railway station",
+                "article": "https://en.wikipedia.org/wiki/Mamer_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.035555555,
+                    49.485555555
+                ]
+            },
+            "properties": {
+                "name": "Kayl railway station",
+                "article": "https://en.wikipedia.org/wiki/Kayl_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.095247,
+                    49.829808
+                ]
+            },
+            "properties": {
+                "name": "Schieren railway station",
+                "article": "https://en.wikipedia.org/wiki/Schieren_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.13938,
+                    49.675359
+                ]
+            },
+            "properties": {
+                "name": "Heisdorf railway station",
+                "article": "https://en.wikipedia.org/wiki/Heisdorf_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.316666666,
+                    49.683333333
+                ]
+            },
+            "properties": {
+                "name": "Olingen",
+                "article": "https://en.wikipedia.org/wiki/Olingen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.95,
+                    49.583333333
+                ]
+            },
+            "properties": {
+                "name": "Schouweiler",
+                "article": "https://en.wikipedia.org/wiki/Schouweiler"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.866666666,
+                    49.9
+                ]
+            },
+            "properties": {
+                "name": "Upper Sûre Lake",
+                "article": "https://en.wikipedia.org/wiki/Upper_S%C3%BBre_Lake"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.4,
+                    49.633333333
+                ]
+            },
+            "properties": {
+                "name": "Niederdonven",
+                "article": "https://en.wikipedia.org/wiki/Niederdonven"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.112780555,
+                    49.740019444
+                ]
+            },
+            "properties": {
+                "name": "Rollingen",
+                "article": "https://en.wikipedia.org/wiki/Rollingen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.05,
+                    49.516666666
+                ]
+            },
+            "properties": {
+                "name": "Noertzange",
+                "article": "https://en.wikipedia.org/wiki/Noertzange"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.258333333,
+                    49.6025
+                ]
+            },
+            "properties": {
+                "name": "Oetrange railway station",
+                "article": "https://en.wikipedia.org/wiki/Oetrange_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.273056,
+                    49.788611
+                ]
+            },
+            "properties": {
+                "name": "Christnach",
+                "article": "https://en.wikipedia.org/wiki/Christnach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.329628,
+                    49.835942
+                ]
+            },
+            "properties": {
+                "name": "Grundhof train station",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.107222222,
+                    49.848055555
+                ]
+            },
+            "properties": {
+                "name": "Ettelbruck railway station",
+                "article": "https://en.wikipedia.org/wiki/Ettelbruck_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.205833333,
+                    49.600833333
+                ]
+            },
+            "properties": {
+                "name": "Sandweiler-Contern railway station",
+                "article": "https://en.wikipedia.org/wiki/Sandweiler-Contern_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.366666666,
+                    49.766666666
+                ]
+            },
+            "properties": {
+                "name": "Scheidgen",
+                "article": "https://en.wikipedia.org/wiki/Scheidgen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.15,
+                    49.533333333
+                ]
+            },
+            "properties": {
+                "name": "Crauthem",
+                "article": "https://en.wikipedia.org/wiki/Crauthem"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.133333333,
+                    49.516666666
+                ]
+            },
+            "properties": {
+                "name": "Peppange",
+                "article": "https://en.wikipedia.org/wiki/Peppange"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.916111111,
+                    49.643888888
+                ]
+            },
+            "properties": {
+                "name": "Kleinbettingen railway station",
+                "article": "https://en.wikipedia.org/wiki/Kleinbettingen_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.953052,
+                    49.965282
+                ]
+            },
+            "properties": {
+                "name": "Paradiso railway station",
+                "article": "https://en.wikipedia.org/wiki/Paradiso_railway_station_(Luxembourg)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.333333333,
+                    49.6
+                ]
+            },
+            "properties": {
+                "name": "Canach",
+                "article": "https://en.wikipedia.org/wiki/Canach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.843333,
+                    49.550833
+                ]
+            },
+            "properties": {
+                "name": "Rodange railway station",
+                "article": "https://en.wikipedia.org/wiki/Rodange_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.98562,
+                    49.48475
+                ]
+            },
+            "properties": {
+                "name": "Gaalgebierg",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.163056,
+                    49.890556
+                ]
+            },
+            "properties": {
+                "name": "Bastendorf",
+                "article": "https://en.wikipedia.org/wiki/Bastendorf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.35,
+                    49.533333333
+                ]
+            },
+            "properties": {
+                "name": "Bech-Kleinmacher",
+                "article": "https://en.wikipedia.org/wiki/Bech-Kleinmacher"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.933333333,
+                    49.516666666
+                ]
+            },
+            "properties": {
+                "name": "Belvaux",
+                "article": "https://en.wikipedia.org/wiki/Belvaux"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.4,
+                    49.733333333
+                ]
+            },
+            "properties": {
+                "name": "Berbourg",
+                "article": "https://en.wikipedia.org/wiki/Berbourg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.983333333,
+                    49.583333333
+                ]
+            },
+            "properties": {
+                "name": "Bettange-sur-Mess",
+                "article": "https://en.wikipedia.org/wiki/Bettange-sur-Mess"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.009722222,
+                    49.506111111
+                ]
+            },
+            "properties": {
+                "name": "Schifflange railway station",
+                "article": "https://en.wikipedia.org/wiki/Schifflange_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.166666666,
+                    49.7
+                ]
+            },
+            "properties": {
+                "name": "Blaschette",
+                "article": "https://en.wikipedia.org/wiki/Blaschette"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.091944444,
+                    49.896666666
+                ]
+            },
+            "properties": {
+                "name": "Michelau railway station",
+                "article": "https://en.wikipedia.org/wiki/Michelau_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0,
+                    50.066666666
+                ]
+            },
+            "properties": {
+                "name": "Eselborn",
+                "article": "https://en.wikipedia.org/wiki/Eselborn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.05974,
+                    49.49029
+                ]
+            },
+            "properties": {
+                "name": "Mont St. Jean",
+                "article": "https://en.wikipedia.org/wiki/Mont_St._Jean,_Luxembourg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.166666666,
+                    49.583333333
+                ]
+            },
+            "properties": {
+                "name": "Itzig",
+                "article": "https://en.wikipedia.org/wiki/Itzig,_Luxembourg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.006944444,
+                    50.016944444
+                ]
+            },
+            "properties": {
+                "name": "Drauffelt railway station",
+                "article": "https://en.wikipedia.org/wiki/Drauffelt_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0225,
+                    49.948055555
+                ]
+            },
+            "properties": {
+                "name": "Kautenbach railway station",
+                "article": "https://en.wikipedia.org/wiki/Kautenbach_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.023055555,
+                    49.618611111
+                ]
+            },
+            "properties": {
+                "name": "Mamer Lycée railway station",
+                "article": "https://en.wikipedia.org/wiki/Mamer_Lyc%C3%A9e_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.083055555,
+                    49.483055555
+                ]
+            },
+            "properties": {
+                "name": "Dudelange-Ville railway station",
+                "article": "https://en.wikipedia.org/wiki/Dudelange-Ville_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.12,
+                    49.595555555
+                ]
+            },
+            "properties": {
+                "name": "Hollerich railway station",
+                "article": "https://en.wikipedia.org/wiki/Hollerich_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.303333333,
+                    49.666944444
+                ]
+            },
+            "properties": {
+                "name": "Roodt railway station",
+                "article": "https://en.wikipedia.org/wiki/Roodt_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.925,
+                    49.558333333
+                ]
+            },
+            "properties": {
+                "name": "Bascharage-Sanem railway station",
+                "article": "https://en.wikipedia.org/wiki/Bascharage-Sanem_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.129722222,
+                    49.541111111
+                ]
+            },
+            "properties": {
+                "name": "Berchem railway station",
+                "article": "https://en.wikipedia.org/wiki/Berchem_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.993611111,
+                    49.572777777
+                ]
+            },
+            "properties": {
+                "name": "Dippach-Reckange railway station",
+                "article": "https://en.wikipedia.org/wiki/Dippach-Reckange_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.14636,
+                    49.563
+                ]
+            },
+            "properties": {
+                "name": "Fentange railway station",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.860833333,
+                    49.553333333
+                ]
+            },
+            "properties": {
+                "name": "Lamadelaine railway station",
+                "article": "https://en.wikipedia.org/wiki/Lamadelaine_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.059166666,
+                    49.586944444
+                ]
+            },
+            "properties": {
+                "name": "Leudelange railway station",
+                "article": "https://en.wikipedia.org/wiki/Leudelange_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.85673,
+                    49.9894
+                ]
+            },
+            "properties": {
+                "name": "Schleif railway station",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.961111111,
+                    49.573888888
+                ]
+            },
+            "properties": {
+                "name": "Schouweiler railway station",
+                "article": "https://en.wikipedia.org/wiki/Schouweiler_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.991111111,
+                    50.119444444
+                ]
+            },
+            "properties": {
+                "name": "Troisvierges railway station",
+                "article": "https://en.wikipedia.org/wiki/Troisvierges_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.35,
+                    49.61
+                ]
+            },
+            "properties": {
+                "name": "Gostingen",
+                "article": "https://en.wikipedia.org/wiki/Gostingen,_Luxembourg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.35,
+                    49.616666666
+                ]
+            },
+            "properties": {
+                "name": "Gostingen",
+                "article": "https://en.wikipedia.org/wiki/Gostingen,_Luxembourg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.95,
+                    49.75
+                ]
+            },
+            "properties": {
+                "name": "Rippweiler",
+                "article": "https://en.wikipedia.org/wiki/Rippweiler"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.44194,
+                    49.67472
+                ]
+            },
+            "properties": {
+                "name": "Grevenmacher",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.143611111,
+                    49.618333333
+                ]
+            },
+            "properties": {
+                "name": "Alcide de Gasperi Building",
+                "article": "https://en.wikipedia.org/wiki/Alcide_De_Gasperi_building"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.89139,
+                    49.52417
+                ]
+            },
+            "properties": {
+                "name": "Differdange",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.03,
+                    50.055
+                ]
+            },
+            "properties": {
+                "name": "Battle of Clervaux",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Clervaux"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.207627,
+                    49.933994
+                ]
+            },
+            "properties": {
+                "name": "Battle of Vianden",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Vianden"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.925277777,
+                    49.501111111
+                ]
+            },
+            "properties": {
+                "name": "Belval-Rédange railway station",
+                "article": "https://en.wikipedia.org/wiki/Belval-R%C3%A9dange_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.945555555,
+                    49.499722222
+                ]
+            },
+            "properties": {
+                "name": "Belval-Université railway station",
+                "article": "https://en.wikipedia.org/wiki/Belval-Universit%C3%A9_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.926068,
+                    49.51508
+                ]
+            },
+            "properties": {
+                "name": "Belvaux-Soleuvre railway station",
+                "article": "https://en.wikipedia.org/wiki/Belvaux-Soleuvre_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.255833333,
+                    49.538055555
+                ]
+            },
+            "properties": {
+                "name": "Dalheim Ricciacum",
+                "article": "https://en.wikipedia.org/wiki/Dalheim_Ricciacum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.893055555,
+                    49.535
+                ]
+            },
+            "properties": {
+                "name": "Niederkorn railway station",
+                "article": "https://en.wikipedia.org/wiki/Niederkorn_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.892777777,
+                    49.509722222
+                ]
+            },
+            "properties": {
+                "name": "Oberkorn railway station",
+                "article": "https://en.wikipedia.org/wiki/Oberkorn_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.12982,
+                    49.60565
+                ]
+            },
+            "properties": {
+                "name": "ARBED Building",
+                "article": "https://en.wikipedia.org/wiki/ARBED_building"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.35414,
+                    49.52889
+                ]
+            },
+            "properties": {
+                "name": "A Possen",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.303074,
+                    49.655707
+                ]
+            },
+            "properties": {
+                "name": "Q13101405",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1344,
+                    49.6109
+                ]
+            },
+            "properties": {
+                "name": "Rue Large",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.130333333,
+                    49.619722222
+                ]
+            },
+            "properties": {
+                "name": "Côte d'Eich",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.13259,
+                    49.61157
+                ]
+            },
+            "properties": {
+                "name": "Europahaus",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.880277777,
+                    49.595833333
+                ]
+            },
+            "properties": {
+                "name": "Clemency railway station",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.94913,
+                    49.49983
+                ]
+            },
+            "properties": {
+                "name": "1, avenue du Rock'n'Roll",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1,
+                    49.983333
+                ]
+            },
+            "properties": {
+                "name": "Q13103056",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.13179,
+                    49.60854
+                ]
+            },
+            "properties": {
+                "name": "Q13103077",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.13106,
+                    49.60398
+                ]
+            },
+            "properties": {
+                "name": "Hôtel de Paris",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.131961111,
+                    49.609963888
+                ]
+            },
+            "properties": {
+                "name": "Refuge Sankt Maximin",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.10822,
+                    49.75094
+                ]
+            },
+            "properties": {
+                "name": "Servais House",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.217,
+                    49.728
+                ]
+            },
+            "properties": {
+                "name": "Häerdcheslee",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.06928,
+                    49.78845
+                ]
+            },
+            "properties": {
+                "name": "Bissen railway station",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.12965,
+                    49.6105
+                ]
+            },
+            "properties": {
+                "name": "Rue Chimay",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.12963,
+                    49.61
+                ]
+            },
+            "properties": {
+                "name": "Rue Notre-Dame",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.146064406,
+                    49.618314063
+                ]
+            },
+            "properties": {
+                "name": "Q16763919",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.104388888,
+                    49.747388888
+                ]
+            },
+            "properties": {
+                "name": "Méchelstuerm, Mersch",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.253117084,
+                    49.560844421
+                ]
+            },
+            "properties": {
+                "name": "Borne milliaire de Dalheim",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.128518796,
+                    49.607312867
+                ]
+            },
+            "properties": {
+                "name": "Spuerkeess Building",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.13347,
+                    49.61076
+                ]
+            },
+            "properties": {
+                "name": "Rue de l'Eau",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.93194,
+                    49.96889
+                ]
+            },
+            "properties": {
+                "name": "Wiltz",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.93403,
+                    49.5015
+                ]
+            },
+            "properties": {
+                "name": "Belval-Lycée train station",
+                "article": "https://en.wikipedia.org/wiki/Belval-Lyc%C3%A9e_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.132972222,
+                    49.599944444
+                ]
+            },
+            "properties": {
+                "name": "Hotel Graas",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.13925,
+                    49.606166666
+                ]
+            },
+            "properties": {
+                "name": "Gendarmerie Verlorenkost",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.126511,
+                    49.609772
+                ]
+            },
+            "properties": {
+                "name": "Servais house",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.124556,
+                    49.605028
+                ]
+            },
+            "properties": {
+                "name": "Streckeisen",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.12481,
+                    49.60872
+                ]
+            },
+            "properties": {
+                "name": "Villa Baldauff",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0984659,
+                    49.8470016
+                ]
+            },
+            "properties": {
+                "name": "Ettelbruck",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.20889,
+                    49.935
+                ]
+            },
+            "properties": {
+                "name": "Vianden",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.20306,
+                    49.94667
+                ]
+            },
+            "properties": {
+                "name": "Q20969234",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.17639017,
+                    49.94388962
+                ]
+            },
+            "properties": {
+                "name": "Q20969235",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.061388888,
+                    49.491111111
+                ]
+            },
+            "properties": {
+                "name": "Q20969238",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.126511,
+                    49.609772
+                ]
+            },
+            "properties": {
+                "name": "Servais house",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.124556,
+                    49.605028
+                ]
+            },
+            "properties": {
+                "name": "Streckeisen",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.12481,
+                    49.60872
+                ]
+            },
+            "properties": {
+                "name": "Villa Baldauff",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0984659,
+                    49.8470016
+                ]
+            },
+            "properties": {
+                "name": "Ettelbruck",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.20889,
+                    49.935
+                ]
+            },
+            "properties": {
+                "name": "Vianden",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.20306,
+                    49.94667
+                ]
+            },
+            "properties": {
+                "name": "Q20969234",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.17639017,
+                    49.94388962
+                ]
+            },
+            "properties": {
+                "name": "Q20969235",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.061388888,
+                    49.491111111
+                ]
+            },
+            "properties": {
+                "name": "Q20969238",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.29555988,
+                    49.63306046
+                ]
+            },
+            "properties": {
+                "name": "Q20969312",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0875,
+                    49.48056
+                ]
+            },
+            "properties": {
+                "name": "Dudelange",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.93639,
+                    49.91139
+                ]
+            },
+            "properties": {
+                "name": "Esch-sur-Sûre",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.16972,
+                    49.94222
+                ]
+            },
+            "properties": {
+                "name": "Q20969474",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.8594,
+                    49.5388
+                ]
+            },
+            "properties": {
+                "name": "Titelberg",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.35,
+                    49.65
+                ]
+            },
+            "properties": {
+                "name": "Q20969776",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.903333333,
+                    49.546111111
+                ]
+            },
+            "properties": {
+                "name": "Q20985792",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.922222222,
+                    49.742222222
+                ]
+            },
+            "properties": {
+                "name": "Noerdange train station",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.14319,
+                    49.60983
+                ]
+            },
+            "properties": {
+                "name": "Biisserwee",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.132778,
+                    49.618889
+                ]
+            },
+            "properties": {
+                "name": "Pfaffenthal-Kirchberg railway station",
+                "article": "https://en.wikipedia.org/wiki/Pfaffenthal-Kirchberg_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.130361111,
+                    49.609730555
+                ]
+            },
+            "properties": {
+                "name": "Rue de l'Ancien-Athénée",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.13061,
+                    49.61161
+                ]
+            },
+            "properties": {
+                "name": "Rue Génistre",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.12063,
+                    49.60754
+                ]
+            },
+            "properties": {
+                "name": "Rue du Fort-Rheinsheim",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1305,
+                    49.6035
+                ]
+            },
+            "properties": {
+                "name": "rue Sainte-Zithe",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1285,
+                    49.605
+                ]
+            },
+            "properties": {
+                "name": "rue Sainte-Zithe",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1267,
+                    49.6069
+                ]
+            },
+            "properties": {
+                "name": "rue Sainte-Zithe",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.12674,
+                    49.5997
+                ]
+            },
+            "properties": {
+                "name": "Rue de Chiny",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.12968,
+                    49.61303
+                ]
+            },
+            "properties": {
+                "name": "Rue Beaumont",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.116833333,
+                    49.593305555
+                ]
+            },
+            "properties": {
+                "name": "Route d'Esch",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.135,
+                    49.61153
+                ]
+            },
+            "properties": {
+                "name": "Hôtel du Conseil d'État",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.15583,
+                    49.86778
+                ]
+            },
+            "properties": {
+                "name": "Diekirch",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.132053,
+                    49.580443
+                ]
+            },
+            "properties": {
+                "name": "Howald railway station",
+                "article": "https://en.wikipedia.org/wiki/Howald_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1232,
+                    49.5848
+                ]
+            },
+            "properties": {
+                "name": "rue Charles-Darwin",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.901812,
+                    49.66751
+                ]
+            },
+            "properties": {
+                "name": "Q56241627",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.127119752,
+                    49.611034952
+                ]
+            },
+            "properties": {
+                "name": "Q58484385",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1620211,
+                    49.8688766
+                ]
+            },
+            "properties": {
+                "name": "Château Wirtgen",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.064983333,
+                    50.138752777
+                ]
+            },
+            "properties": {
+                "name": "Lakes of Weiswampach",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.21183,
+                    49.67515
+                ]
+            },
+            "properties": {
+                "name": "Pavillon Gréngewald",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.017305,
+                    50.141773
+                ]
+            },
+            "properties": {
+                "name": "Wilwerdange train station",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.92622,
+                    49.64901
+                ]
+            },
+            "properties": {
+                "name": "Hagen train station",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.09281,
+                    49.80802
+                ]
+            },
+            "properties": {
+                "name": "Colmar-Usines train station",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.41788,
+                    49.81556
+                ]
+            },
+            "properties": {
+                "name": "Echternach train station",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.91064,
+                    49.65915
+                ]
+            },
+            "properties": {
+                "name": "Q60852877",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.90607,
+                    49.58121
+                ]
+            },
+            "properties": {
+                "name": "Q60853118",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.91484,
+                    49.63517
+                ]
+            },
+            "properties": {
+                "name": "Q60853126",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.95079,
+                    49.7592
+                ]
+            },
+            "properties": {
+                "name": "Q60853124",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.90048,
+                    49.72473
+                ]
+            },
+            "properties": {
+                "name": "Q60853134",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.00832,
+                    49.7746
+                ]
+            },
+            "properties": {
+                "name": "Q60853135",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.98947,
+                    49.76898
+                ]
+            },
+            "properties": {
+                "name": "Q60853132",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.88086,
+                    49.68324
+                ]
+            },
+            "properties": {
+                "name": "Q60853141",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.18137,
+                    49.86676
+                ]
+            },
+            "properties": {
+                "name": "Q60853691",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.23733,
+                    49.86716
+                ]
+            },
+            "properties": {
+                "name": "Moestroff train station",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.21931,
+                    49.87216
+                ]
+            },
+            "properties": {
+                "name": "Q60853693",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.28976,
+                    49.87406
+                ]
+            },
+            "properties": {
+                "name": "Wallendorf-Pont train station",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.26321,
+                    49.86795
+                ]
+            },
+            "properties": {
+                "name": "Reisdorf train station",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.35414,
+                    49.84955
+                ]
+            },
+            "properties": {
+                "name": "Bollendorf-Pont train station",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.38333,
+                    49.8336
+                ]
+            },
+            "properties": {
+                "name": "Q60853707",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.47279,
+                    49.81935
+                ]
+            },
+            "properties": {
+                "name": "Steinheim train station",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.50736,
+                    49.80366
+                ]
+            },
+            "properties": {
+                "name": "Rosport train station",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.50693,
+                    49.75713
+                ]
+            },
+            "properties": {
+                "name": "Born train station",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.50164,
+                    49.74487
+                ]
+            },
+            "properties": {
+                "name": "Q60853715",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.51208,
+                    49.78322
+                ]
+            },
+            "properties": {
+                "name": "Hinkel train station",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1143,
+                    49.6032
+                ]
+            },
+            "properties": {
+                "name": "rue de la Toison-d'Or",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.12807,
+                    49.61108
+                ]
+            },
+            "properties": {
+                "name": "Rue Philippe-II",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0958,
+                    49.6168
+                ]
+            },
+            "properties": {
+                "name": "route d'Arlon",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1067,
+                    49.6153
+                ]
+            },
+            "properties": {
+                "name": "route d'Arlon",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1194,
+                    49.6134
+                ]
+            },
+            "properties": {
+                "name": "route d'Arlon",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.926638888,
+                    49.704444444
+                ]
+            },
+            "properties": {
+                "name": "Q65320490",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.936694444,
+                    49.502777777
+                ]
+            },
+            "properties": {
+                "name": "Q67014822",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.940277777,
+                    49.503361111
+                ]
+            },
+            "properties": {
+                "name": "Boulevard de la Recherche",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.942861111,
+                    49.502916666
+                ]
+            },
+            "properties": {
+                "name": "Boulevard du Jazz",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.944083333,
+                    49.504388888
+                ]
+            },
+            "properties": {
+                "name": "Q67015586",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.941944444,
+                    49.504111111
+                ]
+            },
+            "properties": {
+                "name": "Q67016198",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.951027777,
+                    49.502583333
+                ]
+            },
+            "properties": {
+                "name": "Avenue des Sidérurgistes",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.938388888,
+                    49.508444444
+                ]
+            },
+            "properties": {
+                "name": "Q67380736",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.165194444,
+                    49.629722222
+                ]
+            },
+            "properties": {
+                "name": "Q69419992",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.364972,
+                    49.470861
+                ]
+            },
+            "properties": {
+                "name": "Q71868248",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.135,
+                    49.605555555
+                ]
+            },
+            "properties": {
+                "name": "Q72403143",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.498667,
+                    49.713472
+                ]
+            },
+            "properties": {
+                "name": "Mairie de Mertert",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.49869,
+                    49.71349
+                ]
+            },
+            "properties": {
+                "name": "Mairie de Mertert",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.118,
+                    49.59806
+                ]
+            },
+            "properties": {
+                "name": "99-103, route d'Esch",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.12687,
+                    49.61149
+                ]
+            },
+            "properties": {
+                "name": "Rue Aldringen",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.12732,
+                    49.61179
+                ]
+            },
+            "properties": {
+                "name": "Rue Beck",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.12968,
+                    49.61236
+                ]
+            },
+            "properties": {
+                "name": "Rue des Capucins",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.13293,
+                    49.61147
+                ]
+            },
+            "properties": {
+                "name": "Rue de la Boucherie",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.12858,
+                    49.61144
+                ]
+            },
+            "properties": {
+                "name": "Rue de la Poste",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.13347,
+                    49.60998
+                ]
+            },
+            "properties": {
+                "name": "Rue du Saint-Esprit",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.13247,
+                    49.6093
+                ]
+            },
+            "properties": {
+                "name": "Rue de la Congrégation / Jofferegässel",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.13924,
+                    49.58819
+                ]
+            },
+            "properties": {
+                "name": "Rangwee",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.12802,
+                    49.6133
+                ]
+            },
+            "properties": {
+                "name": "rue des Bains",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.13015,
+                    49.61375
+                ]
+            },
+            "properties": {
+                "name": "Rue Willy-Goergen",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.141287,
+                    49.618052
+                ]
+            },
+            "properties": {
+                "name": "Robert Schuman building",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.12965,
+                    49.58953
+                ]
+            },
+            "properties": {
+                "name": "Rue Ch.-W.-Gluck",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.742423,
+                    49.832743
+                ]
+            },
+            "properties": {
+                "name": "Martelange train station",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1163,
+                    49.604
+                ]
+            },
+            "properties": {
+                "name": "rue Marie-Adélaïde",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.292167,
+                    49.837778
+                ]
+            },
+            "properties": {
+                "name": "Q101252293",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.11717,
+                    49.59899
+                ]
+            },
+            "properties": {
+                "name": "Route nationale 56B",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.11702,
+                    49.5999
+                ]
+            },
+            "properties": {
+                "name": "Route nationale 56B",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.12236,
+                    49.6207
+                ]
+            },
+            "properties": {
+                "name": "Halle Victor-Hugo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.15238,
+                    49.61643
+                ]
+            },
+            "properties": {
+                "name": "Tawioun",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.16412,
+                    49.61396
+                ]
+            },
+            "properties": {
+                "name": "Val de Hamm",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.14692,
+                    49.624533888
+                ]
+            },
+            "properties": {
+                "name": "Jean Monnet building",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.15867,
+                    49.8657
+                ]
+            },
+            "properties": {
+                "name": "Parva Domus Magna Quies (Diekirch)",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.13984,
+                    49.59012
+                ]
+            },
+            "properties": {
+                "name": "Rue d'Ivoix",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1391,
+                    49.59174
+                ]
+            },
+            "properties": {
+                "name": "Rue de Houffalize",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.13993,
+                    49.59014
+                ]
+            },
+            "properties": {
+                "name": "Rue de Neufchâteau",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.113527777,
+                    49.676583333
+                ]
+            },
+            "properties": {
+                "name": "Gallo-Roman temple at Steinsel",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.13689,
+                    49.59324
+                ]
+            },
+            "properties": {
+                "name": "Q113162477",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.10883,
+                    49.59537
+                ]
+            },
+            "properties": {
+                "name": "Rue des Artisans",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.3329379,
+                    49.8174795
+                ]
+            },
+            "properties": {
+                "name": "Werschrummschloeff",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.94341,
+                    49.81894
+                ]
+            },
+            "properties": {
+                "name": "40, Angelsgronn",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.94009,
+                    49.82233
+                ]
+            },
+            "properties": {
+                "name": "Q116529066",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.94147,
+                    49.82098
+                ]
+            },
+            "properties": {
+                "name": "32, Angelsgronn",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.15925,
+                    49.6295
+                ]
+            },
+            "properties": {
+                "name": "Q120501143",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.115,
+                    49.611388888
+                ]
+            },
+            "properties": {
+                "name": "Q124625996",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.121111111,
+                    49.612777777
+                ]
+            },
+            "properties": {
+                "name": "Q124626021",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.131083333,
+                    49.599916666
+                ]
+            },
+            "properties": {
+                "name": "Q130257171",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.975833333,
+                    49.491888888
+                ]
+            },
+            "properties": {
+                "name": "Q130376433",
+                "article": null
+            }
+        }
+    ]
+}

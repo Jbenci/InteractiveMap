@@ -1,0 +1,1503 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.1918,
+                    4.5828
+                ]
+            },
+            "properties": {
+                "name": "Kuala Belait",
+                "article": "https://en.wikipedia.org/wiki/Kuala_Belait"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.333333333,
+                    4.3
+                ]
+            },
+            "properties": {
+                "name": "Bukit Pagon",
+                "article": "https://en.wikipedia.org/wiki/Pagon_Hill"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.330277777,
+                    4.614166666
+                ]
+            },
+            "properties": {
+                "name": "Seria",
+                "article": "https://en.wikipedia.org/wiki/Seria"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.0693,
+                    5.0268
+                ]
+            },
+            "properties": {
+                "name": "Muara Town",
+                "article": "https://en.wikipedia.org/wiki/Muara,_Brunei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.9525,
+                    4.92166667
+                ]
+            },
+            "properties": {
+                "name": "Ministry of Finance Building, Brunei",
+                "article": "https://en.wikipedia.org/wiki/Ministry_of_Finance_Building,_Brunei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.1,
+                    5.05
+                ]
+            },
+            "properties": {
+                "name": "Tanjong Pelumpong",
+                "article": "https://en.wikipedia.org/wiki/Pelumpong_Spit,_Brunei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.95,
+                    4.86667
+                ]
+            },
+            "properties": {
+                "name": "Pulau Lumut Lunting",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.165,
+                    4.6017
+                ]
+            },
+            "properties": {
+                "name": "Bukit Lutut",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.83333,
+                    4.83333
+                ]
+            },
+            "properties": {
+                "name": "Bukit Masin",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.85,
+                    4.93333
+                ]
+            },
+            "properties": {
+                "name": "Bukit Mejawa",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.933333333,
+                    4.833333333
+                ]
+            },
+            "properties": {
+                "name": "Q21789960",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.66667,
+                    4.6
+                ]
+            },
+            "properties": {
+                "name": "Luagan Merimbun",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.5842,
+                    4.6683
+                ]
+            },
+            "properties": {
+                "name": "Bukit Nong Dangar",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.8158,
+                    4.8483
+                ]
+            },
+            "properties": {
+                "name": "Q21790028",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.735,
+                    4.0667
+                ]
+            },
+            "properties": {
+                "name": "Batu Patam",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.1783,
+                    4.7467
+                ]
+            },
+            "properties": {
+                "name": "Bukit Patoi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.03333,
+                    5.08333
+                ]
+            },
+            "properties": {
+                "name": "Q21790047",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.03333,
+                    4.91667
+                ]
+            },
+            "properties": {
+                "name": "Pulau Pepatan",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.1658,
+                    4.725
+                ]
+            },
+            "properties": {
+                "name": "Bukit Peradayan",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.8,
+                    4.75
+                ]
+            },
+            "properties": {
+                "name": "Bukit Posongan",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.83333,
+                    4.98333
+                ]
+            },
+            "properties": {
+                "name": "Pulau Punyit",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.9,
+                    4.85
+                ]
+            },
+            "properties": {
+                "name": "Pulau Ranggu",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.03333,
+                    4.98333
+                ]
+            },
+            "properties": {
+                "name": "Pulau Salar",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.2308,
+                    4.7975
+                ]
+            },
+            "properties": {
+                "name": "Q21790104",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.96667,
+                    4.86667
+                ]
+            },
+            "properties": {
+                "name": "Bukit Salibaya",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.7492,
+                    4.8658
+                ]
+            },
+            "properties": {
+                "name": "Bukit Temanik",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.0317,
+                    5.0175
+                ]
+            },
+            "properties": {
+                "name": "Bukit Tempayan Pisang",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.4333,
+                    4.2975
+                ]
+            },
+            "properties": {
+                "name": "Bukit Teraja",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.51667,
+                    4.7
+                ]
+            },
+            "properties": {
+                "name": "Bukit Tunggulian",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.63333,
+                    4.31667
+                ]
+            },
+            "properties": {
+                "name": "Bukit Tunjang Pipit",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.6425,
+                    4.7217
+                ]
+            },
+            "properties": {
+                "name": "Bukit Udal",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.5333,
+                    4.5025
+                ]
+            },
+            "properties": {
+                "name": "Bukit Usong",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.06667,
+                    5.1
+                ]
+            },
+            "properties": {
+                "name": "Abana Rock",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.81667,
+                    4.88333
+                ]
+            },
+            "properties": {
+                "name": "Bukit Abang",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.91667,
+                    4.91667
+                ]
+            },
+            "properties": {
+                "name": "Kampong Ayer",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.7808,
+                    4.8975
+                ]
+            },
+            "properties": {
+                "name": "Bukit Agok",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.91667,
+                    4.86667
+                ]
+            },
+            "properties": {
+                "name": "Ajong Batu",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.6658,
+                    4.7975
+                ]
+            },
+            "properties": {
+                "name": "Bukit Ambok",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.05,
+                    5.03333
+                ]
+            },
+            "properties": {
+                "name": "Bukit Cowie",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.716666666,
+                    4.816666666
+                ]
+            },
+            "properties": {
+                "name": "Q21792650",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.8317,
+                    4.9133
+                ]
+            },
+            "properties": {
+                "name": "Bukit Didaran",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.9983,
+                    4.9142
+                ]
+            },
+            "properties": {
+                "name": "Jajak Ridge",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.8517,
+                    4.9517
+                ]
+            },
+            "properties": {
+                "name": "Bukit Jerudong",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.03333,
+                    4.95
+                ]
+            },
+            "properties": {
+                "name": "Pulau Kaingaran",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.9,
+                    4.966666666
+                ]
+            },
+            "properties": {
+                "name": "Q21792696",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.73333,
+                    4.76667
+                ]
+            },
+            "properties": {
+                "name": "Bukit Kebia",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.86667,
+                    4.85
+                ]
+            },
+            "properties": {
+                "name": "Bukit Kelangkong",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.041,
+                    4.76083
+                ]
+            },
+            "properties": {
+                "name": "Pulau Kibi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.03333,
+                    4.76667
+                ]
+            },
+            "properties": {
+                "name": "Pulau Kibi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.099,
+                    4.87694
+                ]
+            },
+            "properties": {
+                "name": "Pulau Kitang",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.1,
+                    4.88333
+                ]
+            },
+            "properties": {
+                "name": "Pulau Kitang",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.01667,
+                    4.91667
+                ]
+            },
+            "properties": {
+                "name": "Bukit Kindana",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.916666666,
+                    4.916666666
+                ]
+            },
+            "properties": {
+                "name": "Bandar Seri Begawan",
+                "article": "https://en.wikipedia.org/wiki/Bandar_Seri_Begawan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.0,
+                    -1.0
+                ]
+            },
+            "properties": {
+                "name": "Borneo",
+                "article": "https://en.wikipedia.org/wiki/Borneo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.8808,
+                    4.965
+                ]
+            },
+            "properties": {
+                "name": "Bukit Sarang Halang",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.91667,
+                    4.85
+                ]
+            },
+            "properties": {
+                "name": "Bukit Sebuara",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.18333,
+                    4.68333
+                ]
+            },
+            "properties": {
+                "name": "Pulau Sekurop",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.93333,
+                    4.98333
+                ]
+            },
+            "properties": {
+                "name": "Bukit Selayun",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.9583,
+                    4.8975
+                ]
+            },
+            "properties": {
+                "name": "Bukit Selila",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.6,
+                    4.766666666
+                ]
+            },
+            "properties": {
+                "name": "Q21790133",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.7,
+                    4.83333
+                ]
+            },
+            "properties": {
+                "name": "Bukit Sibundang",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.95,
+                    4.86667
+                ]
+            },
+            "properties": {
+                "name": "Pulau Sibungor",
+                "article": "https://en.wikipedia.org/wiki/Sibungor_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.03333,
+                    4.8
+                ]
+            },
+            "properties": {
+                "name": "Pulau Siarau",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.046,
+                    4.805
+                ]
+            },
+            "properties": {
+                "name": "Pulau Siarau",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.05,
+                    4.88333
+                ]
+            },
+            "properties": {
+                "name": "Pulau Silamak",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.76667,
+                    4.86667
+                ]
+            },
+            "properties": {
+                "name": "Bukit Singap",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.75,
+                    4.81667
+                ]
+            },
+            "properties": {
+                "name": "Bukit Sinaut",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.916666666,
+                    4.816666666
+                ]
+            },
+            "properties": {
+                "name": "Q21790168",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.7492,
+                    4.5017
+                ]
+            },
+            "properties": {
+                "name": "Bukit Supon",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.9475,
+                    4.9992
+                ]
+            },
+            "properties": {
+                "name": "Bukit Tabor Bintang",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.66667,
+                    4.76667
+                ]
+            },
+            "properties": {
+                "name": "Pulau Tanjong Maya",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.1275,
+                    4.6417
+                ]
+            },
+            "properties": {
+                "name": "Bukit Telugong",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.03333,
+                    4.9
+                ]
+            },
+            "properties": {
+                "name": "Pulau Baru Baru",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.05,
+                    4.98333
+                ]
+            },
+            "properties": {
+                "name": "Pulau Bedukang",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.61667,
+                    4.78333
+                ]
+            },
+            "properties": {
+                "name": "Pulau Bekuku",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.1842,
+                    4.4825
+                ]
+            },
+            "properties": {
+                "name": "Bukit Belalong",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.983333333,
+                    4.866666666
+                ]
+            },
+            "properties": {
+                "name": "Berambang Island",
+                "article": "https://en.wikipedia.org/wiki/Berambang_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.03333,
+                    4.88333
+                ]
+            },
+            "properties": {
+                "name": "Pulau Berbunot",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.5,
+                    4.55
+                ]
+            },
+            "properties": {
+                "name": "Bukit Bisut",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.06667,
+                    5.05
+                ]
+            },
+            "properties": {
+                "name": "Brunei Bluff",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.9333,
+                    4.8542
+                ]
+            },
+            "properties": {
+                "name": "Bukit Buang Sakar",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.85,
+                    4.96667
+                ]
+            },
+            "properties": {
+                "name": "Brunei Cliffs",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.01667,
+                    4.93333
+                ]
+            },
+            "properties": {
+                "name": "Pulau Chermin",
+                "article": "https://en.wikipedia.org/wiki/Cermin_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.0249126,
+                    4.9298333
+                ]
+            },
+            "properties": {
+                "name": "Pulau Chermin",
+                "article": "https://en.wikipedia.org/wiki/Cermin_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.7492,
+                    4.8042
+                ]
+            },
+            "properties": {
+                "name": "Q21792734",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.7033,
+                    4.6683
+                ]
+            },
+            "properties": {
+                "name": "Bukit Kubur Jin",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.816666666,
+                    4.783333333
+                ]
+            },
+            "properties": {
+                "name": "Q21792732",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.6183,
+                    4.6967
+                ]
+            },
+            "properties": {
+                "name": "Bukit Kukub",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.966666666,
+                    4.933333333
+                ]
+            },
+            "properties": {
+                "name": "Q21792760",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.05,
+                    4.88333
+                ]
+            },
+            "properties": {
+                "name": "Pulau Lilipan",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.935,
+                    4.9475
+                ]
+            },
+            "properties": {
+                "name": "Bukit Luang",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.88333,
+                    4.85
+                ]
+            },
+            "properties": {
+                "name": "Pulau Luba",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.91667,
+                    4.86667
+                ]
+            },
+            "properties": {
+                "name": "Bukit Lumadan",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.85,
+                    4.91667
+                ]
+            },
+            "properties": {
+                "name": "Bukit Lugam",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.833333333,
+                    4.833333333
+                ]
+            },
+            "properties": {
+                "name": "Q21792792",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.1058,
+                    4.6825
+                ]
+            },
+            "properties": {
+                "name": "Bukit Biang",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.46667,
+                    4.36667
+                ]
+            },
+            "properties": {
+                "name": "Bukit Telingan",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.3275,
+                    4.61722222
+                ]
+            },
+            "properties": {
+                "name": "Seria Energy Lab",
+                "article": "https://en.wikipedia.org/wiki/Seria_Energy_Lab"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.964722222,
+                    4.882222222
+                ]
+            },
+            "properties": {
+                "name": "Kota Batu Archaeological Park",
+                "article": "https://en.wikipedia.org/wiki/Kota_Batu_Archaeological_Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.1,
+                    5.0
+                ]
+            },
+            "properties": {
+                "name": "Muara Besar Island",
+                "article": "https://en.wikipedia.org/wiki/Muara_Besar_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.0999753,
+                    5.0060444
+                ]
+            },
+            "properties": {
+                "name": "Muara Besar Island",
+                "article": "https://en.wikipedia.org/wiki/Muara_Besar_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.91667,
+                    4.85
+                ]
+            },
+            "properties": {
+                "name": "Saeh Hill",
+                "article": "https://en.wikipedia.org/wiki/Saeh_Hill"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.918722,
+                    4.849533
+                ]
+            },
+            "properties": {
+                "name": "Saeh Hill",
+                "article": "https://en.wikipedia.org/wiki/Saeh_Hill"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.6386104,
+                    4.8072519
+                ]
+            },
+            "properties": {
+                "name": "Istana Pantai",
+                "article": "https://en.wikipedia.org/wiki/Istana_Pantai"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.2963889,
+                    4.3383333
+                ]
+            },
+            "properties": {
+                "name": "Retak Hill",
+                "article": "https://en.wikipedia.org/wiki/Retak_Hill"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.13,
+                    4.87611
+                ]
+            },
+            "properties": {
+                "name": "Selirong Island",
+                "article": "https://en.wikipedia.org/wiki/Selirong_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.1298164,
+                    4.8818999
+                ]
+            },
+            "properties": {
+                "name": "Selirong Island",
+                "article": "https://en.wikipedia.org/wiki/Selirong_Island"
+            }
+        }
+    ]
+}

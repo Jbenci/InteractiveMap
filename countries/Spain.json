@@ -1,0 +1,1405 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.765402777,
+                    40.32825
+                ]
+            },
+            "properties": {
+                "name": "Leganés",
+                "article": "https://en.wikipedia.org/wiki/Legan%C3%A9s"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.65,
+                    39.033330555
+                ]
+            },
+            "properties": {
+                "name": "Illa de Tagomago",
+                "article": "https://en.wikipedia.org/wiki/Illa_de_Tagomago"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.6481812,
+                    42.8086427
+                ]
+            },
+            "properties": {
+                "name": "Casa de la Misericordia de Pamplona",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.58167,
+                    41.1325
+                ]
+            },
+            "properties": {
+                "name": "Battle of Somosierra",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Somosierra"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.4679001,
+                    39.4365348
+                ]
+            },
+            "properties": {
+                "name": "Torrent",
+                "article": "https://en.wikipedia.org/wiki/Torrent,_Valencia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.565,
+                    40.426111111
+                ]
+            },
+            "properties": {
+                "name": "Coslada",
+                "article": "https://en.wikipedia.org/wiki/Coslada"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.83333333,
+                    39.96666667
+                ]
+            },
+            "properties": {
+                "name": "Battle of Talavera",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Talavera"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.5925,
+                    27.958611111
+                ]
+            },
+            "properties": {
+                "name": "Gran Canaria",
+                "article": "https://en.wikipedia.org/wiki/Gran_Canaria"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.265277777,
+                    43.181944444
+                ]
+            },
+            "properties": {
+                "name": "Azpeitia",
+                "article": "https://en.wikipedia.org/wiki/Azpeitia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -13.635,
+                    29.035
+                ]
+            },
+            "properties": {
+                "name": "Lanzarote",
+                "article": "https://en.wikipedia.org/wiki/Lanzarote"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.96666667,
+                    38.86666667
+                ]
+            },
+            "properties": {
+                "name": "Battle of Badajoz",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Badajoz_(1936)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.866666666,
+                    40.333333333
+                ]
+            },
+            "properties": {
+                "name": "Móstoles",
+                "article": "https://en.wikipedia.org/wiki/M%C3%B3stoles"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.299722222,
+                    35.172222222
+                ]
+            },
+            "properties": {
+                "name": "Peñón de Vélez de la Gomera",
+                "article": "https://en.wikipedia.org/wiki/Pe%C3%B1%C3%B3n_de_V%C3%A9lez_de_la_Gomera"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.8895,
+                    35.2135
+                ]
+            },
+            "properties": {
+                "name": "Peñón de Alhucemas",
+                "article": "https://en.wikipedia.org/wiki/Pe%C3%B1%C3%B3n_de_Alhucemas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -14.0,
+                    28.4
+                ]
+            },
+            "properties": {
+                "name": "Fuerteventura",
+                "article": "https://en.wikipedia.org/wiki/Fuerteventura"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2381494,
+                    36.601468
+                ]
+            },
+            "properties": {
+                "name": "El Puerto de Santa María",
+                "article": "https://en.wikipedia.org/wiki/El_Puerto_de_Santa_Mar%C3%ADa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.297777777,
+                    40.246666666
+                ]
+            },
+            "properties": {
+                "name": "Pico Almanzor",
+                "article": "https://en.wikipedia.org/wiki/Pico_Almanzor"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.656686111,
+                    42.630991666
+                ]
+            },
+            "properties": {
+                "name": "Aneto",
+                "article": "https://en.wikipedia.org/wiki/Aneto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.824930555,
+                    41.983111111
+                ]
+            },
+            "properties": {
+                "name": "Battle of Gerona",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Girona_(1808)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.311388888,
+                    37.053333333
+                ]
+            },
+            "properties": {
+                "name": "Mulhacén",
+                "article": "https://en.wikipedia.org/wiki/Mulhac%C3%A9n"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.64639,
+                    41.7333
+                ]
+            },
+            "properties": {
+                "name": "Battle of Cabezón",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Cabez%C3%B3n"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.867785472,
+                    37.886080468
+                ]
+            },
+            "properties": {
+                "name": "Madinat Al-Zahra",
+                "article": "https://en.wikipedia.org/wiki/Madinat_al-Zahra"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.867785472,
+                    37.886080468
+                ]
+            },
+            "properties": {
+                "name": "Madinat Al-Zahra",
+                "article": "https://en.wikipedia.org/wiki/Madinat_al-Zahra"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.033333333,
+                    42.673888888
+                ]
+            },
+            "properties": {
+                "name": "Monte Perdido",
+                "article": "https://en.wikipedia.org/wiki/Monte_Perdido"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.549027777,
+                    38.343
+                ]
+            },
+            "properties": {
+                "name": "Battle of Las Navas de Tolosa",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Las_Navas_de_Tolosa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.176944444,
+                    41.3825
+                ]
+            },
+            "properties": {
+                "name": "Barcelona",
+                "article": "https://en.wikipedia.org/wiki/Barcelona"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.703333333,
+                    40.416944444
+                ]
+            },
+            "properties": {
+                "name": "Madrid",
+                "article": "https://en.wikipedia.org/wiki/Madrid"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.50403333,
+                    40.2179
+                ]
+            },
+            "properties": {
+                "name": "Battle of Jarama",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Jarama"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.947110073,
+                    42.482101374
+                ]
+            },
+            "properties": {
+                "name": "Puig Neulós",
+                "article": "https://en.wikipedia.org/wiki/Puig_Neul%C3%B3s"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.649722222,
+                    39.566666666
+                ]
+            },
+            "properties": {
+                "name": "Palma",
+                "article": "https://en.wikipedia.org/wiki/Palma_de_Mallorca"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.983333333,
+                    39.616666666
+                ]
+            },
+            "properties": {
+                "name": "Mallorca",
+                "article": "https://en.wikipedia.org/wiki/Mallorca"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.698333333,
+                    38.266944444
+                ]
+            },
+            "properties": {
+                "name": "Elche",
+                "article": "https://en.wikipedia.org/wiki/Elche"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.483055555,
+                    38.345277777
+                ]
+            },
+            "properties": {
+                "name": "Alicante",
+                "article": "https://en.wikipedia.org/wiki/Alicante"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.933333333,
+                    42.683333333
+                ]
+            },
+            "properties": {
+                "name": "Miranda de Ebro",
+                "article": "https://en.wikipedia.org/wiki/Miranda_de_Ebro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.101388888,
+                    39.937777777
+                ]
+            },
+            "properties": {
+                "name": "Vila-real",
+                "article": "https://en.wikipedia.org/wiki/Villarreal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.922222222,
+                    43.556111111
+                ]
+            },
+            "properties": {
+                "name": "Avilés",
+                "article": "https://en.wikipedia.org/wiki/Avil%C3%A9s"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.037438888,
+                    39.985980555
+                ]
+            },
+            "properties": {
+                "name": "Castelló de la Plana",
+                "article": "https://en.wikipedia.org/wiki/Castell%C3%B3n_de_la_Plana"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.2182775,
+                    41.4304832
+                ]
+            },
+            "properties": {
+                "name": "Sant Adrià de Besòs",
+                "article": "https://en.wikipedia.org/wiki/Sant_Adri%C3%A0_de_Bes%C3%B2s"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.043888888,
+                    41.383333333
+                ]
+            },
+            "properties": {
+                "name": "Sant Feliu de Llobregat",
+                "article": "https://en.wikipedia.org/wiki/Sant_Feliu_de_Llobregat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.0570346,
+                    41.3667951
+                ]
+            },
+            "properties": {
+                "name": "Sant Joan Despí",
+                "article": "https://en.wikipedia.org/wiki/Sant_Joan_Desp%C3%AD"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.970609,
+                    38.87789
+                ]
+            },
+            "properties": {
+                "name": "Badajoz",
+                "article": "https://en.wikipedia.org/wiki/Badajoz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.116790662,
+                    42.38326609
+                ]
+            },
+            "properties": {
+                "name": "Puigmal",
+                "article": "https://en.wikipedia.org/wiki/Puigmal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.682222222,
+                    40.472222222
+                ]
+            },
+            "properties": {
+                "name": "Madrid Chamartín station",
+                "article": "https://en.wikipedia.org/wiki/Madrid_Chamart%C3%ADn_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.691666666,
+                    40.4075
+                ]
+            },
+            "properties": {
+                "name": "Atocha Railway Station",
+                "article": "https://en.wikipedia.org/wiki/Madrid_Atocha_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.535981,
+                    39.498054
+                ]
+            },
+            "properties": {
+                "name": "archaeological zone of the Pla de Nadal",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.9989,
+                    43.3214
+                ]
+            },
+            "properties": {
+                "name": "Santa Clara Island",
+                "article": "https://en.wikipedia.org/wiki/Santa_Clara_Island_(San_Sebasti%C3%A1n)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.182222222,
+                    38.966666666
+                ]
+            },
+            "properties": {
+                "name": "Gandia",
+                "article": "https://en.wikipedia.org/wiki/Gandia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.119813888,
+                    42.893883333
+                ]
+            },
+            "properties": {
+                "name": "Mount Pindo",
+                "article": "https://en.wikipedia.org/wiki/Mount_Pindo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.7,
+                    37.683333333
+                ]
+            },
+            "properties": {
+                "name": "Lorca",
+                "article": "https://en.wikipedia.org/wiki/Lorca,_Spain"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.43,
+                    38.98
+                ]
+            },
+            "properties": {
+                "name": "Ibiza",
+                "article": "https://en.wikipedia.org/wiki/Ibiza"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.083333333,
+                    39.966666666
+                ]
+            },
+            "properties": {
+                "name": "Menorca",
+                "article": "https://en.wikipedia.org/wiki/Menorca"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.945833,
+                    39.141944
+                ]
+            },
+            "properties": {
+                "name": "Cabrera",
+                "article": "https://en.wikipedia.org/wiki/Cabrera,_Balearic_Islands"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.090833333,
+                    40.0275
+                ]
+            },
+            "properties": {
+                "name": "Plasencia",
+                "article": "https://en.wikipedia.org/wiki/Plasencia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.606666666,
+                    42.065277777
+                ]
+            },
+            "properties": {
+                "name": "Tudela",
+                "article": "https://en.wikipedia.org/wiki/Tudela,_Navarre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.5,
+                    40.83333333
+                ]
+            },
+            "properties": {
+                "name": "Battle of Alba de Tormes",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Alba_de_Tormes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.993611111,
+                    41.894166666
+                ]
+            },
+            "properties": {
+                "name": "Battle of Medina de Rioseco",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Medina_de_Rioseco"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.581944444,
+                    37.404166666
+                ]
+            },
+            "properties": {
+                "name": "Águilas",
+                "article": "https://en.wikipedia.org/wiki/%C3%81guilas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.7763778,
+                    40.110725
+                ]
+            },
+            "properties": {
+                "name": "Garganta la Olla",
+                "article": "https://en.wikipedia.org/wiki/Garganta_la_Olla"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.71788889,
+                    42.79163889
+                ]
+            },
+            "properties": {
+                "name": "Church of Nuestra Señora de la Purificación",
+                "article": "https://en.wikipedia.org/wiki/Church_of_Nuestra_Se%C3%B1ora_de_la_Purificaci%C3%B3n_(Gaz%C3%B3laz)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.63333333,
+                    41.61666667
+                ]
+            },
+            "properties": {
+                "name": "Battle of Lerida",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Lleida_(1642)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.156583333,
+                    41.380638888
+                ]
+            },
+            "properties": {
+                "name": "Gran Via de les Corts Catalanes",
+                "article": "https://en.wikipedia.org/wiki/Gran_Via_de_les_Corts_Catalanes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.079166666,
+                    37.541111111
+                ]
+            },
+            "properties": {
+                "name": "Écija",
+                "article": "https://en.wikipedia.org/wiki/%C3%89cija"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.683333333,
+                    42.85
+                ]
+            },
+            "properties": {
+                "name": "Battle of Vitoria",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Vitoria"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.4352,
+                    42.654481
+                ]
+            },
+            "properties": {
+                "name": "Pico Posets",
+                "article": "https://en.wikipedia.org/wiki/Pico_Posets"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.210797313,
+                    42.95398484
+                ]
+            },
+            "properties": {
+                "name": "Hiriberri/Villanueva de Aezkoa",
+                "article": "https://en.wikipedia.org/wiki/Hiriberri/Villanueva_de_Aezkoa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.812777777,
+                    42.739444444
+                ]
+            },
+            "properties": {
+                "name": "Battle of Monte Pelado",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Monte_Pelado"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.1023083,
+                    39.488538
+                ]
+            },
+            "properties": {
+                "name": "Requena",
+                "article": "https://en.wikipedia.org/wiki/Requena,_Valencia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.864166666,
+                    43.171111111
+                ]
+            },
+            "properties": {
+                "name": "Goizueta",
+                "article": "https://en.wikipedia.org/wiki/Goizueta,_Navarre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.093694444,
+                    38.874444444
+                ]
+            },
+            "properties": {
+                "name": "Battle of Almansa",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Almansa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.703283333,
+                    41.344702777
+                ]
+            },
+            "properties": {
+                "name": "Vilafranca del Penedès station",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.638611111,
+                    41.973611111
+                ]
+            },
+            "properties": {
+                "name": "Ablitas",
+                "article": "https://en.wikipedia.org/wiki/Ablitas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.816666666,
+                    41.983333333
+                ]
+            },
+            "properties": {
+                "name": "Second Siege of Gerona",
+                "article": "https://en.wikipedia.org/wiki/Second_siege_of_Girona"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.440833333,
+                    41.981388888
+                ]
+            },
+            "properties": {
+                "name": "Buñuel",
+                "article": "https://en.wikipedia.org/wiki/Bu%C3%B1uel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.371666666,
+                    38.011666666
+                ]
+            },
+            "properties": {
+                "name": "Úbeda",
+                "article": "https://en.wikipedia.org/wiki/%C3%9Abeda"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.15888889,
+                    41.36722222
+                ]
+            },
+            "properties": {
+                "name": "Battle of Montjuïc",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Montju%C3%AFc_(1641)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.688444,
+                    41.533694
+                ]
+            },
+            "properties": {
+                "name": "Abric Romaní de Capellades",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.18111,
+                    41.4
+                ]
+            },
+            "properties": {
+                "name": "La Monumental",
+                "article": "https://en.wikipedia.org/wiki/La_Monumental"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.134537,
+                    37.300275
+                ]
+            },
+            "properties": {
+                "name": "Acci",
+                "article": "https://en.wikipedia.org/wiki/Acci"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -17.91422603,
+                    28.65823293
+                ]
+            },
+            "properties": {
+                "name": "Los Llanos de Aridane",
+                "article": "https://en.wikipedia.org/wiki/Los_Llanos_de_Aridane"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -14.33774167,
+                    28.10293333
+                ]
+            },
+            "properties": {
+                "name": "Jandía",
+                "article": "https://en.wikipedia.org/wiki/Jand%C3%ADa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.455556,
+                    28.033333
+                ]
+            },
+            "properties": {
+                "name": "Bandama Caldera",
+                "article": "https://en.wikipedia.org/wiki/Bandama_Caldera"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.261666666,
+                    39.481944444
+                ]
+            },
+            "properties": {
+                "name": "Poblat talaiòtic de l'Hospitalet Vell",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.83252222,
+                    39.07433889
+                ]
+            },
+            "properties": {
+                "name": "Calatrava la Vieja",
+                "article": "https://en.wikipedia.org/wiki/Calatrava_la_Vieja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.908055555,
+                    39.152777777
+                ]
+            },
+            "properties": {
+                "name": "juanki sportium",
+                "article": "https://en.wikipedia.org/wiki/Miajadas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.817028299,
+                    42.69184846
+                ]
+            },
+            "properties": {
+                "name": "Puente La Reina – Gares",
+                "article": "https://en.wikipedia.org/wiki/Puente_la_Reina,_Navarre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.1198,
+                    36.7335
+                ]
+            },
+            "properties": {
+                "name": "Menace",
+                "article": "https://en.wikipedia.org/wiki/Mainake_(Greek_settlement)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.1198,
+                    36.7335
+                ]
+            },
+            "properties": {
+                "name": "Menace",
+                "article": "https://en.wikipedia.org/wiki/Mainake_(Greek_settlement)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.876058,
+                    36.74501
+                ]
+            },
+            "properties": {
+                "name": "Menace",
+                "article": "https://en.wikipedia.org/wiki/Mainake_(Greek_settlement)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.876058,
+                    36.74501
+                ]
+            },
+            "properties": {
+                "name": "Menace",
+                "article": "https://en.wikipedia.org/wiki/Mainake_(Greek_settlement)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.26138889,
+                    42.43777778
+                ]
+            },
+            "properties": {
+                "name": "Pic de la Dona",
+                "article": "https://en.wikipedia.org/wiki/Pic_de_la_Dona"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.083888888,
+                    39.889611111
+                ]
+            },
+            "properties": {
+                "name": "Burriana",
+                "article": "https://en.wikipedia.org/wiki/Burriana,_Castell%C3%B3n"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.77553,
+                    43.45161
+                ]
+            },
+            "properties": {
+                "name": "Aketx",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.941944444,
+                    42.376944444
+                ]
+            },
+            "properties": {
+                "name": "Andosilla",
+                "article": "https://en.wikipedia.org/wiki/Andosilla"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.212836,
+                    36.45401
+                ]
+            },
+            "properties": {
+                "name": "Isla de León",
+                "article": "https://en.wikipedia.org/wiki/Isla_de_Le%C3%B3n"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.017564,
+                    43.322057
+                ]
+            },
+            "properties": {
+                "name": "Gran Hotel Puente Colgante",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.33062,
+                    39.53574
+                ]
+            },
+            "properties": {
+                "name": "Coves del Drach",
+                "article": "https://en.wikipedia.org/wiki/Cuevas_del_Drach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.75194,
+                    42.4253
+                ]
+            },
+            "properties": {
+                "name": "Pic de les Salines",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.734167,
+                    43.319167
+                ]
+            },
+            "properties": {
+                "name": "Battle of Pancorbo",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Zornoza"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -17.765,
+                    28.6825
+                ]
+            },
+            "properties": {
+                "name": "Santa Cruz de La Palma",
+                "article": "https://en.wikipedia.org/wiki/Santa_Cruz_de_La_Palma"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.942222,
+                    43.221389
+                ]
+            },
+            "properties": {
+                "name": "Alto de L'Angliru",
+                "article": "https://en.wikipedia.org/wiki/Alto_de_l%27Angliru"
+            }
+        }
+    ]
+}

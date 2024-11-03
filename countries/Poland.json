@@ -1,0 +1,1405 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.387777777,
+                    54.570833333
+                ]
+            },
+            "properties": {
+                "name": "Rumia",
+                "article": "https://en.wikipedia.org/wiki/Rumia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.216666666,
+                    50.983333333
+                ]
+            },
+            "properties": {
+                "name": "Kluczbork",
+                "article": "https://en.wikipedia.org/wiki/Kluczbork"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.494166666,
+                    53.78
+                ]
+            },
+            "properties": {
+                "name": "Olsztyn",
+                "article": "https://en.wikipedia.org/wiki/Olsztyn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.925277777,
+                    50.672222222
+                ]
+            },
+            "properties": {
+                "name": "Opole",
+                "article": "https://en.wikipedia.org/wiki/Opole"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.54782,
+                    54.44185
+                ]
+            },
+            "properties": {
+                "name": "Sopot",
+                "article": "https://en.wikipedia.org/wiki/Sopot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4,
+                    50.133333333
+                ]
+            },
+            "properties": {
+                "name": "Chrzanów",
+                "article": "https://en.wikipedia.org/wiki/Chrzan%C3%B3w"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.011111111,
+                    52.23
+                ]
+            },
+            "properties": {
+                "name": "Warsaw",
+                "article": "https://en.wikipedia.org/wiki/Warsaw"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.54,
+                    54.5175
+                ]
+            },
+            "properties": {
+                "name": "Gdynia",
+                "article": "https://en.wikipedia.org/wiki/Gdynia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.555277777,
+                    53.424722222
+                ]
+            },
+            "properties": {
+                "name": "Szczecin",
+                "article": "https://en.wikipedia.org/wiki/Szczecin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.013611111,
+                    51.074166666
+                ]
+            },
+            "properties": {
+                "name": "Wąchock",
+                "article": "https://en.wikipedia.org/wiki/W%C4%85chock"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.966666666,
+                    50.7
+                ]
+            },
+            "properties": {
+                "name": "Szczebrzeszyn",
+                "article": "https://en.wikipedia.org/wiki/Szczebrzeszyn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.466666666,
+                    51.75
+                ]
+            },
+            "properties": {
+                "name": "Łódź",
+                "article": "https://en.wikipedia.org/wiki/%C5%81%C3%B3d%C5%BA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0,
+                    50.25
+                ]
+            },
+            "properties": {
+                "name": "Katowice",
+                "article": "https://en.wikipedia.org/wiki/Katowice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.998888888,
+                    50.041111111
+                ]
+            },
+            "properties": {
+                "name": "Rzeszów",
+                "article": "https://en.wikipedia.org/wiki/Rzesz%C3%B3w"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.166666666,
+                    53.116666666
+                ]
+            },
+            "properties": {
+                "name": "Białystok",
+                "article": "https://en.wikipedia.org/wiki/Bia%C5%82ystok"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.697222222,
+                    49.623888888
+                ]
+            },
+            "properties": {
+                "name": "Nowy Sącz",
+                "article": "https://en.wikipedia.org/wiki/Nowy_S%C4%85cz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.611388888,
+                    53.841388888
+                ]
+            },
+            "properties": {
+                "name": "Wollin",
+                "article": "https://en.wikipedia.org/wiki/Wolin_(town)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.052777777,
+                    51.408888888
+                ]
+            },
+            "properties": {
+                "name": "Końskowola",
+                "article": "https://en.wikipedia.org/wiki/Ko%C5%84skowola"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.186111111,
+                    51.389722222
+                ]
+            },
+            "properties": {
+                "name": "Kurów",
+                "article": "https://en.wikipedia.org/wiki/Kur%C3%B3w"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.1430044,
+                    51.9568581
+                ]
+            },
+            "properties": {
+                "name": "Skierniewice",
+                "article": "https://en.wikipedia.org/wiki/Skierniewice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.083333333,
+                    53.933333333
+                ]
+            },
+            "properties": {
+                "name": "Usedom",
+                "article": "https://en.wikipedia.org/wiki/Usedom"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.986666666,
+                    50.123611111
+                ]
+            },
+            "properties": {
+                "name": "Tychy",
+                "article": "https://en.wikipedia.org/wiki/Tychy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.977777777,
+                    49.504444444
+                ]
+            },
+            "properties": {
+                "name": "Zwardoń",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.533055555,
+                    52.416666666
+                ]
+            },
+            "properties": {
+                "name": "Lebus",
+                "article": "https://en.wikipedia.org/wiki/Lebus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.683333333,
+                    50.583333333
+                ]
+            },
+            "properties": {
+                "name": "Tarnobrzeg",
+                "article": "https://en.wikipedia.org/wiki/Tarnobrzeg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.09444444,
+                    53.48333333
+                ]
+            },
+            "properties": {
+                "name": "Battle of Grunwald",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Grunwald"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.566666666,
+                    51.25
+                ]
+            },
+            "properties": {
+                "name": "Lublin",
+                "article": "https://en.wikipedia.org/wiki/Lublin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.989075,
+                    52.237703
+                ]
+            },
+            "properties": {
+                "name": "Keret House",
+                "article": "https://en.wikipedia.org/wiki/Keret_House"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0,
+                    53.116666666
+                ]
+            },
+            "properties": {
+                "name": "Bydgoszcz",
+                "article": "https://en.wikipedia.org/wiki/Bydgoszcz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.930861111,
+                    50.285472222
+                ]
+            },
+            "properties": {
+                "name": "Świętochłowice",
+                "article": "https://en.wikipedia.org/wiki/%C5%9Awi%C4%99toch%C5%82owice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.6014,
+                    53.0144
+                ]
+            },
+            "properties": {
+                "name": "Toruń",
+                "article": "https://en.wikipedia.org/wiki/Toru%C5%84"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.616666666,
+                    53.016666666
+                ]
+            },
+            "properties": {
+                "name": "Toruń",
+                "article": "https://en.wikipedia.org/wiki/Toru%C5%84"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.845,
+                    52.246666666
+                ]
+            },
+            "properties": {
+                "name": "Mosina",
+                "article": "https://en.wikipedia.org/wiki/Mosina"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.077111111,
+                    52.410361111
+                ]
+            },
+            "properties": {
+                "name": "Swarzędz",
+                "article": "https://en.wikipedia.org/wiki/Swarz%C4%99dz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.267111111,
+                    52.477916666
+                ]
+            },
+            "properties": {
+                "name": "Pobiedziska",
+                "article": "https://en.wikipedia.org/wiki/Pobiedziska"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.009722222,
+                    52.575833333
+                ]
+            },
+            "properties": {
+                "name": "Murowana Goślina",
+                "article": "https://en.wikipedia.org/wiki/Murowana_Go%C5%9Blina"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.098611111,
+                    52.236666666
+                ]
+            },
+            "properties": {
+                "name": "Kórnik",
+                "article": "https://en.wikipedia.org/wiki/K%C3%B3rnik"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.577777777,
+                    52.611944444
+                ]
+            },
+            "properties": {
+                "name": "Szamotuły",
+                "article": "https://en.wikipedia.org/wiki/Szamotu%C5%82y"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.912186111,
+                    52.990091666
+                ]
+            },
+            "properties": {
+                "name": "Chodzież",
+                "article": "https://en.wikipedia.org/wiki/Chodzie%C5%BC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.6,
+                    52.533333333
+                ]
+            },
+            "properties": {
+                "name": "Gniezno",
+                "article": "https://en.wikipedia.org/wiki/Gniezno"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.760555555,
+                    52.145
+                ]
+            },
+            "properties": {
+                "name": "Czempiń",
+                "article": "https://en.wikipedia.org/wiki/Czempi%C5%84"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.301388888,
+                    52.948333333
+                ]
+            },
+            "properties": {
+                "name": "Gołańcz",
+                "article": "https://en.wikipedia.org/wiki/Go%C5%82a%C5%84cz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.366666666,
+                    52.233333333
+                ]
+            },
+            "properties": {
+                "name": "Grodzisk Wielkopolski",
+                "article": "https://en.wikipedia.org/wiki/Grodzisk_Wielkopolski"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.083,
+                    51.757
+                ]
+            },
+            "properties": {
+                "name": "Kalisz",
+                "article": "https://en.wikipedia.org/wiki/Kalisz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.5,
+                    51.966666666
+                ]
+            },
+            "properties": {
+                "name": "Jarocin",
+                "article": "https://en.wikipedia.org/wiki/Jarocin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.261388888,
+                    52.2275
+                ]
+            },
+            "properties": {
+                "name": "Konin",
+                "article": "https://en.wikipedia.org/wiki/Konin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.222111111,
+                    52.394138888
+                ]
+            },
+            "properties": {
+                "name": "Kostrzyn",
+                "article": "https://en.wikipedia.org/wiki/Kostrzyn,_Greater_Poland_Voivodeship"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.57494,
+                    51.84034
+                ]
+            },
+            "properties": {
+                "name": "Leszno",
+                "article": "https://en.wikipedia.org/wiki/Leszno"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.133333333,
+                    52.316666666
+                ]
+            },
+            "properties": {
+                "name": "Nowy Tomyśl",
+                "article": "https://en.wikipedia.org/wiki/Nowy_Tomy%C5%9Bl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.8575,
+                    51.609166666
+                ]
+            },
+            "properties": {
+                "name": "Rawicz",
+                "article": "https://en.wikipedia.org/wiki/Rawicz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.266666666,
+                    52.516666666
+                ]
+            },
+            "properties": {
+                "name": "Pniewy",
+                "article": "https://en.wikipedia.org/wiki/Pniewy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.565,
+                    52.325
+                ]
+            },
+            "properties": {
+                "name": "Września",
+                "article": "https://en.wikipedia.org/wiki/Wrze%C5%9Bnia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.283333333,
+                    52.233333333
+                ]
+            },
+            "properties": {
+                "name": "Środa Wielkopolska",
+                "article": "https://en.wikipedia.org/wiki/%C5%9Aroda_Wielkopolska"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.383333333,
+                    52.7
+                ]
+            },
+            "properties": {
+                "name": "Wronki",
+                "article": "https://en.wikipedia.org/wiki/Wronki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.911583,
+                    52.401694
+                ]
+            },
+            "properties": {
+                "name": "Poznań Główny",
+                "article": "https://en.wikipedia.org/wiki/Pozna%C5%84_G%C5%82%C3%B3wny_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.028055555,
+                    52.409444444
+                ]
+            },
+            "properties": {
+                "name": "Poznań Antoninek",
+                "article": "https://en.wikipedia.org/wiki/Pozna%C5%84_Antoninek_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.789722222,
+                    52.475555555
+                ]
+            },
+            "properties": {
+                "name": "Kiekrz",
+                "article": "https://en.wikipedia.org/wiki/Kiekrz_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.824166666,
+                    52.377777777
+                ]
+            },
+            "properties": {
+                "name": "Poznań Junikowo",
+                "article": "https://en.wikipedia.org/wiki/Pozna%C5%84_Junikowo_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.8625,
+                    52.46
+                ]
+            },
+            "properties": {
+                "name": "Poznań Strzeszyn",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.850436111,
+                    52.433513888
+                ]
+            },
+            "properties": {
+                "name": "Poznań Wola",
+                "article": "https://en.wikipedia.org/wiki/Pozna%C5%84_Wola_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.931388888,
+                    52.367222222
+                ]
+            },
+            "properties": {
+                "name": "Poznań Starołęka",
+                "article": "https://en.wikipedia.org/wiki/Pozna%C5%84_Staro%C5%82%C4%99ka_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.974722222,
+                    52.418888888
+                ]
+            },
+            "properties": {
+                "name": "Poznań Wschód",
+                "article": "https://en.wikipedia.org/wiki/Pozna%C5%84_Wsch%C3%B3d_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.9225,
+                    52.4069
+                ]
+            },
+            "properties": {
+                "name": "Święty Marcin Street",
+                "article": "https://en.wikipedia.org/wiki/%C5%9Awi%C4%99ty_Marcin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.699371,
+                    49.417618
+                ]
+            },
+            "properties": {
+                "name": "Battle of the Dukla Pass",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_the_Dukla_Pass"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.181666666,
+                    54.190277777
+                ]
+            },
+            "properties": {
+                "name": "Koszalin",
+                "article": "https://en.wikipedia.org/wiki/Koszalin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.1,
+                    52.716666666
+                ]
+            },
+            "properties": {
+                "name": "Pułtusk",
+                "article": "https://en.wikipedia.org/wiki/Pu%C5%82tusk"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.289277777,
+                    49.2195
+                ]
+            },
+            "properties": {
+                "name": "Osina",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.28963,
+                    49.21939
+                ]
+            },
+            "properties": {
+                "name": "Osina",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.57,
+                    51.220555555
+                ]
+            },
+            "properties": {
+                "name": "Wieluń",
+                "article": "https://en.wikipedia.org/wiki/Wielu%C5%84"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.35,
+                    53.383333333
+                ]
+            },
+            "properties": {
+                "name": "Myszyniec",
+                "article": "https://en.wikipedia.org/wiki/Myszyniec"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.631944444,
+                    50.8725
+                ]
+            },
+            "properties": {
+                "name": "Kielce",
+                "article": "https://en.wikipedia.org/wiki/Kielce"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.923,
+                    50.347
+                ]
+            },
+            "properties": {
+                "name": "Bytom",
+                "article": "https://en.wikipedia.org/wiki/Bytom"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.12217,
+                    50.80964
+                ]
+            },
+            "properties": {
+                "name": "Częstochowa",
+                "article": "https://en.wikipedia.org/wiki/Cz%C4%99stochowa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.783333333,
+                    50.3
+                ]
+            },
+            "properties": {
+                "name": "Zabrze",
+                "article": "https://en.wikipedia.org/wiki/Zabrze"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.9628,
+                    50.2884
+                ]
+            },
+            "properties": {
+                "name": "Chorzów",
+                "article": "https://en.wikipedia.org/wiki/Chorz%C3%B3w"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.95,
+                    50.3
+                ]
+            },
+            "properties": {
+                "name": "Chorzów",
+                "article": "https://en.wikipedia.org/wiki/Chorz%C3%B3w"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.408888888,
+                    54.152222222
+                ]
+            },
+            "properties": {
+                "name": "Elbląg",
+                "article": "https://en.wikipedia.org/wiki/Elbl%C4%85g"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.505,
+                    51.939722222
+                ]
+            },
+            "properties": {
+                "name": "Zielona Góra",
+                "article": "https://en.wikipedia.org/wiki/Zielona_G%C3%B3ra"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7,
+                    52.55
+                ]
+            },
+            "properties": {
+                "name": "Płock",
+                "article": "https://en.wikipedia.org/wiki/P%C5%82ock"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.25,
+                    52.733333333
+                ]
+            },
+            "properties": {
+                "name": "Gorzów Wielkopolski",
+                "article": "https://en.wikipedia.org/wiki/Gorz%C3%B3w_Wielkopolski"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.156666666,
+                    51.403611111
+                ]
+            },
+            "properties": {
+                "name": "Radom",
+                "article": "https://en.wikipedia.org/wiki/Radom"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.033333333,
+                    54.466666666
+                ]
+            },
+            "properties": {
+                "name": "Słupsk",
+                "article": "https://en.wikipedia.org/wiki/S%C5%82upsk"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.166666666,
+                    50.3
+                ]
+            },
+            "properties": {
+                "name": "Sosnowiec",
+                "article": "https://en.wikipedia.org/wiki/Sosnowiec"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.1946,
+                    50.2711
+                ]
+            },
+            "properties": {
+                "name": "Sosnowiec",
+                "article": "https://en.wikipedia.org/wiki/Sosnowiec"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.6498,
+                    50.3011
+                ]
+            },
+            "properties": {
+                "name": "Gliwice",
+                "article": "https://en.wikipedia.org/wiki/Gliwice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.1619,
+                    51.21006
+                ]
+            },
+            "properties": {
+                "name": "Legnica",
+                "article": "https://en.wikipedia.org/wiki/Legnica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.044444444,
+                    49.8225
+                ]
+            },
+            "properties": {
+                "name": "Bielsko-Biała",
+                "article": "https://en.wikipedia.org/wiki/Bielsko-Bia%C5%82a"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.5,
+                    50.083333333
+                ]
+            },
+            "properties": {
+                "name": "Rybnik",
+                "article": "https://en.wikipedia.org/wiki/Rybnik"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.583333333,
+                    49.95
+                ]
+            },
+            "properties": {
+                "name": "Jastrzębie-Zdrój",
+                "article": "https://en.wikipedia.org/wiki/Jastrz%C4%99bie-Zdr%C3%B3j"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.194722222,
+                    50.323888888
+                ]
+            },
+            "properties": {
+                "name": "Dąbrowa Górnicza",
+                "article": "https://en.wikipedia.org/wiki/D%C4%85browa_G%C3%B3rnicza"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.2374,
+                    50.31818
+                ]
+            },
+            "properties": {
+                "name": "Dąbrowa Górnicza",
+                "article": "https://en.wikipedia.org/wiki/D%C4%85browa_G%C3%B3rnicza"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.3213,
+                    50.371
+                ]
+            },
+            "properties": {
+                "name": "Dąbrowa Górnicza",
+                "article": "https://en.wikipedia.org/wiki/D%C4%85browa_G%C3%B3rnicza"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.87424,
+                    50.27006
+                ]
+            },
+            "properties": {
+                "name": "Ruda Śląska",
+                "article": "https://en.wikipedia.org/wiki/Ruda_%C5%9Al%C4%85ska"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.576111111,
+                    54.176111111
+                ]
+            },
+            "properties": {
+                "name": "Kołobrzeg",
+                "article": "https://en.wikipedia.org/wiki/Ko%C5%82obrzeg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.283333333,
+                    50.766666666
+                ]
+            },
+            "properties": {
+                "name": "Wałbrzych",
+                "article": "https://en.wikipedia.org/wiki/Wa%C5%82brzych"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.610833333,
+                    51.901111111
+                ]
+            },
+            "properties": {
+                "name": "Stryków",
+                "article": "https://en.wikipedia.org/wiki/Stryk%C3%B3w"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.891666666,
+                    51.865833333
+                ]
+            },
+            "properties": {
+                "name": "Grójec",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.516666666,
+                    51.016666666
+                ]
+            },
+            "properties": {
+                "name": "Lubomierz",
+                "article": "https://en.wikipedia.org/wiki/Lubomierz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.1,
+                    49.883333333
+                ]
+            },
+            "properties": {
+                "name": "Błażowa",
+                "article": "https://en.wikipedia.org/wiki/B%C5%82a%C5%BCowa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.953888888,
+                    50.9075
+                ]
+            },
+            "properties": {
+                "name": "Bogatynia",
+                "article": "https://en.wikipedia.org/wiki/Bogatynia"
+            }
+        }
+    ]
+}

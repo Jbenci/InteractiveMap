@@ -1,0 +1,7005 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.4711,
+                    -23.7478
+                ]
+            },
+            "properties": {
+                "name": "Dibete Station",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.51666667,
+                    -23.03333333
+                ]
+            },
+            "properties": {
+                "name": "Shoshong",
+                "article": "https://en.wikipedia.org/wiki/Shoshong"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.916666666,
+                    -21.966666666
+                ]
+            },
+            "properties": {
+                "name": "Selebi-Phikwe",
+                "article": "https://en.wikipedia.org/wiki/Selebi-Phikwe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.5125,
+                    -21.173611111
+                ]
+            },
+            "properties": {
+                "name": "Francistown",
+                "article": "https://en.wikipedia.org/wiki/Francistown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.666666666,
+                    -25.216666666
+                ]
+            },
+            "properties": {
+                "name": "Lobatse",
+                "article": "https://en.wikipedia.org/wiki/Lobatse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.728055555,
+                    -24.601666666
+                ]
+            },
+            "properties": {
+                "name": "Jwaneng",
+                "article": "https://en.wikipedia.org/wiki/Jwaneng"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.4363,
+                    -21.9655
+                ]
+            },
+            "properties": {
+                "name": "Bobonong",
+                "article": "https://en.wikipedia.org/wiki/Bobonong"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.589166666,
+                    -21.425
+                ]
+            },
+            "properties": {
+                "name": "Letlhakane",
+                "article": "https://en.wikipedia.org/wiki/Letlhakane"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.78,
+                    -23.998888888
+                ]
+            },
+            "properties": {
+                "name": "Hukuntsi",
+                "article": "https://en.wikipedia.org/wiki/Hukuntsi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.845833333,
+                    -18.369166666
+                ]
+            },
+            "properties": {
+                "name": "Shakawe",
+                "article": "https://en.wikipedia.org/wiki/Shakawe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.418333333,
+                    -24.779166666
+                ]
+            },
+            "properties": {
+                "name": "Moshupa",
+                "article": "https://en.wikipedia.org/wiki/Moshupa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.161666666,
+                    -19.369166666
+                ]
+            },
+            "properties": {
+                "name": "Gumare",
+                "article": "https://en.wikipedia.org/wiki/Gumare"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.133333333,
+                    -22.55
+                ]
+            },
+            "properties": {
+                "name": "Palapye",
+                "article": "https://en.wikipedia.org/wiki/Palapye"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.816666666,
+                    -24.866666666
+                ]
+            },
+            "properties": {
+                "name": "Ramotswa",
+                "article": "https://en.wikipedia.org/wiki/Ramotswa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.153611111,
+                    -17.798333333
+                ]
+            },
+            "properties": {
+                "name": "Kasane",
+                "article": "https://en.wikipedia.org/wiki/Kasane"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.866666666,
+                    -24.633333333
+                ]
+            },
+            "properties": {
+                "name": "Mogoditshane",
+                "article": "https://en.wikipedia.org/wiki/Mogoditshane"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.405555555,
+                    -26.02
+                ]
+            },
+            "properties": {
+                "name": "Tshabong",
+                "article": "https://en.wikipedia.org/wiki/Tsabong"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.8142,
+                    -23.1041
+                ]
+            },
+            "properties": {
+                "name": "Mahalapye",
+                "article": "https://en.wikipedia.org/wiki/Mahalapye"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.8142,
+                    -23.1041
+                ]
+            },
+            "properties": {
+                "name": "Mahalapye",
+                "article": "https://en.wikipedia.org/wiki/Mahalapye"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.4951,
+                    -24.4066
+                ]
+            },
+            "properties": {
+                "name": "Molepolole",
+                "article": "https://en.wikipedia.org/wiki/Molepolole"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.35,
+                    -24.983333333
+                ]
+            },
+            "properties": {
+                "name": "Kanye",
+                "article": "https://en.wikipedia.org/wiki/Kanye,_Botswana"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.416666666,
+                    -19.983333333
+                ]
+            },
+            "properties": {
+                "name": "Maun",
+                "article": "https://en.wikipedia.org/wiki/Maun,_Botswana"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.336944444,
+                    -20.995555555
+                ]
+            },
+            "properties": {
+                "name": "Mathangwane",
+                "article": "https://en.wikipedia.org/wiki/Mathangwane"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.209722222,
+                    -20.128888888
+                ]
+            },
+            "properties": {
+                "name": "Maitengwe",
+                "article": "https://en.wikipedia.org/wiki/Maitengwe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.2931,
+                    -19.1272
+                ]
+            },
+            "properties": {
+                "name": "Etsha 13",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.833118,
+                    -22.213555
+                ]
+            },
+            "properties": {
+                "name": "Mabeleapudi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.4586,
+                    -25.0861
+                ]
+            },
+            "properties": {
+                "name": "Lotlhakane West",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.219975,
+                    -22.665208
+                ]
+            },
+            "properties": {
+                "name": "Lecheng",
+                "article": "https://en.wikipedia.org/wiki/Lecheng,_Botswana"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.754166666,
+                    -18.771666666
+                ]
+            },
+            "properties": {
+                "name": "Tsodilo",
+                "article": "https://en.wikipedia.org/wiki/Tsodilo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.819,
+                    -20.893
+                ]
+            },
+            "properties": {
+                "name": "Kubu Island",
+                "article": "https://en.wikipedia.org/wiki/Kubu_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.716667,
+                    -22.383333
+                ]
+            },
+            "properties": {
+                "name": "Serowe",
+                "article": "https://en.wikipedia.org/wiki/Serowe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.65,
+                    -21.7
+                ]
+            },
+            "properties": {
+                "name": "Ghanzi",
+                "article": "https://en.wikipedia.org/wiki/Ghanzi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.78333,
+                    -21.56667
+                ]
+            },
+            "properties": {
+                "name": "Ghanzi",
+                "article": "https://en.wikipedia.org/wiki/Ghanzi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.364722222,
+                    -21.333888888
+                ]
+            },
+            "properties": {
+                "name": "Orapa",
+                "article": "https://en.wikipedia.org/wiki/Orapa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.495079,
+                    -24.406587
+                ]
+            },
+            "properties": {
+                "name": "Mmakanke",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.73388,
+                    -24.41902
+                ]
+            },
+            "properties": {
+                "name": "Mmakanke",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.75416667,
+                    -18.77166667
+                ]
+            },
+            "properties": {
+                "name": "Tsodilo Hills",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.183333,
+                    -18.75
+                ]
+            },
+            "properties": {
+                "name": "Tsodilo Hills",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.725833333,
+                    -25.018333333
+                ]
+            },
+            "properties": {
+                "name": "Otse Hill",
+                "article": "https://en.wikipedia.org/wiki/Otse_Hill"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.908561,
+                    -24.654998
+                ]
+            },
+            "properties": {
+                "name": "Department of Taxes and Attorney General's Chambers Building",
+                "article": "https://en.wikipedia.org/wiki/Department_of_Taxes_and_Attorney_General%27s_Chambers_Building"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.665,
+                    -24.840833333
+                ]
+            },
+            "properties": {
+                "name": "Monalanong Hill",
+                "article": "https://en.wikipedia.org/wiki/Monalanong_Hill"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.19916,
+                    -22.23274
+                ]
+            },
+            "properties": {
+                "name": "Toutswemogala Hill",
+                "article": "https://en.wikipedia.org/wiki/Toutswemogala_Hill"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.1992,
+                    -22.2325
+                ]
+            },
+            "properties": {
+                "name": "Toutswemogala Hill",
+                "article": "https://en.wikipedia.org/wiki/Toutswemogala_Hill"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.5167,
+                    -22.65
+                ]
+            },
+            "properties": {
+                "name": "Tswapong Hills",
+                "article": "https://en.wikipedia.org/wiki/Tswapong_Hills"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.75,
+                    -21.3
+                ]
+            },
+            "properties": {
+                "name": "Xau",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.9269,
+                    -22.7235
+                ]
+            },
+            "properties": {
+                "name": "Q21858451",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.1,
+                    -19.666666666
+                ]
+            },
+            "properties": {
+                "name": "Q21858453",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.16667,
+                    -19.66667
+                ]
+            },
+            "properties": {
+                "name": "Bokwi Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.26667,
+                    -19.46667
+                ]
+            },
+            "properties": {
+                "name": "Borokwe Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.9475,
+                    -24.4175
+                ]
+            },
+            "properties": {
+                "name": "Boshwelakhosi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.5642,
+                    -22.9842
+                ]
+            },
+            "properties": {
+                "name": "Chadibi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.5175,
+                    -24.845
+                ]
+            },
+            "properties": {
+                "name": "Chukukana",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.6399,
+                    -24.4704
+                ]
+            },
+            "properties": {
+                "name": "Tswete Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.98333,
+                    -25.6
+                ]
+            },
+            "properties": {
+                "name": "Chwainyana Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.56192,
+                    -23.7872
+                ]
+            },
+            "properties": {
+                "name": "Dibete Kop",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.61667,
+                    -24.86667
+                ]
+            },
+            "properties": {
+                "name": "Dikomu di Kai",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.1875,
+                    -24.6867
+                ]
+            },
+            "properties": {
+                "name": "Q21858497",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.1086,
+                    -22.2054
+                ]
+            },
+            "properties": {
+                "name": "Dilolwane Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.7967,
+                    -22.2817
+                ]
+            },
+            "properties": {
+                "name": "Dimaphuti",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.18333,
+                    -20.63333
+                ]
+            },
+            "properties": {
+                "name": "Gabasari Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.99587,
+                    -22.58142
+                ]
+            },
+            "properties": {
+                "name": "Elebe Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.433333333,
+                    -22.066666666
+                ]
+            },
+            "properties": {
+                "name": "Q21858522",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.51667,
+                    -19.83333
+                ]
+            },
+            "properties": {
+                "name": "Gechia Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.08333,
+                    -19.56667
+                ]
+            },
+            "properties": {
+                "name": "Geune Kan Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.25,
+                    -18.41667
+                ]
+            },
+            "properties": {
+                "name": "Goha Hills",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.46667,
+                    -20.71667
+                ]
+            },
+            "properties": {
+                "name": "Haina Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.08333,
+                    -25.23333
+                ]
+            },
+            "properties": {
+                "name": "Ironstone Kopje",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.908611111,
+                    -24.656944444
+                ]
+            },
+            "properties": {
+                "name": "Gaborone",
+                "article": "https://en.wikipedia.org/wiki/Gaborone"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.782222222,
+                    -24.666666666
+                ]
+            },
+            "properties": {
+                "name": "Gabane",
+                "article": "https://en.wikipedia.org/wiki/Gabane"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.892222222,
+                    -24.468611111
+                ]
+            },
+            "properties": {
+                "name": "Kopong",
+                "article": "https://en.wikipedia.org/wiki/Kopong"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.533333333,
+                    -24.716666666
+                ]
+            },
+            "properties": {
+                "name": "Thamaga",
+                "article": "https://en.wikipedia.org/wiki/Thamaga"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.765,
+                    -24.64583
+                ]
+            },
+            "properties": {
+                "name": "Modise Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.7675,
+                    -24.65944
+                ]
+            },
+            "properties": {
+                "name": "Gabane Hills",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.8025,
+                    -24.6425
+                ]
+            },
+            "properties": {
+                "name": "Diremogolo Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.76833,
+                    -24.74583
+                ]
+            },
+            "properties": {
+                "name": "Rasemong Hills",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.83556,
+                    -24.74917
+                ]
+            },
+            "properties": {
+                "name": "Mokolodi Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.7667,
+                    -24.6964
+                ]
+            },
+            "properties": {
+                "name": "Ranku Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.99306,
+                    -24.70278
+                ]
+            },
+            "properties": {
+                "name": "Mabutswe Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.86528,
+                    -24.69278
+                ]
+            },
+            "properties": {
+                "name": "Kgale Hills",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.78889,
+                    -24.73222
+                ]
+            },
+            "properties": {
+                "name": "Mmatshidikwe Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.805,
+                    -24.72333
+                ]
+            },
+            "properties": {
+                "name": "Maphatse Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.416666666,
+                    -19.4
+                ]
+            },
+            "properties": {
+                "name": "Q21858442",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0933,
+                    -19.7842
+                ]
+            },
+            "properties": {
+                "name": "Mount Aha",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.933333333,
+                    -19.566666666
+                ]
+            },
+            "properties": {
+                "name": "Q21858445",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.01667,
+                    -23.25
+                ]
+            },
+            "properties": {
+                "name": "Badungwe",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.9467,
+                    -22.9558
+                ]
+            },
+            "properties": {
+                "name": "Ballantine Kop",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.433333333,
+                    -19.75
+                ]
+            },
+            "properties": {
+                "name": "Kai'kau Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.96667,
+                    -24.11667
+                ]
+            },
+            "properties": {
+                "name": "Kakwi Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.75,
+                    -21.13333
+                ]
+            },
+            "properties": {
+                "name": "Kautsi Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.6074,
+                    -21.4412
+                ]
+            },
+            "properties": {
+                "name": "Kedia Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.933333333,
+                    -24.333333333
+                ]
+            },
+            "properties": {
+                "name": "Q21858591",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.08333,
+                    -20.65
+                ]
+            },
+            "properties": {
+                "name": "Kkwebe Hills",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.6975,
+                    -24.735
+                ]
+            },
+            "properties": {
+                "name": "Kloana",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.16667,
+                    -20.13333
+                ]
+            },
+            "properties": {
+                "name": "Koanakha Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.66134,
+                    -24.66095
+                ]
+            },
+            "properties": {
+                "name": "Kolobeng Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.8,
+                    -24.433333333
+                ]
+            },
+            "properties": {
+                "name": "Kopong",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.5142,
+                    -25.4125
+                ]
+            },
+            "properties": {
+                "name": "Q21858625",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.71667,
+                    -22.35
+                ]
+            },
+            "properties": {
+                "name": "Kumanecho",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.6,
+                    -22.33333
+                ]
+            },
+            "properties": {
+                "name": "Lehatse",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.8517,
+                    -24.3633
+                ]
+            },
+            "properties": {
+                "name": "Lenchwe Le Tau Kop",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.36338,
+                    -23.04232
+                ]
+            },
+            "properties": {
+                "name": "Mhalepitsa Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.29748,
+                    -23.02865
+                ]
+            },
+            "properties": {
+                "name": "Mokgowane Hills",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.7196,
+                    -23.2861
+                ]
+            },
+            "properties": {
+                "name": "Setekwane",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.45879,
+                    -23.11673
+                ]
+            },
+            "properties": {
+                "name": "Ikongwe Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.26722,
+                    -23.22955
+                ]
+            },
+            "properties": {
+                "name": "Garakgatshwane Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.73717,
+                    -22.36177
+                ]
+            },
+            "properties": {
+                "name": "Batamojo Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.42792,
+                    -23.07938
+                ]
+            },
+            "properties": {
+                "name": "Palamaokuwe Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.66686,
+                    -22.27448
+                ]
+            },
+            "properties": {
+                "name": "Maphoko Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.943,
+                    -22.20611
+                ]
+            },
+            "properties": {
+                "name": "Lekono Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.81319,
+                    -22.20818
+                ]
+            },
+            "properties": {
+                "name": "Ngolo Hills",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.83623,
+                    -22.07723
+                ]
+            },
+            "properties": {
+                "name": "Motlhabaneng Hills",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.86271,
+                    -22.20129
+                ]
+            },
+            "properties": {
+                "name": "Seswe Hills",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.88292,
+                    -22.15253
+                ]
+            },
+            "properties": {
+                "name": "Keimag Hills",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.29551,
+                    -22.2536
+                ]
+            },
+            "properties": {
+                "name": "Phakwe Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.27471,
+                    -22.21733
+                ]
+            },
+            "properties": {
+                "name": "Ghabe Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.25096,
+                    -22.22651
+                ]
+            },
+            "properties": {
+                "name": "Majaatshipa Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.4013,
+                    -22.8805
+                ]
+            },
+            "properties": {
+                "name": "Ihole Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.567222222,
+                    -22.710277777
+                ]
+            },
+            "properties": {
+                "name": "Leo Hill (bungtod)",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.7431,
+                    -22.74273
+                ]
+            },
+            "properties": {
+                "name": "Kukubye Hills",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.5143,
+                    -22.61001
+                ]
+            },
+            "properties": {
+                "name": "Moreme Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.28295,
+                    -22.57382
+                ]
+            },
+            "properties": {
+                "name": "Phalachwe Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.0181,
+                    -22.7106
+                ]
+            },
+            "properties": {
+                "name": "Ramherwane Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.08143,
+                    -22.51463
+                ]
+            },
+            "properties": {
+                "name": "Majwana Matshwana Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.8606,
+                    -22.4006
+                ]
+            },
+            "properties": {
+                "name": "Setshweu Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.91949,
+                    -22.30973
+                ]
+            },
+            "properties": {
+                "name": "Marutujwe Hills",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.97436,
+                    -22.49152
+                ]
+            },
+            "properties": {
+                "name": "Silophale Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.8288,
+                    -22.3195
+                ]
+            },
+            "properties": {
+                "name": "Malatsi Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.56647,
+                    -22.34892
+                ]
+            },
+            "properties": {
+                "name": "Ramodiele Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.5881,
+                    -22.3307
+                ]
+            },
+            "properties": {
+                "name": "Kii Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.73554,
+                    -22.37729
+                ]
+            },
+            "properties": {
+                "name": "Tloupye Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.54499,
+                    -22.32662
+                ]
+            },
+            "properties": {
+                "name": "Semelore Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.61654,
+                    -22.33622
+                ]
+            },
+            "properties": {
+                "name": "Mabalelo Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.63288,
+                    -22.25362
+                ]
+            },
+            "properties": {
+                "name": "Maore Hills",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.53985,
+                    -22.25575
+                ]
+            },
+            "properties": {
+                "name": "Meretele Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.66757,
+                    -22.32596
+                ]
+            },
+            "properties": {
+                "name": "Setote Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.61428,
+                    -22.31537
+                ]
+            },
+            "properties": {
+                "name": "Mmamotuele Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.40397,
+                    -21.63337
+                ]
+            },
+            "properties": {
+                "name": "Magojwe Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.37185,
+                    -21.50084
+                ]
+            },
+            "properties": {
+                "name": "Malote Hills",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.368,
+                    -21.67961
+                ]
+            },
+            "properties": {
+                "name": "Chamane Hills",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.47368,
+                    -21.52019
+                ]
+            },
+            "properties": {
+                "name": "Makhubu Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.25,
+                    -18.41667
+                ]
+            },
+            "properties": {
+                "name": "Goha Hills",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.46667,
+                    -20.71667
+                ]
+            },
+            "properties": {
+                "name": "Haina Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.08333,
+                    -25.23333
+                ]
+            },
+            "properties": {
+                "name": "Ironstone Kopje",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.433333333,
+                    -19.75
+                ]
+            },
+            "properties": {
+                "name": "Kai'kau Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.96667,
+                    -24.11667
+                ]
+            },
+            "properties": {
+                "name": "Kakwi Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.75,
+                    -21.13333
+                ]
+            },
+            "properties": {
+                "name": "Kautsi Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.6074,
+                    -21.4412
+                ]
+            },
+            "properties": {
+                "name": "Kedia Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.933333333,
+                    -24.333333333
+                ]
+            },
+            "properties": {
+                "name": "Q21858591",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.08333,
+                    -20.65
+                ]
+            },
+            "properties": {
+                "name": "Kkwebe Hills",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.6975,
+                    -24.735
+                ]
+            },
+            "properties": {
+                "name": "Kloana",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.16667,
+                    -20.13333
+                ]
+            },
+            "properties": {
+                "name": "Koanakha Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.66134,
+                    -24.66095
+                ]
+            },
+            "properties": {
+                "name": "Kolobeng Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.8,
+                    -24.433333333
+                ]
+            },
+            "properties": {
+                "name": "Kopong",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.5142,
+                    -25.4125
+                ]
+            },
+            "properties": {
+                "name": "Q21858625",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.71667,
+                    -22.35
+                ]
+            },
+            "properties": {
+                "name": "Kumanecho",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.6,
+                    -22.33333
+                ]
+            },
+            "properties": {
+                "name": "Lehatse",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.8517,
+                    -24.3633
+                ]
+            },
+            "properties": {
+                "name": "Lenchwe Le Tau Kop",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.63333,
+                    -22.68333
+                ]
+            },
+            "properties": {
+                "name": "Letlakara",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.40726,
+                    -21.83004
+                ]
+            },
+            "properties": {
+                "name": "Lepokole Hills",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.3867,
+                    -26.0992
+                ]
+            },
+            "properties": {
+                "name": "Lohohane Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.53267,
+                    -24.91887
+                ]
+            },
+            "properties": {
+                "name": "Lohawe Hills",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.7367,
+                    -24.9067
+                ]
+            },
+            "properties": {
+                "name": "Lokhohat",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.683333333,
+                    -22.283333333
+                ]
+            },
+            "properties": {
+                "name": "Q21858678",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.32581,
+                    -22.94716
+                ]
+            },
+            "properties": {
+                "name": "Mabeleapodi Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.083333333,
+                    -20.75
+                ]
+            },
+            "properties": {
+                "name": "Makabana",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.55,
+                    -22.7
+                ]
+            },
+            "properties": {
+                "name": "Q21858707",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.48333,
+                    -25.9
+                ]
+            },
+            "properties": {
+                "name": "Malish",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.78333,
+                    -22.78333
+                ]
+            },
+            "properties": {
+                "name": "Mamoluki",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.93333,
+                    -23.95
+                ]
+            },
+            "properties": {
+                "name": "Marseiles Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.36667,
+                    -22.01667
+                ]
+            },
+            "properties": {
+                "name": "Mashoro Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.74402,
+                    -23.81359
+                ]
+            },
+            "properties": {
+                "name": "Masama Kop",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.95784,
+                    -22.35357
+                ]
+            },
+            "properties": {
+                "name": "Matepilepi Hills",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.2667,
+                    -21.975
+                ]
+            },
+            "properties": {
+                "name": "Masura",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.86026,
+                    -22.27713
+                ]
+            },
+            "properties": {
+                "name": "Matlale Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.590833333,
+                    -23.204444444
+                ]
+            },
+            "properties": {
+                "name": "Q21858740",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.39875,
+                    -24.0468
+                ]
+            },
+            "properties": {
+                "name": "Matlakhari Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.3,
+                    -22.016666666
+                ]
+            },
+            "properties": {
+                "name": "Q21858746",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.3983,
+                    -26.0667
+                ]
+            },
+            "properties": {
+                "name": "Maubel Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.73333,
+                    -22.95
+                ]
+            },
+            "properties": {
+                "name": "Metle Kop",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.66667,
+                    -22.73333
+                ]
+            },
+            "properties": {
+                "name": "Q21858755",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.66203,
+                    -24.3692
+                ]
+            },
+            "properties": {
+                "name": "Mmamarobole Hills",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.16667,
+                    -24.66667
+                ]
+            },
+            "properties": {
+                "name": "Modwe",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.633333333,
+                    -22.75
+                ]
+            },
+            "properties": {
+                "name": "Q21858763",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.2,
+                    -24.65
+                ]
+            },
+            "properties": {
+                "name": "Modipe Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.61682,
+                    -22.72388
+                ]
+            },
+            "properties": {
+                "name": "Mokgare Hills",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.86111,
+                    -24.60528
+                ]
+            },
+            "properties": {
+                "name": "Mahatlane Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.04581,
+                    -22.80932
+                ]
+            },
+            "properties": {
+                "name": "Makoro Hills",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.35155,
+                    -22.4757
+                ]
+            },
+            "properties": {
+                "name": "Molongong Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.6992,
+                    -22.735
+                ]
+            },
+            "properties": {
+                "name": "Q21858776",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.815,
+                    -21.24897
+                ]
+            },
+            "properties": {
+                "name": "Mopipi Dam",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.05,
+                    -24.43333
+                ]
+            },
+            "properties": {
+                "name": "Moroa Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.87944,
+                    -24.55667
+                ]
+            },
+            "properties": {
+                "name": "Mmopane Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.6325,
+                    -22.6242
+                ]
+            },
+            "properties": {
+                "name": "Mosawe",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.53333,
+                    -19.83333
+                ]
+            },
+            "properties": {
+                "name": "Motsaod Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.5575,
+                    -25.155
+                ]
+            },
+            "properties": {
+                "name": "Motsilikatse Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.6,
+                    -23.116666666
+                ]
+            },
+            "properties": {
+                "name": "Q21858792",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.53333,
+                    -19.5
+                ]
+            },
+            "properties": {
+                "name": "Namakha Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.73333,
+                    -20.85
+                ]
+            },
+            "properties": {
+                "name": "Ngwanalekau Hills",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.36667,
+                    -19.35
+                ]
+            },
+            "properties": {
+                "name": "Ngindi Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.83222,
+                    -24.625
+                ]
+            },
+            "properties": {
+                "name": "Nkoyaphiri Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.36338,
+                    -23.04232
+                ]
+            },
+            "properties": {
+                "name": "Mhalepitsa Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.29748,
+                    -23.02865
+                ]
+            },
+            "properties": {
+                "name": "Mokgowane Hills",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.7196,
+                    -23.2861
+                ]
+            },
+            "properties": {
+                "name": "Setekwane",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.45879,
+                    -23.11673
+                ]
+            },
+            "properties": {
+                "name": "Ikongwe Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.26722,
+                    -23.22955
+                ]
+            },
+            "properties": {
+                "name": "Garakgatshwane Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.73717,
+                    -22.36177
+                ]
+            },
+            "properties": {
+                "name": "Batamojo Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.42792,
+                    -23.07938
+                ]
+            },
+            "properties": {
+                "name": "Palamaokuwe Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.66686,
+                    -22.27448
+                ]
+            },
+            "properties": {
+                "name": "Maphoko Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.943,
+                    -22.20611
+                ]
+            },
+            "properties": {
+                "name": "Lekono Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.81319,
+                    -22.20818
+                ]
+            },
+            "properties": {
+                "name": "Ngolo Hills",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.83623,
+                    -22.07723
+                ]
+            },
+            "properties": {
+                "name": "Motlhabaneng Hills",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.86271,
+                    -22.20129
+                ]
+            },
+            "properties": {
+                "name": "Seswe Hills",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.88292,
+                    -22.15253
+                ]
+            },
+            "properties": {
+                "name": "Keimag Hills",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.29551,
+                    -22.2536
+                ]
+            },
+            "properties": {
+                "name": "Phakwe Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.27471,
+                    -22.21733
+                ]
+            },
+            "properties": {
+                "name": "Ghabe Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.25096,
+                    -22.22651
+                ]
+            },
+            "properties": {
+                "name": "Majaatshipa Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.4013,
+                    -22.8805
+                ]
+            },
+            "properties": {
+                "name": "Ihole Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.567222222,
+                    -22.710277777
+                ]
+            },
+            "properties": {
+                "name": "Leo Hill (bungtod)",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.7431,
+                    -22.74273
+                ]
+            },
+            "properties": {
+                "name": "Kukubye Hills",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.5143,
+                    -22.61001
+                ]
+            },
+            "properties": {
+                "name": "Moreme Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.28295,
+                    -22.57382
+                ]
+            },
+            "properties": {
+                "name": "Phalachwe Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.0181,
+                    -22.7106
+                ]
+            },
+            "properties": {
+                "name": "Ramherwane Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.08143,
+                    -22.51463
+                ]
+            },
+            "properties": {
+                "name": "Majwana Matshwana Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.8606,
+                    -22.4006
+                ]
+            },
+            "properties": {
+                "name": "Setshweu Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.91949,
+                    -22.30973
+                ]
+            },
+            "properties": {
+                "name": "Marutujwe Hills",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.97436,
+                    -22.49152
+                ]
+            },
+            "properties": {
+                "name": "Silophale Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.8288,
+                    -22.3195
+                ]
+            },
+            "properties": {
+                "name": "Malatsi Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.56647,
+                    -22.34892
+                ]
+            },
+            "properties": {
+                "name": "Ramodiele Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.5881,
+                    -22.3307
+                ]
+            },
+            "properties": {
+                "name": "Kii Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.73554,
+                    -22.37729
+                ]
+            },
+            "properties": {
+                "name": "Tloupye Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.54499,
+                    -22.32662
+                ]
+            },
+            "properties": {
+                "name": "Semelore Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.61654,
+                    -22.33622
+                ]
+            },
+            "properties": {
+                "name": "Mabalelo Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.63288,
+                    -22.25362
+                ]
+            },
+            "properties": {
+                "name": "Maore Hills",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.53985,
+                    -22.25575
+                ]
+            },
+            "properties": {
+                "name": "Meretele Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.66757,
+                    -22.32596
+                ]
+            },
+            "properties": {
+                "name": "Setote Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.61428,
+                    -22.31537
+                ]
+            },
+            "properties": {
+                "name": "Mmamotuele Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.40397,
+                    -21.63337
+                ]
+            },
+            "properties": {
+                "name": "Magojwe Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.37185,
+                    -21.50084
+                ]
+            },
+            "properties": {
+                "name": "Malote Hills",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.368,
+                    -21.67961
+                ]
+            },
+            "properties": {
+                "name": "Chamane Hills",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.3556,
+                    -21.7447
+                ]
+            },
+            "properties": {
+                "name": "Tweetwee Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.31407,
+                    -21.64096
+                ]
+            },
+            "properties": {
+                "name": "Moshaiwa Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.47368,
+                    -21.52019
+                ]
+            },
+            "properties": {
+                "name": "Makhubu Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.4775,
+                    -21.6132
+                ]
+            },
+            "properties": {
+                "name": "Mmankhai Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.33621,
+                    -21.55348
+                ]
+            },
+            "properties": {
+                "name": "Thombane Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.29253,
+                    -21.9771
+                ]
+            },
+            "properties": {
+                "name": "Mmajojo Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.42848,
+                    -21.89574
+                ]
+            },
+            "properties": {
+                "name": "Kolokome Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.43896,
+                    -21.91932
+                ]
+            },
+            "properties": {
+                "name": "Gamosojane Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.229722222,
+                    -21.936111111
+                ]
+            },
+            "properties": {
+                "name": "Shale Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.20394,
+                    -21.98021
+                ]
+            },
+            "properties": {
+                "name": "Mokgama Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.18636,
+                    -21.82972
+                ]
+            },
+            "properties": {
+                "name": "Bolau Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.60375,
+                    -21.95903
+                ]
+            },
+            "properties": {
+                "name": "Bosupye Hills",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.76209,
+                    -21.17791
+                ]
+            },
+            "properties": {
+                "name": "Tshilo Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.59539,
+                    -21.01676
+                ]
+            },
+            "properties": {
+                "name": "Bisoli Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.53488,
+                    -21.08475
+                ]
+            },
+            "properties": {
+                "name": "Nkuke Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.66469,
+                    -21.24723
+                ]
+            },
+            "properties": {
+                "name": "Sikukwe Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.45826,
+                    -21.06871
+                ]
+            },
+            "properties": {
+                "name": "Selolwe Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.29413,
+                    -21.1883
+                ]
+            },
+            "properties": {
+                "name": "Selobe Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.58644,
+                    -24.72013
+                ]
+            },
+            "properties": {
+                "name": "Ramaphatlhe Hills",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.65164,
+                    -24.66249
+                ]
+            },
+            "properties": {
+                "name": "Pitsegayagelwe Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.6081,
+                    -24.74288
+                ]
+            },
+            "properties": {
+                "name": "Motlhabeng Hills",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.54489,
+                    -24.74314
+                ]
+            },
+            "properties": {
+                "name": "Sesitajwe Hills",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.68248,
+                    -24.73207
+                ]
+            },
+            "properties": {
+                "name": "Lenyena Hills",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.6977,
+                    -24.71964
+                ]
+            },
+            "properties": {
+                "name": "Papalwe Hills",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.65317,
+                    -24.74533
+                ]
+            },
+            "properties": {
+                "name": "Mmankgodi Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.67285,
+                    -24.74952
+                ]
+            },
+            "properties": {
+                "name": "Mankopi Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.74253,
+                    -24.65202
+                ]
+            },
+            "properties": {
+                "name": "Senamakula Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.71933,
+                    -24.71399
+                ]
+            },
+            "properties": {
+                "name": "Mmabotswaborwa Hills",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.73298,
+                    -24.69437
+                ]
+            },
+            "properties": {
+                "name": "Tlhwane Hills",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.50773,
+                    -24.64984
+                ]
+            },
+            "properties": {
+                "name": "Dilege Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.51079,
+                    -24.63936
+                ]
+            },
+            "properties": {
+                "name": "Dilegane Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.53322,
+                    -24.8041
+                ]
+            },
+            "properties": {
+                "name": "Ngolo Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.50943,
+                    -24.77307
+                ]
+            },
+            "properties": {
+                "name": "Matlhutlwa Hills",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.7976,
+                    -24.9326
+                ]
+            },
+            "properties": {
+                "name": "Morepo Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.7797,
+                    -24.825
+                ]
+            },
+            "properties": {
+                "name": "Rankepa Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.75468,
+                    -24.8631
+                ]
+            },
+            "properties": {
+                "name": "Mafukutswe Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.81097,
+                    -24.91924
+                ]
+            },
+            "properties": {
+                "name": "Ditsotswane Hills",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.85954,
+                    -24.91235
+                ]
+            },
+            "properties": {
+                "name": "Tsokwane Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.8394,
+                    -24.959
+                ]
+            },
+            "properties": {
+                "name": "Sengoma Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.64225,
+                    -24.52591
+                ]
+            },
+            "properties": {
+                "name": "Kgabadukwe Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.49397,
+                    -24.70508
+                ]
+            },
+            "properties": {
+                "name": "Sephatlhaphatla Hills",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.48522,
+                    -24.73147
+                ]
+            },
+            "properties": {
+                "name": "Tsopane Hills",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.41245,
+                    -24.70865
+                ]
+            },
+            "properties": {
+                "name": "Lomorokana Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.34209,
+                    -24.71019
+                ]
+            },
+            "properties": {
+                "name": "Lwale Hills",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.3416,
+                    -24.64417
+                ]
+            },
+            "properties": {
+                "name": "Majane Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.30615,
+                    -24.82803
+                ]
+            },
+            "properties": {
+                "name": "Letlhakane Hills",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.36174,
+                    -24.63942
+                ]
+            },
+            "properties": {
+                "name": "Maphang Hills",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.40995,
+                    -24.93913
+                ]
+            },
+            "properties": {
+                "name": "Kwahu Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.42914,
+                    -24.96429
+                ]
+            },
+            "properties": {
+                "name": "Kwowe Hills",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.479722222,
+                    -24.773888888
+                ]
+            },
+            "properties": {
+                "name": "Q21860538",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.36732,
+                    -24.84095
+                ]
+            },
+            "properties": {
+                "name": "Matlhatlaganyane Hills",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.37093,
+                    -24.86967
+                ]
+            },
+            "properties": {
+                "name": "Gammelesi Hills",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.39998,
+                    -24.82883
+                ]
+            },
+            "properties": {
+                "name": "Mmamorolong Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.28911,
+                    -24.85018
+                ]
+            },
+            "properties": {
+                "name": "Makolontwane Hills",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.63028,
+                    -24.86532
+                ]
+            },
+            "properties": {
+                "name": "Ramankga Mmasechele",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2525,
+                    -24.8574
+                ]
+            },
+            "properties": {
+                "name": "Mokube Hills",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.59579,
+                    -24.95351
+                ]
+            },
+            "properties": {
+                "name": "Ntlhantlhe Hills",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.6221,
+                    -24.94285
+                ]
+            },
+            "properties": {
+                "name": "Dithaopo Hills",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.6033,
+                    -24.94718
+                ]
+            },
+            "properties": {
+                "name": "Tangkwane",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.64856,
+                    -24.9703
+                ]
+            },
+            "properties": {
+                "name": "Mohuhutswane Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.739,
+                    -24.88997
+                ]
+            },
+            "properties": {
+                "name": "Sepetlo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.45923,
+                    -25.1968
+                ]
+            },
+            "properties": {
+                "name": "Tlhojana Tsa Ditshwene Hillocks",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.45631,
+                    -25.23592
+                ]
+            },
+            "properties": {
+                "name": "Gafela Hills",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.47424,
+                    -25.18662
+                ]
+            },
+            "properties": {
+                "name": "Kamawe Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.49689,
+                    -25.05609
+                ]
+            },
+            "properties": {
+                "name": "Kgokgole Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.27675,
+                    -25.02769
+                ]
+            },
+            "properties": {
+                "name": "Dinaka Hills",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.24071,
+                    -25.14086
+                ]
+            },
+            "properties": {
+                "name": "Mamadungwa Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.23999,
+                    -25.01403
+                ]
+            },
+            "properties": {
+                "name": "Ditshilo Hills",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.54769,
+                    -24.22815
+                ]
+            },
+            "properties": {
+                "name": "Bogwete Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.5786,
+                    -24.2372
+                ]
+            },
+            "properties": {
+                "name": "Mmamantswe Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.68536,
+                    -24.04895
+                ]
+            },
+            "properties": {
+                "name": "Sesobane Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.5886,
+                    -24.0837
+                ]
+            },
+            "properties": {
+                "name": "Lethekane Ridge",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.59964,
+                    -21.82624
+                ]
+            },
+            "properties": {
+                "name": "Matadela Hills",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.55425,
+                    -21.85057
+                ]
+            },
+            "properties": {
+                "name": "Mmantakadi Hills",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.58614,
+                    -21.93099
+                ]
+            },
+            "properties": {
+                "name": "Nkgobotlwane Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.7965,
+                    -21.9804
+                ]
+            },
+            "properties": {
+                "name": "Zemolao Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.5305,
+                    -21.85527
+                ]
+            },
+            "properties": {
+                "name": "Malemoge Hills",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.6771,
+                    -21.7846
+                ]
+            },
+            "properties": {
+                "name": "Gubadwe Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.8407,
+                    -21.9472
+                ]
+            },
+            "properties": {
+                "name": "Sebariki Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.81422,
+                    -21.86152
+                ]
+            },
+            "properties": {
+                "name": "Semolale Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.91417,
+                    -21.90736
+                ]
+            },
+            "properties": {
+                "name": "Ntswelekgomo Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.91229,
+                    -21.82913
+                ]
+            },
+            "properties": {
+                "name": "Sekwedi Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.87434,
+                    -21.7868
+                ]
+            },
+            "properties": {
+                "name": "Mmandabana Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.79348,
+                    -21.80647
+                ]
+            },
+            "properties": {
+                "name": "Moshalalo Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.94213,
+                    -21.77722
+                ]
+            },
+            "properties": {
+                "name": "Tombonsheche Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.03529,
+                    -21.80599
+                ]
+            },
+            "properties": {
+                "name": "Mmakudukanye Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.235555555,
+                    -22.308055555
+                ]
+            },
+            "properties": {
+                "name": "Q21860739",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.13758,
+                    -22.25018
+                ]
+            },
+            "properties": {
+                "name": "Thatswane Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.044166666,
+                    -22.357777777
+                ]
+            },
+            "properties": {
+                "name": "Q21860741",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.41516,
+                    -22.21935
+                ]
+            },
+            "properties": {
+                "name": "Dikalate Hills",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.30719,
+                    -22.22207
+                ]
+            },
+            "properties": {
+                "name": "Sesweu Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.49222,
+                    -22.24894
+                ]
+            },
+            "properties": {
+                "name": "Thothi Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.35458,
+                    -22.21636
+                ]
+            },
+            "properties": {
+                "name": "Matshwane Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.41533,
+                    -22.17391
+                ]
+            },
+            "properties": {
+                "name": "Molomole Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.2601,
+                    -22.2669
+                ]
+            },
+            "properties": {
+                "name": "Maope Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.31482,
+                    -22.30346
+                ]
+            },
+            "properties": {
+                "name": "Mokobjwe Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.45253,
+                    -22.32862
+                ]
+            },
+            "properties": {
+                "name": "Serule Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.40011,
+                    -22.39832
+                ]
+            },
+            "properties": {
+                "name": "Tamasane Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.39011,
+                    -22.34017
+                ]
+            },
+            "properties": {
+                "name": "Senthane Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.3435,
+                    -22.2603
+                ]
+            },
+            "properties": {
+                "name": "Masikati Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.90657,
+                    -22.94815
+                ]
+            },
+            "properties": {
+                "name": "Lose Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.76344,
+                    -22.90998
+                ]
+            },
+            "properties": {
+                "name": "Mmaborotho Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.88977,
+                    -22.7748
+                ]
+            },
+            "properties": {
+                "name": "Mogome Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.97877,
+                    -22.80356
+                ]
+            },
+            "properties": {
+                "name": "Sapolamorori Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.138333333,
+                    -22.248888888
+                ]
+            },
+            "properties": {
+                "name": "Q21860782",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.22334,
+                    -22.08451
+                ]
+            },
+            "properties": {
+                "name": "Galawe Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.1059,
+                    -22.1115
+                ]
+            },
+            "properties": {
+                "name": "Bojanamane Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.7717,
+                    -22.05746
+                ]
+            },
+            "properties": {
+                "name": "Tapane Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.1616,
+                    -22.02984
+                ]
+            },
+            "properties": {
+                "name": "Lephiri Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.7726,
+                    -22.2317
+                ]
+            },
+            "properties": {
+                "name": "Mahatse Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.88059,
+                    -22.02952
+                ]
+            },
+            "properties": {
+                "name": "Sesase Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.98108,
+                    -22.17231
+                ]
+            },
+            "properties": {
+                "name": "Malonngwe Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.931666666,
+                    -22.068055555
+                ]
+            },
+            "properties": {
+                "name": "Q21860796",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.86246,
+                    -22.22678
+                ]
+            },
+            "properties": {
+                "name": "Tebele Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.93543,
+                    -22.24675
+                ]
+            },
+            "properties": {
+                "name": "Taukome Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.905,
+                    -22.1528
+                ]
+            },
+            "properties": {
+                "name": "Raboswaane Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.79206,
+                    -22.73344
+                ]
+            },
+            "properties": {
+                "name": "Mmammoloke Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.7582,
+                    -22.6986
+                ]
+            },
+            "properties": {
+                "name": "Tsokong Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.60104,
+                    -22.39394
+                ]
+            },
+            "properties": {
+                "name": "Khubulabobedi Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.66725,
+                    -22.67256
+                ]
+            },
+            "properties": {
+                "name": "Phate Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.6802,
+                    -22.4599
+                ]
+            },
+            "properties": {
+                "name": "Sokwe Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.52439,
+                    -22.67045
+                ]
+            },
+            "properties": {
+                "name": "Kgorotlhwe Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.63393,
+                    -22.63315
+                ]
+            },
+            "properties": {
+                "name": "Mmasephanka Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.5267,
+                    -22.77473
+                ]
+            },
+            "properties": {
+                "name": "Kaleke Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.71701,
+                    -22.91763
+                ]
+            },
+            "properties": {
+                "name": "Mholwane Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.57045,
+                    -22.89924
+                ]
+            },
+            "properties": {
+                "name": "Phuduhudu Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.68759,
+                    -21.6889
+                ]
+            },
+            "properties": {
+                "name": "Jilo Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.6009,
+                    -21.6597
+                ]
+            },
+            "properties": {
+                "name": "Kgolokwane Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.53914,
+                    -21.66192
+                ]
+            },
+            "properties": {
+                "name": "Lenyetsane Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.83246,
+                    -22.37847
+                ]
+            },
+            "properties": {
+                "name": "Mamolwane Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.8408,
+                    -22.43602
+                ]
+            },
+            "properties": {
+                "name": "Masame Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.9651,
+                    -22.3026
+                ]
+            },
+            "properties": {
+                "name": "Phikwe Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.9577,
+                    -22.3912
+                ]
+            },
+            "properties": {
+                "name": "Lewele Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.81198,
+                    -22.33677
+                ]
+            },
+            "properties": {
+                "name": "Sepalamoriri Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.8975,
+                    -22.3493
+                ]
+            },
+            "properties": {
+                "name": "Palamaokowe Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.93266,
+                    -22.3917
+                ]
+            },
+            "properties": {
+                "name": "Botepetepe Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.78908,
+                    -22.27334
+                ]
+            },
+            "properties": {
+                "name": "Paje Hills",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.79101,
+                    -22.30998
+                ]
+            },
+            "properties": {
+                "name": "Leruti Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.37331,
+                    -21.74853
+                ]
+            },
+            "properties": {
+                "name": "Mmatsiane Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.3935,
+                    -21.6681
+                ]
+            },
+            "properties": {
+                "name": "Mashambe Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.35696,
+                    -21.6189
+                ]
+            },
+            "properties": {
+                "name": "Ngoloholo Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.33337,
+                    -21.96236
+                ]
+            },
+            "properties": {
+                "name": "Ramphotho Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.49723,
+                    -21.87283
+                ]
+            },
+            "properties": {
+                "name": "Phatshwane Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.357,
+                    -21.8277
+                ]
+            },
+            "properties": {
+                "name": "Romane Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.30612,
+                    -21.87056
+                ]
+            },
+            "properties": {
+                "name": "Maditshwene Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.41698,
+                    -21.88099
+                ]
+            },
+            "properties": {
+                "name": "Leribe Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.01805,
+                    -21.73889
+                ]
+            },
+            "properties": {
+                "name": "Paje Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.4573,
+                    -21.8095
+                ]
+            },
+            "properties": {
+                "name": "Semabaje Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.28549,
+                    -21.79238
+                ]
+            },
+            "properties": {
+                "name": "Mmamanaka Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.10725,
+                    -21.70481
+                ]
+            },
+            "properties": {
+                "name": "Tshokwe Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.07013,
+                    -21.64358
+                ]
+            },
+            "properties": {
+                "name": "Lesabokwe Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.2145,
+                    -21.64863
+                ]
+            },
+            "properties": {
+                "name": "Shangule Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.7763,
+                    -21.7189
+                ]
+            },
+            "properties": {
+                "name": "Mmatau Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.82525,
+                    -21.71534
+                ]
+            },
+            "properties": {
+                "name": "Mhatane Hilis",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.87871,
+                    -21.63088
+                ]
+            },
+            "properties": {
+                "name": "Kukama Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.91277,
+                    -21.63364
+                ]
+            },
+            "properties": {
+                "name": "Sedimo Hills",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.759,
+                    -21.64558
+                ]
+            },
+            "properties": {
+                "name": "Nyame Hills",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.77667,
+                    -21.61507
+                ]
+            },
+            "properties": {
+                "name": "Mookoso Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.98979,
+                    -21.63121
+                ]
+            },
+            "properties": {
+                "name": "Molomowapudi Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.89772,
+                    -21.59286
+                ]
+            },
+            "properties": {
+                "name": "Nkaathane Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.7912,
+                    -21.5485
+                ]
+            },
+            "properties": {
+                "name": "Rasemelamela Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.9651,
+                    -22.3026
+                ]
+            },
+            "properties": {
+                "name": "Phikwe Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.9577,
+                    -22.3912
+                ]
+            },
+            "properties": {
+                "name": "Lewele Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.81198,
+                    -22.33677
+                ]
+            },
+            "properties": {
+                "name": "Sepalamoriri Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.8975,
+                    -22.3493
+                ]
+            },
+            "properties": {
+                "name": "Palamaokowe Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.93266,
+                    -22.3917
+                ]
+            },
+            "properties": {
+                "name": "Botepetepe Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.78908,
+                    -22.27334
+                ]
+            },
+            "properties": {
+                "name": "Paje Hills",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.79101,
+                    -22.30998
+                ]
+            },
+            "properties": {
+                "name": "Leruti Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.37331,
+                    -21.74853
+                ]
+            },
+            "properties": {
+                "name": "Mmatsiane Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.3935,
+                    -21.6681
+                ]
+            },
+            "properties": {
+                "name": "Mashambe Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.35696,
+                    -21.6189
+                ]
+            },
+            "properties": {
+                "name": "Ngoloholo Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.33337,
+                    -21.96236
+                ]
+            },
+            "properties": {
+                "name": "Ramphotho Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.49723,
+                    -21.87283
+                ]
+            },
+            "properties": {
+                "name": "Phatshwane Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.357,
+                    -21.8277
+                ]
+            },
+            "properties": {
+                "name": "Romane Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.30612,
+                    -21.87056
+                ]
+            },
+            "properties": {
+                "name": "Maditshwene Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.41698,
+                    -21.88099
+                ]
+            },
+            "properties": {
+                "name": "Leribe Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.01805,
+                    -21.73889
+                ]
+            },
+            "properties": {
+                "name": "Paje Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.4573,
+                    -21.8095
+                ]
+            },
+            "properties": {
+                "name": "Semabaje Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.28549,
+                    -21.79238
+                ]
+            },
+            "properties": {
+                "name": "Mmamanaka Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.10725,
+                    -21.70481
+                ]
+            },
+            "properties": {
+                "name": "Tshokwe Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.07013,
+                    -21.64358
+                ]
+            },
+            "properties": {
+                "name": "Lesabokwe Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.2145,
+                    -21.64863
+                ]
+            },
+            "properties": {
+                "name": "Shangule Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.7763,
+                    -21.7189
+                ]
+            },
+            "properties": {
+                "name": "Mmatau Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.82525,
+                    -21.71534
+                ]
+            },
+            "properties": {
+                "name": "Mhatane Hilis",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.87871,
+                    -21.63088
+                ]
+            },
+            "properties": {
+                "name": "Kukama Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.91277,
+                    -21.63364
+                ]
+            },
+            "properties": {
+                "name": "Sedimo Hills",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.759,
+                    -21.64558
+                ]
+            },
+            "properties": {
+                "name": "Nyame Hills",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.77667,
+                    -21.61507
+                ]
+            },
+            "properties": {
+                "name": "Mookoso Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.98979,
+                    -21.63121
+                ]
+            },
+            "properties": {
+                "name": "Molomowapudi Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.63393,
+                    -22.63315
+                ]
+            },
+            "properties": {
+                "name": "Mmasephanka Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.5267,
+                    -22.77473
+                ]
+            },
+            "properties": {
+                "name": "Kaleke Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.71701,
+                    -22.91763
+                ]
+            },
+            "properties": {
+                "name": "Mholwane Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.57045,
+                    -22.89924
+                ]
+            },
+            "properties": {
+                "name": "Phuduhudu Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.68759,
+                    -21.6889
+                ]
+            },
+            "properties": {
+                "name": "Jilo Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.6009,
+                    -21.6597
+                ]
+            },
+            "properties": {
+                "name": "Kgolokwane Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.89772,
+                    -21.59286
+                ]
+            },
+            "properties": {
+                "name": "Nkaathane Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.7912,
+                    -21.5485
+                ]
+            },
+            "properties": {
+                "name": "Rasemelamela Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.8819,
+                    -21.533
+                ]
+            },
+            "properties": {
+                "name": "Nkgagarlpane Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.636666666,
+                    -21.656944444
+                ]
+            },
+            "properties": {
+                "name": "Q21860934",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.64995,
+                    -21.68225
+                ]
+            },
+            "properties": {
+                "name": "Mangale Hills",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.61546,
+                    -21.51666
+                ]
+            },
+            "properties": {
+                "name": "Motsekee Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.6606,
+                    -21.62313
+                ]
+            },
+            "properties": {
+                "name": "Hamaau Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.6147,
+                    -21.7267
+                ]
+            },
+            "properties": {
+                "name": "Mokoswane Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.50997,
+                    -21.63951
+                ]
+            },
+            "properties": {
+                "name": "Mmabobowe Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.55917,
+                    -21.57763
+                ]
+            },
+            "properties": {
+                "name": "Sivia Hills",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.59535,
+                    -21.66925
+                ]
+            },
+            "properties": {
+                "name": "Xadae Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.2274,
+                    -21.91164
+                ]
+            },
+            "properties": {
+                "name": "Sansale Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.16313,
+                    -21.86634
+                ]
+            },
+            "properties": {
+                "name": "Lerala Hills",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.142222222,
+                    -21.946111111
+                ]
+            },
+            "properties": {
+                "name": "Q21860944",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.19713,
+                    -21.82729
+                ]
+            },
+            "properties": {
+                "name": "Majande Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.0616,
+                    -21.80685
+                ]
+            },
+            "properties": {
+                "name": "Molabe Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.166388888,
+                    -17.779722222
+                ]
+            },
+            "properties": {
+                "name": "Q21860962",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.078611111,
+                    -17.839166666
+                ]
+            },
+            "properties": {
+                "name": "Q21860967",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.06915,
+                    -21.23407
+                ]
+            },
+            "properties": {
+                "name": "Mosu Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.2848,
+                    -20.4226
+                ]
+            },
+            "properties": {
+                "name": "Majambuwi Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.56441,
+                    -20.61849
+                ]
+            },
+            "properties": {
+                "name": "Kgwana Hills",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.41891,
+                    -20.88034
+                ]
+            },
+            "properties": {
+                "name": "Ntlmbale Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.44087,
+                    -20.84922
+                ]
+            },
+            "properties": {
+                "name": "Majwanamatshwana Hills",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.49005,
+                    -20.98908
+                ]
+            },
+            "properties": {
+                "name": "Bole Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.42602,
+                    -20.81631
+                ]
+            },
+            "properties": {
+                "name": "Lembaswe Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.35927,
+                    -20.75258
+                ]
+            },
+            "properties": {
+                "name": "Bolotshwa Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.26262,
+                    -20.97847
+                ]
+            },
+            "properties": {
+                "name": "Ramathangwane Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.6425,
+                    -20.5717
+                ]
+            },
+            "properties": {
+                "name": "Tegwi Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.58528,
+                    -20.49756
+                ]
+            },
+            "properties": {
+                "name": "Chelekwalo Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.5337,
+                    -20.5436
+                ]
+            },
+            "properties": {
+                "name": "Dalale Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.21641,
+                    -20.88547
+                ]
+            },
+            "properties": {
+                "name": "Matapudza Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.07954,
+                    -20.81176
+                ]
+            },
+            "properties": {
+                "name": "Njidigwe Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.15257,
+                    -20.84375
+                ]
+            },
+            "properties": {
+                "name": "Phanga Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.13024,
+                    -20.76067
+                ]
+            },
+            "properties": {
+                "name": "Dombogulu Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.24258,
+                    -20.52462
+                ]
+            },
+            "properties": {
+                "name": "Tsakalisa Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.21983,
+                    -20.64414
+                ]
+            },
+            "properties": {
+                "name": "Nkome Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.172,
+                    -20.516
+                ]
+            },
+            "properties": {
+                "name": "Goshwe Hills",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.0853,
+                    -20.64376
+                ]
+            },
+            "properties": {
+                "name": "Makuta Hills",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.06808,
+                    -20.63141
+                ]
+            },
+            "properties": {
+                "name": "Mathazwl Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.36165,
+                    -20.61635
+                ]
+            },
+            "properties": {
+                "name": "Domboshaba Hills",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.3255,
+                    -20.5408
+                ]
+            },
+            "properties": {
+                "name": "Shikangangwe Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.3783,
+                    -20.47789
+                ]
+            },
+            "properties": {
+                "name": "Gungwe Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.3155,
+                    -20.57307
+                ]
+            },
+            "properties": {
+                "name": "Wonabaleya Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.35094,
+                    -20.6081
+                ]
+            },
+            "properties": {
+                "name": "Domboshaba Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.336944444,
+                    -20.624444444
+                ]
+            },
+            "properties": {
+                "name": "Q21861043",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.3313,
+                    -20.62146
+                ]
+            },
+            "properties": {
+                "name": "Mantenge Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.31005,
+                    -20.61604
+                ]
+            },
+            "properties": {
+                "name": "Onya Hills",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.30845,
+                    -20.66797
+                ]
+            },
+            "properties": {
+                "name": "Nyangane Hills",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.32189,
+                    -20.72869
+                ]
+            },
+            "properties": {
+                "name": "Vumba Hills",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.68588,
+                    -24.66276
+                ]
+            },
+            "properties": {
+                "name": "Bokaa Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.7983,
+                    -22.3257
+                ]
+            },
+            "properties": {
+                "name": "Mangwedi Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.49,
+                    -22.0808
+                ]
+            },
+            "properties": {
+                "name": "Meshwe Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.74972,
+                    -23.99741
+                ]
+            },
+            "properties": {
+                "name": "Morebe Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.51125,
+                    -21.1516
+                ]
+            },
+            "properties": {
+                "name": "Nyangabgwe Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.177777777,
+                    -22.676111111
+                ]
+            },
+            "properties": {
+                "name": "Q22088460",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.097222222,
+                    -22.571944444
+                ]
+            },
+            "properties": {
+                "name": "Q22088587",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.570833333,
+                    -22.491666666
+                ]
+            },
+            "properties": {
+                "name": "Q22088767",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.448888888,
+                    -23.046666666
+                ]
+            },
+            "properties": {
+                "name": "Q22088799",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.181944444,
+                    -22.544166666
+                ]
+            },
+            "properties": {
+                "name": "Q22088830",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.587777777,
+                    -22.368611111
+                ]
+            },
+            "properties": {
+                "name": "Q22088844",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.340833333,
+                    -23.051944444
+                ]
+            },
+            "properties": {
+                "name": "Marakalalo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.611388888,
+                    -22.609722222
+                ]
+            },
+            "properties": {
+                "name": "Q22089831",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.435277777,
+                    -22.706666666
+                ]
+            },
+            "properties": {
+                "name": "Q22089855",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.576666666,
+                    -22.4075
+                ]
+            },
+            "properties": {
+                "name": "Q22090257",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.715,
+                    -25.0183
+                ]
+            },
+            "properties": {
+                "name": "Otse",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.6108,
+                    -21.9525
+                ]
+            },
+            "properties": {
+                "name": "Bosutswe",
+                "article": "https://en.wikipedia.org/wiki/Bosutswe"
+            }
+        }
+    ]
+}

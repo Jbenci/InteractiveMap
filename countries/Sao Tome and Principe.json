@@ -1,0 +1,957 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.4,
+                    1.616666666
+                ]
+            },
+            "properties": {
+                "name": "Príncipe",
+                "article": "https://en.wikipedia.org/wiki/Pr%C3%ADncipe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.61,
+                    0.22
+                ]
+            },
+            "properties": {
+                "name": "São Tomé Island",
+                "article": "https://en.wikipedia.org/wiki/S%C3%A3o_Tom%C3%A9_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.715,
+                    0.408
+                ]
+            },
+            "properties": {
+                "name": "Ilhéu das Cabras",
+                "article": "https://en.wikipedia.org/wiki/Ilh%C3%A9u_das_Cabras"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.2826517,
+                    1.3826328
+                ]
+            },
+            "properties": {
+                "name": "Tinhosa Pequena",
+                "article": "https://en.wikipedia.org/wiki/Tinhosa_Pequena"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.402630555,
+                    1.698855555
+                ]
+            },
+            "properties": {
+                "name": "Ilheu Bom Bom",
+                "article": "https://en.wikipedia.org/wiki/Ilh%C3%A9u_Bom_Bom"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.533333333,
+                    0.266666666
+                ]
+            },
+            "properties": {
+                "name": "Pico de São Tomé",
+                "article": "https://en.wikipedia.org/wiki/Pico_de_S%C3%A3o_Tom%C3%A9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.522388888,
+                    -0.003777777
+                ]
+            },
+            "properties": {
+                "name": "Islet of Rolas",
+                "article": "https://en.wikipedia.org/wiki/Ilh%C3%A9u_das_Rolas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.666666666,
+                    0.3
+                ]
+            },
+            "properties": {
+                "name": "Trindade",
+                "article": "https://en.wikipedia.org/wiki/Trindade_(S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.431,
+                    1.514
+                ]
+            },
+            "properties": {
+                "name": "Ilhéu Caroço",
+                "article": "https://en.wikipedia.org/wiki/Ilh%C3%A9u_Caro%C3%A7o"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.291388888,
+                    1.341388888
+                ]
+            },
+            "properties": {
+                "name": "Tinhosa Grande",
+                "article": "https://en.wikipedia.org/wiki/Tinhosa_Grande"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.38333333,
+                    1.58333333
+                ]
+            },
+            "properties": {
+                "name": "Pico de Príncipe",
+                "article": "https://en.wikipedia.org/wiki/Pico_do_Pr%C3%ADncipe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.566388888,
+                    0.118055555
+                ]
+            },
+            "properties": {
+                "name": "Pico Cão Grande",
+                "article": "https://en.wikipedia.org/wiki/Pico_C%C3%A3o_Grande"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.6875,
+                    0.1689
+                ]
+            },
+            "properties": {
+                "name": "Q5936508",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.283333333,
+                    1.366666666
+                ]
+            },
+            "properties": {
+                "name": "Pedras Tinhosas",
+                "article": "https://en.wikipedia.org/wiki/Pedras_Tinhosas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.47972222,
+                    0.13138889
+                ]
+            },
+            "properties": {
+                "name": "Ilhéu Gabado",
+                "article": "https://en.wikipedia.org/wiki/Ilh%C3%A9u_Gabado"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.58583333,
+                    0.07305556
+                ]
+            },
+            "properties": {
+                "name": "Ilhéu Quixibá",
+                "article": "https://en.wikipedia.org/wiki/Ilh%C3%A9u_Quixib%C3%A1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.46888889,
+                    1.68444444
+                ]
+            },
+            "properties": {
+                "name": "Ilhéu dos Mosteiros",
+                "article": "https://en.wikipedia.org/wiki/Ilh%C3%A9u_dos_Mosteiros"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.533333333,
+                    0.25
+                ]
+            },
+            "properties": {
+                "name": "Morro Lembá",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.65,
+                    0.166666666
+                ]
+            },
+            "properties": {
+                "name": "Pico Maria Fernandes",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.3802,
+                    1.7254
+                ]
+            },
+            "properties": {
+                "name": "Pedra da Galé",
+                "article": "https://en.wikipedia.org/wiki/Pedra_da_Gal%C3%A9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.5117,
+                    0.1908
+                ]
+            },
+            "properties": {
+                "name": "Pico Zagaia",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.5517,
+                    0.1508
+                ]
+            },
+            "properties": {
+                "name": "Vilaverde",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.566666666,
+                    0.1
+                ]
+            },
+            "properties": {
+                "name": "Sintra",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.533333333,
+                    0.216666666
+                ]
+            },
+            "properties": {
+                "name": "Sela do Camelo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.633333333,
+                    0.3
+                ]
+            },
+            "properties": {
+                "name": "São Pedro, São Tomé",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.4858,
+                    0.165
+                ]
+            },
+            "properties": {
+                "name": "São Manuel",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.533333333,
+                    0.283333333
+                ]
+            },
+            "properties": {
+                "name": "Monte das Quinas",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.533333333,
+                    0.2
+                ]
+            },
+            "properties": {
+                "name": "Queijo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.583333333,
+                    0.3
+                ]
+            },
+            "properties": {
+                "name": "Provaz",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.6467,
+                    0.2642
+                ]
+            },
+            "properties": {
+                "name": "Preguiça",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.6,
+                    0.25
+                ]
+            },
+            "properties": {
+                "name": "Peninha",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.4,
+                    1.61667
+                ]
+            },
+            "properties": {
+                "name": "Morro Papagaio",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.5917,
+                    0.2825
+                ]
+            },
+            "properties": {
+                "name": "Palmira",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.65,
+                    0.316666666
+                ]
+            },
+            "properties": {
+                "name": "Muongo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.683333333,
+                    0.233333333
+                ]
+            },
+            "properties": {
+                "name": "Mizambu",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.65,
+                    0.233333333
+                ]
+            },
+            "properties": {
+                "name": "Miguel Ângelo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.666666666,
+                    0.166666666
+                ]
+            },
+            "properties": {
+                "name": "Micondó",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.55,
+                    0.233333333
+                ]
+            },
+            "properties": {
+                "name": "Maria Pires",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.666666666,
+                    0.2
+                ]
+            },
+            "properties": {
+                "name": "Maria Isabel",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.633333333,
+                    0.216666666
+                ]
+            },
+            "properties": {
+                "name": "Maria Helena",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.6,
+                    0.283333333
+                ]
+            },
+            "properties": {
+                "name": "Lagoa Amélia",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.38333,
+                    1.6
+                ]
+            },
+            "properties": {
+                "name": "Pico João Dias Pai",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.516666666,
+                    0.233333333
+                ]
+            },
+            "properties": {
+                "name": "Morro Irene",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.566666666,
+                    0.316666666
+                ]
+            },
+            "properties": {
+                "name": "Fortunato",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.616666666,
+                    0.25
+                ]
+            },
+            "properties": {
+                "name": "Pico Formoso Pequeno",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.633333333,
+                    0.233333333
+                ]
+            },
+            "properties": {
+                "name": "Pico Formoso Grande",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.583333333,
+                    0.333333333
+                ]
+            },
+            "properties": {
+                "name": "Estoril",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.41667,
+                    1.58333
+                ]
+            },
+            "properties": {
+                "name": "Morro de Este",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.616666666,
+                    0.3
+                ]
+            },
+            "properties": {
+                "name": "Esperança",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.633333333,
+                    0.183333333
+                ]
+            },
+            "properties": {
+                "name": "Cruzeiro",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.6,
+                    0.316666666
+                ]
+            },
+            "properties": {
+                "name": "Chamiço",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.666666666,
+                    0.266666666
+                ]
+            },
+            "properties": {
+                "name": "Catraio",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.36667,
+                    1.58333
+                ]
+            },
+            "properties": {
+                "name": "Carriote",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.65,
+                    0.233333333
+                ]
+            },
+            "properties": {
+                "name": "Cantagalo, Hill, Sao Tomé",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.583333333,
+                    0.266666666
+                ]
+            },
+            "properties": {
+                "name": "Calvário",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.65,
+                    0.216666666
+                ]
+            },
+            "properties": {
+                "name": "Pico Cágunguê",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.5533,
+                    0.1967
+                ]
+            },
+            "properties": {
+                "name": "Pico Cabumbê",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.35,
+                    1.56667
+                ]
+            },
+            "properties": {
+                "name": "Barriga Branca",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.5,
+                    0.216666666
+                ]
+            },
+            "properties": {
+                "name": "Morro Artur",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.65,
+                    0.183333333
+                ]
+            },
+            "properties": {
+                "name": "Aliança",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.483333333,
+                    0.133333333
+                ]
+            },
+            "properties": {
+                "name": "Balsa Voador",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.466666666,
+                    0.2
+                ]
+            },
+            "properties": {
+                "name": "Q49642215",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.766666666,
+                    0.25
+                ]
+            },
+            "properties": {
+                "name": "Q49642238",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.483333333,
+                    0.133333333
+                ]
+            },
+            "properties": {
+                "name": "Q49642263",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.466666666,
+                    0.183333333
+                ]
+            },
+            "properties": {
+                "name": "Q49642268",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.516666666,
+                    0.1
+                ]
+            },
+            "properties": {
+                "name": "Q49642269",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.731403,
+                    0.338556
+                ]
+            },
+            "properties": {
+                "name": "Conjuntos Urbanos, São Tomé",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.733333333,
+                    0.333333333
+                ]
+            },
+            "properties": {
+                "name": "São Tomé",
+                "article": "https://en.wikipedia.org/wiki/S%C3%A3o_Tom%C3%A9"
+            }
+        }
+    ]
+}

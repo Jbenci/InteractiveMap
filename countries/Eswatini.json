@@ -1,0 +1,1615 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.206411,
+                    -26.44648
+                ]
+            },
+            "properties": {
+                "name": "Lobamba",
+                "article": "https://en.wikipedia.org/wiki/Lobamba"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.366666666,
+                    -26.483333333
+                ]
+            },
+            "properties": {
+                "name": "Manzini",
+                "article": "https://en.wikipedia.org/wiki/Manzini"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.916666666,
+                    -26.216666666
+                ]
+            },
+            "properties": {
+                "name": "Simunye",
+                "article": "https://en.wikipedia.org/wiki/Simunye"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.133333333,
+                    -25.916666666
+                ]
+            },
+            "properties": {
+                "name": "Emlembe",
+                "article": "https://en.wikipedia.org/wiki/Emlembe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.104056,
+                    -26.302936
+                ]
+            },
+            "properties": {
+                "name": "Waterford Kamhlaba",
+                "article": "https://en.wikipedia.org/wiki/Waterford_Kamhlaba"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.2,
+                    -27.116666666
+                ]
+            },
+            "properties": {
+                "name": "Nhlangano",
+                "article": "https://en.wikipedia.org/wiki/Nhlangano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.95,
+                    -26.45
+                ]
+            },
+            "properties": {
+                "name": "Siteki",
+                "article": "https://en.wikipedia.org/wiki/Siteki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.85,
+                    -26.033333333
+                ]
+            },
+            "properties": {
+                "name": "Mhlume",
+                "article": "https://en.wikipedia.org/wiki/Mhlume"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.316666666,
+                    -26.966666666
+                ]
+            },
+            "properties": {
+                "name": "Hlatikulu",
+                "article": "https://en.wikipedia.org/wiki/Hlatikulu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.01,
+                    -26.22
+                ]
+            },
+            "properties": {
+                "name": "Ngwenya",
+                "article": "https://en.wikipedia.org/wiki/Ngwenya"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.9,
+                    -27.316666666
+                ]
+            },
+            "properties": {
+                "name": "Lavumisa",
+                "article": "https://en.wikipedia.org/wiki/Lavumisa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.1575,
+                    -27.0525
+                ]
+            },
+            "properties": {
+                "name": "Vondo Kop",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.9892,
+                    -26.58
+                ]
+            },
+            "properties": {
+                "name": "Vilakati Kop",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.45,
+                    -25.916666666
+                ]
+            },
+            "properties": {
+                "name": "Umshundu",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.915,
+                    -25.9225
+                ]
+            },
+            "properties": {
+                "name": "Umgungundlovo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.2558,
+                    -26.6883
+                ]
+            },
+            "properties": {
+                "name": "Umbuba Kop",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.0292,
+                    -26.2275
+                ]
+            },
+            "properties": {
+                "name": "Umbeloosi Poort",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.5,
+                    -26.55
+                ]
+            },
+            "properties": {
+                "name": "Umbanjane Kop",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.0333,
+                    -26.4075
+                ]
+            },
+            "properties": {
+                "name": "Stataweni",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.4433,
+                    -26.08
+                ]
+            },
+            "properties": {
+                "name": "Slingaana",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.3225,
+                    -26.6617
+                ]
+            },
+            "properties": {
+                "name": "Sipanga Kop",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.816666666,
+                    -26.95
+                ]
+            },
+            "properties": {
+                "name": "Sinyamatulu",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.0617,
+                    -26.8333
+                ]
+            },
+            "properties": {
+                "name": "Simelane Kop",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.075,
+                    -26.0875
+                ]
+            },
+            "properties": {
+                "name": "Silotwane",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6858,
+                    -26.3117
+                ]
+            },
+            "properties": {
+                "name": "Sikupa Kop",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.0542,
+                    -26.0117
+                ]
+            },
+            "properties": {
+                "name": "Sikayana",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.2275,
+                    -26.6333
+                ]
+            },
+            "properties": {
+                "name": "Sibenyeni Kop",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.4133,
+                    -25.8617
+                ]
+            },
+            "properties": {
+                "name": "Sayama Kop",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.4233,
+                    -26.4883
+                ]
+            },
+            "properties": {
+                "name": "Saddle",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.316666666,
+                    -26.633333333
+                ]
+            },
+            "properties": {
+                "name": "Nyonyane Kop",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.1692,
+                    -26.4567
+                ]
+            },
+            "properties": {
+                "name": "Nyonyane",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.0408,
+                    -26.31
+                ]
+            },
+            "properties": {
+                "name": "Nunes",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.7825,
+                    -27.0483
+                ]
+            },
+            "properties": {
+                "name": "Ntutwakazi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.175,
+                    -26.7175
+                ]
+            },
+            "properties": {
+                "name": "Ntungula Kop",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.3283,
+                    -26.7617
+                ]
+            },
+            "properties": {
+                "name": "Ntototsha Kop",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.4308,
+                    -27.0075
+                ]
+            },
+            "properties": {
+                "name": "Ntonga Kop",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.5567,
+                    -25.9117
+                ]
+            },
+            "properties": {
+                "name": "Ntabinezimpisi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.0683,
+                    -26.9742
+                ]
+            },
+            "properties": {
+                "name": "Ntabankulu Kop",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.66,
+                    -26.4817
+                ]
+            },
+            "properties": {
+                "name": "Ntabankulu",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6492,
+                    -27.2825
+                ]
+            },
+            "properties": {
+                "name": "Nsalitshe Kop",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.9608,
+                    -26.3467
+                ]
+            },
+            "properties": {
+                "name": "Nkabane",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.38,
+                    -26.4867
+                ]
+            },
+            "properties": {
+                "name": "Njingo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.075,
+                    -26.1433
+                ]
+            },
+            "properties": {
+                "name": "Ngwenya Kop",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.0492,
+                    -26.1633
+                ]
+            },
+            "properties": {
+                "name": "Ngwenya",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.5667,
+                    -27.015
+                ]
+            },
+            "properties": {
+                "name": "Ngude",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.435,
+                    -26.9392
+                ]
+            },
+            "properties": {
+                "name": "Ngqongqane",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.3342,
+                    -26.9067
+                ]
+            },
+            "properties": {
+                "name": "Mtambama Kop",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6033,
+                    -26.5508
+                ]
+            },
+            "properties": {
+                "name": "Mpunzi Kop",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.1825,
+                    -27.1742
+                ]
+            },
+            "properties": {
+                "name": "Mozane",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.866666666,
+                    -26.75
+                ]
+            },
+            "properties": {
+                "name": "Mouaween Kop",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.0608,
+                    -26.9542
+                ]
+            },
+            "properties": {
+                "name": "Molingane Kop",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.233333333,
+                    -26.666666666
+                ]
+            },
+            "properties": {
+                "name": "Mloteni Kop",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.5717,
+                    -26.25
+                ]
+            },
+            "properties": {
+                "name": "Mliba Kop",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.0792,
+                    -26.5425
+                ]
+            },
+            "properties": {
+                "name": "Mhlababomvu",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.4208,
+                    -26.9625
+                ]
+            },
+            "properties": {
+                "name": "Mconga Kop",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.445,
+                    -27.0492
+                ]
+            },
+            "properties": {
+                "name": "Mbulungwane Kop",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.1017,
+                    -26.9
+                ]
+            },
+            "properties": {
+                "name": "Mbombane Kop",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.3483,
+                    -27.0483
+                ]
+            },
+            "properties": {
+                "name": "Mbabala Kop",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.383333333,
+                    -26.933333333
+                ]
+            },
+            "properties": {
+                "name": "Mavukulu Kop",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.133333333,
+                    -26.316666666
+                ]
+            },
+            "properties": {
+                "name": "Mbabane",
+                "article": "https://en.wikipedia.org/wiki/Mbabane"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.415,
+                    -25.86
+                ]
+            },
+            "properties": {
+                "name": "Seyama Kop",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.1675,
+                    -26.6242
+                ]
+            },
+            "properties": {
+                "name": "Ntondozi",
+                "article": "https://en.wikipedia.org/wiki/Ntondozi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.22555556,
+                    -26.635
+                ]
+            },
+            "properties": {
+                "name": "Ntondozi",
+                "article": "https://en.wikipedia.org/wiki/Ntondozi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.589722222,
+                    -27.221666666
+                ]
+            },
+            "properties": {
+                "name": "Hluti",
+                "article": "https://en.wikipedia.org/wiki/Hluti"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.616666666,
+                    -27.216666666
+                ]
+            },
+            "properties": {
+                "name": "Hluti",
+                "article": "https://en.wikipedia.org/wiki/Hluti"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.26666667,
+                    -26.38333333
+                ]
+            },
+            "properties": {
+                "name": "Mdimba",
+                "article": "https://en.wikipedia.org/wiki/Mdzimba"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.95,
+                    -27.033333333
+                ]
+            },
+            "properties": {
+                "name": "Nsoko",
+                "article": "https://en.wikipedia.org/wiki/Nsoko"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.25,
+                    -26.65
+                ]
+            },
+            "properties": {
+                "name": "Matshemade Kop",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.11,
+                    -26.9942
+                ]
+            },
+            "properties": {
+                "name": "Mashobeni",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.2867,
+                    -25.9517
+                ]
+            },
+            "properties": {
+                "name": "Masele",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.5683,
+                    -25.83
+                ]
+            },
+            "properties": {
+                "name": "Mantasa Hlovana",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.3975,
+                    -26.5833
+                ]
+            },
+            "properties": {
+                "name": "Mandisi Kop",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.1142,
+                    -26.6325
+                ]
+            },
+            "properties": {
+                "name": "Malobo Kop",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6675,
+                    -26.4142
+                ]
+            },
+            "properties": {
+                "name": "Malinda Kop",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.14,
+                    -26.7733
+                ]
+            },
+            "properties": {
+                "name": "Makumula Kop",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.2283,
+                    -27.0025
+                ]
+            },
+            "properties": {
+                "name": "Madulini Kop",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.2192,
+                    -27.0442
+                ]
+            },
+            "properties": {
+                "name": "Maduba Kop",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.2192,
+                    -26.9667
+                ]
+            },
+            "properties": {
+                "name": "Madhlolo Kop",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.3492,
+                    -25.905
+                ]
+            },
+            "properties": {
+                "name": "Mabogwana",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.7558,
+                    -27.2967
+                ]
+            },
+            "properties": {
+                "name": "Mabanda",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.5375,
+                    -26.6025
+                ]
+            },
+            "properties": {
+                "name": "Luzinyane Kop",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.4408,
+                    -26.325
+                ]
+            },
+            "properties": {
+                "name": "Lutotsha",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.1267,
+                    -26.3833
+                ]
+            },
+            "properties": {
+                "name": "Lupohlo Kop",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.43,
+                    -25.8317
+                ]
+            },
+            "properties": {
+                "name": "Lukonde Kop",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.5,
+                    -27.0625
+                ]
+            },
+            "properties": {
+                "name": "Lugolweni",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.4425,
+                    -26.7625
+                ]
+            },
+            "properties": {
+                "name": "Lokolwane Kop",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.5625,
+                    -27.1167
+                ]
+            },
+            "properties": {
+                "name": "Lobati",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.0458,
+                    -26.7883
+                ]
+            },
+            "properties": {
+                "name": "Lapande Kop",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.9825,
+                    -26.6733
+                ]
+            },
+            "properties": {
+                "name": "Landwado Kop",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.1,
+                    -26.15
+                ]
+            },
+            "properties": {
+                "name": "Krogh",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.765,
+                    -27.2033
+                ]
+            },
+            "properties": {
+                "name": "Kon I",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.7858,
+                    -26.535
+                ]
+            },
+            "properties": {
+                "name": "Kinkel Koppies",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.9775,
+                    -26.3542
+                ]
+            },
+            "properties": {
+                "name": "Kanjane Kop",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.2017,
+                    -26.6692
+                ]
+            },
+            "properties": {
+                "name": "Josane Kop",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.96,
+                    -26.4858
+                ]
+            },
+            "properties": {
+                "name": "Isateki",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.06,
+                    -27.0325
+                ]
+            },
+            "properties": {
+                "name": "Inkonjane Kop",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6367,
+                    -26.1017
+                ]
+            },
+            "properties": {
+                "name": "Inkambeni",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.533333333,
+                    -25.783333333
+                ]
+            },
+            "properties": {
+                "name": "Inhlonama Kop",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.45,
+                    -25.85
+                ]
+            },
+            "properties": {
+                "name": "Incuba Kop",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.56,
+                    -27.1983
+                ]
+            },
+            "properties": {
+                "name": "Hluti",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.4433,
+                    -26.9825
+                ]
+            },
+            "properties": {
+                "name": "Hlati",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.033333333,
+                    -26.916666666
+                ]
+            },
+            "properties": {
+                "name": "Hlabeni Kop",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.1042,
+                    -26.2208
+                ]
+            },
+            "properties": {
+                "name": "Hawane",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.8233,
+                    -27.1842
+                ]
+            },
+            "properties": {
+                "name": "Fahlaza",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.2,
+                    -26.95
+                ]
+            },
+            "properties": {
+                "name": "Esthede Kop",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.7517,
+                    -27.1142
+                ]
+            },
+            "properties": {
+                "name": "End",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.3658,
+                    -26.7342
+                ]
+            },
+            "properties": {
+                "name": "Dwaleni Kop",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.9183,
+                    -26.365
+                ]
+            },
+            "properties": {
+                "name": "Dome",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.133333333,
+                    -26.316666666
+                ]
+            },
+            "properties": {
+                "name": "Mbabane",
+                "article": "https://en.wikipedia.org/wiki/Mbabane"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6142,
+                    -27.01
+                ]
+            },
+            "properties": {
+                "name": "Bulowane",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.516666666,
+                    -25.983333333
+                ]
+            },
+            "properties": {
+                "name": "Bambinyoni",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.4275,
+                    -25.8967
+                ]
+            },
+            "properties": {
+                "name": "Malegate",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.9625,
+                    -26.2642
+                ]
+            },
+            "properties": {
+                "name": "Makhwane",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.2942,
+                    -26.6525
+                ]
+            },
+            "properties": {
+                "name": "Makungutsha Kop",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.415,
+                    -25.86
+                ]
+            },
+            "properties": {
+                "name": "Seyama Kop",
+                "article": null
+            }
+        }
+    ]
+}

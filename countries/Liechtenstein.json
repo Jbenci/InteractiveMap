@@ -1,0 +1,873 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.564527777,
+                    47.050527777
+                ]
+            },
+            "properties": {
+                "name": "Falknis",
+                "article": "https://en.wikipedia.org/wiki/Falknis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.588055555,
+                    47.054722222
+                ]
+            },
+            "properties": {
+                "name": "Schwarzhorn (Rätikon)",
+                "article": "https://en.wikipedia.org/wiki/Schwarzhorn_(R%C3%A4tikon)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.509166666,
+                    47.225
+                ]
+            },
+            "properties": {
+                "name": "Gampriner Seele",
+                "article": "https://en.wikipedia.org/wiki/Gampriner_Seele"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.5925,
+                    47.121944444
+                ]
+            },
+            "properties": {
+                "name": "Stachlerkopf",
+                "article": "https://en.wikipedia.org/wiki/Stachlerkopf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.571388888,
+                    47.175
+                ]
+            },
+            "properties": {
+                "name": "Drei Schwestern",
+                "article": "https://en.wikipedia.org/wiki/Drei_Schwestern"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.605555555,
+                    47.0875
+                ]
+            },
+            "properties": {
+                "name": "Silberhorn",
+                "article": "https://en.wikipedia.org/wiki/Silberhorn_(Liechtenstein)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.620555555,
+                    47.151666666
+                ]
+            },
+            "properties": {
+                "name": "Galinakopf",
+                "article": "https://en.wikipedia.org/wiki/Galinakopf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.581944444,
+                    47.052777777
+                ]
+            },
+            "properties": {
+                "name": "Grauspitz",
+                "article": "https://en.wikipedia.org/wiki/Grauspitz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.607152777,
+                    47.060705555
+                ]
+            },
+            "properties": {
+                "name": "Naafkopf",
+                "article": "https://en.wikipedia.org/wiki/Naafkopf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.556991666,
+                    47.048477777
+                ]
+            },
+            "properties": {
+                "name": "Mazorakopf",
+                "article": "https://en.wikipedia.org/wiki/Mazorakopf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.522777777,
+                    47.138888888
+                ]
+            },
+            "properties": {
+                "name": "Engländerbau",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.55,
+                    47.233333333
+                ]
+            },
+            "properties": {
+                "name": "Eschnerberg",
+                "article": "https://en.wikipedia.org/wiki/Eschnerberg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.55926,
+                    47.2357
+                ]
+            },
+            "properties": {
+                "name": "Q1474194",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.56242,
+                    47.2117
+                ]
+            },
+            "properties": {
+                "name": "Schaanwald railway station",
+                "article": "https://en.wikipedia.org/wiki/Schaanwald_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.522749,
+                    47.13779
+                ]
+            },
+            "properties": {
+                "name": "Hohes Haus Liechtenstein",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.521,
+                    47.1812
+                ]
+            },
+            "properties": {
+                "name": "Forst Hilti railway station",
+                "article": "https://en.wikipedia.org/wiki/Forst_Hilti_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.53131,
+                    47.06306
+                ]
+            },
+            "properties": {
+                "name": "Würznerhorn",
+                "article": "https://en.wikipedia.org/wiki/W%C3%BCrznerhorn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.539722222,
+                    47.065
+                ]
+            },
+            "properties": {
+                "name": "Mittlerspitz",
+                "article": "https://en.wikipedia.org/wiki/Mittlerspitz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.5227577,
+                    47.1371151
+                ]
+            },
+            "properties": {
+                "name": "Government House of Liechtenstein",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.523001,
+                    47.136706
+                ]
+            },
+            "properties": {
+                "name": "Rheinbergerhaus",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.521713,
+                    47.144817
+                ]
+            },
+            "properties": {
+                "name": "Red House",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.55,
+                    47.133333333
+                ]
+            },
+            "properties": {
+                "name": "Alpspitz",
+                "article": "https://en.wikipedia.org/wiki/Alpspitz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.61,
+                    47.0825
+                ]
+            },
+            "properties": {
+                "name": "Augstenberg",
+                "article": "https://en.wikipedia.org/wiki/Augstenberg_(Liechtenstein)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.620555555,
+                    47.110555555
+                ]
+            },
+            "properties": {
+                "name": "Gamsgrat",
+                "article": "https://en.wikipedia.org/wiki/Gamsgrat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.5646,
+                    47.1702
+                ]
+            },
+            "properties": {
+                "name": "Garsellakopf",
+                "article": "https://en.wikipedia.org/wiki/Garsellakopf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.554722222,
+                    47.158611111
+                ]
+            },
+            "properties": {
+                "name": "Gafleispitz",
+                "article": "https://en.wikipedia.org/wiki/Gafleispitz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.567222222,
+                    47.0825
+                ]
+            },
+            "properties": {
+                "name": "Goldlochspitz",
+                "article": "https://en.wikipedia.org/wiki/Goldlochspitz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.618611111,
+                    47.078055555
+                ]
+            },
+            "properties": {
+                "name": "Gorfion",
+                "article": "https://en.wikipedia.org/wiki/Gorfion"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.5725,
+                    47.190833333
+                ]
+            },
+            "properties": {
+                "name": "Sarojahoehe",
+                "article": "https://en.wikipedia.org/wiki/Sarojah%C3%B6he"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.589166666,
+                    47.103333333
+                ]
+            },
+            "properties": {
+                "name": "Kirchlespitz",
+                "article": "https://en.wikipedia.org/wiki/Kirchlespitz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.557777777,
+                    47.079166666
+                ]
+            },
+            "properties": {
+                "name": "Koraspitz",
+                "article": "https://en.wikipedia.org/wiki/Koraspitz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.566666666,
+                    47.166666666
+                ]
+            },
+            "properties": {
+                "name": "Kuhgrat",
+                "article": "https://en.wikipedia.org/wiki/Kuhgrat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.572222222,
+                    47.0875
+                ]
+            },
+            "properties": {
+                "name": "Kulmi",
+                "article": "https://en.wikipedia.org/wiki/Kulmi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.584722222,
+                    47.205
+                ]
+            },
+            "properties": {
+                "name": "Maurerberg",
+                "article": "https://en.wikipedia.org/wiki/Maurerberg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.534166666,
+                    47.069166666
+                ]
+            },
+            "properties": {
+                "name": "Mittagspitz",
+                "article": "https://en.wikipedia.org/wiki/Mittagspitz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.598333333,
+                    47.093055555
+                ]
+            },
+            "properties": {
+                "name": "Nospitz",
+                "article": "https://en.wikipedia.org/wiki/Nospitz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.624444444,
+                    47.114722222
+                ]
+            },
+            "properties": {
+                "name": "Ochsenkopf",
+                "article": "https://en.wikipedia.org/wiki/Ochsenkopf_(Malbun)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.577222222,
+                    47.065277777
+                ]
+            },
+            "properties": {
+                "name": "Plasteikopf",
+                "article": "https://en.wikipedia.org/wiki/Plasteikopf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.566666666,
+                    47.076388888
+                ]
+            },
+            "properties": {
+                "name": "Rappenstein",
+                "article": "https://en.wikipedia.org/wiki/Rappenstein"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.628333333,
+                    47.1075
+                ]
+            },
+            "properties": {
+                "name": "Rauher Berg",
+                "article": "https://en.wikipedia.org/wiki/Rauher_Berg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.55242,
+                    47.05788
+                ]
+            },
+            "properties": {
+                "name": "Rotspitz",
+                "article": "https://en.wikipedia.org/wiki/Rotspitz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.588888888,
+                    47.124416666
+                ]
+            },
+            "properties": {
+                "name": "Drei Kapuziner",
+                "article": "https://en.wikipedia.org/wiki/Drei_Kapuziner"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.562222222,
+                    47.148611111
+                ]
+            },
+            "properties": {
+                "name": "Helwangspitz",
+                "article": "https://en.wikipedia.org/wiki/Helwangspitz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.566944444,
+                    47.096111111
+                ]
+            },
+            "properties": {
+                "name": "Heubühl",
+                "article": "https://en.wikipedia.org/wiki/Heub%C3%BChl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.604463,
+                    47.150189
+                ]
+            },
+            "properties": {
+                "name": "Zigerbergkopf",
+                "article": "https://en.wikipedia.org/wiki/Zigerbergkopf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.63585,
+                    47.128252
+                ]
+            },
+            "properties": {
+                "name": "Scheienkopf",
+                "article": "https://en.wikipedia.org/wiki/Scheienkopf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.623888888,
+                    47.086666666
+                ]
+            },
+            "properties": {
+                "name": "Spitz",
+                "article": "https://en.wikipedia.org/wiki/Spitz_(Liechtenstein)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.593055555,
+                    47.130277777
+                ]
+            },
+            "properties": {
+                "name": "Schönberg",
+                "article": "https://en.wikipedia.org/wiki/Sch%C3%B6nberg_(Liechtenstein)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.561944444,
+                    47.078888888
+                ]
+            },
+            "properties": {
+                "name": "Langspitz",
+                "article": "https://en.wikipedia.org/wiki/Langspitz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.57349,
+                    47.18511
+                ]
+            },
+            "properties": {
+                "name": "Sattelköpfle",
+                "article": "https://en.wikipedia.org/wiki/Sattelk%C3%B6pfle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.577705,
+                    47.107085
+                ]
+            },
+            "properties": {
+                "name": "Q15056466",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.57678,
+                    47.1095
+                ]
+            },
+            "properties": {
+                "name": "Q21041916",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.602597,
+                    47.154293
+                ]
+            },
+            "properties": {
+                "name": "Hächlaköpfe",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.57764,
+                    47.19391
+                ]
+            },
+            "properties": {
+                "name": "Frastanzersand",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.57394,
+                    47.1784
+                ]
+            },
+            "properties": {
+                "name": "Vollandturm",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.62509,
+                    47.14593
+                ]
+            },
+            "properties": {
+                "name": "Wurmtalkopf",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.587985,
+                    47.084867
+                ]
+            },
+            "properties": {
+                "name": "Valüna",
+                "article": "https://en.wikipedia.org/wiki/Val%C3%BCna"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.53404,
+                    47.06923
+                ]
+            },
+            "properties": {
+                "name": "Mittagsspitz",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.492163888,
+                    47.169477777
+                ]
+            },
+            "properties": {
+                "name": "Stone Circle Schaan",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.52253,
+                    47.13865
+                ]
+            },
+            "properties": {
+                "name": "Städtle",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.58496,
+                    47.05416
+                ]
+            },
+            "properties": {
+                "name": "Hinter-Grauspitz",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.524505635,
+                    47.212018464
+                ]
+            },
+            "properties": {
+                "name": "Archaeological site at the Parish church of Eschen",
+                "article": null
+            }
+        }
+    ]
+}

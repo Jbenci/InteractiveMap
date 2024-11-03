@@ -1,0 +1,2679 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.75,
+                    10.683333333
+                ]
+            },
+            "properties": {
+                "name": "Chacachacare",
+                "article": "https://en.wikipedia.org/wiki/Chacachacare"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.248611111,
+                    10.460555555
+                ]
+            },
+            "properties": {
+                "name": "Trinidad",
+                "article": "https://en.wikipedia.org/wiki/Trinidad"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.667,
+                    11.25
+                ]
+            },
+            "properties": {
+                "name": "Tobago",
+                "article": "https://en.wikipedia.org/wiki/Tobago"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.597113888,
+                    10.662533333
+                ]
+            },
+            "properties": {
+                "name": "Caledonia Island",
+                "article": "https://en.wikipedia.org/wiki/Caledonia_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.65,
+                    10.666666666
+                ]
+            },
+            "properties": {
+                "name": "Gaspar Grande",
+                "article": "https://en.wikipedia.org/wiki/Gaspar_Grande"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.598069444,
+                    10.661411111
+                ]
+            },
+            "properties": {
+                "name": "Craig Island",
+                "article": "https://en.wikipedia.org/wiki/Craig_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.478,
+                    10.175
+                ]
+            },
+            "properties": {
+                "name": "Banwari Trace",
+                "article": "https://en.wikipedia.org/wiki/Banwari_Trace"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.466666666,
+                    10.283333333
+                ]
+            },
+            "properties": {
+                "name": "San Fernando",
+                "article": "https://en.wikipedia.org/wiki/San_Fernando,_Trinidad_and_Tobago"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.25,
+                    10.716666666
+                ]
+            },
+            "properties": {
+                "name": "El Cerro del Aripo",
+                "article": "https://en.wikipedia.org/wiki/El_Cerro_del_Aripo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.599344444,
+                    10.661313888
+                ]
+            },
+            "properties": {
+                "name": "Lenagan Island",
+                "article": "https://en.wikipedia.org/wiki/Lenagan_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.51166667,
+                    10.76966667
+                ]
+            },
+            "properties": {
+                "name": "Saut d'Eau",
+                "article": "https://en.wikipedia.org/wiki/Saut_d%27Eau"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.19385529,
+                    10.46882153
+                ]
+            },
+            "properties": {
+                "name": "Q2391151",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.4544,
+                    10.1678
+                ]
+            },
+            "properties": {
+                "name": "Penal",
+                "article": "https://en.wikipedia.org/wiki/Penal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.2803,
+                    10.0883
+                ]
+            },
+            "properties": {
+                "name": "Moruga",
+                "article": "https://en.wikipedia.org/wiki/Moruga"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.116666666,
+                    10.116666666
+                ]
+            },
+            "properties": {
+                "name": "Trinity Hills",
+                "article": "https://en.wikipedia.org/wiki/Trinity_Hills"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.501388888,
+                    11.299166666
+                ]
+            },
+            "properties": {
+                "name": "Little Tobago",
+                "article": "https://en.wikipedia.org/wiki/Little_Tobago"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.69,
+                    10.695
+                ]
+            },
+            "properties": {
+                "name": "Monos",
+                "article": "https://en.wikipedia.org/wiki/Monos"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.716666666,
+                    10.7
+                ]
+            },
+            "properties": {
+                "name": "Huevos",
+                "article": "https://en.wikipedia.org/wiki/Huevos_(island)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.65318889,
+                    10.67634722
+                ]
+            },
+            "properties": {
+                "name": "Gasparillo Island",
+                "article": "https://en.wikipedia.org/wiki/Gasparillo_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.5,
+                    10.133333333
+                ]
+            },
+            "properties": {
+                "name": "Siparia",
+                "article": "https://en.wikipedia.org/wiki/Siparia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.516666666,
+                    11.35
+                ]
+            },
+            "properties": {
+                "name": "Saint Giles Island",
+                "article": "https://en.wikipedia.org/wiki/Saint_Giles_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.625833333,
+                    10.661111111
+                ]
+            },
+            "properties": {
+                "name": "Carrera Island",
+                "article": "https://en.wikipedia.org/wiki/Carrera_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.633333333,
+                    10.65
+                ]
+            },
+            "properties": {
+                "name": "Cronstadt Island",
+                "article": "https://en.wikipedia.org/wiki/Cronstadt_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.55,
+                    10.216666666
+                ]
+            },
+            "properties": {
+                "name": "Dow Village",
+                "article": "https://en.wikipedia.org/wiki/Dow_Village,_Couva%E2%80%93Tabaquite%E2%80%93Talparo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.416666666,
+                    10.733333333
+                ]
+            },
+            "properties": {
+                "name": "El Tucuche",
+                "article": "https://en.wikipedia.org/wiki/El_Tucuche"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.485,
+                    10.275556
+                ]
+            },
+            "properties": {
+                "name": "Faralon Rock",
+                "article": "https://en.wikipedia.org/wiki/Faralon_Rock"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.51666667,
+                    11.3
+                ]
+            },
+            "properties": {
+                "name": "Goat Island",
+                "article": "https://en.wikipedia.org/wiki/Goat_Island_(Trinidad_and_Tobago)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.383333333,
+                    10.283333333
+                ]
+            },
+            "properties": {
+                "name": "Iere Village",
+                "article": "https://en.wikipedia.org/wiki/Iere_Village"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.31666667,
+                    10.68333333
+                ]
+            },
+            "properties": {
+                "name": "Lopinot",
+                "article": "https://en.wikipedia.org/wiki/Lopinot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.59903056,
+                    10.65837222
+                ]
+            },
+            "properties": {
+                "name": "Nelson Island",
+                "article": "https://en.wikipedia.org/wiki/Nelson_Island_(Trinidad_and_Tobago)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.59503889,
+                    10.66121944
+                ]
+            },
+            "properties": {
+                "name": "Pelican Island",
+                "article": "https://en.wikipedia.org/wiki/Pelican_Island_(Trinidad_and_Tobago)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.3341,
+                    10.6048
+                ]
+            },
+            "properties": {
+                "name": "Piarco",
+                "article": "https://en.wikipedia.org/wiki/Piarco"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.511979,
+                    10.677646
+                ]
+            },
+            "properties": {
+                "name": "President's House, Trinidad and Tobago",
+                "article": "https://en.wikipedia.org/wiki/President%27s_House,_Trinidad_and_Tobago"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.60096111,
+                    10.658475
+                ]
+            },
+            "properties": {
+                "name": "Rock Island",
+                "article": "https://en.wikipedia.org/wiki/Rock_Island_(Trinidad_and_Tobago)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.41666667,
+                    10.65
+                ]
+            },
+            "properties": {
+                "name": "Saint Joseph",
+                "article": "https://en.wikipedia.org/wiki/Saint_Joseph,_Trinidad_and_Tobago"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.643222293,
+                    11.334134178
+                ]
+            },
+            "properties": {
+                "name": "Sisters' Rock",
+                "article": "https://en.wikipedia.org/wiki/Sisters%27_Rock"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.426,
+                    10.4654
+                ]
+            },
+            "properties": {
+                "name": "St. Mary's",
+                "article": "https://en.wikipedia.org/wiki/St._Mary%27s,_Trinidad_and_Tobago"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.6711,
+                    10.171
+                ]
+            },
+            "properties": {
+                "name": "Teschier",
+                "article": "https://en.wikipedia.org/wiki/Techier"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.51166667,
+                    10.65305556
+                ]
+            },
+            "properties": {
+                "name": "The Red House",
+                "article": "https://en.wikipedia.org/wiki/Red_House_(Trinidad_and_Tobago)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -62.015,
+                    10.077222222
+                ]
+            },
+            "properties": {
+                "name": "Soldado Rock",
+                "article": "https://en.wikipedia.org/wiki/Soldado_Rock"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.8603,
+                    10.0931
+                ]
+            },
+            "properties": {
+                "name": "Bonasse",
+                "article": "https://en.wikipedia.org/wiki/Bonasse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.0126,
+                    10.8126
+                ]
+            },
+            "properties": {
+                "name": "Zagaya",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.397222222,
+                    10.673055555
+                ]
+            },
+            "properties": {
+                "name": "Mount Tabor",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.1652,
+                    10.8
+                ]
+            },
+            "properties": {
+                "name": "Morne Saint Michel",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.48,
+                    10.6985
+                ]
+            },
+            "properties": {
+                "name": "Saint Ann's Peak",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.213611111,
+                    10.700277777
+                ]
+            },
+            "properties": {
+                "name": "Morne Poui",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.555,
+                    11.3042
+                ]
+            },
+            "properties": {
+                "name": "Pigeon Peak",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.592777777,
+                    10.734722222
+                ]
+            },
+            "properties": {
+                "name": "Morne Pierre",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.4692,
+                    10.7533
+                ]
+            },
+            "properties": {
+                "name": "Piedra Blanca",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.387777777,
+                    10.729722222
+                ]
+            },
+            "properties": {
+                "name": "Piedra Blanca",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.0658,
+                    10.805
+                ]
+            },
+            "properties": {
+                "name": "Morne Paoui",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.1564,
+                    10.7656
+                ]
+            },
+            "properties": {
+                "name": "El Cerro del Oropuche",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.634722222,
+                    11.246388888
+                ]
+            },
+            "properties": {
+                "name": "Morne d'Or",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.4274,
+                    10.6842
+                ]
+            },
+            "properties": {
+                "name": "Morne d'Or",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.4,
+                    10.733333333
+                ]
+            },
+            "properties": {
+                "name": "Naranja",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.033333333,
+                    10.816666666
+                ]
+            },
+            "properties": {
+                "name": "Manantial",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.515,
+                    10.7427
+                ]
+            },
+            "properties": {
+                "name": "Morne Mal d'Estomac",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.645555555,
+                    11.231666666
+                ]
+            },
+            "properties": {
+                "name": "The Lure",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.5553,
+                    11.2473
+                ]
+            },
+            "properties": {
+                "name": "Louis d'Or",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.3015,
+                    10.4055
+                ]
+            },
+            "properties": {
+                "name": "Long Mountain",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.3227,
+                    10.7514
+                ]
+            },
+            "properties": {
+                "name": "Morne La Croix",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.583888888,
+                    10.730833333
+                ]
+            },
+            "properties": {
+                "name": "Morne Jean",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.65,
+                    10.7
+                ]
+            },
+            "properties": {
+                "name": "Morne Harrison",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.116666666,
+                    10.466666666
+                ]
+            },
+            "properties": {
+                "name": "Mount Harris",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.318611111,
+                    10.758888888
+                ]
+            },
+            "properties": {
+                "name": "Morne Gasparee",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.533333333,
+                    11.316666666
+                ]
+            },
+            "properties": {
+                "name": "Flagstaff",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.585277777,
+                    10.706944444
+                ]
+            },
+            "properties": {
+                "name": "Morne Distree",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.6927,
+                    11.2622
+                ]
+            },
+            "properties": {
+                "name": "Mount Dillon",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.5371,
+                    10.7023
+                ]
+            },
+            "properties": {
+                "name": "Cumberland Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.433333333,
+                    10.733333333
+                ]
+            },
+            "properties": {
+                "name": "Cerro de las Cuevas y Maracas",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.1653,
+                    10.6893
+                ]
+            },
+            "properties": {
+                "name": "Morne Croix",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.512777777,
+                    10.734166666
+                ]
+            },
+            "properties": {
+                "name": "Morne Chaleur",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.246944444,
+                    10.706388888
+                ]
+            },
+            "properties": {
+                "name": "Chaguaramal",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.6308,
+                    10.7143
+                ]
+            },
+            "properties": {
+                "name": "Morne Catherine",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.31,
+                    10.6825
+                ]
+            },
+            "properties": {
+                "name": "Cangrejal",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.6742,
+                    11.2342
+                ]
+            },
+            "properties": {
+                "name": "Caledonia",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.3567,
+                    10.7335
+                ]
+            },
+            "properties": {
+                "name": "Cabasterre",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.1346,
+                    10.8009
+                ]
+            },
+            "properties": {
+                "name": "Morne Ananas",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.516666666,
+                    10.666666666
+                ]
+            },
+            "properties": {
+                "name": "Port of Spain",
+                "article": "https://en.wikipedia.org/wiki/Port_of_Spain"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.2897,
+                    10.7298
+                ]
+            },
+            "properties": {
+                "name": "Morne Bleu",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.383333333,
+                    10.716666666
+                ]
+            },
+            "properties": {
+                "name": "Peña de Juangalo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.45,
+                    10.2
+                ]
+            },
+            "properties": {
+                "name": "Debe",
+                "article": "https://en.wikipedia.org/wiki/Debe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.558333333,
+                    11.321666666
+                ]
+            },
+            "properties": {
+                "name": "Booby Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.7575,
+                    10.699166666
+                ]
+            },
+            "properties": {
+                "name": "Cabresse Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.186944444,
+                    10.798333333
+                ]
+            },
+            "properties": {
+                "name": "Q49634439",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.598333333,
+                    10.660555555
+                ]
+            },
+            "properties": {
+                "name": "Q49634452",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.624166666,
+                    11.314722222
+                ]
+            },
+            "properties": {
+                "name": "Clump Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.599722222,
+                    10.659444444
+                ]
+            },
+            "properties": {
+                "name": "Q49635855",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.416388888,
+                    10.782777777
+                ]
+            },
+            "properties": {
+                "name": "East Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.986388888,
+                    10.718055555
+                ]
+            },
+            "properties": {
+                "name": "Islet-a-bateau",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.128333333,
+                    10.821111111
+                ]
+            },
+            "properties": {
+                "name": "Q49650104",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.677777777,
+                    10.705277777
+                ]
+            },
+            "properties": {
+                "name": "Le Chapeau",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.446388888,
+                    10.773611111
+                ]
+            },
+            "properties": {
+                "name": "Long Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.023333333,
+                    10.395277777
+                ]
+            },
+            "properties": {
+                "name": "Macaw Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.0375,
+                    10.433333333
+                ]
+            },
+            "properties": {
+                "name": "Majorca Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.033333333,
+                    10.416666666
+                ]
+            },
+            "properties": {
+                "name": "Manati Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.525555555,
+                    11.361111111
+                ]
+            },
+            "properties": {
+                "name": "Marble Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.035,
+                    10.425277777
+                ]
+            },
+            "properties": {
+                "name": "Minorca Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.028055555,
+                    10.403611111
+                ]
+            },
+            "properties": {
+                "name": "Omega Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.596666666,
+                    10.658888888
+                ]
+            },
+            "properties": {
+                "name": "Q49668578",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.468888888,
+                    10.191111111
+                ]
+            },
+            "properties": {
+                "name": "Q49673557",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.558333333,
+                    11.239166666
+                ]
+            },
+            "properties": {
+                "name": "Queen's Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.593611111,
+                    11.2175
+                ]
+            },
+            "properties": {
+                "name": "Richmond Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.031388888,
+                    10.414722222
+                ]
+            },
+            "properties": {
+                "name": "Rincon Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.602777777,
+                    10.656388888
+                ]
+            },
+            "properties": {
+                "name": "Q49674934",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.99153,
+                    10.33631
+                ]
+            },
+            "properties": {
+                "name": "Ortoire",
+                "article": "https://en.wikipedia.org/wiki/Ortoire_(archaeological_site)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.3992,
+                    10.5382
+                ]
+            },
+            "properties": {
+                "name": "Q120669767",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.3945,
+                    10.5187
+                ]
+            },
+            "properties": {
+                "name": "Q120694206",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.3998,
+                    10.5192
+                ]
+            },
+            "properties": {
+                "name": "Q120694226",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.4128,
+                    10.541
+                ]
+            },
+            "properties": {
+                "name": "Q120694275",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.4285,
+                    10.5251
+                ]
+            },
+            "properties": {
+                "name": "Q120694293",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.4081,
+                    10.4822
+                ]
+            },
+            "properties": {
+                "name": "Q120716660",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.6606,
+                    10.165
+                ]
+            },
+            "properties": {
+                "name": "Q120765130",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.4643,
+                    10.2326
+                ]
+            },
+            "properties": {
+                "name": "Hermitage",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.4443,
+                    10.2812
+                ]
+            },
+            "properties": {
+                "name": "Q120794098",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.3511,
+                    10.4324
+                ]
+            },
+            "properties": {
+                "name": "Q120805090",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.4479,
+                    10.497
+                ]
+            },
+            "properties": {
+                "name": "Q120805291",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.4113,
+                    10.4768
+                ]
+            },
+            "properties": {
+                "name": "Chase Village",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.4052,
+                    10.5016
+                ]
+            },
+            "properties": {
+                "name": "Q120906781",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.3157,
+                    10.5781
+                ]
+            },
+            "properties": {
+                "name": "Q120941438",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.4542,
+                    10.3993
+                ]
+            },
+            "properties": {
+                "name": "Q120941730",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.3616,
+                    10.3858
+                ]
+            },
+            "properties": {
+                "name": "Q120943317",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.3804,
+                    10.2285
+                ]
+            },
+            "properties": {
+                "name": "Lengua Village",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.4754,
+                    10.1242
+                ]
+            },
+            "properties": {
+                "name": "Q122235092",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.4813,
+                    10.2483
+                ]
+            },
+            "properties": {
+                "name": "Q122371259",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.4561,
+                    10.1054
+                ]
+            },
+            "properties": {
+                "name": "Q122371722",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.3739,
+                    10.2213
+                ]
+            },
+            "properties": {
+                "name": "Q122371787",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.404,
+                    10.2459
+                ]
+            },
+            "properties": {
+                "name": "Q122371945",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.6774,
+                    10.1584
+                ]
+            },
+            "properties": {
+                "name": "Q122453921",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.676,
+                    10.1657
+                ]
+            },
+            "properties": {
+                "name": "Q122545962",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.6933,
+                    10.151
+                ]
+            },
+            "properties": {
+                "name": "Q122546098",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.417,
+                    10.4189
+                ]
+            },
+            "properties": {
+                "name": "Q120945936",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.4217,
+                    10.3789
+                ]
+            },
+            "properties": {
+                "name": "Q120946118",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.4834,
+                    10.4278
+                ]
+            },
+            "properties": {
+                "name": "Q120946364",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.4586,
+                    10.4721
+                ]
+            },
+            "properties": {
+                "name": "Q120948507",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.5669,
+                    10.7286
+                ]
+            },
+            "properties": {
+                "name": "Q121141153",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.5627,
+                    10.7395
+                ]
+            },
+            "properties": {
+                "name": "Q121144806",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.144,
+                    10.2567
+                ]
+            },
+            "properties": {
+                "name": "Q121826796",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.1207,
+                    10.3031
+                ]
+            },
+            "properties": {
+                "name": "Q121826811",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.1516,
+                    10.4058
+                ]
+            },
+            "properties": {
+                "name": "Q121826965",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.2376,
+                    10.2873
+                ]
+            },
+            "properties": {
+                "name": "Q121827333",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.1765,
+                    10.3726
+                ]
+            },
+            "properties": {
+                "name": "Q121828999",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.9985,
+                    10.3154
+                ]
+            },
+            "properties": {
+                "name": "Q121831082",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.0826,
+                    10.3058
+                ]
+            },
+            "properties": {
+                "name": "Q121831224",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.4606,
+                    10.1583
+                ]
+            },
+            "properties": {
+                "name": "Q122234783",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.4598,
+                    10.2543
+                ]
+            },
+            "properties": {
+                "name": "Q122234836",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.4628,
+                    10.158
+                ]
+            },
+            "properties": {
+                "name": "Q122234850",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.4536,
+                    10.2582
+                ]
+            },
+            "properties": {
+                "name": "Q122234908",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.4506,
+                    10.2447
+                ]
+            },
+            "properties": {
+                "name": "Q122234926",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.4089,
+                    10.2997
+                ]
+            },
+            "properties": {
+                "name": "Q122872605",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.3644,
+                    10.3183
+                ]
+            },
+            "properties": {
+                "name": "Q122873692",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.31986,
+                    10.27941
+                ]
+            },
+            "properties": {
+                "name": "George Village",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.3728,
+                    10.3176
+                ]
+            },
+            "properties": {
+                "name": "Q122875154",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.3637,
+                    10.2194
+                ]
+            },
+            "properties": {
+                "name": "Q122875226",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.424,
+                    10.285
+                ]
+            },
+            "properties": {
+                "name": "Q122889311",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.415,
+                    10.3069
+                ]
+            },
+            "properties": {
+                "name": "Q122889502",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.3329,
+                    10.3184
+                ]
+            },
+            "properties": {
+                "name": "Q122889566",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.4088,
+                    10.2563
+                ]
+            },
+            "properties": {
+                "name": "Q122889608",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.3089,
+                    10.2014
+                ]
+            },
+            "properties": {
+                "name": "Q122890382",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.4492,
+                    10.288
+                ]
+            },
+            "properties": {
+                "name": "Q122905287",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.4372,
+                    10.3117
+                ]
+            },
+            "properties": {
+                "name": "Q122905326",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.4527,
+                    10.263
+                ]
+            },
+            "properties": {
+                "name": "Q122905334",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.4697,
+                    10.7197
+                ]
+            },
+            "properties": {
+                "name": "Q122917460",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.0271,
+                    10.7041
+                ]
+            },
+            "properties": {
+                "name": "Q122928001",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.568,
+                    10.22
+                ]
+            },
+            "properties": {
+                "name": "Q122928415",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.5348,
+                    10.1995
+                ]
+            },
+            "properties": {
+                "name": "Q122928418",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.8434,
+                    10.0956
+                ]
+            },
+            "properties": {
+                "name": "Q122928432",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.607,
+                    10.2286
+                ]
+            },
+            "properties": {
+                "name": "Chinese Village",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.544,
+                    10.1078
+                ]
+            },
+            "properties": {
+                "name": "Q122940127",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.4955,
+                    10.1551
+                ]
+            },
+            "properties": {
+                "name": "Q122940143",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.5534,
+                    10.2173
+                ]
+            },
+            "properties": {
+                "name": "Q122940802",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.5672,
+                    10.1223
+                ]
+            },
+            "properties": {
+                "name": "Q122940834",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.5541,
+                    10.2068
+                ]
+            },
+            "properties": {
+                "name": "Q122950231",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.6191,
+                    10.2294
+                ]
+            },
+            "properties": {
+                "name": "Q122950754",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.5357,
+                    10.2231
+                ]
+            },
+            "properties": {
+                "name": "Q122950782",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.5361,
+                    10.1401
+                ]
+            },
+            "properties": {
+                "name": "Q122950800",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.5157,
+                    10.1669
+                ]
+            },
+            "properties": {
+                "name": "Q122950820",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.565,
+                    10.122
+                ]
+            },
+            "properties": {
+                "name": "Q122950920",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.4021,
+                    10.6948
+                ]
+            },
+            "properties": {
+                "name": "Q122951398",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.29,
+                    10.6744
+                ]
+            },
+            "properties": {
+                "name": "Q122951488",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.2663,
+                    10.7461
+                ]
+            },
+            "properties": {
+                "name": "Q122951652",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.3848,
+                    10.6074
+                ]
+            },
+            "properties": {
+                "name": "Q122951712",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.412,
+                    10.6634
+                ]
+            },
+            "properties": {
+                "name": "Q122959948",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.3999,
+                    10.6166
+                ]
+            },
+            "properties": {
+                "name": "Q122960022",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.4108,
+                    10.6771
+                ]
+            },
+            "properties": {
+                "name": "Q122960225",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.2953,
+                    10.6235
+                ]
+            },
+            "properties": {
+                "name": "Q122972350",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.409,
+                    10.6338
+                ]
+            },
+            "properties": {
+                "name": "Spring Village",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.3402,
+                    10.5822
+                ]
+            },
+            "properties": {
+                "name": "Q122977385",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.3921,
+                    10.6608
+                ]
+            },
+            "properties": {
+                "name": "Q122977517",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.3272,
+                    10.6554
+                ]
+            },
+            "properties": {
+                "name": "Q122978505",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.378,
+                    10.5737
+                ]
+            },
+            "properties": {
+                "name": "Q122996104",
+                "article": null
+            }
+        }
+    ]
+}

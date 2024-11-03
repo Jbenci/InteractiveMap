@@ -1,0 +1,2231 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.48,
+                    -4.68
+                ]
+            },
+            "properties": {
+                "name": "Mahé",
+                "article": "https://en.wikipedia.org/wiki/Mah%C3%A9,_Seychelles"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.633333333,
+                    -4.35
+                ]
+            },
+            "properties": {
+                "name": "Cousine Island",
+                "article": "https://en.wikipedia.org/wiki/Cousine_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.666111111,
+                    -4.211111111
+                ]
+            },
+            "properties": {
+                "name": "Aride Island",
+                "article": "https://en.wikipedia.org/wiki/Aride_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.876111111,
+                    -4.328888888
+                ]
+            },
+            "properties": {
+                "name": "Felicite Island",
+                "article": "https://en.wikipedia.org/wiki/F%C3%A9licit%C3%A9_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.833333333,
+                    -4.366666666
+                ]
+            },
+            "properties": {
+                "name": "La Digue",
+                "article": "https://en.wikipedia.org/wiki/La_Digue"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.724444444,
+                    -4.282777777
+                ]
+            },
+            "properties": {
+                "name": "Curieuse Island",
+                "article": "https://en.wikipedia.org/wiki/Curieuse_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.732222222,
+                    -4.320555555
+                ]
+            },
+            "properties": {
+                "name": "Praslin",
+                "article": "https://en.wikipedia.org/wiki/Praslin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.7899,
+                    -4.34128
+                ]
+            },
+            "properties": {
+                "name": "Round Island, Praslin",
+                "article": "https://en.wikipedia.org/wiki/Round_Island,_Praslin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    56.283055555,
+                    -7.124444444
+                ]
+            },
+            "properties": {
+                "name": "Coëtivy Island",
+                "article": "https://en.wikipedia.org/wiki/Co%C3%ABtivy_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.921,
+                    -4.341
+                ]
+            },
+            "properties": {
+                "name": "Marianne Island",
+                "article": "https://en.wikipedia.org/wiki/Marianne_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.663055555,
+                    -4.331388888
+                ]
+            },
+            "properties": {
+                "name": "Cousin Island",
+                "article": "https://en.wikipedia.org/wiki/Cousin_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.8646,
+                    -4.31183
+                ]
+            },
+            "properties": {
+                "name": "Coco Island",
+                "article": "https://en.wikipedia.org/wiki/Cocos_Islands,_Seychelles"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.856111111,
+                    -4.288888888
+                ]
+            },
+            "properties": {
+                "name": "Petite Soeur",
+                "article": "https://en.wikipedia.org/wiki/Petite_Soeur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.539779,
+                    -4.484282
+                ]
+            },
+            "properties": {
+                "name": "Mamelles Island",
+                "article": "https://en.wikipedia.org/wiki/Mamelles_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.384444444,
+                    -5.863055555
+                ]
+            },
+            "properties": {
+                "name": "Île Platte",
+                "article": "https://en.wikipedia.org/wiki/%C3%8Ele_Platte"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    53.666666666,
+                    -5.683333333
+                ]
+            },
+            "properties": {
+                "name": "Desroches Island",
+                "article": "https://en.wikipedia.org/wiki/Desroches_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    52.729444444,
+                    -7.008611111
+                ]
+            },
+            "properties": {
+                "name": "Alphonse Atoll",
+                "article": "https://en.wikipedia.org/wiki/Alphonse_Atoll"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.366666666,
+                    -4.666666666
+                ]
+            },
+            "properties": {
+                "name": "Conception Island, Seychelles",
+                "article": "https://en.wikipedia.org/wiki/Conception_Island,_Seychelles"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.509444444,
+                    -9.734166666
+                ]
+            },
+            "properties": {
+                "name": "Assumption Island",
+                "article": "https://en.wikipedia.org/wiki/Assumption_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.740833333,
+                    -10.086666666
+                ]
+            },
+            "properties": {
+                "name": "Astove Island",
+                "article": "https://en.wikipedia.org/wiki/Astove_Atoll"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.238888888,
+                    -6.383333333
+                ]
+            },
+            "properties": {
+                "name": "Danger Island",
+                "article": "https://en.wikipedia.org/wiki/Danger_Island,_Great_Chagos_Bank"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.5,
+                    -4.68333333
+                ]
+            },
+            "properties": {
+                "name": "Q1113606",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.4389,
+                    -4.643833333
+                ]
+            },
+            "properties": {
+                "name": "Morne Seychellois",
+                "article": "https://en.wikipedia.org/wiki/Morne_Seychellois"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    50.727222222,
+                    -9.331111111
+                ]
+            },
+            "properties": {
+                "name": "St. Pierre Island",
+                "article": "https://en.wikipedia.org/wiki/St._Pierre_Island,_Farquhar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    50.716666666,
+                    -9.316666666
+                ]
+            },
+            "properties": {
+                "name": "St. Pierre Island",
+                "article": "https://en.wikipedia.org/wiki/St._Pierre_Island,_Farquhar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    53.4,
+                    -4.88333333
+                ]
+            },
+            "properties": {
+                "name": "Q2000695",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.5,
+                    -4.6
+                ]
+            },
+            "properties": {
+                "name": "Ste. Anne Island",
+                "article": "https://en.wikipedia.org/wiki/Ste._Anne_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.86667,
+                    -4.28333
+                ]
+            },
+            "properties": {
+                "name": "Grande Soeur",
+                "article": "https://en.wikipedia.org/wiki/Grande_Soeur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    52.83055556,
+                    -6.09194444
+                ]
+            },
+            "properties": {
+                "name": "Boudeuse Island",
+                "article": "https://en.wikipedia.org/wiki/Boudeuse_Cay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    52.83235,
+                    -6.08905
+                ]
+            },
+            "properties": {
+                "name": "Boudeuse Island",
+                "article": "https://en.wikipedia.org/wiki/Boudeuse_Cay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    53.31244444,
+                    -5.11661389
+                ]
+            },
+            "properties": {
+                "name": "Remire",
+                "article": "https://en.wikipedia.org/wiki/R%C3%A9mire_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    53.316666666,
+                    -5.116666666
+                ]
+            },
+            "properties": {
+                "name": "Remire",
+                "article": "https://en.wikipedia.org/wiki/R%C3%A9mire_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.366666666,
+                    -6.816666666
+                ]
+            },
+            "properties": {
+                "name": "Cauvin Bank",
+                "article": "https://en.wikipedia.org/wiki/Cauvin_Bank"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.966666666,
+                    -7.383333333
+                ]
+            },
+            "properties": {
+                "name": "Ganges Bank",
+                "article": "https://en.wikipedia.org/wiki/Ganges_Bank"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.833333333,
+                    -7.65
+                ]
+            },
+            "properties": {
+                "name": "Centurion Bank",
+                "article": "https://en.wikipedia.org/wiki/Centurion_Bank"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.333333333,
+                    -4.916666666
+                ]
+            },
+            "properties": {
+                "name": "Speakers Bank",
+                "article": "https://en.wikipedia.org/wiki/Speakers_Bank"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.516666666,
+                    -7.066666666
+                ]
+            },
+            "properties": {
+                "name": "Pitt Bank",
+                "article": "https://en.wikipedia.org/wiki/Pitt_Bank"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.233333,
+                    -5.55
+                ]
+            },
+            "properties": {
+                "name": "Victory Bank",
+                "article": "https://en.wikipedia.org/wiki/Victory_Bank"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.533333333,
+                    -7.416666666
+                ]
+            },
+            "properties": {
+                "name": "Wight Bank",
+                "article": "https://en.wikipedia.org/wiki/Wight_Bank"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.666666666,
+                    -5.25
+                ]
+            },
+            "properties": {
+                "name": "Benares Shoals",
+                "article": "https://en.wikipedia.org/wiki/Benares_Shoals"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.616666666,
+                    -4.9
+                ]
+            },
+            "properties": {
+                "name": "Colvocoresses Reef",
+                "article": "https://en.wikipedia.org/wiki/Colvocoresses_Reef"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.3685,
+                    -9.45211
+                ]
+            },
+            "properties": {
+                "name": "Q3593083",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.3549,
+                    -9.37345
+                ]
+            },
+            "properties": {
+                "name": "Middle island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.2206,
+                    -9.38306
+                ]
+            },
+            "properties": {
+                "name": "Picard Island",
+                "article": "https://en.wikipedia.org/wiki/Picard_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.2621,
+                    -9.37239
+                ]
+            },
+            "properties": {
+                "name": "Polymnie",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.51667,
+                    -4.61667
+                ]
+            },
+            "properties": {
+                "name": "Beacon Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    53.35,
+                    -5.45
+                ]
+            },
+            "properties": {
+                "name": "Benjamen Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    52.75,
+                    -7.066666666
+                ]
+            },
+            "properties": {
+                "name": "Bijoutier Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.63333,
+                    -9.73333
+                ]
+            },
+            "properties": {
+                "name": "Wizard Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.64951,
+                    -9.74966
+                ]
+            },
+            "properties": {
+                "name": "Wizard Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    52.733333333,
+                    -7.0
+                ]
+            },
+            "properties": {
+                "name": "Île Alphonse",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.53333,
+                    -4.66667
+                ]
+            },
+            "properties": {
+                "name": "Île aux Rats",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.433333333,
+                    -4.683333333
+                ]
+            },
+            "properties": {
+                "name": "Île aux Vaches",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.5,
+                    -4.63333
+                ]
+            },
+            "properties": {
+                "name": "Île Cachée",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.43333,
+                    -4.63333
+                ]
+            },
+            "properties": {
+                "name": "Trois Frères",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.454444444,
+                    -4.623611111
+                ]
+            },
+            "properties": {
+                "name": "Victoria",
+                "article": "https://en.wikipedia.org/wiki/Victoria,_Seychelles"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.4,
+                    -4.666666666
+                ]
+            },
+            "properties": {
+                "name": "Thérèse Island",
+                "article": "https://en.wikipedia.org/wiki/Th%C3%A9r%C3%A8se_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.499444444,
+                    -4.633333333
+                ]
+            },
+            "properties": {
+                "name": "Cerf Island",
+                "article": "https://en.wikipedia.org/wiki/Cerf_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.941388888,
+                    -4.585833333
+                ]
+            },
+            "properties": {
+                "name": "Frégate Island",
+                "article": "https://en.wikipedia.org/wiki/Fr%C3%A9gate_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.24342,
+                    -4.3934
+                ]
+            },
+            "properties": {
+                "name": "North Island",
+                "article": "https://en.wikipedia.org/wiki/North_Island,_Seychelles"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.5,
+                    -4.616666666
+                ]
+            },
+            "properties": {
+                "name": "Moyenne Island",
+                "article": "https://en.wikipedia.org/wiki/Moyenne_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.23,
+                    -4.4875
+                ]
+            },
+            "properties": {
+                "name": "Silhouette Island",
+                "article": "https://en.wikipedia.org/wiki/Silhouette_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.522927777,
+                    -4.665291666
+                ]
+            },
+            "properties": {
+                "name": "Anonyme Island",
+                "article": "https://en.wikipedia.org/wiki/Anonyme_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.51638889,
+                    -6.15555556
+                ]
+            },
+            "properties": {
+                "name": "Middle Brother",
+                "article": "https://en.wikipedia.org/wiki/Middle_Brother_(Chagos_Bank)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.89638889,
+                    -5.27
+                ]
+            },
+            "properties": {
+                "name": "Petite Ile Bois Mangue",
+                "article": "https://en.wikipedia.org/wiki/Petite_Ile_Bois_Mangue"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.29444444,
+                    -6.23555556
+                ]
+            },
+            "properties": {
+                "name": "Sea Cow Island",
+                "article": "https://en.wikipedia.org/wiki/Sea_Cow_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.4512,
+                    -4.6244
+                ]
+            },
+            "properties": {
+                "name": "State House",
+                "article": "https://en.wikipedia.org/wiki/State_House,_Seychelles"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.433812,
+                    -4.686185
+                ]
+            },
+            "properties": {
+                "name": "Vache Island",
+                "article": "https://en.wikipedia.org/wiki/Vache_Island,_Seychelles"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.9622,
+                    -5.24278
+                ]
+            },
+            "properties": {
+                "name": "Île Yeye",
+                "article": "https://en.wikipedia.org/wiki/%C3%8Ele_Yeye"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.76403,
+                    -4.58173
+                ]
+            },
+            "properties": {
+                "name": "Île aux Récifs",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.5036,
+                    -4.62209
+                ]
+            },
+            "properties": {
+                "name": "Round Island, Mahe",
+                "article": "https://en.wikipedia.org/wiki/Round_Island,_Mah%C3%A9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.505,
+                    -4.64078
+                ]
+            },
+            "properties": {
+                "name": "Cachée Island",
+                "article": "https://en.wikipedia.org/wiki/Cach%C3%A9e_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.5079,
+                    -4.62646
+                ]
+            },
+            "properties": {
+                "name": "Long Island",
+                "article": "https://en.wikipedia.org/wiki/Long_Island,_Seychelles"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.67305556,
+                    -4.25833333
+                ]
+            },
+            "properties": {
+                "name": "Booby",
+                "article": "https://en.wikipedia.org/wiki/Booby_Island_(Seychelles)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.40925,
+                    -4.66319444
+                ]
+            },
+            "properties": {
+                "name": "Q12116743",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.53519444,
+                    -4.66927778
+                ]
+            },
+            "properties": {
+                "name": "Q12147715",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.74583333,
+                    -4.31027778
+                ]
+            },
+            "properties": {
+                "name": "Chauve Souris Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.762,
+                    -4.342
+                ]
+            },
+            "properties": {
+                "name": "Eve Island",
+                "article": "https://en.wikipedia.org/wiki/Eve_Island,_Seychelles"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.66333333,
+                    -4.33
+                ]
+            },
+            "properties": {
+                "name": "Chauve Souris, Praslin",
+                "article": "https://en.wikipedia.org/wiki/Chauve_Souris,_Praslin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.75,
+                    -4.305
+                ]
+            },
+            "properties": {
+                "name": "St. Pierre Island, Praslin",
+                "article": "https://en.wikipedia.org/wiki/St._Pierre_Island,_Praslin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.75,
+                    -4.30261087
+                ]
+            },
+            "properties": {
+                "name": "St. Pierre Island, Praslin",
+                "article": "https://en.wikipedia.org/wiki/St._Pierre_Island,_Praslin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.52372222,
+                    -4.61347222
+                ]
+            },
+            "properties": {
+                "name": "Sèche Island",
+                "article": "https://en.wikipedia.org/wiki/S%C3%A8che_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.51666667,
+                    -4.6
+                ]
+            },
+            "properties": {
+                "name": "Sèche Island",
+                "article": "https://en.wikipedia.org/wiki/S%C3%A8che_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.5,
+                    -4.61666667
+                ]
+            },
+            "properties": {
+                "name": "Souris Island",
+                "article": "https://en.wikipedia.org/wiki/Souris_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.46333333,
+                    -4.73888889
+                ]
+            },
+            "properties": {
+                "name": "Chauve Souris, Mahé",
+                "article": "https://en.wikipedia.org/wiki/Chauve_Souris,_Mah%C3%A9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.46494444,
+                    -4.73902778
+                ]
+            },
+            "properties": {
+                "name": "Chauve Souris, Mahé",
+                "article": "https://en.wikipedia.org/wiki/Chauve_Souris,_Mah%C3%A9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.4,
+                    -4.65
+                ]
+            },
+            "properties": {
+                "name": "L'Islette Island",
+                "article": "https://en.wikipedia.org/wiki/L%27Islette_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.4775,
+                    -4.639166666
+                ]
+            },
+            "properties": {
+                "name": "Eden Island",
+                "article": "https://en.wikipedia.org/wiki/Eden_Island,_Seychelles"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.45277778,
+                    -4.625
+                ]
+            },
+            "properties": {
+                "name": "Hodoul Island",
+                "article": "https://en.wikipedia.org/wiki/Hodoul_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.45830556,
+                    -4.62427778
+                ]
+            },
+            "properties": {
+                "name": "Hodoul Island",
+                "article": "https://en.wikipedia.org/wiki/Hodoul_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.45,
+                    -4.6
+                ]
+            },
+            "properties": {
+                "name": "Aurore Island",
+                "article": "https://en.wikipedia.org/wiki/Aurore_Island,_Seychelles"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.465,
+                    -4.605
+                ]
+            },
+            "properties": {
+                "name": "Perseverance Island",
+                "article": "https://en.wikipedia.org/wiki/Perseverance_Island,_Seychelles"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.46666667,
+                    -4.6
+                ]
+            },
+            "properties": {
+                "name": "Port Island",
+                "article": "https://en.wikipedia.org/wiki/Port_Island,_Seychelles"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.53333333,
+                    -4.66666667
+                ]
+            },
+            "properties": {
+                "name": "Rat Island",
+                "article": "https://en.wikipedia.org/wiki/Rat_Island_(Seychelles)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.51666667,
+                    -4.65
+                ]
+            },
+            "properties": {
+                "name": "Soleil Island",
+                "article": "https://en.wikipedia.org/wiki/Soleil_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.416666666,
+                    -4.633333333
+                ]
+            },
+            "properties": {
+                "name": "Mount Simpson",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.41667,
+                    -4.63333
+                ]
+            },
+            "properties": {
+                "name": "Mount Simpson",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.5125,
+                    -4.7692
+                ]
+            },
+            "properties": {
+                "name": "Mount Lockyer",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.5067,
+                    -4.7183
+                ]
+            },
+            "properties": {
+                "name": "Castle Peak",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.58333,
+                    -9.71667
+                ]
+            },
+            "properties": {
+                "name": "Atoll de Cosmoledo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    53.366666666,
+                    -5.45
+                ]
+            },
+            "properties": {
+                "name": "Q49634579",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    50.983333333,
+                    -9.533333333
+                ]
+            },
+            "properties": {
+                "name": "Q49634843",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.75,
+                    -4.3
+                ]
+            },
+            "properties": {
+                "name": "Q49634998",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.466666666,
+                    -4.733333333
+                ]
+            },
+            "properties": {
+                "name": "Q49634999",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    53.333333333,
+                    -5.433333333
+                ]
+            },
+            "properties": {
+                "name": "Q49635073",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.44719,
+                    -9.40732
+                ]
+            },
+            "properties": {
+                "name": "Coconut Islet",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.58561,
+                    -9.66295
+                ]
+            },
+            "properties": {
+                "name": "East North Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.24974,
+                    -9.42717
+                ]
+            },
+            "properties": {
+                "name": "Euphrates Islet",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    53.333333333,
+                    -5.416666666
+                ]
+            },
+            "properties": {
+                "name": "Q49638422",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.12863,
+                    -10.224816
+                ]
+            },
+            "properties": {
+                "name": "Goelette Island, Farquhar",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.4,
+                    -4.65
+                ]
+            },
+            "properties": {
+                "name": "Q49650101",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.9,
+                    -4.6
+                ]
+            },
+            "properties": {
+                "name": "Q49650113",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.533333333,
+                    -4.483333333
+                ]
+            },
+            "properties": {
+                "name": "Q49656481",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.5,
+                    -9.7
+                ]
+            },
+            "properties": {
+                "name": "Q49658148",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.183333333,
+                    -10.116666666
+                ]
+            },
+            "properties": {
+                "name": "Q49664080",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    53.35,
+                    -5.433333333
+                ]
+            },
+            "properties": {
+                "name": "Q49668624",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.416666666,
+                    -4.666666666
+                ]
+            },
+            "properties": {
+                "name": "Q49668928",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    53.316666666,
+                    -5.433333333
+                ]
+            },
+            "properties": {
+                "name": "Q49670336",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.033333333,
+                    -9.233333333
+                ]
+            },
+            "properties": {
+                "name": "Q49670620",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    53.333333333,
+                    -5.4
+                ]
+            },
+            "properties": {
+                "name": "Q49674580",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.5,
+                    -4.6
+                ]
+            },
+            "properties": {
+                "name": "Q49676821",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    52.733333333,
+                    -7.166666666
+                ]
+            },
+            "properties": {
+                "name": "Q49676863",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    53.366666666,
+                    -5.433333333
+                ]
+            },
+            "properties": {
+                "name": "Q49676900",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    53.23333,
+                    -5.68333
+                ]
+            },
+            "properties": {
+                "name": "Sand Cay",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.45692,
+                    -4.6026
+                ]
+            },
+            "properties": {
+                "name": "De Quincey",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.43145,
+                    -4.56137
+                ]
+            },
+            "properties": {
+                "name": "L'Îlot",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.444722222,
+                    -4.576111111
+                ]
+            },
+            "properties": {
+                "name": "Montagne Glacis",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.478444444,
+                    -4.676472222
+                ]
+            },
+            "properties": {
+                "name": "New Savy",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.37552,
+                    -9.4516
+                ]
+            },
+            "properties": {
+                "name": "Grand Terre",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.20788,
+                    -9.40657
+                ]
+            },
+            "properties": {
+                "name": "Ilot Parc",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.20898,
+                    -9.40843
+                ]
+            },
+            "properties": {
+                "name": "Ilot Emili",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.25744,
+                    -9.3798
+                ]
+            },
+            "properties": {
+                "name": "Ilots Nicois",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.27491,
+                    -9.38198
+                ]
+            },
+            "properties": {
+                "name": "Gros Ilot Gionnet",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.45723,
+                    -9.39324
+                ]
+            },
+            "properties": {
+                "name": "Ile aux Cendres",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.23675,
+                    -9.43745
+                ]
+            },
+            "properties": {
+                "name": "Ile Moustiques",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.65693,
+                    -9.72959
+                ]
+            },
+            "properties": {
+                "name": "Petite Polyte Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.65717,
+                    -9.71923
+                ]
+            },
+            "properties": {
+                "name": "Grand Polyte Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.64389,
+                    -9.69922
+                ]
+            },
+            "properties": {
+                "name": "Goelette Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.62925,
+                    -9.6887
+                ]
+            },
+            "properties": {
+                "name": "Île du Trou",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.57252,
+                    -9.65948
+                ]
+            },
+            "properties": {
+                "name": "West North Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.60677,
+                    -9.7634
+                ]
+            },
+            "properties": {
+                "name": "Île Pagode",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.58565,
+                    -9.7698
+                ]
+            },
+            "properties": {
+                "name": "Southwest Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.5098,
+                    -9.73233
+                ]
+            },
+            "properties": {
+                "name": "Ile aux Moustiques",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.51084,
+                    -9.72445
+                ]
+            },
+            "properties": {
+                "name": "Île Baleine",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.51278,
+                    -9.71202
+                ]
+            },
+            "properties": {
+                "name": "Menai",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.53728,
+                    -9.70279
+                ]
+            },
+            "properties": {
+                "name": "Ile L’Anse",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.53105,
+                    -9.70471
+                ]
+            },
+            "properties": {
+                "name": "Ile Macaque",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.52838,
+                    -9.70483
+                ]
+            },
+            "properties": {
+                "name": "Ilot Lacroix",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.52815,
+                    -9.70541
+                ]
+            },
+            "properties": {
+                "name": "Ile des Rats",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.5167,
+                    -9.71744
+                ]
+            },
+            "properties": {
+                "name": "Ile Chauve Souris",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.707164,
+                    -4.307486
+                ]
+            },
+            "properties": {
+                "name": "Grand Fond",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.163888888,
+                    -10.183333333
+                ]
+            },
+            "properties": {
+                "name": "South Farquhar",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.18333,
+                    -10.11667
+                ]
+            },
+            "properties": {
+                "name": "North Farquhar",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.088888888,
+                    -10.149166666
+                ]
+            },
+            "properties": {
+                "name": "Ile Lapin",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.47978,
+                    -4.68225
+                ]
+            },
+            "properties": {
+                "name": "Mount Harrison",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.43401,
+                    -4.65702
+                ]
+            },
+            "properties": {
+                "name": "Morne Blanc",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.403902,
+                    -4.634067
+                ]
+            },
+            "properties": {
+                "name": "Montagne Jasmin",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.458037,
+                    -4.649416
+                ]
+            },
+            "properties": {
+                "name": "Copolla",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.721499946,
+                    -4.282482159
+                ]
+            },
+            "properties": {
+                "name": "Q109631862",
+                "article": null
+            }
+        }
+    ]
+}

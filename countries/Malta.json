@@ -1,0 +1,2651 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.436388888,
+                    35.826666666
+                ]
+            },
+            "properties": {
+                "name": "Mnajdra",
+                "article": "https://en.wikipedia.org/wiki/Mnajdra"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.489444444,
+                    35.897777777
+                ]
+            },
+            "properties": {
+                "name": "Msida",
+                "article": "https://en.wikipedia.org/wiki/Msida"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.477777777,
+                    35.890277777
+                ]
+            },
+            "properties": {
+                "name": "Santa Venera",
+                "article": "https://en.wikipedia.org/wiki/Santa_Venera"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.245833333,
+                    36.024444444
+                ]
+            },
+            "properties": {
+                "name": "Sannat",
+                "article": "https://en.wikipedia.org/wiki/Sannat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2675,
+                    36.050277777
+                ]
+            },
+            "properties": {
+                "name": "Xagħra",
+                "article": "https://en.wikipedia.org/wiki/Xag%C4%A7ra"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.493888888,
+                    35.905
+                ]
+            },
+            "properties": {
+                "name": "Gżira",
+                "article": "https://en.wikipedia.org/wiki/G%C5%BCira"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.49,
+                    35.918611111
+                ]
+            },
+            "properties": {
+                "name": "St. Julian's",
+                "article": "https://en.wikipedia.org/wiki/St._Julian%27s,_Malta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.377777777,
+                    35.920833333
+                ]
+            },
+            "properties": {
+                "name": "Skorba Temples",
+                "article": "https://en.wikipedia.org/wiki/Skorba_Temples"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.29527778,
+                    36.02583333
+                ]
+            },
+            "properties": {
+                "name": "Mġarr",
+                "article": "https://en.wikipedia.org/wiki/M%C4%A1arr,_Gozo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.528027777,
+                    35.836416666
+                ]
+            },
+            "properties": {
+                "name": "Għar Dalam",
+                "article": "https://en.wikipedia.org/wiki/G%C4%A7ar_Dalam"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4106,
+                    35.7883
+                ]
+            },
+            "properties": {
+                "name": "Filfla",
+                "article": "https://en.wikipedia.org/wiki/Filfla"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.511111111,
+                    35.865
+                ]
+            },
+            "properties": {
+                "name": "Tarxien",
+                "article": "https://en.wikipedia.org/wiki/Tarxien"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.51306,
+                    35.86667
+                ]
+            },
+            "properties": {
+                "name": "Tarxien",
+                "article": "https://en.wikipedia.org/wiki/Tarxien"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5225,
+                    35.888055555
+                ]
+            },
+            "properties": {
+                "name": "Birgu",
+                "article": "https://en.wikipedia.org/wiki/Birgu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.25,
+                    36.05
+                ]
+            },
+            "properties": {
+                "name": "Rabat",
+                "article": "https://en.wikipedia.org/wiki/Victoria,_Malta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.26944444,
+                    36.04916667
+                ]
+            },
+            "properties": {
+                "name": "Megalithic Temples of Malta",
+                "article": "https://en.wikipedia.org/wiki/Megalithic_Temples_of_Malta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.506388888,
+                    35.87
+                ]
+            },
+            "properties": {
+                "name": "Hypogeum of Ħal Saflieni",
+                "article": "https://en.wikipedia.org/wiki/%C4%A6al_Saflieni_Hypogeum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.402222,
+                    35.966944
+                ]
+            },
+            "properties": {
+                "name": "St Paul's Island",
+                "article": "https://en.wikipedia.org/wiki/St_Paul%27s_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.522222222,
+                    35.882222222
+                ]
+            },
+            "properties": {
+                "name": "Bormla",
+                "article": "https://en.wikipedia.org/wiki/Cospicua"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.398333333,
+                    35.926944444
+                ]
+            },
+            "properties": {
+                "name": "Bidnija",
+                "article": "https://en.wikipedia.org/wiki/Bidnija"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.35333,
+                    35.94
+                ]
+            },
+            "properties": {
+                "name": "Manikata",
+                "article": "https://en.wikipedia.org/wiki/Manikata"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.319722222,
+                    36.013333333
+                ]
+            },
+            "properties": {
+                "name": "Cominotto",
+                "article": "https://en.wikipedia.org/wiki/Cominotto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.505833333,
+                    35.893333333
+                ]
+            },
+            "properties": {
+                "name": "Floriana",
+                "article": "https://en.wikipedia.org/wiki/Floriana"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.264722222,
+                    36.046388888
+                ]
+            },
+            "properties": {
+                "name": "Xagħra Stone Circle",
+                "article": "https://en.wikipedia.org/wiki/Xag%C4%A7ra_Stone_Circle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5075,
+                    35.872777777
+                ]
+            },
+            "properties": {
+                "name": "Paola",
+                "article": "https://en.wikipedia.org/wiki/Paola,_Malta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.516944444,
+                    35.887777777
+                ]
+            },
+            "properties": {
+                "name": "Senglea",
+                "article": "https://en.wikipedia.org/wiki/Senglea"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.438333333,
+                    35.854166666
+                ]
+            },
+            "properties": {
+                "name": "Siġġiewi",
+                "article": "https://en.wikipedia.org/wiki/Si%C4%A1%C4%A1iewi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.295,
+                    36.038055555
+                ]
+            },
+            "properties": {
+                "name": "Nadur",
+                "article": "https://en.wikipedia.org/wiki/Nadur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5021,
+                    35.9037
+                ]
+            },
+            "properties": {
+                "name": "Manoel Island",
+                "article": "https://en.wikipedia.org/wiki/Manoel_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.368563,
+                    35.918551
+                ]
+            },
+            "properties": {
+                "name": "Ta' Ħaġrat",
+                "article": "https://en.wikipedia.org/wiki/Ta%27_%C4%A6a%C4%A1rat_Temples"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.466944444,
+                    35.844166666
+                ]
+            },
+            "properties": {
+                "name": "Mqabba",
+                "article": "https://en.wikipedia.org/wiki/Mqabba"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.42,
+                    35.954167
+                ]
+            },
+            "properties": {
+                "name": "Qawra",
+                "article": "https://en.wikipedia.org/wiki/Qawra"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.41972,
+                    35.895
+                ]
+            },
+            "properties": {
+                "name": "Ta' Qali",
+                "article": "https://en.wikipedia.org/wiki/Ta%27_Qali"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.511944444,
+                    35.869166666
+                ]
+            },
+            "properties": {
+                "name": "Tarxien Temples",
+                "article": "https://en.wikipedia.org/wiki/Tarxien_Temples"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5125,
+                    35.897777777
+                ]
+            },
+            "properties": {
+                "name": "Valletta",
+                "article": "https://en.wikipedia.org/wiki/Valletta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.478611111,
+                    35.909444444
+                ]
+            },
+            "properties": {
+                "name": "San Ġwann",
+                "article": "https://en.wikipedia.org/wiki/San_%C4%A0wann"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.538055555,
+                    35.877222222
+                ]
+            },
+            "properties": {
+                "name": "Żabbar",
+                "article": "https://en.wikipedia.org/wiki/%C5%BBabbar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.433333333,
+                    35.9
+                ]
+            },
+            "properties": {
+                "name": "Mosta",
+                "article": "https://en.wikipedia.org/wiki/Mosta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.401666666,
+                    35.948333333
+                ]
+            },
+            "properties": {
+                "name": "St. Paul's Bay",
+                "article": "https://en.wikipedia.org/wiki/St._Paul%27s_Bay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.504166666,
+                    35.912222222
+                ]
+            },
+            "properties": {
+                "name": "Sliema",
+                "article": "https://en.wikipedia.org/wiki/Sliema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.472222222,
+                    35.879444444
+                ]
+            },
+            "properties": {
+                "name": "Qormi",
+                "article": "https://en.wikipedia.org/wiki/Qormi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.466666666,
+                    35.9
+                ]
+            },
+            "properties": {
+                "name": "Birkirkara",
+                "article": "https://en.wikipedia.org/wiki/Birkirkara"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.398888888,
+                    35.881666666
+                ]
+            },
+            "properties": {
+                "name": "Rabat",
+                "article": "https://en.wikipedia.org/wiki/Rabat,_Malta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.39775,
+                    35.88258
+                ]
+            },
+            "properties": {
+                "name": "Rabat",
+                "article": "https://en.wikipedia.org/wiki/Rabat,_Malta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.522777777,
+                    35.8725
+                ]
+            },
+            "properties": {
+                "name": "Fgura",
+                "article": "https://en.wikipedia.org/wiki/Fgura"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.533333333,
+                    35.855555555
+                ]
+            },
+            "properties": {
+                "name": "Żejtun",
+                "article": "https://en.wikipedia.org/wiki/%C5%BBejtun"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.444722222,
+                    35.915
+                ]
+            },
+            "properties": {
+                "name": "Naxxar",
+                "article": "https://en.wikipedia.org/wiki/Naxxar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.474444444,
+                    35.829166666
+                ]
+            },
+            "properties": {
+                "name": "Żurrieq",
+                "article": "https://en.wikipedia.org/wiki/%C5%BBurrieq"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.45,
+                    35.9
+                ]
+            },
+            "properties": {
+                "name": "Attard",
+                "article": "https://en.wikipedia.org/wiki/Attard"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.441666666,
+                    35.873333333
+                ]
+            },
+            "properties": {
+                "name": "Zebbug",
+                "article": "https://en.wikipedia.org/wiki/%C5%BBebbu%C4%A1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.411667,
+                    35.949167
+                ]
+            },
+            "properties": {
+                "name": "Buġibba",
+                "article": "https://en.wikipedia.org/wiki/Bu%C4%A1ibba"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.518333333,
+                    35.891944444
+                ]
+            },
+            "properties": {
+                "name": "Siege of Malta",
+                "article": "https://en.wikipedia.org/wiki/Great_Siege_of_Malta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.258888888,
+                    36.045
+                ]
+            },
+            "properties": {
+                "name": "Gozo",
+                "article": "https://en.wikipedia.org/wiki/Gozo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3365,
+                    36.0125
+                ]
+            },
+            "properties": {
+                "name": "Comino",
+                "article": "https://en.wikipedia.org/wiki/Comino"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.45,
+                    35.883333333
+                ]
+            },
+            "properties": {
+                "name": "Malta",
+                "article": "https://en.wikipedia.org/wiki/Malta_(island)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.269095,
+                    36.047265
+                ]
+            },
+            "properties": {
+                "name": "Ġgantija",
+                "article": "https://en.wikipedia.org/wiki/%C4%A0gantija"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.527777777,
+                    35.826666666
+                ]
+            },
+            "properties": {
+                "name": "Birżebbuġa",
+                "article": "https://en.wikipedia.org/wiki/Bir%C5%BCebbu%C4%A1a"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.494722222,
+                    35.883333333
+                ]
+            },
+            "properties": {
+                "name": "Marsa",
+                "article": "https://en.wikipedia.org/wiki/Marsa,_Malta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.489444444,
+                    35.886111111
+                ]
+            },
+            "properties": {
+                "name": "Ħamrun",
+                "article": "https://en.wikipedia.org/wiki/Hamrun"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.442222222,
+                    35.827777777
+                ]
+            },
+            "properties": {
+                "name": "Ħaġar Qim",
+                "article": "https://en.wikipedia.org/wiki/%C4%A6a%C4%A1ar_Qim"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.489166666,
+                    35.859722222
+                ]
+            },
+            "properties": {
+                "name": "Luqa",
+                "article": "https://en.wikipedia.org/wiki/Luqa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5675,
+                    35.8625
+                ]
+            },
+            "properties": {
+                "name": "Marsaskala",
+                "article": "https://en.wikipedia.org/wiki/Marsaskala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.188611,
+                    36.046667
+                ]
+            },
+            "properties": {
+                "name": "Fungus Rock",
+                "article": "https://en.wikipedia.org/wiki/Fungus_Rock"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.396899,
+                    35.852244
+                ]
+            },
+            "properties": {
+                "name": "Misraħ Għar il-Kbir",
+                "article": "https://en.wikipedia.org/wiki/Misra%C4%A7_G%C4%A7ar_il-Kbir"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.396388888,
+                    35.845833333
+                ]
+            },
+            "properties": {
+                "name": "Ta' Dmejrek",
+                "article": "https://en.wikipedia.org/wiki/Ta%27_Dmejrek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.529,
+                    35.8312
+                ]
+            },
+            "properties": {
+                "name": "Borġ in-Nadur",
+                "article": "https://en.wikipedia.org/wiki/Bor%C4%A1_in-Nadur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.509,
+                    35.877083
+                ]
+            },
+            "properties": {
+                "name": "Kordin Temples",
+                "article": "https://en.wikipedia.org/wiki/Kordin_Temples"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.493611111,
+                    35.893055555
+                ]
+            },
+            "properties": {
+                "name": "Gwardamanġa",
+                "article": "https://en.wikipedia.org/wiki/Gwardaman%C4%A1a"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.420555555,
+                    35.936666666
+                ]
+            },
+            "properties": {
+                "name": "Tal-Qadi Temple",
+                "article": "https://en.wikipedia.org/wiki/Tal-Qadi_Temple"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.39353,
+                    35.88211
+                ]
+            },
+            "properties": {
+                "name": "Abbatija Tad-Dejr",
+                "article": "https://en.wikipedia.org/wiki/Abbatija_Tad-Dejr"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3976,
+                    35.8807
+                ]
+            },
+            "properties": {
+                "name": "St. Paul's Catacombs",
+                "article": "https://en.wikipedia.org/wiki/St._Paul%27s_Catacombs"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4247,
+                    35.9442
+                ]
+            },
+            "properties": {
+                "name": "Salina Catacombs",
+                "article": "https://en.wikipedia.org/wiki/Salina_Catacombs"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.411732,
+                    35.933464
+                ]
+            },
+            "properties": {
+                "name": "San Pawl Milqi",
+                "article": "https://en.wikipedia.org/wiki/San_Pawl_Milqi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.51253,
+                    35.89694
+                ]
+            },
+            "properties": {
+                "name": "Castellania",
+                "article": "https://en.wikipedia.org/wiki/Castellania_(Valletta)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.400277777,
+                    35.885277777
+                ]
+            },
+            "properties": {
+                "name": "Domvs Romana",
+                "article": "https://en.wikipedia.org/wiki/Domvs_Romana"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.50275,
+                    35.91263889
+                ]
+            },
+            "properties": {
+                "name": "Palazzo Capua",
+                "article": "https://en.wikipedia.org/wiki/Palazzo_Capua"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.483333333,
+                    35.916666666
+                ]
+            },
+            "properties": {
+                "name": "Ta' Ġiorni",
+                "article": "https://en.wikipedia.org/wiki/Ta%27_%C4%A0iorni"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.55194,
+                    35.84583
+                ]
+            },
+            "properties": {
+                "name": "Tas-Silġ",
+                "article": "https://en.wikipedia.org/wiki/Tas-Sil%C4%A1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.51333333,
+                    35.89861111
+                ]
+            },
+            "properties": {
+                "name": "Republic Street",
+                "article": "https://en.wikipedia.org/wiki/Republic_Street,_Valletta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.53564,
+                    35.8517
+                ]
+            },
+            "properties": {
+                "name": "Żejtun Roman villa",
+                "article": "https://en.wikipedia.org/wiki/%C5%BBejtun_Roman_villa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.444472222,
+                    35.894388888
+                ]
+            },
+            "properties": {
+                "name": "Villa Bologna",
+                "article": "https://en.wikipedia.org/wiki/Villa_Bologna"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4069,
+                    35.78655
+                ]
+            },
+            "properties": {
+                "name": "Filfoletta",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.418122,
+                    35.954785
+                ]
+            },
+            "properties": {
+                "name": "Buġibba Temple",
+                "article": "https://en.wikipedia.org/wiki/Bu%C4%A1ibba_Temple"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2586,
+                    36.0456
+                ]
+            },
+            "properties": {
+                "name": "Santa Verna",
+                "article": "https://en.wikipedia.org/wiki/Santa_Verna"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.381527777,
+                    35.959222222
+                ]
+            },
+            "properties": {
+                "name": "Selmun Palace",
+                "article": "https://en.wikipedia.org/wiki/Selmun_Palace"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.186666666,
+                    36.036666666
+                ]
+            },
+            "properties": {
+                "name": "Ras il-Wardija",
+                "article": "https://en.wikipedia.org/wiki/Ras_il-Wardija"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.49563885,
+                    35.93255615
+                ]
+            },
+            "properties": {
+                "name": "Ġebel ġol-Baħar",
+                "article": "https://en.wikipedia.org/wiki/%C4%A0ebel_%C4%A1ol-Ba%C4%A7ar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.25806046,
+                    36.02000046
+                ]
+            },
+            "properties": {
+                "name": "Q20922722",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.19750023,
+                    36.0430603
+                ]
+            },
+            "properties": {
+                "name": "Q20922963",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.23777962,
+                    36.03388977
+                ]
+            },
+            "properties": {
+                "name": "Q20922972",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.258888888,
+                    36.054166666
+                ]
+            },
+            "properties": {
+                "name": "Q20922978",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.52917004,
+                    35.8302803
+                ]
+            },
+            "properties": {
+                "name": "Borġ in-Nadur temple",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.52861023,
+                    35.83250046
+                ]
+            },
+            "properties": {
+                "name": "Borġ in-Nadur Bronze Age village",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.255,
+                    36.0225
+                ]
+            },
+            "properties": {
+                "name": "Q20925820",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.28472042,
+                    36.03083038
+                ]
+            },
+            "properties": {
+                "name": "Borġ Għarib",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.230277777,
+                    36.048333333
+                ]
+            },
+            "properties": {
+                "name": "Q20925967",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.395555555,
+                    35.851111111
+                ]
+            },
+            "properties": {
+                "name": "Q20925974",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.359555555,
+                    35.920916666
+                ]
+            },
+            "properties": {
+                "name": "Castello Zamittello",
+                "article": "https://en.wikipedia.org/wiki/Zammitello_Palace"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.444032158,
+                    35.915114572
+                ]
+            },
+            "properties": {
+                "name": "Palazzo Parisio",
+                "article": "https://en.wikipedia.org/wiki/Palazzo_Parisio_(Naxxar)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.511802655,
+                    35.896204971
+                ]
+            },
+            "properties": {
+                "name": "Palazzo Parisio",
+                "article": "https://en.wikipedia.org/wiki/Palazzo_Parisio_(Valletta)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.568027777,
+                    35.844111111
+                ]
+            },
+            "properties": {
+                "name": "Xrobb l-Għaġin Temple",
+                "article": "https://en.wikipedia.org/wiki/Xrobb_l-G%C4%A7a%C4%A1in_Temple"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.513638888,
+                    35.897777777
+                ]
+            },
+            "properties": {
+                "name": "Banca Giuratale (Valletta)",
+                "article": "https://en.wikipedia.org/wiki/Banca_Giuratale_(Valletta)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.403397222,
+                    35.886075
+                ]
+            },
+            "properties": {
+                "name": "Banca Giuratale (Mdina)",
+                "article": "https://en.wikipedia.org/wiki/Banca_Giuratale_(Mdina)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.504444444,
+                    35.901361111
+                ]
+            },
+            "properties": {
+                "name": "Lazzaretto",
+                "article": "https://en.wikipedia.org/wiki/Lazzaretto_of_Manoel_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.573611111,
+                    35.861111111
+                ]
+            },
+            "properties": {
+                "name": "Jerma Palace Hotel",
+                "article": "https://en.wikipedia.org/wiki/Jerma_Palace_Hotel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.466566124,
+                    35.881911721
+                ]
+            },
+            "properties": {
+                "name": "Palazzo Stagno",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.513444444,
+                    35.899277777
+                ]
+            },
+            "properties": {
+                "name": "Main Guard",
+                "article": "https://en.wikipedia.org/wiki/Main_Guard_(Valletta)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.513055555,
+                    35.898694444
+                ]
+            },
+            "properties": {
+                "name": "Casa del Commun Tesoro",
+                "article": "https://en.wikipedia.org/wiki/Casa_del_Commun_Tesoro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.416683333,
+                    35.850233333
+                ]
+            },
+            "properties": {
+                "name": "Laferla Cross",
+                "article": "https://en.wikipedia.org/wiki/Laferla_Cross"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.44908,
+                    35.91964
+                ]
+            },
+            "properties": {
+                "name": "Għargħur Semaphore Tower",
+                "article": "https://en.wikipedia.org/wiki/G%C4%A7arg%C4%A7ur_Semaphore_Tower"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.401278,
+                    35.891556
+                ]
+            },
+            "properties": {
+                "name": "Temple of Proserpina",
+                "article": "https://en.wikipedia.org/wiki/Temple_of_Proserpina"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.401278,
+                    35.891556
+                ]
+            },
+            "properties": {
+                "name": "Temple of Proserpina",
+                "article": "https://en.wikipedia.org/wiki/Temple_of_Proserpina"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.386323,
+                    35.885811
+                ]
+            },
+            "properties": {
+                "name": "Għajn Qajjet",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3801963,
+                    35.8868491
+                ]
+            },
+            "properties": {
+                "name": "Q28040848",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.51083333,
+                    35.89805556
+                ]
+            },
+            "properties": {
+                "name": "Forni della Signoria",
+                "article": "https://en.wikipedia.org/wiki/Forni_della_Signoria"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.44361,
+                    35.91986
+                ]
+            },
+            "properties": {
+                "name": "Hompesch Hunting Lodge",
+                "article": "https://en.wikipedia.org/wiki/Hompesch_Hunting_Lodge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.443297,
+                    35.919514
+                ]
+            },
+            "properties": {
+                "name": "Ta' Cisju Farmhouse",
+                "article": "https://en.wikipedia.org/wiki/Ta%27_Cisju_Farmhouse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.403333,
+                    35.885333
+                ]
+            },
+            "properties": {
+                "name": "Temple of Apollo",
+                "article": "https://en.wikipedia.org/wiki/Temple_of_Apollo_(Melite)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.403333,
+                    35.885333
+                ]
+            },
+            "properties": {
+                "name": "Temple of Apollo",
+                "article": "https://en.wikipedia.org/wiki/Temple_of_Apollo_(Melite)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.39666667,
+                    35.88055556
+                ]
+            },
+            "properties": {
+                "name": "Q25441457",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.512455555,
+                    35.901380555
+                ]
+            },
+            "properties": {
+                "name": "House of Catalunya",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.40344444,
+                    35.88302778
+                ]
+            },
+            "properties": {
+                "name": "Casino Notabile",
+                "article": "https://en.wikipedia.org/wiki/Casino_Notabile"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.525978361,
+                    35.890103778
+                ]
+            },
+            "properties": {
+                "name": "Villa Portelli",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.49444444,
+                    35.91388889
+                ]
+            },
+            "properties": {
+                "name": "Balluta Buildings",
+                "article": "https://en.wikipedia.org/wiki/Balluta_Buildings"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.494614741,
+                    35.913850322
+                ]
+            },
+            "properties": {
+                "name": "Balluta Buildings",
+                "article": "https://en.wikipedia.org/wiki/Balluta_Buildings"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.490009238,
+                    35.918221635
+                ]
+            },
+            "properties": {
+                "name": "Villa Fieres",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.518651559,
+                    35.901561045
+                ]
+            },
+            "properties": {
+                "name": "Short curtain / rampart with Main Gate – Fort St Elmo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3465,
+                    35.9761
+                ]
+            },
+            "properties": {
+                "name": "Triq il-Marfa",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.478,
+                    35.8789
+                ]
+            },
+            "properties": {
+                "name": "Triq San Bastjan",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.51415,
+                    35.89922
+                ]
+            },
+            "properties": {
+                "name": "Triq l-Arċisqof",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.51487,
+                    35.89714
+                ]
+            },
+            "properties": {
+                "name": "Triq Sant' Orsla",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.514306,
+                    35.898139
+                ]
+            },
+            "properties": {
+                "name": "Triq il-Merkanti",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.51422,
+                    35.89734
+                ]
+            },
+            "properties": {
+                "name": "Triq San Pawl",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.51169,
+                    35.89797
+                ]
+            },
+            "properties": {
+                "name": "Triq San Ġwann",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.51239,
+                    35.89848
+                ]
+            },
+            "properties": {
+                "name": "Triq Santa Luċija",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.51574,
+                    35.89966
+                ]
+            },
+            "properties": {
+                "name": "Triq San Duminku",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.51487,
+                    35.89966
+                ]
+            },
+            "properties": {
+                "name": "Triq San Kristofru",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5164,
+                    35.89979
+                ]
+            },
+            "properties": {
+                "name": "Triq San Nikola",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5124,
+                    35.89939
+                ]
+            },
+            "properties": {
+                "name": "Triq il-Fran",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5116,
+                    35.89959
+                ]
+            },
+            "properties": {
+                "name": "Triq iz-Zekka",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.51519,
+                    35.89691
+                ]
+            },
+            "properties": {
+                "name": "Triq Lvant",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.51756,
+                    35.89828
+                ]
+            },
+            "properties": {
+                "name": "Triq l-Ibjar",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.51337,
+                    35.89876
+                ]
+            },
+            "properties": {
+                "name": "Triq tat-Teatru Antik",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.51076,
+                    35.8975
+                ]
+            },
+            "properties": {
+                "name": "Triq Melita",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.51253,
+                    35.89892
+                ]
+            },
+            "properties": {
+                "name": "Strait Street",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.51244,
+                    35.90161
+                ]
+            },
+            "properties": {
+                "name": "Triq Marsamxett",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.51249,
+                    35.90076
+                ]
+            },
+            "properties": {
+                "name": "Triq il-Punent",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.50808,
+                    35.89835
+                ]
+            },
+            "properties": {
+                "name": "Triq il-Mitħna",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.51823,
+                    35.89888
+                ]
+            },
+            "properties": {
+                "name": "Triq il-Mediterran",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.51043,
+                    35.89923
+                ]
+            },
+            "properties": {
+                "name": "Triq San Patrizju",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.51378,
+                    35.90108
+                ]
+            },
+            "properties": {
+                "name": "Triq San Karlu",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.51443,
+                    35.90154
+                ]
+            },
+            "properties": {
+                "name": "Triq San Bastjan",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.50878,
+                    35.89917
+                ]
+            },
+            "properties": {
+                "name": "Triq Sant Andrija",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.51419,
+                    35.90079
+                ]
+            },
+            "properties": {
+                "name": "Triq l-Ajkla",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.51418,
+                    35.90106
+                ]
+            },
+            "properties": {
+                "name": "Triq il-Gendus",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5093,
+                    35.89624
+                ]
+            },
+            "properties": {
+                "name": "Triq il-Papa Piju V",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.51617,
+                    35.90128
+                ]
+            },
+            "properties": {
+                "name": "Triq l-Għajn",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.50569,
+                    35.89869
+                ]
+            },
+            "properties": {
+                "name": "Triq l-Assedju l-Kbir",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.51624,
+                    35.90104
+                ]
+            },
+            "properties": {
+                "name": "Triq San Guzepp",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.50988,
+                    35.89891
+                ]
+            },
+            "properties": {
+                "name": "Triq San Mark",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.51723,
+                    35.90052
+                ]
+            },
+            "properties": {
+                "name": "Triq it-Tramuntana",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.50974,
+                    35.89743
+                ]
+            },
+            "properties": {
+                "name": "Triq Nofs-in-Nhar",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.51058,
+                    35.89621
+                ]
+            },
+            "properties": {
+                "name": "Triq il-Vittorja",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.50991,
+                    35.89261
+                ]
+            },
+            "properties": {
+                "name": "Telgħet il-Kurċifiss",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.51684,
+                    35.90011
+                ]
+            },
+            "properties": {
+                "name": "Triq l-Infermerija",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.51165,
+                    35.8999
+                ]
+            },
+            "properties": {
+                "name": "Triq tal-Karmnu",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5097,
+                    35.89684
+                ]
+            },
+            "properties": {
+                "name": "Triq l-Ordinanza",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.50111111,
+                    35.90875
+                ]
+            },
+            "properties": {
+                "name": "The Green House, Sliema",
+                "article": "https://en.wikipedia.org/wiki/The_Green_House,_Sliema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.50216667,
+                    35.91219444
+                ]
+            },
+            "properties": {
+                "name": "Fatima House",
+                "article": "https://en.wikipedia.org/wiki/Fatima_House"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.505083,
+                    35.91125
+                ]
+            },
+            "properties": {
+                "name": "33, Cathedral Street",
+                "article": "https://en.wikipedia.org/wiki/33,_Cathedral_Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.51555556,
+                    35.89833333
+                ]
+            },
+            "properties": {
+                "name": "Old University Building, Valletta",
+                "article": "https://en.wikipedia.org/wiki/Old_University_Building,_Valletta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.50030556,
+                    35.88536111
+                ]
+            },
+            "properties": {
+                "name": "Sea Malta Building",
+                "article": "https://en.wikipedia.org/wiki/Sea_Malta_Building"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4006,
+                    35.9483
+                ]
+            },
+            "properties": {
+                "name": "St. Paul's Bay",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.56236111,
+                    35.86472222
+                ]
+            },
+            "properties": {
+                "name": "3, Triq ix-Xatt",
+                "article": "https://en.wikipedia.org/wiki/3,_Triq_ix-Xatt"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.492611111,
+                    35.892222222
+                ]
+            },
+            "properties": {
+                "name": "Rediffusion House",
+                "article": "https://en.wikipedia.org/wiki/Rediffusion_House"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.40344444,
+                    35.88472222
+                ]
+            },
+            "properties": {
+                "name": "Mdina Gate",
+                "article": "https://en.wikipedia.org/wiki/Mdina_Gate"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.23886,
+                    36.03553
+                ]
+            },
+            "properties": {
+                "name": "Manresa Retreat House",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.536389,
+                    35.859444
+                ]
+            },
+            "properties": {
+                "name": "Villa Cagliares, Żejtun",
+                "article": "https://en.wikipedia.org/wiki/Villa_Cagliares,_%C5%BBejtun"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.49125,
+                    35.90147222
+                ]
+            },
+            "properties": {
+                "name": "Muscats Motors",
+                "article": "https://en.wikipedia.org/wiki/Muscats_Motors"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.49497222,
+                    35.90122222
+                ]
+            },
+            "properties": {
+                "name": "Villino Ellul",
+                "article": "https://en.wikipedia.org/wiki/Villino_Ellul"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.53175,
+                    35.85358
+                ]
+            },
+            "properties": {
+                "name": "Aedes Danielis",
+                "article": "https://en.wikipedia.org/wiki/%C3%86des_Danielis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.495583333,
+                    35.91
+                ]
+            },
+            "properties": {
+                "name": "Villa Alhambra",
+                "article": "https://en.wikipedia.org/wiki/Villa_Alhambra"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.493333333,
+                    35.905
+                ]
+            },
+            "properties": {
+                "name": "Wembley ice-cream factory",
+                "article": "https://en.wikipedia.org/wiki/Wembley_ice-cream_factory"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.503936,
+                    35.916506
+                ]
+            },
+            "properties": {
+                "name": "Fond Għadir Baths",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.417472,
+                    35.895667
+                ]
+            },
+            "properties": {
+                "name": "Malta Fairs & Conventions Centre",
+                "article": "https://en.wikipedia.org/wiki/Malta_Fairs_%26_Conventions_Centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.273333333,
+                    36.041666666
+                ]
+            },
+            "properties": {
+                "name": "Nuffara",
+                "article": "https://en.wikipedia.org/wiki/Nuffara"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.493527777,
+                    35.916277777
+                ]
+            },
+            "properties": {
+                "name": "Palazzina Vincenti",
+                "article": "https://en.wikipedia.org/wiki/Palazzina_Vincenti"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.489343,
+                    35.923114
+                ]
+            },
+            "properties": {
+                "name": "Mercury Tower",
+                "article": "https://en.wikipedia.org/wiki/Mercury_Tower"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.507436,
+                    35.912536
+                ]
+            },
+            "properties": {
+                "name": "Sliema Chalet",
+                "article": null
+            }
+        }
+    ]
+}

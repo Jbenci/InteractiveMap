@@ -1,0 +1,1405 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.966666666,
+                    22.433333333
+                ]
+            },
+            "properties": {
+                "name": "Acklins",
+                "article": "https://en.wikipedia.org/wiki/Acklins"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.408333333,
+                    24.294166666
+                ]
+            },
+            "properties": {
+                "name": "Mount Alvernia",
+                "article": "https://en.wikipedia.org/wiki/Mount_Alvernia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.49306,
+                    24.03667
+                ]
+            },
+            "properties": {
+                "name": "San Salvador Island",
+                "article": "https://en.wikipedia.org/wiki/San_Salvador_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.405,
+                    25.03
+                ]
+            },
+            "properties": {
+                "name": "New Providence",
+                "article": "https://en.wikipedia.org/wiki/New_Providence"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.316666666,
+                    26.65
+                ]
+            },
+            "properties": {
+                "name": "Grand Bahama",
+                "article": "https://en.wikipedia.org/wiki/Grand_Bahama"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.66,
+                    26.52
+                ]
+            },
+            "properties": {
+                "name": "Freeport",
+                "article": "https://en.wikipedia.org/wiki/Freeport,_The_Bahamas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.09444444,
+                    23.26527778
+                ]
+            },
+            "properties": {
+                "name": "Long Island",
+                "article": "https://en.wikipedia.org/wiki/Long_Island,_Bahamas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.53335,
+                    26.083305555
+                ]
+            },
+            "properties": {
+                "name": "Castaway Cay",
+                "article": "https://en.wikipedia.org/wiki/Castaway_Cay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.423055555,
+                    24.311388888
+                ]
+            },
+            "properties": {
+                "name": "Cat Island",
+                "article": "https://en.wikipedia.org/wiki/Cat_Island,_The_Bahamas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.216666666,
+                    22.75
+                ]
+            },
+            "properties": {
+                "name": "Crooked Island",
+                "article": "https://en.wikipedia.org/wiki/Crooked_Island,_Bahamas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.14418,
+                    25.13472
+                ]
+            },
+            "properties": {
+                "name": "Eleuthera",
+                "article": "https://en.wikipedia.org/wiki/Eleuthera"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.005105555,
+                    21.506519444
+                ]
+            },
+            "properties": {
+                "name": "Little Inagua",
+                "article": "https://en.wikipedia.org/wiki/Little_Inagua"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.55849167,
+                    21.466225
+                ]
+            },
+            "properties": {
+                "name": "Long Cay",
+                "article": "https://en.wikipedia.org/wiki/Long_Cay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.347222222,
+                    22.594444444
+                ]
+            },
+            "properties": {
+                "name": "Long Cay",
+                "article": "https://en.wikipedia.org/wiki/Long_Cay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.17,
+                    26.4
+                ]
+            },
+            "properties": {
+                "name": "Marsh Harbour",
+                "article": "https://en.wikipedia.org/wiki/Marsh_Harbour"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.28705,
+                    21.076811111
+                ]
+            },
+            "properties": {
+                "name": "Inagua",
+                "article": "https://en.wikipedia.org/wiki/Inagua"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.394638888,
+                    27.257722222
+                ]
+            },
+            "properties": {
+                "name": "Walker's Cay",
+                "article": "https://en.wikipedia.org/wiki/Walker%27s_Cay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.733333333,
+                    22.216666666
+                ]
+            },
+            "properties": {
+                "name": "Ragged Island",
+                "article": "https://en.wikipedia.org/wiki/Ragged_Island,_Bahamas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.908333333,
+                    22.375833333
+                ]
+            },
+            "properties": {
+                "name": "Mayaguana",
+                "article": "https://en.wikipedia.org/wiki/Mayaguana"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.75,
+                    23.083333333
+                ]
+            },
+            "properties": {
+                "name": "Samana Cay",
+                "article": "https://en.wikipedia.org/wiki/Samana_Cay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.635833333,
+                    25.501944444
+                ]
+            },
+            "properties": {
+                "name": "Dunmore Town",
+                "article": "https://en.wikipedia.org/wiki/Dunmore_Town"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.868888888,
+                    23.682222222
+                ]
+            },
+            "properties": {
+                "name": "Rum Cay",
+                "article": "https://en.wikipedia.org/wiki/Rum_Cay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.883333333,
+                    25.483333333
+                ]
+            },
+            "properties": {
+                "name": "Egg Island",
+                "article": "https://en.wikipedia.org/wiki/Egg_Island_(The_Bahamas)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.816666666,
+                    24.616666666
+                ]
+            },
+            "properties": {
+                "name": "Norman's Cay",
+                "article": "https://en.wikipedia.org/wiki/Norman%27s_Cay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.21944444,
+                    25.0875
+                ]
+            },
+            "properties": {
+                "name": "Rose Island",
+                "article": "https://en.wikipedia.org/wiki/Rose_Island,_Bahamas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.13171,
+                    25.09891
+                ]
+            },
+            "properties": {
+                "name": "Rose Island",
+                "article": "https://en.wikipedia.org/wiki/Rose_Island,_Bahamas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.633333333,
+                    25.5
+                ]
+            },
+            "properties": {
+                "name": "Harbour Island",
+                "article": "https://en.wikipedia.org/wiki/Harbour_Island,_Bahamas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.633333333,
+                    25.5
+                ]
+            },
+            "properties": {
+                "name": "Harbour Island",
+                "article": "https://en.wikipedia.org/wiki/Harbour_Island,_Bahamas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.334444444,
+                    27.229444444
+                ]
+            },
+            "properties": {
+                "name": "Grand Cay",
+                "article": "https://en.wikipedia.org/wiki/Grand_Cay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.962056,
+                    26.539816
+                ]
+            },
+            "properties": {
+                "name": "Hope Town",
+                "article": "https://en.wikipedia.org/wiki/Hope_Town"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.783333333,
+                    24.166666666
+                ]
+            },
+            "properties": {
+                "name": "Mangrove Cay",
+                "article": "https://en.wikipedia.org/wiki/Mangrove_Cay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.549444444,
+                    26.292777777
+                ]
+            },
+            "properties": {
+                "name": "Moore's Island",
+                "article": "https://en.wikipedia.org/wiki/Moore%27s_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.0833,
+                    26.4667
+                ]
+            },
+            "properties": {
+                "name": "Great Abaco",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.8333,
+                    23.5333
+                ]
+            },
+            "properties": {
+                "name": "Great Exuma",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.3,
+                    21.08333
+                ]
+            },
+            "properties": {
+                "name": "Great Inagua",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.952,
+                    24.574
+                ]
+            },
+            "properties": {
+                "name": "Little San Salvador Island",
+                "article": "https://en.wikipedia.org/wiki/Little_San_Salvador_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.333333333,
+                    25.083333333
+                ]
+            },
+            "properties": {
+                "name": "Paradise Island",
+                "article": "https://en.wikipedia.org/wiki/Paradise_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.316666666,
+                    26.766666666
+                ]
+            },
+            "properties": {
+                "name": "Green Turtle Cay",
+                "article": "https://en.wikipedia.org/wiki/Green_Turtle_Cay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.101,
+                    22.4328
+                ]
+            },
+            "properties": {
+                "name": "Pirates Well",
+                "article": "https://en.wikipedia.org/wiki/Pirates_Well"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.762578,
+                    25.547274
+                ]
+            },
+            "properties": {
+                "name": "Spanish Wells",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.54,
+                    26.52
+                ]
+            },
+            "properties": {
+                "name": "Cave Cay",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.05555556,
+                    27.09638889
+                ]
+            },
+            "properties": {
+                "name": "Q4160351",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.354444444,
+                    27.260833333
+                ]
+            },
+            "properties": {
+                "name": "Seal Cay",
+                "article": "https://en.wikipedia.org/wiki/Seal_Cay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.966666666,
+                    26.55
+                ]
+            },
+            "properties": {
+                "name": "Anna Cay",
+                "article": "https://en.wikipedia.org/wiki/Anna_Cay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.26666667,
+                    25.08333333
+                ]
+            },
+            "properties": {
+                "name": "Athol Island",
+                "article": "https://en.wikipedia.org/wiki/Athol_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.99666667,
+                    27.08416667
+                ]
+            },
+            "properties": {
+                "name": "Q12088333",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.21,
+                    27.17305556
+                ]
+            },
+            "properties": {
+                "name": "Q12088346",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.20555556,
+                    26.98638889
+                ]
+            },
+            "properties": {
+                "name": "Q12088348",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.99666667,
+                    27.08416667
+                ]
+            },
+            "properties": {
+                "name": "Q12098084",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.26777778,
+                    27.19472222
+                ]
+            },
+            "properties": {
+                "name": "Q12099293",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.03555556,
+                    27.09083333
+                ]
+            },
+            "properties": {
+                "name": "Q12100721",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.34111111,
+                    27.24416667
+                ]
+            },
+            "properties": {
+                "name": "Q12112608",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.32472222,
+                    27.21861111
+                ]
+            },
+            "properties": {
+                "name": "Q12120803",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.41277778,
+                    27.26722222
+                ]
+            },
+            "properties": {
+                "name": "Q12120801",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.19833333,
+                    27.16444444
+                ]
+            },
+            "properties": {
+                "name": "Q12120823",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.22916667,
+                    27.1825
+                ]
+            },
+            "properties": {
+                "name": "Q12120821",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.17055556,
+                    27.04388889
+                ]
+            },
+            "properties": {
+                "name": "Q12120827",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.015,
+                    27.08222222
+                ]
+            },
+            "properties": {
+                "name": "Q12135532",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.33111111,
+                    27.21583333
+                ]
+            },
+            "properties": {
+                "name": "Q12150533",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.41722222,
+                    27.27166667
+                ]
+            },
+            "properties": {
+                "name": "Q12159529",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.37055556,
+                    27.25777778
+                ]
+            },
+            "properties": {
+                "name": "Q12161847",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.025,
+                    27.08833333
+                ]
+            },
+            "properties": {
+                "name": "Q12161954",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.31083333,
+                    27.21527778
+                ]
+            },
+            "properties": {
+                "name": "Q12165556",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.338611111,
+                    25.078055555
+                ]
+            },
+            "properties": {
+                "name": "Nassau",
+                "article": "https://en.wikipedia.org/wiki/Nassau,_The_Bahamas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.271111111,
+                    25.098333333
+                ]
+            },
+            "properties": {
+                "name": "Blue Lagoon Island",
+                "article": "https://en.wikipedia.org/wiki/Blue_Lagoon_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.00916667,
+                    23.44194444
+                ]
+            },
+            "properties": {
+                "name": "Coakley Cay",
+                "article": "https://en.wikipedia.org/wiki/Coakley_Cay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.113,
+                    23.833
+                ]
+            },
+            "properties": {
+                "name": "Conception Island, Bahamas",
+                "article": "https://en.wikipedia.org/wiki/Conception_Island,_Bahamas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.74638889,
+                    23.49222222
+                ]
+            },
+            "properties": {
+                "name": "Crab Cay",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.36,
+                    23.65
+                ]
+            },
+            "properties": {
+                "name": "Dolly's Cay",
+                "article": "https://en.wikipedia.org/wiki/Dolly%27s_Cay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.358705555,
+                    25.077013888
+                ]
+            },
+            "properties": {
+                "name": "Fort Charlotte",
+                "article": "https://en.wikipedia.org/wiki/Fort_Charlotte_(Nassau)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.129,
+                    26.678
+                ]
+            },
+            "properties": {
+                "name": "Great Guana Cay",
+                "article": "https://en.wikipedia.org/wiki/Great_Guana_Cay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.1,
+                    26.033333333
+                ]
+            },
+            "properties": {
+                "name": "Great Isaac Cay",
+                "article": "https://en.wikipedia.org/wiki/Great_Isaac_Cay,_Bahamas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.9,
+                    25.833333333
+                ]
+            },
+            "properties": {
+                "name": "Great Stirrup Cay",
+                "article": "https://en.wikipedia.org/wiki/Great_Stirrup_Cay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.8531,
+                    25.7553
+                ]
+            },
+            "properties": {
+                "name": "Great Harbour Cay",
+                "article": "https://en.wikipedia.org/wiki/Great_Harbour_Cay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.833333333,
+                    25.75
+                ]
+            },
+            "properties": {
+                "name": "Great Harbour Cay",
+                "article": "https://en.wikipedia.org/wiki/Great_Harbour_Cay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.81666667,
+                    21.68333333
+                ]
+            },
+            "properties": {
+                "name": "Hogsty Reef",
+                "article": "https://en.wikipedia.org/wiki/Hogsty_Reef"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.759952777,
+                    25.449011111
+                ]
+            },
+            "properties": {
+                "name": "Little Whale Cay",
+                "article": "https://en.wikipedia.org/wiki/Little_Whale_Cay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.006187,
+                    26.598641
+                ]
+            },
+            "properties": {
+                "name": "Man-O-War Cay",
+                "article": "https://en.wikipedia.org/wiki/Man-O-War_Cay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.65,
+                    25.56666667
+                ]
+            },
+            "properties": {
+                "name": "Man Island",
+                "article": "https://en.wikipedia.org/wiki/Man_Island_(Bahamas)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.25,
+                    23.883333333
+                ]
+            },
+            "properties": {
+                "name": "Musha Cay",
+                "article": "https://en.wikipedia.org/wiki/Musha_Cay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.45638889,
+                    24.18361111
+                ]
+            },
+            "properties": {
+                "name": "Pig Beach",
+                "article": "https://en.wikipedia.org/wiki/Pig_Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.7667,
+                    23.5333
+                ]
+            },
+            "properties": {
+                "name": "Stocking Island",
+                "article": "https://en.wikipedia.org/wiki/Stocking_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.10007,
+                    27.10408
+                ]
+            },
+            "properties": {
+                "name": "Jwycesska Island",
+                "article": "https://en.wikipedia.org/wiki/Strangers_Cay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.12028,
+                    25.06
+                ]
+            },
+            "properties": {
+                "name": "Windermere Island",
+                "article": "https://en.wikipedia.org/wiki/Windermere_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.1,
+                    25.066666666
+                ]
+            },
+            "properties": {
+                "name": "Windermere Island",
+                "article": "https://en.wikipedia.org/wiki/Windermere_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.5297,
+                    24.0513
+                ]
+            },
+            "properties": {
+                "name": "Cockburn Town",
+                "article": "https://en.wikipedia.org/wiki/Cockburn_Town,_Bahamas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.933333333,
+                    25.816666666
+                ]
+            },
+            "properties": {
+                "name": "Little Stirrup Cay",
+                "article": "https://en.wikipedia.org/wiki/CocoCay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.968119444,
+                    26.526816666
+                ]
+            },
+            "properties": {
+                "name": "Elbow Cay",
+                "article": "https://en.wikipedia.org/wiki/Elbow_Cay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.116666666,
+                    25.266666666
+                ]
+            },
+            "properties": {
+                "name": "Joulter Cays",
+                "article": "https://en.wikipedia.org/wiki/Joulter_Cays"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.997525,
+                    26.49965833
+                ]
+            },
+            "properties": {
+                "name": "Q12034070",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.31194444,
+                    27.22083333
+                ]
+            },
+            "properties": {
+                "name": "Q12088322",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.28669,
+                    25.74332
+                ]
+            },
+            "properties": {
+                "name": "Bailey Town",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.76,
+                    25.4483
+                ]
+            },
+            "properties": {
+                "name": "Chub Cay",
+                "article": "https://en.wikipedia.org/wiki/Chub_Cay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.45778,
+                    24.9975
+                ]
+            },
+            "properties": {
+                "name": "Coral Harbour",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.528333333,
+                    23.988333333
+                ]
+            },
+            "properties": {
+                "name": "Deep Creek",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.1,
+                    23.76667
+                ]
+            },
+            "properties": {
+                "name": "Lee Stocking Island",
+                "article": "https://en.wikipedia.org/wiki/Lee_Stocking_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.09556,
+                    23.76722
+                ]
+            },
+            "properties": {
+                "name": "Lee Stocking Island",
+                "article": "https://en.wikipedia.org/wiki/Lee_Stocking_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.7,
+                    26.9
+                ]
+            },
+            "properties": {
+                "name": "Little Abaco",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.27294,
+                    25.7333
+                ]
+            },
+            "properties": {
+                "name": "North Bimini",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.29562,
+                    25.56323
+                ]
+            },
+            "properties": {
+                "name": "North Cat Cay",
+                "article": null
+            }
+        }
+    ]
+}

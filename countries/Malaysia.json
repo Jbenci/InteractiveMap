@@ -1,0 +1,5423 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.11729,
+                    5.83878
+                ]
+            },
+            "properties": {
+                "name": "Sandakan",
+                "article": "https://en.wikipedia.org/wiki/Sandakan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.0725,
+                    5.975
+                ]
+            },
+            "properties": {
+                "name": "Kota Kinabalu",
+                "article": "https://en.wikipedia.org/wiki/Kota_Kinabalu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.234444444,
+                    4.631111111
+                ]
+            },
+            "properties": {
+                "name": "Mount Tahan",
+                "article": "https://en.wikipedia.org/wiki/Mount_Tahan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.68333333,
+                    4.46666667
+                ]
+            },
+            "properties": {
+                "name": "Bum Bum Island",
+                "article": "https://en.wikipedia.org/wiki/Bum_Bum_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.941,
+                    2.71889
+                ]
+            },
+            "properties": {
+                "name": "Seremban railway station",
+                "article": "https://en.wikipedia.org/wiki/Seremban_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.44768,
+                    5.36633
+                ]
+            },
+            "properties": {
+                "name": "Bukit Mertajam railway station",
+                "article": "https://en.wikipedia.org/wiki/Bukit_Mertajam_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.56,
+                    3.075833
+                ]
+            },
+            "properties": {
+                "name": "Batu Tiga Komuter station",
+                "article": "https://en.wikipedia.org/wiki/Batu_Tiga_Komuter_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.366666666,
+                    6.116666666
+                ]
+            },
+            "properties": {
+                "name": "Alor Setar",
+                "article": "https://en.wikipedia.org/wiki/Alor_Setar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.95551,
+                    4.76025
+                ]
+            },
+            "properties": {
+                "name": "Istana Kenangan",
+                "article": "https://en.wikipedia.org/wiki/Perak_Royal_Museum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    111.33333333,
+                    2.58333333
+                ]
+            },
+            "properties": {
+                "name": "Bruit Island",
+                "article": "https://en.wikipedia.org/wiki/Bruit_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.714166666,
+                    3.1125
+                ]
+            },
+            "properties": {
+                "name": "Cheras LRT station",
+                "article": "https://en.wikipedia.org/wiki/Cheras_LRT_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.03,
+                    3.17
+                ]
+            },
+            "properties": {
+                "name": "Bintulu",
+                "article": "https://en.wikipedia.org/wiki/Bintulu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.683333333,
+                    4.8
+                ]
+            },
+            "properties": {
+                "name": "Pulau Tenggol",
+                "article": "https://en.wikipedia.org/wiki/Tenggol_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.333333333,
+                    3.916666666
+                ]
+            },
+            "properties": {
+                "name": "Mount Murud",
+                "article": "https://en.wikipedia.org/wiki/Mount_Murud"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.25,
+                    6.133333333
+                ]
+            },
+            "properties": {
+                "name": "Kota Bharu",
+                "article": "https://en.wikipedia.org/wiki/Kota_Bharu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.8,
+                    2.516666666
+                ]
+            },
+            "properties": {
+                "name": "Port Dickson",
+                "article": "https://en.wikipedia.org/wiki/Port_Dickson_(town)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.843,
+                    2.9516
+                ]
+            },
+            "properties": {
+                "name": "Semenyih",
+                "article": "https://en.wikipedia.org/wiki/Semenyih"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    117.787403,
+                    4.143247
+                ]
+            },
+            "properties": {
+                "name": "Sebatik Island",
+                "article": "https://en.wikipedia.org/wiki/Sebatik_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.183333333,
+                    2.816666666
+                ]
+            },
+            "properties": {
+                "name": "Tioman Island",
+                "article": "https://en.wikipedia.org/wiki/Tioman_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.083333333,
+                    2.2
+                ]
+            },
+            "properties": {
+                "name": "Sibu Island",
+                "article": "https://en.wikipedia.org/wiki/Sibu_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.72439444,
+                    3.23123611
+                ]
+            },
+            "properties": {
+                "name": "Gombak LRT station",
+                "article": "https://en.wikipedia.org/wiki/Gombak_LRT_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.686,
+                    3.134
+                ]
+            },
+            "properties": {
+                "name": "Kuala Lumpur Sentral station",
+                "article": "https://en.wikipedia.org/wiki/Kuala_Lumpur_Sentral_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.06041667,
+                    5.95033333
+                ]
+            },
+            "properties": {
+                "name": "Q801511",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.75,
+                    5.333333333
+                ]
+            },
+            "properties": {
+                "name": "Beaufort",
+                "article": "https://en.wikipedia.org/wiki/Beaufort,_Malaysia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.333333333,
+                    3.816666666
+                ]
+            },
+            "properties": {
+                "name": "Kuantan",
+                "article": "https://en.wikipedia.org/wiki/Kuantan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.140833333,
+                    5.330277777
+                ]
+            },
+            "properties": {
+                "name": "Kuala Terengganu",
+                "article": "https://en.wikipedia.org/wiki/Kuala_Terengganu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.478055555,
+                    5.165833333
+                ]
+            },
+            "properties": {
+                "name": "Nibong Tebal",
+                "article": "https://en.wikipedia.org/wiki/Nibong_Tebal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.854609,
+                    5.538949
+                ]
+            },
+            "properties": {
+                "name": "Bongawan",
+                "article": "https://en.wikipedia.org/wiki/Bongawan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.2,
+                    6.433333333
+                ]
+            },
+            "properties": {
+                "name": "Kangar",
+                "article": "https://en.wikipedia.org/wiki/Kangar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.198611111,
+                    6.441388888
+                ]
+            },
+            "properties": {
+                "name": "Kangar",
+                "article": "https://en.wikipedia.org/wiki/Kangar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.9,
+                    1.73
+                ]
+            },
+            "properties": {
+                "name": "Kota Tinggi",
+                "article": "https://en.wikipedia.org/wiki/Kota_Tinggi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.8999,
+                    1.7381
+                ]
+            },
+            "properties": {
+                "name": "Kota Tinggi",
+                "article": "https://en.wikipedia.org/wiki/Kota_Tinggi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.487777777,
+                    5.646944444
+                ]
+            },
+            "properties": {
+                "name": "Sungai Petani",
+                "article": "https://en.wikipedia.org/wiki/Sungai_Petani"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.6989,
+                    3.1556
+                ]
+            },
+            "properties": {
+                "name": "Menara Multi Purpose",
+                "article": "https://en.wikipedia.org/wiki/Multi_Purpose_Tower"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.6125,
+                    3.110555555
+                ]
+            },
+            "properties": {
+                "name": "Taman Bahagia LRT station",
+                "article": "https://en.wikipedia.org/wiki/Taman_Bahagia_LRT_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.603888888,
+                    3.1125
+                ]
+            },
+            "properties": {
+                "name": "Kelana Jaya LRT station",
+                "article": "https://en.wikipedia.org/wiki/Kelana_Jaya_LRT_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.0221389,
+                    6.11447222
+                ]
+            },
+            "properties": {
+                "name": "Pulau Libaran",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.79335,
+                    3.42368
+                ]
+            },
+            "properties": {
+                "name": "Genting Highlands",
+                "article": "https://en.wikipedia.org/wiki/Genting_Highlands"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.655,
+                    2.9225
+                ]
+            },
+            "properties": {
+                "name": "Cyberjaya",
+                "article": "https://en.wikipedia.org/wiki/Cyberjaya"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.26,
+                    5.37
+                ]
+            },
+            "properties": {
+                "name": "Penang Island",
+                "article": "https://en.wikipedia.org/wiki/Penang_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.238888888,
+                    5.4
+                ]
+            },
+            "properties": {
+                "name": "Penang Island",
+                "article": "https://en.wikipedia.org/wiki/Penang_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.88916667,
+                    7.26361111
+                ]
+            },
+            "properties": {
+                "name": "Balambangan Island",
+                "article": "https://en.wikipedia.org/wiki/Balambangan_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.695277777,
+                    3.147777777
+                ]
+            },
+            "properties": {
+                "name": "Kuala Lumpur",
+                "article": "https://en.wikipedia.org/wiki/Kuala_Lumpur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.833333333,
+                    6.883333333
+                ]
+            },
+            "properties": {
+                "name": "Kudat",
+                "article": "https://en.wikipedia.org/wiki/Kudat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.705833,
+                    3.14
+                ]
+            },
+            "properties": {
+                "name": "Hang Tuah station",
+                "article": "https://en.wikipedia.org/wiki/BBCC-Hang_Tuah_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.695277777,
+                    3.178333333
+                ]
+            },
+            "properties": {
+                "name": "Sentul LRT station",
+                "article": "https://en.wikipedia.org/wiki/Sentul_LRT_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.695278,
+                    3.185833
+                ]
+            },
+            "properties": {
+                "name": "Sentul Timur LRT station",
+                "article": "https://en.wikipedia.org/wiki/Sentul_Timur_LRT_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.695277777,
+                    3.173055555
+                ]
+            },
+            "properties": {
+                "name": "Titiwangsa station",
+                "article": "https://en.wikipedia.org/wiki/Titiwangsa_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.704444444,
+                    3.156111111
+                ]
+            },
+            "properties": {
+                "name": "Bukit Nanas Monorail station",
+                "article": "https://en.wikipedia.org/wiki/Bukit_Nanas_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.709167,
+                    3.142778
+                ]
+            },
+            "properties": {
+                "name": "Imbi Monorail station",
+                "article": "https://en.wikipedia.org/wiki/Imbi_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.710277777,
+                    3.150555555
+                ]
+            },
+            "properties": {
+                "name": "Raja Chulan Monorail station",
+                "article": "https://en.wikipedia.org/wiki/Raja_Chulan_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.698611111,
+                    3.159166666
+                ]
+            },
+            "properties": {
+                "name": "Medan Tuanku Monorail station",
+                "article": "https://en.wikipedia.org/wiki/Medan_Tuanku_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.711111,
+                    3.145833
+                ]
+            },
+            "properties": {
+                "name": "Bukit Bintang monorail station",
+                "article": "https://en.wikipedia.org/wiki/Bukit_Bintang_Monorail_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.0,
+                    -1.0
+                ]
+            },
+            "properties": {
+                "name": "Borneo",
+                "article": "https://en.wikipedia.org/wiki/Borneo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.698056,
+                    3.167222
+                ]
+            },
+            "properties": {
+                "name": "Chow Kit Monorail station",
+                "article": "https://en.wikipedia.org/wiki/Chow_Kit_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.558611111,
+                    6.075
+                ]
+            },
+            "properties": {
+                "name": "Mount Kinabalu",
+                "article": "https://en.wikipedia.org/wiki/Mount_Kinabalu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.251111111,
+                    2.188888888
+                ]
+            },
+            "properties": {
+                "name": "Malacca",
+                "article": "https://en.wikipedia.org/wiki/Malacca_City"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.3292,
+                    5.4145
+                ]
+            },
+            "properties": {
+                "name": "George Town",
+                "article": "https://en.wikipedia.org/wiki/George_Town,_Penang"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    117.89115,
+                    4.24482
+                ]
+            },
+            "properties": {
+                "name": "Tawau",
+                "article": "https://en.wikipedia.org/wiki/Tawau"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    117.88306,
+                    4.29806
+                ]
+            },
+            "properties": {
+                "name": "Tawau",
+                "article": "https://en.wikipedia.org/wiki/Tawau"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.333333333,
+                    4.3
+                ]
+            },
+            "properties": {
+                "name": "Bukit Pagon",
+                "article": "https://en.wikipedia.org/wiki/Pagon_Hill"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.31666667,
+                    4.18333333
+                ]
+            },
+            "properties": {
+                "name": "Marudi",
+                "article": "https://en.wikipedia.org/wiki/Marudi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.25,
+                    3.033330555
+                ]
+            },
+            "properties": {
+                "name": "Pulau Ketam",
+                "article": "https://en.wikipedia.org/wiki/Pulau_Ketam"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.283333333,
+                    4.116666666
+                ]
+            },
+            "properties": {
+                "name": "Bidor",
+                "article": "https://en.wikipedia.org/wiki/Bidor"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.733333333,
+                    4.85
+                ]
+            },
+            "properties": {
+                "name": "Taiping",
+                "article": "https://en.wikipedia.org/wiki/Taiping,_Perak"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.366388888,
+                    5.394166666
+                ]
+            },
+            "properties": {
+                "name": "Butterworth",
+                "article": "https://en.wikipedia.org/wiki/Butterworth,_Seberang_Perai"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.363888888,
+                    5.399166666
+                ]
+            },
+            "properties": {
+                "name": "Butterworth",
+                "article": "https://en.wikipedia.org/wiki/Butterworth,_Seberang_Perai"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.34,
+                    5.03
+                ]
+            },
+            "properties": {
+                "name": "Lahad Datu",
+                "article": "https://en.wikipedia.org/wiki/Lahad_Datu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.89,
+                    1.45
+                ]
+            },
+            "properties": {
+                "name": "Pasir Gudang",
+                "article": "https://en.wikipedia.org/wiki/Pasir_Gudang"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.475,
+                    4.64028
+                ]
+            },
+            "properties": {
+                "name": "Timbun Mata",
+                "article": "https://en.wikipedia.org/wiki/Timbun_Mata"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    111.816666666,
+                    2.3
+                ]
+            },
+            "properties": {
+                "name": "Sibu",
+                "article": "https://en.wikipedia.org/wiki/Sibu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.718611111,
+                    3.159722222
+                ]
+            },
+            "properties": {
+                "name": "Ampang Park LRT station",
+                "article": "https://en.wikipedia.org/wiki/Ampang_Park_LRT_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.71388889,
+                    3.15916667
+                ]
+            },
+            "properties": {
+                "name": "KLCC LRT station",
+                "article": "https://en.wikipedia.org/wiki/KLCC_LRT_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.731389,
+                    3.205556
+                ]
+            },
+            "properties": {
+                "name": "Wangsa Maju LRT station",
+                "article": "https://en.wikipedia.org/wiki/Wangsa_Maju_LRT_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.696111,
+                    3.149444
+                ]
+            },
+            "properties": {
+                "name": "Masjid Jamek LRT station",
+                "article": "https://en.wikipedia.org/wiki/Masjid_Jamek_LRT_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.706389,
+                    3.161111
+                ]
+            },
+            "properties": {
+                "name": "Kampung Baru LRT station",
+                "article": "https://en.wikipedia.org/wiki/Kampung_Baru_LRT_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.701667,
+                    3.156667
+                ]
+            },
+            "properties": {
+                "name": "Dang Wangi LRT station",
+                "article": "https://en.wikipedia.org/wiki/Dang_Wangi_LRT_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.637778,
+                    3.104167
+                ]
+            },
+            "properties": {
+                "name": "Asia Jaya LRT station",
+                "article": "https://en.wikipedia.org/wiki/Asia_Jaya_LRT_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.623055555,
+                    3.104444444
+                ]
+            },
+            "properties": {
+                "name": "Taman Paramount LRT station",
+                "article": "https://en.wikipedia.org/wiki/Taman_Paramount_LRT_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.695277777,
+                    3.1425
+                ]
+            },
+            "properties": {
+                "name": "Pasar Seni station",
+                "article": "https://en.wikipedia.org/wiki/Pasar_Seni_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.63333333,
+                    1.58333333
+                ]
+            },
+            "properties": {
+                "name": "Senai",
+                "article": "https://en.wikipedia.org/wiki/Senai"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.37,
+                    6.114722
+                ]
+            },
+            "properties": {
+                "name": "Alor Setar railway station",
+                "article": "https://en.wikipedia.org/wiki/Alor_Setar_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.405556,
+                    2.810278
+                ]
+            },
+            "properties": {
+                "name": "Bahau railway station",
+                "article": "https://en.wikipedia.org/wiki/Bahau_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.4899,
+                    5.6431
+                ]
+            },
+            "properties": {
+                "name": "Sungai Petani railway station",
+                "article": "https://en.wikipedia.org/wiki/Sungai_Petani_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.146667,
+                    5.806389
+                ]
+            },
+            "properties": {
+                "name": "Tanah Merah railway station",
+                "article": "https://en.wikipedia.org/wiki/Tanah_Merah_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.611944,
+                    2.58
+                ]
+            },
+            "properties": {
+                "name": "Gemas railway station",
+                "article": "https://en.wikipedia.org/wiki/Gemas_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.1425,
+                    6.042778
+                ]
+            },
+            "properties": {
+                "name": "Pasir Mas railway station",
+                "article": "https://en.wikipedia.org/wiki/Pasir_Mas_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.3205,
+                    6.6633
+                ]
+            },
+            "properties": {
+                "name": "Padang Besar railway station",
+                "article": "https://en.wikipedia.org/wiki/Padang_Besar_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.331666666,
+                    2.948888888
+                ]
+            },
+            "properties": {
+                "name": "Pulau Indah",
+                "article": "https://en.wikipedia.org/wiki/Pulau_Indah"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.265833333,
+                    5.422777777
+                ]
+            },
+            "properties": {
+                "name": "Penang Hill",
+                "article": "https://en.wikipedia.org/wiki/Penang_Hill"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.516666666,
+                    5.55
+                ]
+            },
+            "properties": {
+                "name": "Mount Trus Madi",
+                "article": "https://en.wikipedia.org/wiki/Mount_Trusmadi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.073333,
+                    4.597222
+                ]
+            },
+            "properties": {
+                "name": "Ipoh railway station",
+                "article": "https://en.wikipedia.org/wiki/Ipoh_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.5,
+                    2.816666666
+                ]
+            },
+            "properties": {
+                "name": "Banting",
+                "article": "https://en.wikipedia.org/wiki/Banting"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.55,
+                    2.27
+                ]
+            },
+            "properties": {
+                "name": "Tangkak",
+                "article": "https://en.wikipedia.org/wiki/Tangkak"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.319444444,
+                    2.033611111
+                ]
+            },
+            "properties": {
+                "name": "Kluang",
+                "article": "https://en.wikipedia.org/wiki/Kluang"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.75,
+                    7.05
+                ]
+            },
+            "properties": {
+                "name": "Kalampunian Island",
+                "article": "https://en.wikipedia.org/wiki/Kalampunian_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.4,
+                    4.7
+                ]
+            },
+            "properties": {
+                "name": "Batik Kulambu Island",
+                "article": "https://en.wikipedia.org/wiki/Batik_Kulambu_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.886111111,
+                    4.15
+                ]
+            },
+            "properties": {
+                "name": "Ligitan",
+                "article": "https://en.wikipedia.org/wiki/Ligitan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.31666667,
+                    4.8
+                ]
+            },
+            "properties": {
+                "name": "Bohayan Island",
+                "article": "https://en.wikipedia.org/wiki/Bohayan_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.160277777,
+                    5.337777777
+                ]
+            },
+            "properties": {
+                "name": "Keningau",
+                "article": "https://en.wikipedia.org/wiki/Keningau"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.160277777,
+                    5.337777777
+                ]
+            },
+            "properties": {
+                "name": "Keningau",
+                "article": "https://en.wikipedia.org/wiki/Keningau"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.0213,
+                    4.0259
+                ]
+            },
+            "properties": {
+                "name": "Teluk Intan",
+                "article": "https://en.wikipedia.org/wiki/Teluk_Intan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.383,
+                    4.8
+                ]
+            },
+            "properties": {
+                "name": "Tabawan Island",
+                "article": "https://en.wikipedia.org/wiki/Tabawan_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    117.91772,
+                    6.507
+                ]
+            },
+            "properties": {
+                "name": "Lankayan Island",
+                "article": "https://en.wikipedia.org/wiki/Lankayan_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    117.41666667,
+                    6.68333333
+                ]
+            },
+            "properties": {
+                "name": "Jambongan Island",
+                "article": "https://en.wikipedia.org/wiki/Jambongan_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.83,
+                    2.43
+                ]
+            },
+            "properties": {
+                "name": "Mersing",
+                "article": "https://en.wikipedia.org/wiki/Mersing"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    117.166666666,
+                    7.25
+                ]
+            },
+            "properties": {
+                "name": "Banggi Island",
+                "article": "https://en.wikipedia.org/wiki/Banggi_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.633,
+                    4.233
+                ]
+            },
+            "properties": {
+                "name": "Lumut",
+                "article": "https://en.wikipedia.org/wiki/Lumut,_Perak"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.555,
+                    4.22
+                ]
+            },
+            "properties": {
+                "name": "Pangkor Island",
+                "article": "https://en.wikipedia.org/wiki/Pangkor_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.13,
+                    4.60305556
+                ]
+            },
+            "properties": {
+                "name": "Gua Tambun",
+                "article": "https://en.wikipedia.org/wiki/Tambun_rock_art"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.92987,
+                    4.04553
+                ]
+            },
+            "properties": {
+                "name": "Mount Mulu",
+                "article": "https://en.wikipedia.org/wiki/Mount_Mulu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.933,
+                    4.05
+                ]
+            },
+            "properties": {
+                "name": "Mount Mulu",
+                "article": "https://en.wikipedia.org/wiki/Mount_Mulu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.683333333,
+                    4.216666666
+                ]
+            },
+            "properties": {
+                "name": "Kapalai",
+                "article": "https://en.wikipedia.org/wiki/Kapalai"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.035277777,
+                    6.018055555
+                ]
+            },
+            "properties": {
+                "name": "Pulau Gaya",
+                "article": "https://en.wikipedia.org/wiki/Gaya_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.649722222,
+                    5.721944444
+                ]
+            },
+            "properties": {
+                "name": "Pulau Tiga",
+                "article": "https://en.wikipedia.org/wiki/Tiga_Island,_Malaysia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    117.967,
+                    5.76667
+                ]
+            },
+            "properties": {
+                "name": "Timbang Island",
+                "article": "https://en.wikipedia.org/wiki/Timbang_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.345555555,
+                    4.329722222
+                ]
+            },
+            "properties": {
+                "name": "Kalumpang Island",
+                "article": "https://en.wikipedia.org/wiki/Kalumpang_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.3445,
+                    4.33231111
+                ]
+            },
+            "properties": {
+                "name": "Kalumpang Island",
+                "article": "https://en.wikipedia.org/wiki/Kalumpang_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.525,
+                    2.449166666
+                ]
+            },
+            "properties": {
+                "name": "Aur Island",
+                "article": "https://en.wikipedia.org/wiki/Aur_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.10488889,
+                    5.77619444
+                ]
+            },
+            "properties": {
+                "name": "Bai Island",
+                "article": "https://en.wikipedia.org/wiki/Bai_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.56666667,
+                    5.98333333
+                ]
+            },
+            "properties": {
+                "name": "Kundasang",
+                "article": "https://en.wikipedia.org/wiki/Kundasang"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.54,
+                    4.19083333
+                ]
+            },
+            "properties": {
+                "name": "Pangkor Laut Island",
+                "article": "https://en.wikipedia.org/wiki/Pangkor_Laut_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.56,
+                    2.05
+                ]
+            },
+            "properties": {
+                "name": "Muar",
+                "article": "https://en.wikipedia.org/wiki/Muar_(town)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.65805556,
+                    6.20861111
+                ]
+            },
+            "properties": {
+                "name": "Mount Tambuyukon",
+                "article": "https://en.wikipedia.org/wiki/Mount_Tambuyukon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.23333333,
+                    6.18333333
+                ]
+            },
+            "properties": {
+                "name": "Tuaran",
+                "article": "https://en.wikipedia.org/wiki/Tuaran"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.015,
+                    5.775
+                ]
+            },
+            "properties": {
+                "name": "Redang Island",
+                "article": "https://en.wikipedia.org/wiki/Redang_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.631113888,
+                    4.245958333
+                ]
+            },
+            "properties": {
+                "name": "Mabul Island",
+                "article": "https://en.wikipedia.org/wiki/Mabul_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.066666666,
+                    5.616666666
+                ]
+            },
+            "properties": {
+                "name": "Bidong Island",
+                "article": "https://en.wikipedia.org/wiki/Bidong_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.789,
+                    2.99306
+                ]
+            },
+            "properties": {
+                "name": "Kajang",
+                "article": "https://en.wikipedia.org/wiki/Kajang"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.516666666,
+                    1.516666666
+                ]
+            },
+            "properties": {
+                "name": "Pekan Nanas",
+                "article": "https://en.wikipedia.org/wiki/Pekan_Nanas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.5,
+                    5.12
+                ]
+            },
+            "properties": {
+                "name": "Parit Buntar",
+                "article": "https://en.wikipedia.org/wiki/Parit_Buntar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.781389,
+                    3.813889
+                ]
+            },
+            "properties": {
+                "name": "Niah National Park",
+                "article": "https://en.wikipedia.org/wiki/Niah_National_Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.271388888,
+                    5.215555555
+                ]
+            },
+            "properties": {
+                "name": "Kapas Island",
+                "article": "https://en.wikipedia.org/wiki/Kapas_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.45,
+                    4.71666667
+                ]
+            },
+            "properties": {
+                "name": "Batik Island",
+                "article": "https://en.wikipedia.org/wiki/Batik_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.55,
+                    4.54880556
+                ]
+            },
+            "properties": {
+                "name": "Bait Island",
+                "article": "https://en.wikipedia.org/wiki/Bait_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.78333333,
+                    4.6
+                ]
+            },
+            "properties": {
+                "name": "Boheydulang Island",
+                "article": "https://en.wikipedia.org/wiki/Boheydulang_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.991,
+                    5.68028
+                ]
+            },
+            "properties": {
+                "name": "Dinawan Island",
+                "article": "https://en.wikipedia.org/wiki/Dinawan_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.26416667,
+                    5.23277778
+                ]
+            },
+            "properties": {
+                "name": "Gemia Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    117.3,
+                    7.05
+                ]
+            },
+            "properties": {
+                "name": "Malawali Island",
+                "article": "https://en.wikipedia.org/wiki/Malawali_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.60694444,
+                    4.56055556
+                ]
+            },
+            "properties": {
+                "name": "Larapan Island",
+                "article": "https://en.wikipedia.org/wiki/Larapan_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.51861111,
+                    4.58416667
+                ]
+            },
+            "properties": {
+                "name": "Q2117738",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.75,
+                    4.41666667
+                ]
+            },
+            "properties": {
+                "name": "Omadal Island",
+                "article": "https://en.wikipedia.org/wiki/Omadal_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.33333333,
+                    4.96666667
+                ]
+            },
+            "properties": {
+                "name": "Sakar Island (Malaysia)",
+                "article": "https://en.wikipedia.org/wiki/Sakar_Island_(Malaysia)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.87222222,
+                    4.33055556
+                ]
+            },
+            "properties": {
+                "name": "Si Amil Island",
+                "article": "https://en.wikipedia.org/wiki/Si_Amil_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.57777778,
+                    4.57305556
+                ]
+            },
+            "properties": {
+                "name": "Silawa Island",
+                "article": "https://en.wikipedia.org/wiki/Silawa_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.117,
+                    5.46667
+                ]
+            },
+            "properties": {
+                "name": "Tambisan Island",
+                "article": "https://en.wikipedia.org/wiki/Tambisan_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    117.475,
+                    6.88861
+                ]
+            },
+            "properties": {
+                "name": "Tigabu Island",
+                "article": "https://en.wikipedia.org/wiki/Tigabu_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.466666666,
+                    3.316666666
+                ]
+            },
+            "properties": {
+                "name": "Batu Arang",
+                "article": "https://en.wikipedia.org/wiki/Batu_Arang"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.47,
+                    3.32
+                ]
+            },
+            "properties": {
+                "name": "Batu Arang",
+                "article": "https://en.wikipedia.org/wiki/Batu_Arang"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.466666666,
+                    5.363055555
+                ]
+            },
+            "properties": {
+                "name": "Bukit Mertajam",
+                "article": "https://en.wikipedia.org/wiki/Bukit_Mertajam"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.171111111,
+                    6.197777777
+                ]
+            },
+            "properties": {
+                "name": "Tumpat",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.166666666,
+                    6.2
+                ]
+            },
+            "properties": {
+                "name": "Tumpat",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.2,
+                    5.533333333
+                ]
+            },
+            "properties": {
+                "name": "Kuala Krai",
+                "article": "https://en.wikipedia.org/wiki/Kuala_Krai_(town)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.006666666,
+                    4.759166666
+                ]
+            },
+            "properties": {
+                "name": "Limbang",
+                "article": "https://en.wikipedia.org/wiki/Limbang"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    111.45,
+                    1.25
+                ]
+            },
+            "properties": {
+                "name": "Simanggang",
+                "article": "https://en.wikipedia.org/wiki/Simanggang"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.48,
+                    5.82
+                ]
+            },
+            "properties": {
+                "name": "Gurun",
+                "article": "https://en.wikipedia.org/wiki/Gurun,_Kedah"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.383333333,
+                    5.383333333
+                ]
+            },
+            "properties": {
+                "name": "Perai",
+                "article": "https://en.wikipedia.org/wiki/Perai"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.1,
+                    2.58333333
+                ]
+            },
+            "properties": {
+                "name": "Rembau",
+                "article": "https://en.wikipedia.org/wiki/Rembau_(town)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.666666666,
+                    2.05
+                ]
+            },
+            "properties": {
+                "name": "Bukit Bakri",
+                "article": "https://en.wikipedia.org/wiki/Bukit_Bakri"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.549722222,
+                    5.36
+                ]
+            },
+            "properties": {
+                "name": "Kulim",
+                "article": "https://en.wikipedia.org/wiki/Kulim"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.561666666,
+                    5.365
+                ]
+            },
+            "properties": {
+                "name": "Kulim",
+                "article": "https://en.wikipedia.org/wiki/Kulim"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    117.883333333,
+                    4.4
+                ]
+            },
+            "properties": {
+                "name": "Mount Bombalai",
+                "article": "https://en.wikipedia.org/wiki/Mount_Bombalai"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.26,
+                    4.2
+                ]
+            },
+            "properties": {
+                "name": "Tapah",
+                "article": "https://en.wikipedia.org/wiki/Tapah"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.888333333,
+                    2.691944444
+                ]
+            },
+            "properties": {
+                "name": "Q2669795",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.8884,
+                    2.692
+                ]
+            },
+            "properties": {
+                "name": "Q2669795",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.383,
+                    4.46667
+                ]
+            },
+            "properties": {
+                "name": "Tanah Rata",
+                "article": "https://en.wikipedia.org/wiki/Tanah_Rata"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.38333,
+                    4.46667
+                ]
+            },
+            "properties": {
+                "name": "Tanah Rata",
+                "article": "https://en.wikipedia.org/wiki/Tanah_Rata"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.06,
+                    2.01
+                ]
+            },
+            "properties": {
+                "name": "Yong Peng",
+                "article": "https://en.wikipedia.org/wiki/Yong_Peng"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.8,
+                    2.816666666
+                ]
+            },
+            "properties": {
+                "name": "Nilai",
+                "article": "https://en.wikipedia.org/wiki/Nilai"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    98.94083333,
+                    5.68055556
+                ]
+            },
+            "properties": {
+                "name": "Pulau Perak",
+                "article": "https://en.wikipedia.org/wiki/Perak_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.28,
+                    2.27
+                ]
+            },
+            "properties": {
+                "name": "Ayer Keroh",
+                "article": "https://en.wikipedia.org/wiki/Ayer_Keroh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.518056,
+                    3.931667
+                ]
+            },
+            "properties": {
+                "name": "Q2891898",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.93,
+                    1.85
+                ]
+            },
+            "properties": {
+                "name": "Batu Pahat",
+                "article": "https://en.wikipedia.org/wiki/Batu_Pahat_(town)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.9928,
+                    5.1289
+                ]
+            },
+            "properties": {
+                "name": "Bukit Jawa",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.693333,
+                    3.139444
+                ]
+            },
+            "properties": {
+                "name": "Kuala Lumpur railway station",
+                "article": "https://en.wikipedia.org/wiki/Kuala_Lumpur_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.690555555,
+                    3.131388888
+                ]
+            },
+            "properties": {
+                "name": "Tun Sambanthan Monorail station",
+                "article": "https://en.wikipedia.org/wiki/Tun_Sambanthan_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.698888888,
+                    3.138888888
+                ]
+            },
+            "properties": {
+                "name": "Maharajalela Monorail station",
+                "article": "https://en.wikipedia.org/wiki/Maharajalela_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.4143,
+                    5.7373
+                ]
+            },
+            "properties": {
+                "name": "Bujang Valley",
+                "article": "https://en.wikipedia.org/wiki/Bujang_Valley"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.226944,
+                    2.463333
+                ]
+            },
+            "properties": {
+                "name": "Pulau Sebang/Tampin railway station",
+                "article": "https://en.wikipedia.org/wiki/Pulau_Sebang/Tampin_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.633333333,
+                    4.45
+                ]
+            },
+            "properties": {
+                "name": "Pantai Remis",
+                "article": "https://en.wikipedia.org/wiki/Pantai_Remis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.916666666,
+                    3.433333333
+                ]
+            },
+            "properties": {
+                "name": "Chini Lake",
+                "article": "https://en.wikipedia.org/wiki/Chini_Lake"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.246327777,
+                    3.341688888
+                ]
+            },
+            "properties": {
+                "name": "Kuala Selangor",
+                "article": "https://en.wikipedia.org/wiki/Kuala_Selangor"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.15,
+                    1.41667
+                ]
+            },
+            "properties": {
+                "name": "Bau",
+                "article": "https://en.wikipedia.org/wiki/Bau,_Sarawak"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.04,
+                    6.062533333
+                ]
+            },
+            "properties": {
+                "name": "Pulau Payar",
+                "article": "https://en.wikipedia.org/wiki/Payar_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.972,
+                    5.06791
+                ]
+            },
+            "properties": {
+                "name": "Archaeological Heritage of the Lenggong Valley",
+                "article": "https://en.wikipedia.org/wiki/Archaeological_Heritage_of_the_Lenggong_Valley"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.333333333,
+                    2.583333333
+                ]
+            },
+            "properties": {
+                "name": "Pemanggil Island",
+                "article": "https://en.wikipedia.org/wiki/Pemanggil_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.966666666,
+                    5.1
+                ]
+            },
+            "properties": {
+                "name": "Lenggong",
+                "article": "https://en.wikipedia.org/wiki/Lenggong"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.55,
+                    1.53333
+                ]
+            },
+            "properties": {
+                "name": "Ulu Choh",
+                "article": "https://en.wikipedia.org/wiki/Ulu_Choh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.98333333,
+                    2.44166667
+                ]
+            },
+            "properties": {
+                "name": "Besar Island",
+                "article": "https://en.wikipedia.org/wiki/Besar_Island,_Johor"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.133333333,
+                    5.216666666
+                ]
+            },
+            "properties": {
+                "name": "Kuraman Island",
+                "article": "https://en.wikipedia.org/wiki/Kuraman_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.26666667,
+                    2.6
+                ]
+            },
+            "properties": {
+                "name": "Johol",
+                "article": "https://en.wikipedia.org/wiki/Johol"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.251111111,
+                    2.188888888
+                ]
+            },
+            "properties": {
+                "name": "Capture of Malacca",
+                "article": "https://en.wikipedia.org/wiki/Capture_of_Malacca_(1511)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.256,
+                    2.20569
+                ]
+            },
+            "properties": {
+                "name": "Capture of Malacca",
+                "article": "https://en.wikipedia.org/wiki/Capture_of_Malacca_(1511)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.5,
+                    5.75
+                ]
+            },
+            "properties": {
+                "name": "Jerteh",
+                "article": "https://en.wikipedia.org/wiki/Jerteh_(town)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.67094444,
+                    2.93152778
+                ]
+            },
+            "properties": {
+                "name": "Putrajaya Sentral, Putrajaya",
+                "article": "https://en.wikipedia.org/wiki/Putrajaya_Sentral"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.793,
+                    4.86228
+                ]
+            },
+            "properties": {
+                "name": "Larut Hill",
+                "article": "https://en.wikipedia.org/wiki/Bukit_Larut"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.975833333,
+                    2.520277777
+                ]
+            },
+            "properties": {
+                "name": "Rawa Island",
+                "article": "https://en.wikipedia.org/wiki/Rawa_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.681111,
+                    3.237778
+                ]
+            },
+            "properties": {
+                "name": "Batu Caves Komuter station",
+                "article": "https://en.wikipedia.org/wiki/Batu_Caves_Komuter_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.693333,
+                    3.166389
+                ]
+            },
+            "properties": {
+                "name": "PWTC LRT station",
+                "article": "https://en.wikipedia.org/wiki/PWTC_LRT_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.692778,
+                    3.154444
+                ]
+            },
+            "properties": {
+                "name": "Bank Negara Komuter station",
+                "article": "https://en.wikipedia.org/wiki/Bank_Negara_Komuter_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.366389,
+                    5.393333
+                ]
+            },
+            "properties": {
+                "name": "Butterworth railway station",
+                "article": "https://en.wikipedia.org/wiki/Butterworth_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.7049,
+                    2.75497
+                ]
+            },
+            "properties": {
+                "name": "Kuala Lumpur International Airport ERL station",
+                "article": "https://en.wikipedia.org/wiki/KLIA_T1_ERL_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.690833,
+                    3.165278
+                ]
+            },
+            "properties": {
+                "name": "Putra Komuter station",
+                "article": "https://en.wikipedia.org/wiki/Putra_Komuter_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.116666666,
+                    1.866666666
+                ]
+            },
+            "properties": {
+                "name": "Parit Raja",
+                "article": "https://en.wikipedia.org/wiki/Parit_Raja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.639530555,
+                    1.4775
+                ]
+            },
+            "properties": {
+                "name": "Iskandar Puteri",
+                "article": "https://en.wikipedia.org/wiki/Iskandar_Puteri"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.672777777,
+                    3.118611111
+                ]
+            },
+            "properties": {
+                "name": "Abdullah Hukum LRT station",
+                "article": "https://en.wikipedia.org/wiki/Abdullah_Hukum_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.76,
+                    3.150277777
+                ]
+            },
+            "properties": {
+                "name": "Ampang LRT station",
+                "article": "https://en.wikipedia.org/wiki/Ampang_LRT_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.673333,
+                    3.113056
+                ]
+            },
+            "properties": {
+                "name": "Angkasapuri Komuter station",
+                "article": "https://en.wikipedia.org/wiki/Angkasapuri_Komuter_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.2683,
+                    6.4319
+                ]
+            },
+            "properties": {
+                "name": "Arau railway station",
+                "article": "https://en.wikipedia.org/wiki/Arau_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.1795,
+                    1.91833333
+                ]
+            },
+            "properties": {
+                "name": "Ayer Hitam",
+                "article": "https://en.wikipedia.org/wiki/Ayer_Hitam"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.531944,
+                    5.018889
+                ]
+            },
+            "properties": {
+                "name": "Bagan Serai railway station",
+                "article": "https://en.wikipedia.org/wiki/Bagan_Serai_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.233,
+                    1.55
+                ]
+            },
+            "properties": {
+                "name": "Bandar Penawar",
+                "article": "https://en.wikipedia.org/wiki/Bandar_Penawar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.710556,
+                    3.076111
+                ]
+            },
+            "properties": {
+                "name": "Bandar Tasik Selatan station",
+                "article": "https://en.wikipedia.org/wiki/Bandar_Tasik_Selatan_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.712222,
+                    3.089722
+                ]
+            },
+            "properties": {
+                "name": "Bandar Tun Razak LRT station",
+                "article": "https://en.wikipedia.org/wiki/Bandar_Tun_Razak_LRT_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.694167,
+                    3.155556
+                ]
+            },
+            "properties": {
+                "name": "Bandaraya LRT station",
+                "article": "https://en.wikipedia.org/wiki/Bandaraya_LRT_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.33333333,
+                    5.55
+                ]
+            },
+            "properties": {
+                "name": "Banding Island",
+                "article": "https://en.wikipedia.org/wiki/Banding_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.786111,
+                    2.903889
+                ]
+            },
+            "properties": {
+                "name": "Bangi Komuter station",
+                "article": "https://en.wikipedia.org/wiki/Bangi_Komuter_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.67904,
+                    3.12749
+                ]
+            },
+            "properties": {
+                "name": "Bank Rakyat-Bangsar LRT station",
+                "article": "https://en.wikipedia.org/wiki/Bank_Rakyat-Bangsar_LRT_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.826667,
+                    2.83
+                ]
+            },
+            "properties": {
+                "name": "Batang Benar Komuter station",
+                "article": "https://en.wikipedia.org/wiki/Batang_Benar_Komuter_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.419167,
+                    2.475
+                ]
+            },
+            "properties": {
+                "name": "Batang Melaka railway station",
+                "article": "https://en.wikipedia.org/wiki/Batang_Melaka_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.655,
+                    3.4625
+                ]
+            },
+            "properties": {
+                "name": "Batang Kali",
+                "article": "https://en.wikipedia.org/wiki/Batang_Kali"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.638056,
+                    3.468333
+                ]
+            },
+            "properties": {
+                "name": "Batang Kali Komuter station",
+                "article": "https://en.wikipedia.org/wiki/Batang_Kali_Komuter_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.080166666,
+                    1.294138888
+                ]
+            },
+            "properties": {
+                "name": "Battle of Bau",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Bau"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.681166666,
+                    3.198083333
+                ]
+            },
+            "properties": {
+                "name": "Batu Kentonmen Komuter station",
+                "article": "https://en.wikipedia.org/wiki/Batu_Kentonmen_Komuter_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.717,
+                    2.58333
+                ]
+            },
+            "properties": {
+                "name": "Batu Anam",
+                "article": "https://en.wikipedia.org/wiki/Batu_Anam"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.043056,
+                    4.471111
+                ]
+            },
+            "properties": {
+                "name": "Batu Gajah railway station",
+                "article": "https://en.wikipedia.org/wiki/Batu_Gajah_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.4304555,
+                    5.2625962
+                ]
+            },
+            "properties": {
+                "name": "Batu Kawan",
+                "article": "https://en.wikipedia.org/wiki/Batu_Kawan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.267,
+                    5.28333
+                ]
+            },
+            "properties": {
+                "name": "Bayan Lepas",
+                "article": "https://en.wikipedia.org/wiki/Bayan_Lepas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.44954,
+                    3.745459
+                ]
+            },
+            "properties": {
+                "name": "Behrang railway station",
+                "article": "https://en.wikipedia.org/wiki/Behrang_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.13,
+                    2.295278
+                ]
+            },
+            "properties": {
+                "name": "Bekok railway station",
+                "article": "https://en.wikipedia.org/wiki/Bekok_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.42495,
+                    3.03394
+                ]
+            },
+            "properties": {
+                "name": "Teluk Gadong Komuter station",
+                "article": "https://en.wikipedia.org/wiki/Teluk_Gadong_Komuter_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.913055555,
+                    2.685277777
+                ]
+            },
+            "properties": {
+                "name": "Q4889091",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.416666666,
+                    3.816666666
+                ]
+            },
+            "properties": {
+                "name": "Bera Lake",
+                "article": "https://en.wikipedia.org/wiki/Bera_Lake"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.14448333,
+                    5.87022222
+                ]
+            },
+            "properties": {
+                "name": "Berhala Island",
+                "article": "https://en.wikipedia.org/wiki/Berhala_Island,_Sabah"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.78333333,
+                    4.5
+                ]
+            },
+            "properties": {
+                "name": "Beruas",
+                "article": "https://en.wikipedia.org/wiki/Beruas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.757833333,
+                    4.626416666
+                ]
+            },
+            "properties": {
+                "name": "Bodgaya Island",
+                "article": "https://en.wikipedia.org/wiki/Bodgaya_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.47036,
+                    3.0362
+                ]
+            },
+            "properties": {
+                "name": "Bukit Badak Komuter station",
+                "article": "https://en.wikipedia.org/wiki/Bukit_Badak_Komuter_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.4403,
+                    3.81114
+                ]
+            },
+            "properties": {
+                "name": "Bukit Batu Buli",
+                "article": "https://en.wikipedia.org/wiki/Batu_Buli_Hill"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.430675,
+                    3.830085
+                ]
+            },
+            "properties": {
+                "name": "Bukit Batu Buli",
+                "article": "https://en.wikipedia.org/wiki/Batu_Buli_Hill"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.383333333,
+                    3.866666666
+                ]
+            },
+            "properties": {
+                "name": "Bukit Batu Lawi",
+                "article": "https://en.wikipedia.org/wiki/Batu_Lawi_Hill"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.666666666,
+                    2.216666666
+                ]
+            },
+            "properties": {
+                "name": "Bukit Gambir",
+                "article": "https://en.wikipedia.org/wiki/Bukit_Gambir"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.691944444,
+                    3.058055555
+                ]
+            },
+            "properties": {
+                "name": "Bukit Jalil LRT station",
+                "article": "https://en.wikipedia.org/wiki/Bukit_Jalil_LRT_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.633333333,
+                    2.1
+                ]
+            },
+            "properties": {
+                "name": "Bukit Pasir",
+                "article": "https://en.wikipedia.org/wiki/Bukit_Pasir"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.756389,
+                    3.140556
+                ]
+            },
+            "properties": {
+                "name": "Cahaya LRT station",
+                "article": "https://en.wikipedia.org/wiki/Cahaya_LRT_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.366666666,
+                    2.866666666
+                ]
+            },
+            "properties": {
+                "name": "Carey Island",
+                "article": "https://en.wikipedia.org/wiki/Carey_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.23875,
+                    2.142694444
+                ]
+            },
+            "properties": {
+                "name": "Chamek railway station",
+                "article": "https://en.wikipedia.org/wiki/Chamek_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.715278,
+                    3.127778
+                ]
+            },
+            "properties": {
+                "name": "Chan Sow Lin station",
+                "article": "https://en.wikipedia.org/wiki/Chan_Sow_Lin_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.931711111,
+                    4.422583333
+                ]
+            },
+            "properties": {
+                "name": "Chegar Perah railway station",
+                "article": "https://en.wikipedia.org/wiki/Chegar_Perah_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.95,
+                    4.966666666
+                ]
+            },
+            "properties": {
+                "name": "Chenderoh Lake",
+                "article": "https://en.wikipedia.org/wiki/Chenderoh_Lake"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.483333333,
+                    5.333333333
+                ]
+            },
+            "properties": {
+                "name": "Cherok Tok Kun",
+                "article": "https://en.wikipedia.org/wiki/Cherok_Tok_Kun"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.116666666,
+                    4.066666666
+                ]
+            },
+            "properties": {
+                "name": "Chikus",
+                "article": "https://en.wikipedia.org/wiki/Chikus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.83963,
+                    3.400811
+                ]
+            },
+            "properties": {
+                "name": "Colmar Tropicale",
+                "article": "https://en.wikipedia.org/wiki/Colmar_Tropicale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.83964,
+                    3.400843
+                ]
+            },
+            "properties": {
+                "name": "Colmar Tropicale",
+                "article": "https://en.wikipedia.org/wiki/Colmar_Tropicale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.009944444,
+                    5.377111111
+                ]
+            },
+            "properties": {
+                "name": "Dabong railway station",
+                "article": "https://en.wikipedia.org/wiki/Dabong_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.724167,
+                    3.164444
+                ]
+            },
+            "properties": {
+                "name": "Damai LRT station",
+                "article": "https://en.wikipedia.org/wiki/Damai_LRT_station_(Malaysia)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.731666666,
+                    3.165
+                ]
+            },
+            "properties": {
+                "name": "Dato' Keramat LRT station",
+                "article": "https://en.wikipedia.org/wiki/Dato%27_Keramat_LRT_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.32166667,
+                    6.66055556
+                ]
+            },
+            "properties": {
+                "name": "Padang Besar",
+                "article": "https://en.wikipedia.org/wiki/Padang_Besar,_Malaysia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.268055555,
+                    1.540277777
+                ]
+            },
+            "properties": {
+                "name": "Desaru",
+                "article": "https://en.wikipedia.org/wiki/Desaru"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.5,
+                    8.116666666
+                ]
+            },
+            "properties": {
+                "name": "Investigator Shoal",
+                "article": "https://en.wikipedia.org/wiki/Investigator_Shoal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.1246,
+                    5.3329
+                ]
+            },
+            "properties": {
+                "name": "Duyong Island",
+                "article": "https://en.wikipedia.org/wiki/Duyong_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.616666666,
+                    2.65
+                ]
+            },
+            "properties": {
+                "name": "Endau",
+                "article": "https://en.wikipedia.org/wiki/Endau"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.5899353,
+                    1.4491332
+                ]
+            },
+            "properties": {
+                "name": "Gelang Patah",
+                "article": "https://en.wikipedia.org/wiki/Gelang_Patah"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.23706,
+                    6.13156
+                ]
+            },
+            "properties": {
+                "name": "Istana Jahar",
+                "article": "https://en.wikipedia.org/wiki/Istana_Jahar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.65651,
+                    3.08349
+                ]
+            },
+            "properties": {
+                "name": "Jalan Templer Komuter station",
+                "article": "https://en.wikipedia.org/wiki/Jalan_Templer_Komuter_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.669722,
+                    3.095
+                ]
+            },
+            "properties": {
+                "name": "Petaling Komuter station",
+                "article": "https://en.wikipedia.org/wiki/Petaling_Komuter_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.432222,
+                    3.040833
+                ]
+            },
+            "properties": {
+                "name": "Teluk Pulai Komuter station",
+                "article": "https://en.wikipedia.org/wiki/Teluk_Pulai_Komuter_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.664167,
+                    3.186389
+                ]
+            },
+            "properties": {
+                "name": "Segambut Komuter station",
+                "article": "https://en.wikipedia.org/wiki/Segambut_Komuter_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.787778,
+                    2.939444
+                ]
+            },
+            "properties": {
+                "name": "UKM Komuter station",
+                "article": "https://en.wikipedia.org/wiki/UKM_Komuter_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.640006,
+                    3.553007
+                ]
+            },
+            "properties": {
+                "name": "Kuala Kubu Bharu railway station",
+                "article": "https://en.wikipedia.org/wiki/Kuala_Kubu_Bharu_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.66805556,
+                    3.11527778
+                ]
+            },
+            "properties": {
+                "name": "Kerinchi LRT station",
+                "article": "https://en.wikipedia.org/wiki/Kerinchi_LRT_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.799444,
+                    2.802222
+                ]
+            },
+            "properties": {
+                "name": "Nilai Komuter station",
+                "article": "https://en.wikipedia.org/wiki/Nilai_Komuter_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.575278,
+                    3.318889
+                ]
+            },
+            "properties": {
+                "name": "Rawang railway station",
+                "article": "https://en.wikipedia.org/wiki/Rawang_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.580278,
+                    3.206389
+                ]
+            },
+            "properties": {
+                "name": "Sungai Buloh station",
+                "article": "https://en.wikipedia.org/wiki/Sungai_Buloh_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.790278,
+                    2.982778
+                ]
+            },
+            "properties": {
+                "name": "Kajang railway station",
+                "article": "https://en.wikipedia.org/wiki/Kajang_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.525556,
+                    3.056389
+                ]
+            },
+            "properties": {
+                "name": "Shah Alam Komuter station",
+                "article": "https://en.wikipedia.org/wiki/Shah_Alam_Komuter_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.628333,
+                    3.208611
+                ]
+            },
+            "properties": {
+                "name": "Kepong Sentral station",
+                "article": "https://en.wikipedia.org/wiki/Kepong_Sentral_Komuter_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.611111,
+                    3.083056
+                ]
+            },
+            "properties": {
+                "name": "Setia Jaya station",
+                "article": "https://en.wikipedia.org/wiki/Setia_Jaya_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.826667,
+                    2.753889
+                ]
+            },
+            "properties": {
+                "name": "Labu Komuter station",
+                "article": "https://en.wikipedia.org/wiki/Labu_Komuter_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.6375,
+                    3.202778
+                ]
+            },
+            "properties": {
+                "name": "Kepong Komuter station",
+                "article": "https://en.wikipedia.org/wiki/Kepong_Komuter_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.662,
+                    3.11444
+                ]
+            },
+            "properties": {
+                "name": "KL Gateway–Universiti LRT station",
+                "article": "https://en.wikipedia.org/wiki/Universiti_LRT_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.45,
+                    3.043056
+                ]
+            },
+            "properties": {
+                "name": "Klang Komuter station",
+                "article": "https://en.wikipedia.org/wiki/Klang_Komuter_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.764722,
+                    1.4625
+                ]
+            },
+            "properties": {
+                "name": "Johor Bahru Sentral station",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.764722222,
+                    1.4625
+                ]
+            },
+            "properties": {
+                "name": "Johor Bahru Sentral station",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.701389,
+                    3.144444
+                ]
+            },
+            "properties": {
+                "name": "Plaza Rakyat LRT station",
+                "article": "https://en.wikipedia.org/wiki/Plaza_Rakyat_LRT_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.678611,
+                    3.118333
+                ]
+            },
+            "properties": {
+                "name": "Mid Valley Komuter station",
+                "article": "https://en.wikipedia.org/wiki/Mid_Valley_Komuter_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.693889,
+                    3.161111
+                ]
+            },
+            "properties": {
+                "name": "Sultan Ismail LRT station",
+                "article": "https://en.wikipedia.org/wiki/Sultan_Ismail_LRT_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.711667,
+                    3.134722
+                ]
+            },
+            "properties": {
+                "name": "Pudu LRT station",
+                "article": "https://en.wikipedia.org/wiki/Pudu_LRT_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.5,
+                    5.2
+                ]
+            },
+            "properties": {
+                "name": "Jawi",
+                "article": "https://en.wikipedia.org/wiki/Jawi,_Penang"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.7353,
+                    3.1673
+                ]
+            },
+            "properties": {
+                "name": "Jelatek LRT station",
+                "article": "https://en.wikipedia.org/wiki/Jelatek_LRT_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.153611,
+                    4.302778
+                ]
+            },
+            "properties": {
+                "name": "Kampar railway station",
+                "article": "https://en.wikipedia.org/wiki/Kampar_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.675556,
+                    3.204722
+                ]
+            },
+            "properties": {
+                "name": "Kampung Batu station",
+                "article": "https://en.wikipedia.org/wiki/Kampung_Batu_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.632222,
+                    3.084444
+                ]
+            },
+            "properties": {
+                "name": "Kampung Dato Harun Komuter station",
+                "article": "https://en.wikipedia.org/wiki/Kampung_Dato_Harun_Komuter_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.410278,
+                    3.020278
+                ]
+            },
+            "properties": {
+                "name": "Kampung Raja Uda Komuter station",
+                "article": "https://en.wikipedia.org/wiki/Kampung_Raja_Uda_Komuter_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.602055555,
+                    13.102888888
+                ]
+            },
+            "properties": {
+                "name": "Kelana Jaya",
+                "article": "https://en.wikipedia.org/wiki/Kelana_Jaya"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.370278,
+                    3.135278
+                ]
+            },
+            "properties": {
+                "name": "Kemayan railway station",
+                "article": "https://en.wikipedia.org/wiki/Kemayan_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.721389,
+                    1.535833
+                ]
+            },
+            "properties": {
+                "name": "Kempas Baru railway station",
+                "article": "https://en.wikipedia.org/wiki/Kempas_Baru_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.63891667,
+                    3.21422222
+                ]
+            },
+            "properties": {
+                "name": "Kepong",
+                "article": "https://en.wikipedia.org/wiki/Kepong"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.199347222,
+                    4.116991666
+                ]
+            },
+            "properties": {
+                "name": "Kerambit railway station",
+                "article": "https://en.wikipedia.org/wiki/Kerambit_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.337024,
+                    5.414438
+                ]
+            },
+            "properties": {
+                "name": "Khoo Kongsi",
+                "article": "https://en.wikipedia.org/wiki/Khoo_Kongsi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.3175,
+                    2.033611
+                ]
+            },
+            "properties": {
+                "name": "Kluang railway station",
+                "article": "https://en.wikipedia.org/wiki/Kluang_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.721389,
+                    1.535833
+                ]
+            },
+            "properties": {
+                "name": "Kempas Baru railway station",
+                "article": "https://en.wikipedia.org/wiki/Kempas_Baru_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.63891667,
+                    3.21422222
+                ]
+            },
+            "properties": {
+                "name": "Kepong",
+                "article": "https://en.wikipedia.org/wiki/Kepong"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.199347222,
+                    4.116991666
+                ]
+            },
+            "properties": {
+                "name": "Kerambit railway station",
+                "article": "https://en.wikipedia.org/wiki/Kerambit_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.153611,
+                    4.302778
+                ]
+            },
+            "properties": {
+                "name": "Kampar railway station",
+                "article": "https://en.wikipedia.org/wiki/Kampar_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.675556,
+                    3.204722
+                ]
+            },
+            "properties": {
+                "name": "Kampung Batu station",
+                "article": "https://en.wikipedia.org/wiki/Kampung_Batu_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.632222,
+                    3.084444
+                ]
+            },
+            "properties": {
+                "name": "Kampung Dato Harun Komuter station",
+                "article": "https://en.wikipedia.org/wiki/Kampung_Dato_Harun_Komuter_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.410278,
+                    3.020278
+                ]
+            },
+            "properties": {
+                "name": "Kampung Raja Uda Komuter station",
+                "article": "https://en.wikipedia.org/wiki/Kampung_Raja_Uda_Komuter_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.337024,
+                    5.414438
+                ]
+            },
+            "properties": {
+                "name": "Khoo Kongsi",
+                "article": "https://en.wikipedia.org/wiki/Khoo_Kongsi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.3175,
+                    2.033611
+                ]
+            },
+            "properties": {
+                "name": "Kluang railway station",
+                "article": "https://en.wikipedia.org/wiki/Kluang_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.931667,
+                    4.776389
+                ]
+            },
+            "properties": {
+                "name": "Kuala Kangsar railway station",
+                "article": "https://en.wikipedia.org/wiki/Kuala_Kangsar_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.053056,
+                    4.186944
+                ]
+            },
+            "properties": {
+                "name": "Kuala Lipis railway station",
+                "article": "https://en.wikipedia.org/wiki/Kuala_Lipis_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.6710999,
+                    3.17695
+                ]
+            },
+            "properties": {
+                "name": "Kuala Lumpur Courts Complex",
+                "article": "https://en.wikipedia.org/wiki/Kuala_Lumpur_Courts_Complex"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.630833333,
+                    4.838055555
+                ]
+            },
+            "properties": {
+                "name": "Kuala Sepetang",
+                "article": "https://en.wikipedia.org/wiki/Kuala_Sepetang"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.555,
+                    3.258056
+                ]
+            },
+            "properties": {
+                "name": "Kuang Komuter station",
+                "article": "https://en.wikipedia.org/wiki/Kuang_Komuter_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.5981,
+                    1.6644
+                ]
+            },
+            "properties": {
+                "name": "Kulai railway station",
+                "article": "https://en.wikipedia.org/wiki/Kulai_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.02016,
+                    2.38328
+                ]
+            },
+            "properties": {
+                "name": "Labis Railway Station",
+                "article": "https://en.wikipedia.org/wiki/Labis_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.883333333,
+                    5.783333333
+                ]
+            },
+            "properties": {
+                "name": "Lang Tengah Island",
+                "article": "https://en.wikipedia.org/wiki/Lang_Tengah_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.4,
+                    4.833333333
+                ]
+            },
+            "properties": {
+                "name": "Lawas",
+                "article": "https://en.wikipedia.org/wiki/Lawas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.199444444,
+                    5.336111111
+                ]
+            },
+            "properties": {
+                "name": "Layang-Layangan",
+                "article": "https://en.wikipedia.org/wiki/Layang-Layangan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    109.85,
+                    1.66667
+                ]
+            },
+            "properties": {
+                "name": "Lundu",
+                "article": "https://en.wikipedia.org/wiki/Lundu,_Sarawak"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.3,
+                    2.268611111
+                ]
+            },
+            "properties": {
+                "name": "Malacca State Secretariat Building",
+                "article": "https://en.wikipedia.org/wiki/Seri_Negeri_complex"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.2516,
+                    2.1807
+                ]
+            },
+            "properties": {
+                "name": "Melaka Island",
+                "article": "https://en.wikipedia.org/wiki/Melaka_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.726961111,
+                    3.123261111
+                ]
+            },
+            "properties": {
+                "name": "Maluri station",
+                "article": "https://en.wikipedia.org/wiki/Maluri_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.233333333,
+                    5.383333333
+                ]
+            },
+            "properties": {
+                "name": "Manek Urai",
+                "article": "https://en.wikipedia.org/wiki/Manek_Urai"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.334332,
+                    1.97573
+                ]
+            },
+            "properties": {
+                "name": "Mengkibol railway station",
+                "article": "https://en.wikipedia.org/wiki/Mengkibol_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.4203073,
+                    3.3311733
+                ]
+            },
+            "properties": {
+                "name": "Mengkarak railway station",
+                "article": "https://en.wikipedia.org/wiki/Mengkarak_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.002778,
+                    4.693056
+                ]
+            },
+            "properties": {
+                "name": "Merapoh railway station",
+                "article": "https://en.wikipedia.org/wiki/Merapoh_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.7175,
+                    3.120833
+                ]
+            },
+            "properties": {
+                "name": "Miharja LRT station",
+                "article": "https://en.wikipedia.org/wiki/Miharja_LRT_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.971185,
+                    4.375074
+                ]
+            },
+            "properties": {
+                "name": "Miri Marriott Resort & Spa",
+                "article": "https://en.wikipedia.org/wiki/Miri_Marriott_Resort_%26_Spa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.940527777,
+                    1.814444444
+                ]
+            },
+            "properties": {
+                "name": "Mount Banang",
+                "article": "https://en.wikipedia.org/wiki/Mount_Banang"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.38919444,
+                    4.50063889
+                ]
+            },
+            "properties": {
+                "name": "Mount Batu Brinchang",
+                "article": "https://en.wikipedia.org/wiki/Mount_Batu_Brinchang"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.561638888,
+                    2.045166666
+                ]
+            },
+            "properties": {
+                "name": "Mount Belumut",
+                "article": "https://en.wikipedia.org/wiki/Mount_Belumut"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.918333333,
+                    4.146111111
+                ]
+            },
+            "properties": {
+                "name": "Mount Benarat",
+                "article": "https://en.wikipedia.org/wiki/Mount_Benarat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.86611111,
+                    5.42944444
+                ]
+            },
+            "properties": {
+                "name": "Mount Bintang",
+                "article": "https://en.wikipedia.org/wiki/Mount_Bintang"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.573447222,
+                    5.228705555
+                ]
+            },
+            "properties": {
+                "name": "Mount Chamah",
+                "article": "https://en.wikipedia.org/wiki/Mount_Chamah"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    117.683333,
+                    4.95
+                ]
+            },
+            "properties": {
+                "name": "Mount Danum",
+                "article": "https://en.wikipedia.org/wiki/Mount_Danum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.317222222,
+                    4.681666666
+                ]
+            },
+            "properties": {
+                "name": "Mount Gayong",
+                "article": "https://en.wikipedia.org/wiki/Mount_Gayong"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.36583333,
+                    4.52944444
+                ]
+            },
+            "properties": {
+                "name": "Mount Irau",
+                "article": "https://en.wikipedia.org/wiki/Mount_Irau"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.433888888,
+                    5.7875
+                ]
+            },
+            "properties": {
+                "name": "Mount Jerai",
+                "article": "https://en.wikipedia.org/wiki/Mount_Jerai"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.3,
+                    4.683333333
+                ]
+            },
+            "properties": {
+                "name": "Mount Korbu",
+                "article": "https://en.wikipedia.org/wiki/Mount_Korbu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.35,
+                    2.03333333
+                ]
+            },
+            "properties": {
+                "name": "Mount Lambak",
+                "article": "https://en.wikipedia.org/wiki/Mount_Lambak"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.9,
+                    3.26667
+                ]
+            },
+            "properties": {
+                "name": "Mount Nuang",
+                "article": "https://en.wikipedia.org/wiki/Mount_Nuang"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    109.683333333,
+                    1.8
+                ]
+            },
+            "properties": {
+                "name": "Mount Pueh",
+                "article": "https://en.wikipedia.org/wiki/Mount_Pueh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.55,
+                    1.6
+                ]
+            },
+            "properties": {
+                "name": "Mount Pulai",
+                "article": "https://en.wikipedia.org/wiki/Mount_Pulai"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.333333333,
+                    1.733333333
+                ]
+            },
+            "properties": {
+                "name": "Mount Santubong",
+                "article": "https://en.wikipedia.org/wiki/Mount_Santubong"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.611417,
+                    3.1559303
+                ]
+            },
+            "properties": {
+                "name": "Mutiara Damansara",
+                "article": "https://en.wikipedia.org/wiki/Mutiara_Damansara"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    111.874736,
+                    2.856089
+                ]
+            },
+            "properties": {
+                "name": "Oya",
+                "article": "https://en.wikipedia.org/wiki/Oya,_Malaysia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.857220691,
+                    4.777904762
+                ]
+            },
+            "properties": {
+                "name": "Padang Rengas railway station",
+                "article": "https://en.wikipedia.org/wiki/Padang_Rengas_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.98883,
+                    4.23372
+                ]
+            },
+            "properties": {
+                "name": "Padang Tengku railway station",
+                "article": "https://en.wikipedia.org/wiki/Padang_Tengku_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.85,
+                    2.85
+                ]
+            },
+            "properties": {
+                "name": "Pajam",
+                "article": "https://en.wikipedia.org/wiki/Pajam"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.6837933,
+                    2.917055
+                ]
+            },
+            "properties": {
+                "name": "Palace of Justice",
+                "article": "https://en.wikipedia.org/wiki/Palace_of_Justice,_Putrajaya"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.194167,
+                    2.186944
+                ]
+            },
+            "properties": {
+                "name": "Paloh railway station",
+                "article": "https://en.wikipedia.org/wiki/Paloh_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.7,
+                    2.16666667
+                ]
+            },
+            "properties": {
+                "name": "Panchor",
+                "article": "https://en.wikipedia.org/wiki/Panchor"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.746389,
+                    3.134444
+                ]
+            },
+            "properties": {
+                "name": "Pandan Indah LRT station",
+                "article": "https://en.wikipedia.org/wiki/Pandan_Indah_LRT_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.738611,
+                    3.13
+                ]
+            },
+            "properties": {
+                "name": "Pandan Jaya LRT station",
+                "article": "https://en.wikipedia.org/wiki/Pandan_Jaya_LRT_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.486667,
+                    5.128611
+                ]
+            },
+            "properties": {
+                "name": "Parit Buntar railway station",
+                "article": "https://en.wikipedia.org/wiki/Parit_Buntar_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.87833333,
+                    1.98166667
+                ]
+            },
+            "properties": {
+                "name": "Parit Sulong",
+                "article": "https://en.wikipedia.org/wiki/Parit_Sulong"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.0208779,
+                    1.9272492
+                ]
+            },
+            "properties": {
+                "name": "Parit Yaani",
+                "article": "https://en.wikipedia.org/wiki/Parit_Yaani"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.81295,
+                    6.247108333
+                ]
+            },
+            "properties": {
+                "name": "Pedu Lake",
+                "article": "https://en.wikipedia.org/wiki/Pedu_Lake"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.365381,
+                    5.394712
+                ]
+            },
+            "properties": {
+                "name": "Penang Sentral",
+                "article": "https://en.wikipedia.org/wiki/Penang_Sentral"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.116666666,
+                    1.366666666
+                ]
+            },
+            "properties": {
+                "name": "Pengerang",
+                "article": "https://en.wikipedia.org/wiki/Pengerang"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.254722222,
+                    1.4675
+                ]
+            },
+            "properties": {
+                "name": "Pisang Island",
+                "article": "https://en.wikipedia.org/wiki/Pulau_Pisang_(Johor)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.255,
+                    1.4675
+                ]
+            },
+            "properties": {
+                "name": "Pisang Island",
+                "article": "https://en.wikipedia.org/wiki/Pulau_Pisang_(Johor)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.8647,
+                    4.596
+                ]
+            },
+            "properties": {
+                "name": "Pom Pom Island",
+                "article": "https://en.wikipedia.org/wiki/Pom_Pom_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.33333333,
+                    5.88333333
+                ]
+            },
+            "properties": {
+                "name": "Pulau Bunting",
+                "article": "https://en.wikipedia.org/wiki/Bunting_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.183633333,
+                    5.314466666
+                ]
+            },
+            "properties": {
+                "name": "Pulau Betong",
+                "article": "https://en.wikipedia.org/wiki/Betong_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.327175,
+                    2.10855556
+                ]
+            },
+            "properties": {
+                "name": "Besar Island",
+                "article": "https://en.wikipedia.org/wiki/Besar_Island,_Malacca"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.94444444,
+                    2.55944444
+                ]
+            },
+            "properties": {
+                "name": "Harimau Island",
+                "article": "https://en.wikipedia.org/wiki/Harimau_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.183333333,
+                    5.216666666
+                ]
+            },
+            "properties": {
+                "name": "Kendi Island",
+                "article": "https://en.wikipedia.org/wiki/Kendi_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.383333333,
+                    5.283333333
+                ]
+            },
+            "properties": {
+                "name": "Pulau Gedung",
+                "article": "https://en.wikipedia.org/wiki/Gedung_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.427194444,
+                    1.321111111
+                ]
+            },
+            "properties": {
+                "name": "Kukup Island",
+                "article": "https://en.wikipedia.org/wiki/Kukup_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.0,
+                    5.96666667
+                ]
+            },
+            "properties": {
+                "name": "Pulau Manukan",
+                "article": "https://en.wikipedia.org/wiki/Manukan_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.95972222,
+                    2.55111111
+                ]
+            },
+            "properties": {
+                "name": "Mensirip Island",
+                "article": "https://en.wikipedia.org/wiki/Mensirip_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.3,
+                    3.0
+                ]
+            },
+            "properties": {
+                "name": "Pulau Klang",
+                "article": "https://en.wikipedia.org/wiki/Klang_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.2725,
+                    5.2475
+                ]
+            },
+            "properties": {
+                "name": "Pulau Rimau",
+                "article": "https://en.wikipedia.org/wiki/Rimau_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.57555556,
+                    2.99605556
+                ]
+            },
+            "properties": {
+                "name": "Putra Heights LRT station",
+                "article": "https://en.wikipedia.org/wiki/Putra_Heights_LRT_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.689111111,
+                    2.941941666
+                ]
+            },
+            "properties": {
+                "name": "Putrajaya Lake",
+                "article": "https://en.wikipedia.org/wiki/Putrajaya_Lake"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.975833,
+                    6.02
+                ]
+            },
+            "properties": {
+                "name": "Rantau Panjang railway station",
+                "article": "https://en.wikipedia.org/wiki/Rantau_Panjang_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.3665,
+                    6.121
+                ]
+            },
+            "properties": {
+                "name": "Balai Nobat",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.21583333,
+                    5.76083333
+                ]
+            },
+            "properties": {
+                "name": "Machang",
+                "article": "https://en.wikipedia.org/wiki/Machang_(town)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.094562,
+                    2.593032
+                ]
+            },
+            "properties": {
+                "name": "Rembau railway station",
+                "article": "https://en.wikipedia.org/wiki/Rembau_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.4,
+                    1.883333333
+                ]
+            },
+            "properties": {
+                "name": "Renggam",
+                "article": "https://en.wikipedia.org/wiki/Renggam"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.403325,
+                    1.884877
+                ]
+            },
+            "properties": {
+                "name": "Renggam railway station",
+                "article": "https://en.wikipedia.org/wiki/Rengam_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.15,
+                    1.683333333
+                ]
+            },
+            "properties": {
+                "name": "Rengit",
+                "article": "https://en.wikipedia.org/wiki/Rengit"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.21,
+                    2.38314
+                ]
+            },
+            "properties": {
+                "name": "Alor Gajah Square",
+                "article": "https://en.wikipedia.org/wiki/Alor_Gajah_Square"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.249,
+                    2.19372
+                ]
+            },
+            "properties": {
+                "name": "Gallery of Admiral Cheng Ho",
+                "article": "https://en.wikipedia.org/wiki/Gallery_of_Admiral_Cheng_Ho"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.25,
+                    2.19161
+                ]
+            },
+            "properties": {
+                "name": "Malacca Art Gallery",
+                "article": "https://en.wikipedia.org/wiki/Malacca_Art_Gallery"
+            }
+        }
+    ]
+}

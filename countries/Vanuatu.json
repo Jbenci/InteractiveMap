@@ -1,0 +1,6375 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.416666666,
+                    -17.666666666
+                ]
+            },
+            "properties": {
+                "name": "Efate",
+                "article": "https://en.wikipedia.org/wiki/Efate"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.583333333,
+                    -17.083333333
+                ]
+            },
+            "properties": {
+                "name": "Emae",
+                "article": "https://en.wikipedia.org/wiki/Emae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.231388888,
+                    -16.7225
+                ]
+            },
+            "properties": {
+                "name": "Epi",
+                "article": "https://en.wikipedia.org/wiki/Epi_(island)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.9,
+                    -15.416666666
+                ]
+            },
+            "properties": {
+                "name": "Espiritu Santo",
+                "article": "https://en.wikipedia.org/wiki/Espiritu_Santo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.333333333,
+                    -19.5
+                ]
+            },
+            "properties": {
+                "name": "Tanna",
+                "article": "https://en.wikipedia.org/wiki/Tanna_(island)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.833333333,
+                    -15.4
+                ]
+            },
+            "properties": {
+                "name": "Aoba Island",
+                "article": "https://en.wikipedia.org/wiki/Ambae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.833333333,
+                    -15.4
+                ]
+            },
+            "properties": {
+                "name": "Aoba Island",
+                "article": "https://en.wikipedia.org/wiki/Ambae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.116666666,
+                    -16.25
+                ]
+            },
+            "properties": {
+                "name": "Ambrym",
+                "article": "https://en.wikipedia.org/wiki/Ambrym"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.116666666,
+                    -16.25
+                ]
+            },
+            "properties": {
+                "name": "Ambrym",
+                "article": "https://en.wikipedia.org/wiki/Ambrym"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.816666666,
+                    -20.2
+                ]
+            },
+            "properties": {
+                "name": "Aneityum",
+                "article": "https://en.wikipedia.org/wiki/Aneityum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.533333333,
+                    -14.283333333
+                ]
+            },
+            "properties": {
+                "name": "Lake Letas",
+                "article": "https://en.wikipedia.org/wiki/Lake_Letas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    170.216666666,
+                    -19.533333333
+                ]
+            },
+            "properties": {
+                "name": "Futuna Island",
+                "article": "https://en.wikipedia.org/wiki/Futuna_Island,_Vanuatu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.6,
+                    -19.25
+                ]
+            },
+            "properties": {
+                "name": "Aniwa Island",
+                "article": "https://en.wikipedia.org/wiki/Aniwa_(island)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.52,
+                    -14.265
+                ]
+            },
+            "properties": {
+                "name": "Gaua",
+                "article": "https://en.wikipedia.org/wiki/Gaua"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.5,
+                    -16.25
+                ]
+            },
+            "properties": {
+                "name": "Malakula",
+                "article": "https://en.wikipedia.org/wiki/Malakula"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.833333333,
+                    -16.5
+                ]
+            },
+            "properties": {
+                "name": "Malakula",
+                "article": "https://en.wikipedia.org/wiki/Malakula"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.420833333,
+                    -16.106944444
+                ]
+            },
+            "properties": {
+                "name": "Lakatoro",
+                "article": "https://en.wikipedia.org/wiki/Lakatoro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.642913888,
+                    -13.259175
+                ]
+            },
+            "properties": {
+                "name": "Vot Tande",
+                "article": "https://en.wikipedia.org/wiki/Vot_Tande"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.066666666,
+                    -18.8
+                ]
+            },
+            "properties": {
+                "name": "Erromango",
+                "article": "https://en.wikipedia.org/wiki/Erromango"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.183333333,
+                    -15.75
+                ]
+            },
+            "properties": {
+                "name": "Pentecost Island",
+                "article": "https://en.wikipedia.org/wiki/Pentecost_(island)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.21416667,
+                    -17.63138889
+                ]
+            },
+            "properties": {
+                "name": "Mangaas",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.953,
+                    -15.632
+                ]
+            },
+            "properties": {
+                "name": "Araki Island",
+                "article": "https://en.wikipedia.org/wiki/Araki_(island)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.166666666,
+                    -15.583333333
+                ]
+            },
+            "properties": {
+                "name": "Aore Island Resort",
+                "article": "https://en.wikipedia.org/wiki/Aore"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.283333333,
+                    -17.566666666
+                ]
+            },
+            "properties": {
+                "name": "Moso",
+                "article": "https://en.wikipedia.org/wiki/Moso_(island)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.76667,
+                    -20.25
+                ]
+            },
+            "properties": {
+                "name": "Inyeug",
+                "article": "https://en.wikipedia.org/wiki/Inyeug"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.77117222,
+                    -20.24918889
+                ]
+            },
+            "properties": {
+                "name": "Inyeug",
+                "article": "https://en.wikipedia.org/wiki/Inyeug"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.517,
+                    -14.2839
+                ]
+            },
+            "properties": {
+                "name": "Mount Gharat",
+                "article": "https://en.wikipedia.org/wiki/Mount_Gharat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.516388888,
+                    -14.283055555
+                ]
+            },
+            "properties": {
+                "name": "Mount Gharat",
+                "article": "https://en.wikipedia.org/wiki/Mount_Gharat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.693805555,
+                    -13.843333333
+                ]
+            },
+            "properties": {
+                "name": "Mota",
+                "article": "https://en.wikipedia.org/wiki/Mota_(island)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.603611111,
+                    -13.208055555
+                ]
+            },
+            "properties": {
+                "name": "Metoma",
+                "article": "https://en.wikipedia.org/wiki/Metoma"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.038291666,
+                    -14.463936111
+                ]
+            },
+            "properties": {
+                "name": "Merelava",
+                "article": "https://en.wikipedia.org/wiki/Merelava"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.15277778,
+                    -17.64444444
+                ]
+            },
+            "properties": {
+                "name": "Eretoka",
+                "article": "https://en.wikipedia.org/wiki/Eretoka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.116666666,
+                    -15.133333333
+                ]
+            },
+            "properties": {
+                "name": "Maewo",
+                "article": "https://en.wikipedia.org/wiki/Maewo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.466666666,
+                    -13.8
+                ]
+            },
+            "properties": {
+                "name": "Vanua Lava",
+                "article": "https://en.wikipedia.org/wiki/Vanua_Lava"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.846111111,
+                    -15.406944444
+                ]
+            },
+            "properties": {
+                "name": "Lombenben",
+                "article": "https://en.wikipedia.org/wiki/Manaro_Voui"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.75,
+                    -15.35
+                ]
+            },
+            "properties": {
+                "name": "Mount Tabwemasana",
+                "article": "https://en.wikipedia.org/wiki/Mount_Tabwemasana"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.8,
+                    -14.316666666
+                ]
+            },
+            "properties": {
+                "name": "Merig",
+                "article": "https://en.wikipedia.org/wiki/Merig"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.629,
+                    -13.716
+                ]
+            },
+            "properties": {
+                "name": "Ra",
+                "article": "https://en.wikipedia.org/wiki/Ra_(island)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.566666666,
+                    -13.133333333
+                ]
+            },
+            "properties": {
+                "name": "Hiw Island",
+                "article": "https://en.wikipedia.org/wiki/Hiw_(island)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.166666666,
+                    -15.683333333
+                ]
+            },
+            "properties": {
+                "name": "Malo Island",
+                "article": "https://en.wikipedia.org/wiki/Malo_(island)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.333333333,
+                    -13.533333333
+                ]
+            },
+            "properties": {
+                "name": "Ureparapara",
+                "article": "https://en.wikipedia.org/wiki/Ureparapara"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.68,
+                    -13.665
+                ]
+            },
+            "properties": {
+                "name": "Mota Lava",
+                "article": "https://en.wikipedia.org/wiki/Mota_Lava"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.216666666,
+                    -16.466666666
+                ]
+            },
+            "properties": {
+                "name": "Paama",
+                "article": "https://en.wikipedia.org/wiki/Paama"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.21667,
+                    -17.6
+                ]
+            },
+            "properties": {
+                "name": "Lelepa",
+                "article": "https://en.wikipedia.org/wiki/Lelepa_(island)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.21222222,
+                    -17.59833333
+                ]
+            },
+            "properties": {
+                "name": "Lelepa",
+                "article": "https://en.wikipedia.org/wiki/Lelepa_(island)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.63324,
+                    -13.32757
+                ]
+            },
+            "properties": {
+                "name": "Linua",
+                "article": "https://en.wikipedia.org/wiki/Linua"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.63194444,
+                    -13.32666667
+                ]
+            },
+            "properties": {
+                "name": "Linua",
+                "article": "https://en.wikipedia.org/wiki/Linua"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.63,
+                    -13.34
+                ]
+            },
+            "properties": {
+                "name": "Lo",
+                "article": "https://en.wikipedia.org/wiki/Lo_(island)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.916666666,
+                    -17.583333333
+                ]
+            },
+            "properties": {
+                "name": "Tongoa",
+                "article": "https://en.wikipedia.org/wiki/Tongoa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.55,
+                    -16.9
+                ]
+            },
+            "properties": {
+                "name": "Tongoa",
+                "article": "https://en.wikipedia.org/wiki/Tongoa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.68333,
+                    -13.43333
+                ]
+            },
+            "properties": {
+                "name": "Toga",
+                "article": "https://en.wikipedia.org/wiki/Toga_(island)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.133333333,
+                    -13.7
+                ]
+            },
+            "properties": {
+                "name": "Toga",
+                "article": "https://en.wikipedia.org/wiki/Toga_(island)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.5,
+                    -16.833333333
+                ]
+            },
+            "properties": {
+                "name": "Lopevi",
+                "article": "https://en.wikipedia.org/wiki/Lopevi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.5,
+                    -16.833333333
+                ]
+            },
+            "properties": {
+                "name": "Lopevi",
+                "article": "https://en.wikipedia.org/wiki/Lopevi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.983333333,
+                    -13.45
+                ]
+            },
+            "properties": {
+                "name": "Tegua",
+                "article": "https://en.wikipedia.org/wiki/Tegua"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.58616667,
+                    -13.25213056
+                ]
+            },
+            "properties": {
+                "name": "Ngwel Island",
+                "article": "https://en.wikipedia.org/wiki/Ngwel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.58702,
+                    -13.2501
+                ]
+            },
+            "properties": {
+                "name": "Ngwel Island",
+                "article": "https://en.wikipedia.org/wiki/Ngwel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.266666666,
+                    -19.533333333
+                ]
+            },
+            "properties": {
+                "name": "Lenakel",
+                "article": "https://en.wikipedia.org/wiki/Lenakel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.55,
+                    -17.75
+                ]
+            },
+            "properties": {
+                "name": "Nguna",
+                "article": "https://en.wikipedia.org/wiki/Nguna"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.23,
+                    -15.38
+                ]
+            },
+            "properties": {
+                "name": "Mavéa",
+                "article": "https://en.wikipedia.org/wiki/Mavia_(island)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.26345,
+                    -17.69639
+                ]
+            },
+            "properties": {
+                "name": "Mele",
+                "article": "https://en.wikipedia.org/wiki/Mele_(island)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.264,
+                    -17.6966
+                ]
+            },
+            "properties": {
+                "name": "Mele",
+                "article": "https://en.wikipedia.org/wiki/Mele_(island)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.27,
+                    -17.69
+                ]
+            },
+            "properties": {
+                "name": "Mele",
+                "article": "https://en.wikipedia.org/wiki/Mele_(island)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.316667,
+                    -17.73333
+                ]
+            },
+            "properties": {
+                "name": "Port Vila",
+                "article": "https://en.wikipedia.org/wiki/Port_Vila"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.794,
+                    -15.4635
+                ]
+            },
+            "properties": {
+                "name": "Q3382333",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.18327222,
+                    -15.62814167
+                ]
+            },
+            "properties": {
+                "name": "Asuleka",
+                "article": "https://en.wikipedia.org/wiki/Asuleka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.246,
+                    -15.591
+                ]
+            },
+            "properties": {
+                "name": "Bokissa",
+                "article": "https://en.wikipedia.org/wiki/Bokissa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.58333,
+                    -17.03333
+                ]
+            },
+            "properties": {
+                "name": "Buninga",
+                "article": "https://en.wikipedia.org/wiki/Buninga"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.587,
+                    -17.0225
+                ]
+            },
+            "properties": {
+                "name": "Buninga",
+                "article": "https://en.wikipedia.org/wiki/Buninga"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.566666666,
+                    -16.966666666
+                ]
+            },
+            "properties": {
+                "name": "Ewose",
+                "article": "https://en.wikipedia.org/wiki/Ewose"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.5805556,
+                    -16.95722222
+                ]
+            },
+            "properties": {
+                "name": "Ewose",
+                "article": "https://en.wikipedia.org/wiki/Ewose"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.6,
+                    -17.0
+                ]
+            },
+            "properties": {
+                "name": "Falea",
+                "article": "https://en.wikipedia.org/wiki/Falea_(island)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.508,
+                    -16.8614
+                ]
+            },
+            "properties": {
+                "name": "Fatumiala",
+                "article": "https://en.wikipedia.org/wiki/Fatumiala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.55,
+                    -16.833333333
+                ]
+            },
+            "properties": {
+                "name": "Laika",
+                "article": "https://en.wikipedia.org/wiki/Laika_(island)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.5833333,
+                    -16.95
+                ]
+            },
+            "properties": {
+                "name": "Laika",
+                "article": "https://en.wikipedia.org/wiki/Laika_(island)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.43333,
+                    -17.13333
+                ]
+            },
+            "properties": {
+                "name": "Makura",
+                "article": "https://en.wikipedia.org/wiki/Makura_(island)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.437777777,
+                    -17.135555555
+                ]
+            },
+            "properties": {
+                "name": "Makura",
+                "article": "https://en.wikipedia.org/wiki/Makura_(island)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.425,
+                    -17.25277778
+                ]
+            },
+            "properties": {
+                "name": "Mataso",
+                "article": "https://en.wikipedia.org/wiki/Mataso"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.42745,
+                    -17.2546
+                ]
+            },
+            "properties": {
+                "name": "Mataso",
+                "article": "https://en.wikipedia.org/wiki/Mataso"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.55,
+                    -13.78333
+                ]
+            },
+            "properties": {
+                "name": "Ravenga",
+                "article": "https://en.wikipedia.org/wiki/Ravenga"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.99133,
+                    -15.59278
+                ]
+            },
+            "properties": {
+                "name": "Tangoa Island",
+                "article": "https://en.wikipedia.org/wiki/Tangoa_(island)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.99,
+                    -15.59
+                ]
+            },
+            "properties": {
+                "name": "Tangoa Island",
+                "article": "https://en.wikipedia.org/wiki/Tangoa_(island)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.26667,
+                    -15.56667
+                ]
+            },
+            "properties": {
+                "name": "Tutuba Island",
+                "article": "https://en.wikipedia.org/wiki/Tutuba_(island)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.29,
+                    -15.56
+                ]
+            },
+            "properties": {
+                "name": "Tutuba Island",
+                "article": "https://en.wikipedia.org/wiki/Tutuba_(island)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.309516666,
+                    -17.745008333
+                ]
+            },
+            "properties": {
+                "name": "Iririki",
+                "article": "https://en.wikipedia.org/wiki/Iririki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.31025,
+                    -17.7446
+                ]
+            },
+            "properties": {
+                "name": "Iririki",
+                "article": "https://en.wikipedia.org/wiki/Iririki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.3925,
+                    -19.576388888
+                ]
+            },
+            "properties": {
+                "name": "Mount Tukosmera",
+                "article": "https://en.wikipedia.org/wiki/Mount_Tukosmera"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.59997222,
+                    -13.88327778
+                ]
+            },
+            "properties": {
+                "name": "Kwakéa",
+                "article": "https://en.wikipedia.org/wiki/Kwak%C3%A9a"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.562,
+                    -13.1611
+                ]
+            },
+            "properties": {
+                "name": "Mount Wonvara",
+                "article": "https://en.wikipedia.org/wiki/Mount_Wonvara"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.182,
+                    -15.613
+                ]
+            },
+            "properties": {
+                "name": "Ratua",
+                "article": "https://en.wikipedia.org/wiki/Ratua,_Vanuatu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.455,
+                    -16.5936
+                ]
+            },
+            "properties": {
+                "name": "Tomman Island",
+                "article": "https://en.wikipedia.org/wiki/Tomman"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.067281944,
+                    -18.698758611
+                ]
+            },
+            "properties": {
+                "name": "Q9333774",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.4004,
+                    -16.0654
+                ]
+            },
+            "properties": {
+                "name": "Norsup",
+                "article": "https://en.wikipedia.org/wiki/Norsup"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.4004,
+                    -16.0654
+                ]
+            },
+            "properties": {
+                "name": "Norsup",
+                "article": "https://en.wikipedia.org/wiki/Norsup"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.4,
+                    -17.51667
+                ]
+            },
+            "properties": {
+                "name": "Kakula Island",
+                "article": "https://en.wikipedia.org/wiki/Kakula_(island)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.4,
+                    -17.5
+                ]
+            },
+            "properties": {
+                "name": "Pele Island",
+                "article": "https://en.wikipedia.org/wiki/Pele_(island)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.40694444,
+                    -17.49305556
+                ]
+            },
+            "properties": {
+                "name": "Pele Island",
+                "article": "https://en.wikipedia.org/wiki/Pele_(island)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.832,
+                    -16.4167
+                ]
+            },
+            "properties": {
+                "name": "Lamap",
+                "article": "https://en.wikipedia.org/wiki/Lamap"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.483333333,
+                    -17.483333333
+                ]
+            },
+            "properties": {
+                "name": "Emao",
+                "article": "https://en.wikipedia.org/wiki/Emao"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.48,
+                    -17.48
+                ]
+            },
+            "properties": {
+                "name": "Emao",
+                "article": "https://en.wikipedia.org/wiki/Emao"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.0908,
+                    -18.8208
+                ]
+            },
+            "properties": {
+                "name": "Yarri",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.3233,
+                    -16.7242
+                ]
+            },
+            "properties": {
+                "name": "Mont Yapéto",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.433333333,
+                    -16.283333333
+                ]
+            },
+            "properties": {
+                "name": "Yang'abalé",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.033333333,
+                    -18.85
+                ]
+            },
+            "properties": {
+                "name": "Wowis",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.0725,
+                    -14.9425
+                ]
+            },
+            "properties": {
+                "name": "Wousitowona",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.6833,
+                    -15.3542
+                ]
+            },
+            "properties": {
+                "name": "Wounaroutsarsari",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.083333333,
+                    -18.716666666
+                ]
+            },
+            "properties": {
+                "name": "Wormous",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.616666666,
+                    -14.85
+                ]
+            },
+            "properties": {
+                "name": "Wokata",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.73,
+                    -15.32
+                ]
+            },
+            "properties": {
+                "name": "Wimbos",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.9233,
+                    -15.2742
+                ]
+            },
+            "properties": {
+                "name": "Wimbo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.483333333,
+                    -13.783333333
+                ]
+            },
+            "properties": {
+                "name": "Wensaoro",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.0408,
+                    -18.695
+                ]
+            },
+            "properties": {
+                "name": "Wantop",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.233333333,
+                    -18.75
+                ]
+            },
+            "properties": {
+                "name": "Wahous",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.066666666,
+                    -18.733333333
+                ]
+            },
+            "properties": {
+                "name": "Wablo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.6492,
+                    -15.085
+                ]
+            },
+            "properties": {
+                "name": "Voutpoposa",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.76,
+                    -15.41
+                ]
+            },
+            "properties": {
+                "name": "Voutnavouélé",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.57,
+                    -14.8158
+                ]
+            },
+            "properties": {
+                "name": "Voutmata",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.6692,
+                    -15.1358
+                ]
+            },
+            "properties": {
+                "name": "Voutlava",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.5867,
+                    -14.7783
+                ]
+            },
+            "properties": {
+                "name": "Voutlava",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.733333333,
+                    -15.416666666
+                ]
+            },
+            "properties": {
+                "name": "Voutilokwa",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.566666666,
+                    -14.783333333
+                ]
+            },
+            "properties": {
+                "name": "Voutaliou",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.155,
+                    -15.5008
+                ]
+            },
+            "properties": {
+                "name": "Vousanaomo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.5508,
+                    -16.3825
+                ]
+            },
+            "properties": {
+                "name": "Vindrémal",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.5875,
+                    -16.4267
+                ]
+            },
+            "properties": {
+                "name": "Viétambié",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.666666666,
+                    -13.666666666
+                ]
+            },
+            "properties": {
+                "name": "Vetman",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.4608,
+                    -13.9417
+                ]
+            },
+            "properties": {
+                "name": "Véréponn",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.316666666,
+                    -16.066666666
+                ]
+            },
+            "properties": {
+                "name": "Venimolo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.2525,
+                    -15.9283
+                ]
+            },
+            "properties": {
+                "name": "Venapougoï",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.866666666,
+                    -15.45
+                ]
+            },
+            "properties": {
+                "name": "Vatinosousou",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.85,
+                    -15.366666666
+                ]
+            },
+            "properties": {
+                "name": "Vataraïndin",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.4175,
+                    -16.2358
+                ]
+            },
+            "properties": {
+                "name": "Tuffel",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.616666666,
+                    -14.933333333
+                ]
+            },
+            "properties": {
+                "name": "Tsermala",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.6908,
+                    -15.2375
+                ]
+            },
+            "properties": {
+                "name": "Tsalénanapka",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.5,
+                    -13.866666666
+                ]
+            },
+            "properties": {
+                "name": "Tow Lav",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.4567,
+                    -13.8758
+                ]
+            },
+            "properties": {
+                "name": "Tovétam",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.645,
+                    -14.91
+                ]
+            },
+            "properties": {
+                "name": "Touvouvégal",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.3875,
+                    -19.5758
+                ]
+            },
+            "properties": {
+                "name": "Mount Tukuwasmera",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.5,
+                    -13.783333333
+                ]
+            },
+            "properties": {
+                "name": "Toovalava",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.4,
+                    -13.8
+                ]
+            },
+            "properties": {
+                "name": "Tooumiar",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.4508,
+                    -13.8283
+                ]
+            },
+            "properties": {
+                "name": "Towmarkon",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.48333,
+                    -13.88333
+                ]
+            },
+            "properties": {
+                "name": "Towlegséré",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.433333333,
+                    -13.85
+                ]
+            },
+            "properties": {
+                "name": "Tomérévrir",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.4167,
+                    -13.87
+                ]
+            },
+            "properties": {
+                "name": "Tow Vetrat",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.433333333,
+                    -16.15
+                ]
+            },
+            "properties": {
+                "name": "Tobouroum",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.266666666,
+                    -16.0
+                ]
+            },
+            "properties": {
+                "name": "Tobnassouk",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.333333333,
+                    -16.05
+                ]
+            },
+            "properties": {
+                "name": "Tling",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.40754,
+                    -17.04973
+                ]
+            },
+            "properties": {
+                "name": "Mont Maunga",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.0408,
+                    -15.3817
+                ]
+            },
+            "properties": {
+                "name": "Tiouri",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.1,
+                    -15.133333333
+                ]
+            },
+            "properties": {
+                "name": "Temblaréna",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.683333333,
+                    -13.666666666
+                ]
+            },
+            "properties": {
+                "name": "Telpeg",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.6517,
+                    -14.75
+                ]
+            },
+            "properties": {
+                "name": "Tékamounou",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.633333333,
+                    -14.866666666
+                ]
+            },
+            "properties": {
+                "name": "Téémas",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.1,
+                    -15.116666666
+                ]
+            },
+            "properties": {
+                "name": "Tawoutkararo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.6908,
+                    -13.8458
+                ]
+            },
+            "properties": {
+                "name": "Tawéalal",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.533333333,
+                    -16.933333333
+                ]
+            },
+            "properties": {
+                "name": "Tavalapa",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    170.2133,
+                    -19.5358
+                ]
+            },
+            "properties": {
+                "name": "Tatafou",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.333333333,
+                    -17.45
+                ]
+            },
+            "properties": {
+                "name": "Mount Taputoara",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.616666666,
+                    -14.9
+                ]
+            },
+            "properties": {
+                "name": "Tankékara",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.366666666,
+                    -17.583333333
+                ]
+            },
+            "properties": {
+                "name": "Tanguéléguélé",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.6225,
+                    -14.9467
+                ]
+            },
+            "properties": {
+                "name": "Tangétara",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.25,
+                    -19.45
+                ]
+            },
+            "properties": {
+                "name": "Tangen",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.9567,
+                    -15.3667
+                ]
+            },
+            "properties": {
+                "name": "Tanakar",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.42462,
+                    -17.24943
+                ]
+            },
+            "properties": {
+                "name": "Tamati Téou",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.366666666,
+                    -17.083333333
+                ]
+            },
+            "properties": {
+                "name": "Tavani Talimasa",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.783333333,
+                    -15.483333333
+                ]
+            },
+            "properties": {
+                "name": "Talapon",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.8475,
+                    -20.18
+                ]
+            },
+            "properties": {
+                "name": "Nézwon Taéingei",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.9417,
+                    -15.2017
+                ]
+            },
+            "properties": {
+                "name": "Mont de la Table",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.4658,
+                    -13.7867
+                ]
+            },
+            "properties": {
+                "name": "Séré'ama",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.683333333,
+                    -13.666666666
+                ]
+            },
+            "properties": {
+                "name": "Soiou",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.0675,
+                    -18.6983
+                ]
+            },
+            "properties": {
+                "name": "Santop",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.133333333,
+                    -15.233333333
+                ]
+            },
+            "properties": {
+                "name": "Sanavatari",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.3,
+                    -15.983333333
+                ]
+            },
+            "properties": {
+                "name": "Sanamba",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.2067,
+                    -18.855
+                ]
+            },
+            "properties": {
+                "name": "Rouvé",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.4392,
+                    -16.7958
+                ]
+            },
+            "properties": {
+                "name": "Tavani Rourou",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.866666666,
+                    -15.45
+                ]
+            },
+            "properties": {
+                "name": "Roborobo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.516666666,
+                    -16.216666666
+                ]
+            },
+            "properties": {
+                "name": "Rhamradinbar",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.416666666,
+                    -16.133333333
+                ]
+            },
+            "properties": {
+                "name": "Rétélimb",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.1383,
+                    -15.2492
+                ]
+            },
+            "properties": {
+                "name": "Réiré",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.5583,
+                    -16.2867
+                ]
+            },
+            "properties": {
+                "name": "Rarho",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.65,
+                    -15.116666666
+                ]
+            },
+            "properties": {
+                "name": "Raouli",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.216666666,
+                    -15.933333333
+                ]
+            },
+            "properties": {
+                "name": "Rantéré",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.235,
+                    -15.92
+                ]
+            },
+            "properties": {
+                "name": "Ranbouilisousou",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.666666666,
+                    -16.316666666
+                ]
+            },
+            "properties": {
+                "name": "Rabouihoro",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.6133,
+                    -14.7017
+                ]
+            },
+            "properties": {
+                "name": "Pwel Moul Moul",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.82,
+                    -15.2742
+                ]
+            },
+            "properties": {
+                "name": "Pwélivokévoké",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.5075,
+                    -13.8675
+                ]
+            },
+            "properties": {
+                "name": "Qotin'to",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.5508,
+                    -16.9183
+                ]
+            },
+            "properties": {
+                "name": "Tavani Poutoupoutou",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.1425,
+                    -15.3142
+                ]
+            },
+            "properties": {
+                "name": "Poutnamotou",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.3,
+                    -16.75
+                ]
+            },
+            "properties": {
+                "name": "Mont Pourmaliou",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.733333333,
+                    -16.433333333
+                ]
+            },
+            "properties": {
+                "name": "Pounéti",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.683333333,
+                    -15.366666666
+                ]
+            },
+            "properties": {
+                "name": "Pounanpioni",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.266666666,
+                    -16.05
+                ]
+            },
+            "properties": {
+                "name": "Potarnar",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.683333333,
+                    -14.966666666
+                ]
+            },
+            "properties": {
+                "name": "Porotsits",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.285,
+                    -16.7233
+                ]
+            },
+            "properties": {
+                "name": "Pomaré",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.6,
+                    -14.9
+                ]
+            },
+            "properties": {
+                "name": "Polémané",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.605,
+                    -14.8483
+                ]
+            },
+            "properties": {
+                "name": "Pétovouti",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.5192,
+                    -16.3317
+                ]
+            },
+            "properties": {
+                "name": "Pénot",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.6492,
+                    -15.1658
+                ]
+            },
+            "properties": {
+                "name": "Péapolé",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.783333333,
+                    -15.55
+                ]
+            },
+            "properties": {
+                "name": "Patouatawa",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.9933,
+                    -15.4975
+                ]
+            },
+            "properties": {
+                "name": "Patéliou",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.8975,
+                    -15.5167
+                ]
+            },
+            "properties": {
+                "name": "Patasoulé",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.7,
+                    -15.283333333
+                ]
+            },
+            "properties": {
+                "name": "Pararata",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.616666666,
+                    -16.4
+                ]
+            },
+            "properties": {
+                "name": "Parambouré",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.7975,
+                    -15.4667
+                ]
+            },
+            "properties": {
+                "name": "Paramavok",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.65,
+                    -14.933333333
+                ]
+            },
+            "properties": {
+                "name": "Pao",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.35,
+                    -17.083333333
+                ]
+            },
+            "properties": {
+                "name": "Tavani Panga",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.116666666,
+                    -18.816666666
+                ]
+            },
+            "properties": {
+                "name": "Ourouvés",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.6783,
+                    -15.1942
+                ]
+            },
+            "properties": {
+                "name": "Ourouna",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.7533,
+                    -15.495
+                ]
+            },
+            "properties": {
+                "name": "Ouromakala",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.2,
+                    -18.766666666
+                ]
+            },
+            "properties": {
+                "name": "Ourap",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.8,
+                    -20.183333333
+                ]
+            },
+            "properties": {
+                "name": "Ounoporapora",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.7867,
+                    -20.185
+                ]
+            },
+            "properties": {
+                "name": "Ounètchanytap",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.783333333,
+                    -15.366666666
+                ]
+            },
+            "properties": {
+                "name": "Latouba",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.1125,
+                    -15.1142
+                ]
+            },
+            "properties": {
+                "name": "Laralaramaté",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.7192,
+                    -16.4467
+                ]
+            },
+            "properties": {
+                "name": "Laourou",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.5933,
+                    -16.385
+                ]
+            },
+            "properties": {
+                "name": "Landroubourgamel",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.416666666,
+                    -16.4
+                ]
+            },
+            "properties": {
+                "name": "Lambla",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.3,
+                    -15.983333333
+                ]
+            },
+            "properties": {
+                "name": "Lalèp",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.533333333,
+                    -16.366666666
+                ]
+            },
+            "properties": {
+                "name": "Lahimbel",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.4392,
+                    -16.4208
+                ]
+            },
+            "properties": {
+                "name": "Laéroua",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.5308,
+                    -16.4658
+                ]
+            },
+            "properties": {
+                "name": "Labougga",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.165,
+                    -15.5675
+                ]
+            },
+            "properties": {
+                "name": "Labouaramouté",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.833333333,
+                    -15.383333333
+                ]
+            },
+            "properties": {
+                "name": "Labémaroua",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.4567,
+                    -16.2567
+                ]
+            },
+            "properties": {
+                "name": "Labarmas",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.316666666,
+                    -16.75
+                ]
+            },
+            "properties": {
+                "name": "Mont Koutali",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.266666666,
+                    -16.016666666
+                ]
+            },
+            "properties": {
+                "name": "Kopou",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.6425,
+                    -14.8542
+                ]
+            },
+            "properties": {
+                "name": "Koléakar",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.2808,
+                    -19.3983
+                ]
+            },
+            "properties": {
+                "name": "Kapielabama",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.583333333,
+                    -16.283333333
+                ]
+            },
+            "properties": {
+                "name": "Jononou",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.783333333,
+                    -20.183333333
+                ]
+            },
+            "properties": {
+                "name": "Mount Inrerow Atamein",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.216666666,
+                    -16.483333333
+                ]
+            },
+            "properties": {
+                "name": "Iétop",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.566666666,
+                    -16.9
+                ]
+            },
+            "properties": {
+                "name": "Tavani Hourrata",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.133333333,
+                    -18.8
+                ]
+            },
+            "properties": {
+                "name": "Hongraï",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.483333333,
+                    -16.2
+                ]
+            },
+            "properties": {
+                "name": "Honeram",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.49,
+                    -16.2
+                ]
+            },
+            "properties": {
+                "name": "Harbelbel",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.4,
+                    -16.116666666
+                ]
+            },
+            "properties": {
+                "name": "Hamélinks",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.4633,
+                    -13.9233
+                ]
+            },
+            "properties": {
+                "name": "Gérégon",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.4325,
+                    -16.135
+                ]
+            },
+            "properties": {
+                "name": "Gariroumroum",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.25,
+                    -15.95
+                ]
+            },
+            "properties": {
+                "name": "Fonbéta",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.016666666,
+                    -18.866666666
+                ]
+            },
+            "properties": {
+                "name": "Fedmogkoum",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.2,
+                    -15.883333333
+                ]
+            },
+            "properties": {
+                "name": "Fatmar",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.372222222,
+                    -17.555555555
+                ]
+            },
+            "properties": {
+                "name": "Mount Fatmalapa",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.2842,
+                    -16.0483
+                ]
+            },
+            "properties": {
+                "name": "Etmambok",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.266666666,
+                    -17.6
+                ]
+            },
+            "properties": {
+                "name": "Mont Erskine",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.7242,
+                    -15.2883
+                ]
+            },
+            "properties": {
+                "name": "Boutvatano",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.433333333,
+                    -17.616666666
+                ]
+            },
+            "properties": {
+                "name": "Mont Boutouet",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.4808,
+                    -13.7517
+                ]
+            },
+            "properties": {
+                "name": "Boulenmen",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.233333333,
+                    -15.916666666
+                ]
+            },
+            "properties": {
+                "name": "Bouilipsel",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.216666666,
+                    -15.916666666
+                ]
+            },
+            "properties": {
+                "name": "Bouilihas",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.7208,
+                    -14.995
+                ]
+            },
+            "properties": {
+                "name": "Boudiara",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.25,
+                    -16.033333333
+                ]
+            },
+            "properties": {
+                "name": "Bopnapenial",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.2175,
+                    -16.7442
+                ]
+            },
+            "properties": {
+                "name": "Mont Beutloa",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.2342,
+                    -16.0092
+                ]
+            },
+            "properties": {
+                "name": "Betlipmap",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.9,
+                    -15.45
+                ]
+            },
+            "properties": {
+                "name": "Batounsara",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.883333333,
+                    -15.45
+                ]
+            },
+            "properties": {
+                "name": "Batounloko",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.8642,
+                    -15.4325
+                ]
+            },
+            "properties": {
+                "name": "Batounlamévous",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.7683,
+                    -15.5325
+                ]
+            },
+            "properties": {
+                "name": "Batounilovoutsavira",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.216666666,
+                    -18.766666666
+                ]
+            },
+            "properties": {
+                "name": "Oulénou",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.766666666,
+                    -20.183333333
+                ]
+            },
+            "properties": {
+                "name": "Ougapnaerek",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.7542,
+                    -15.3192
+                ]
+            },
+            "properties": {
+                "name": "Ololanb",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.2767,
+                    -19.3575
+                ]
+            },
+            "properties": {
+                "name": "Noumon",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.5,
+                    -13.75
+                ]
+            },
+            "properties": {
+                "name": "Nosorlav",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.4342,
+                    -16.1617
+                ]
+            },
+            "properties": {
+                "name": "Noroum",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.333333333,
+                    -16.05
+                ]
+            },
+            "properties": {
+                "name": "Norhous",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.6892,
+                    -15.4033
+                ]
+            },
+            "properties": {
+                "name": "Nono",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.12796,
+                    -18.84785
+                ]
+            },
+            "properties": {
+                "name": "Nampun Umpan",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.1,
+                    -18.7
+                ]
+            },
+            "properties": {
+                "name": "Nipmihounpâl",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.816666666,
+                    -20.2
+                ]
+            },
+            "properties": {
+                "name": "Nézwon Nelgo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.833333333,
+                    -20.183333333
+                ]
+            },
+            "properties": {
+                "name": "Nézwon Négenarou",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.116666666,
+                    -15.15
+                ]
+            },
+            "properties": {
+                "name": "Ndouroundourou",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.333333333,
+                    -16.066666666
+                ]
+            },
+            "properties": {
+                "name": "N'Dagin",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.7,
+                    -15.283333333
+                ]
+            },
+            "properties": {
+                "name": "Natsoï",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.2275,
+                    -16.4817
+                ]
+            },
+            "properties": {
+                "name": "Natoumato",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.216666666,
+                    -16.1
+                ]
+            },
+            "properties": {
+                "name": "Narra",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.733333333,
+                    -15.466666666
+                ]
+            },
+            "properties": {
+                "name": "Napérou",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.816666666,
+                    -20.183333333
+                ]
+            },
+            "properties": {
+                "name": "Nézwon Naouripat",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.34,
+                    -17.4175
+                ]
+            },
+            "properties": {
+                "name": "Na Ora Matoua",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.565,
+                    -16.8892
+                ]
+            },
+            "properties": {
+                "name": "Naonéoné",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.083333333,
+                    -18.683333333
+                ]
+            },
+            "properties": {
+                "name": "Nanpounhoubloué",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.866666666,
+                    -20.2
+                ]
+            },
+            "properties": {
+                "name": "Nanawaréèz",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.2017,
+                    -16.0733
+                ]
+            },
+            "properties": {
+                "name": "Namou",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.233333333,
+                    -16.5
+                ]
+            },
+            "properties": {
+                "name": "Namosamos",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.633333333,
+                    -14.883333333
+                ]
+            },
+            "properties": {
+                "name": "Namoné",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.8133,
+                    -15.5167
+                ]
+            },
+            "properties": {
+                "name": "Nakilo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.9,
+                    -15.5
+                ]
+            },
+            "properties": {
+                "name": "Naïsi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.2492,
+                    -18.745
+                ]
+            },
+            "properties": {
+                "name": "Nagat, Vanuatu",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.483333333,
+                    -14.25
+                ]
+            },
+            "properties": {
+                "name": "Naen",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.6525,
+                    -14.8192
+                ]
+            },
+            "properties": {
+                "name": "Metantan",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.0825,
+                    -18.73
+                ]
+            },
+            "properties": {
+                "name": "Ménèl",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.0558,
+                    -18.8517
+                ]
+            },
+            "properties": {
+                "name": "Melkum",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.416666666,
+                    -19.6
+                ]
+            },
+            "properties": {
+                "name": "Mount Mareun",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.8,
+                    -15.466666666
+                ]
+            },
+            "properties": {
+                "name": "Matsimen",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.375,
+                    -17.6608
+                ]
+            },
+            "properties": {
+                "name": "Montagne Matéra",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.3325,
+                    -17.6492
+                ]
+            },
+            "properties": {
+                "name": "Montagne Matarakoum",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.733333333,
+                    -15.483333333
+                ]
+            },
+            "properties": {
+                "name": "Mataaïpi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.716666666,
+                    -15.45
+                ]
+            },
+            "properties": {
+                "name": "Mataabé",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.683333333,
+                    -15.333333333
+                ]
+            },
+            "properties": {
+                "name": "Maritakorkoro",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.35,
+                    -17.466666666
+                ]
+            },
+            "properties": {
+                "name": "Mount Marow",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.4,
+                    -16.25
+                ]
+            },
+            "properties": {
+                "name": "Maramwombok",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.1533,
+                    -15.7133
+                ]
+            },
+            "properties": {
+                "name": "Maourèp",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.25,
+                    -15.95
+                ]
+            },
+            "properties": {
+                "name": "Fonbéta",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.016666666,
+                    -18.866666666
+                ]
+            },
+            "properties": {
+                "name": "Fedmogkoum",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.2,
+                    -15.883333333
+                ]
+            },
+            "properties": {
+                "name": "Fatmar",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.372222222,
+                    -17.555555555
+                ]
+            },
+            "properties": {
+                "name": "Mount Fatmalapa",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.2842,
+                    -16.0483
+                ]
+            },
+            "properties": {
+                "name": "Etmambok",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.266666666,
+                    -17.6
+                ]
+            },
+            "properties": {
+                "name": "Mont Erskine",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.7242,
+                    -15.2883
+                ]
+            },
+            "properties": {
+                "name": "Boutvatano",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.433333333,
+                    -17.616666666
+                ]
+            },
+            "properties": {
+                "name": "Mont Boutouet",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.4808,
+                    -13.7517
+                ]
+            },
+            "properties": {
+                "name": "Boulenmen",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.233333333,
+                    -15.916666666
+                ]
+            },
+            "properties": {
+                "name": "Bouilipsel",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.216666666,
+                    -15.916666666
+                ]
+            },
+            "properties": {
+                "name": "Bouilihas",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.7208,
+                    -14.995
+                ]
+            },
+            "properties": {
+                "name": "Boudiara",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.25,
+                    -16.033333333
+                ]
+            },
+            "properties": {
+                "name": "Bopnapenial",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.2175,
+                    -16.7442
+                ]
+            },
+            "properties": {
+                "name": "Mont Beutloa",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.2342,
+                    -16.0092
+                ]
+            },
+            "properties": {
+                "name": "Betlipmap",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.9,
+                    -15.45
+                ]
+            },
+            "properties": {
+                "name": "Batounsara",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.883333333,
+                    -15.45
+                ]
+            },
+            "properties": {
+                "name": "Batounloko",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.8642,
+                    -15.4325
+                ]
+            },
+            "properties": {
+                "name": "Batounlamévous",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.7683,
+                    -15.5325
+                ]
+            },
+            "properties": {
+                "name": "Batounilovoutsavira",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.87,
+                    -15.48
+                ]
+            },
+            "properties": {
+                "name": "Batounéser",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.8333,
+                    -15.4808
+                ]
+            },
+            "properties": {
+                "name": "Batounbataoro",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.716666666,
+                    -15.5
+                ]
+            },
+            "properties": {
+                "name": "Batounasébou",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.833333333,
+                    -15.4
+                ]
+            },
+            "properties": {
+                "name": "Batounasébou",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.6842,
+                    -16.3342
+                ]
+            },
+            "properties": {
+                "name": "Batouantimble",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.7,
+                    -16.4
+                ]
+            },
+            "properties": {
+                "name": "Barbouar",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.6642,
+                    -16.4742
+                ]
+            },
+            "properties": {
+                "name": "Baraitova",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.3742,
+                    -17.5675
+                ]
+            },
+            "properties": {
+                "name": "Bald Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.433333333,
+                    -16.783333333
+                ]
+            },
+            "properties": {
+                "name": "Atasiwo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.2083,
+                    -16.6658
+                ]
+            },
+            "properties": {
+                "name": "Mont Arian",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.433333333,
+                    -16.266666666
+                ]
+            },
+            "properties": {
+                "name": "Aramanroum",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.766666666,
+                    -20.166666666
+                ]
+            },
+            "properties": {
+                "name": "Nézwon Aniopré",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.583333333,
+                    -16.9
+                ]
+            },
+            "properties": {
+                "name": "Tavani Akoma",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.8858,
+                    -15.5458
+                ]
+            },
+            "properties": {
+                "name": "Mont Ablot",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.285,
+                    -17.5942
+                ]
+            },
+            "properties": {
+                "name": "Mount P̄aopakoa",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.438888888,
+                    -17.616666666
+                ]
+            },
+            "properties": {
+                "name": "Mount Putuet",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.45,
+                    -13.95
+                ]
+            },
+            "properties": {
+                "name": "Ngéré Kwon",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.358333333,
+                    -17.083333333
+                ]
+            },
+            "properties": {
+                "name": "Maunga Repu",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.2033,
+                    -16.6375
+                ]
+            },
+            "properties": {
+                "name": "Mount Molasia",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.5,
+                    -16.25
+                ]
+            },
+            "properties": {
+                "name": "Mount Gillan",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.2157,
+                    -15.8283
+                ]
+            },
+            "properties": {
+                "name": "Mount Valmut",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.2433,
+                    -16.4525
+                ]
+            },
+            "properties": {
+                "name": "Bénoungeway",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.8675,
+                    -15.3367
+                ]
+            },
+            "properties": {
+                "name": "Wotéranboush",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.6883,
+                    -16.3875
+                ]
+            },
+            "properties": {
+                "name": "Batrier",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.33333,
+                    -15.95
+                ]
+            },
+            "properties": {
+                "name": "Atchin",
+                "article": "https://en.wikipedia.org/wiki/Atchin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.628055555,
+                    -13.730555555
+                ]
+            },
+            "properties": {
+                "name": "Aya Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.33056,
+                    -17.80556
+                ]
+            },
+            "properties": {
+                "name": "Ekapum Lep Island",
+                "article": "https://en.wikipedia.org/wiki/Ekapum_Lep"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.30909,
+                    -17.77546
+                ]
+            },
+            "properties": {
+                "name": "Erakor Island",
+                "article": "https://en.wikipedia.org/wiki/Erakor_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.33896,
+                    -17.79912
+                ]
+            },
+            "properties": {
+                "name": "Eratap Island",
+                "article": "https://en.wikipedia.org/wiki/Eratap"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.45,
+                    -17.81667
+                ]
+            },
+            "properties": {
+                "name": "Erueti Lep Island",
+                "article": "https://en.wikipedia.org/wiki/Erueti_Lep"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.283194444,
+                    -18.7
+                ]
+            },
+            "properties": {
+                "name": "Vete Manung",
+                "article": "https://en.wikipedia.org/wiki/Vete_Manung"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.25,
+                    -15.43333
+                ]
+            },
+            "properties": {
+                "name": "Haiite Island",
+                "article": "https://en.wikipedia.org/wiki/Aese"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.29543,
+                    -17.74805
+                ]
+            },
+            "properties": {
+                "name": "Ifira Island",
+                "article": "https://en.wikipedia.org/wiki/Ifira"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.23333,
+                    -15.3
+                ]
+            },
+            "properties": {
+                "name": "Lataroa",
+                "article": "https://en.wikipedia.org/wiki/Lataroa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.11667,
+                    -14.96667
+                ]
+            },
+            "properties": {
+                "name": "Lathi",
+                "article": "https://en.wikipedia.org/wiki/Sakao_(Sanma,_Vanuatu)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.13194444,
+                    -14.96055556
+                ]
+            },
+            "properties": {
+                "name": "Lathi",
+                "article": "https://en.wikipedia.org/wiki/Sakao_(Sanma,_Vanuatu)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.2,
+                    -15.366666666
+                ]
+            },
+            "properties": {
+                "name": "Malao Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.25,
+                    -15.71667
+                ]
+            },
+            "properties": {
+                "name": "Malotina",
+                "article": "https://en.wikipedia.org/wiki/Malotina"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.18333,
+                    -15.38333
+                ]
+            },
+            "properties": {
+                "name": "Malparavu Island",
+                "article": "https://en.wikipedia.org/wiki/Malparavu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.183333333,
+                    -15.363888888
+                ]
+            },
+            "properties": {
+                "name": "Malvanua Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.77284,
+                    -20.24831
+                ]
+            },
+            "properties": {
+                "name": "Mystery Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.36667,
+                    -16.83333
+                ]
+            },
+            "properties": {
+                "name": "Namuka",
+                "article": "https://en.wikipedia.org/wiki/Namuka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.38333,
+                    -15.98333
+                ]
+            },
+            "properties": {
+                "name": "Rano",
+                "article": "https://en.wikipedia.org/wiki/Rano_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.39273,
+                    -15.987002
+                ]
+            },
+            "properties": {
+                "name": "Rano",
+                "article": "https://en.wikipedia.org/wiki/Rano_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.53333,
+                    -13.6
+                ]
+            },
+            "properties": {
+                "name": "Rowa",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.81638889,
+                    -16.5
+                ]
+            },
+            "properties": {
+                "name": "Sakao",
+                "article": "https://en.wikipedia.org/wiki/Sakao_(Malampa,_Vanuatu)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.816666666,
+                    -16.5
+                ]
+            },
+            "properties": {
+                "name": "Sakao",
+                "article": "https://en.wikipedia.org/wiki/Sakao_(Malampa,_Vanuatu)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.093055555,
+                    -15.036111111
+                ]
+            },
+            "properties": {
+                "name": "Thion",
+                "article": "https://en.wikipedia.org/wiki/Thion_(Vanuatu)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.61667,
+                    -17.01667
+                ]
+            },
+            "properties": {
+                "name": "Tongariki",
+                "article": "https://en.wikipedia.org/wiki/Tongariki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.629,
+                    -17.0028
+                ]
+            },
+            "properties": {
+                "name": "Tongariki",
+                "article": "https://en.wikipedia.org/wiki/Tongariki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.45,
+                    -16.1
+                ]
+            },
+            "properties": {
+                "name": "Uri",
+                "article": "https://en.wikipedia.org/wiki/Uri_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.45,
+                    -16.08333
+                ]
+            },
+            "properties": {
+                "name": "Uripiv",
+                "article": "https://en.wikipedia.org/wiki/Uripiv"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.3,
+                    -15.9
+                ]
+            },
+            "properties": {
+                "name": "Vao",
+                "article": "https://en.wikipedia.org/wiki/Vao_(island)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.308031,
+                    -15.896951
+                ]
+            },
+            "properties": {
+                "name": "Vao",
+                "article": "https://en.wikipedia.org/wiki/Vao_(island)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.376944,
+                    -15.973092
+                ]
+            },
+            "properties": {
+                "name": "Wala",
+                "article": "https://en.wikipedia.org/wiki/Wala_(island)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.36667,
+                    -15.96667
+                ]
+            },
+            "properties": {
+                "name": "Wala",
+                "article": "https://en.wikipedia.org/wiki/Wala_(island)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.766666666,
+                    -16.55
+                ]
+            },
+            "properties": {
+                "name": "Awéi",
+                "article": "https://en.wikipedia.org/wiki/Awei_(Vanuatu)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.816666666,
+                    -16.533333333
+                ]
+            },
+            "properties": {
+                "name": "Khunévéo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.116666666,
+                    -15.1
+                ]
+            },
+            "properties": {
+                "name": "Lathü",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.2,
+                    -15.433333333
+                ]
+            },
+            "properties": {
+                "name": "Maltinérava Island",
+                "article": "https://en.wikipedia.org/wiki/Maltinerava"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.183333333,
+                    -15.366666666
+                ]
+            },
+            "properties": {
+                "name": "Malvapévu Island",
+                "article": "https://en.wikipedia.org/wiki/Malvapevu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.184722222,
+                    -15.380555555
+                ]
+            },
+            "properties": {
+                "name": "Malwépé Island",
+                "article": "https://en.wikipedia.org/wiki/Malwepe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.616666666,
+                    -13.883333333
+                ]
+            },
+            "properties": {
+                "name": "Ngéré Néwet",
+                "article": "https://en.wikipedia.org/wiki/Nawila"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.533333333,
+                    -16.816666666
+                ]
+            },
+            "properties": {
+                "name": "Téfala",
+                "article": "https://en.wikipedia.org/wiki/Tefala_(Vanuatu)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.016666666,
+                    -15.616666666
+                ]
+            },
+            "properties": {
+                "name": "Urélapa",
+                "article": "https://en.wikipedia.org/wiki/Urelapa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.233333333,
+                    -15.6
+                ]
+            },
+            "properties": {
+                "name": "Voïsa",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.783333333,
+                    -16.55
+                ]
+            },
+            "properties": {
+                "name": "Vulaï",
+                "article": "https://en.wikipedia.org/wiki/Vula%C3%AF"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.65,
+                    -16.516666666
+                ]
+            },
+            "properties": {
+                "name": "Île Akam",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.5252,
+                    -13.61088
+                ]
+            },
+            "properties": {
+                "name": "Anouit",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.525277777,
+                    -13.610833333
+                ]
+            },
+            "properties": {
+                "name": "Anouit",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.016666666,
+                    -15.6
+                ]
+            },
+            "properties": {
+                "name": "Île Carlo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.966666666,
+                    -15.616666666
+                ]
+            },
+            "properties": {
+                "name": "Île Elia",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.716666666,
+                    -16.516666666
+                ]
+            },
+            "properties": {
+                "name": "Île Faroun",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.683333333,
+                    -16.55
+                ]
+            },
+            "properties": {
+                "name": "Île Fido",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.833333333,
+                    -16.533333333
+                ]
+            },
+            "properties": {
+                "name": "Île Koivou",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.583333333,
+                    -16.516666666
+                ]
+            },
+            "properties": {
+                "name": "Île Lanour",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.383333333,
+                    -16.383333333
+                ]
+            },
+            "properties": {
+                "name": "Île Larambou",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.7,
+                    -16.533333333
+                ]
+            },
+            "properties": {
+                "name": "Île Limani",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.55,
+                    -13.9
+                ]
+            },
+            "properties": {
+                "name": "Île Luno",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.066666666,
+                    -15.066666666
+                ]
+            },
+            "properties": {
+                "name": "Île Malbwé",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.083333333,
+                    -15.083333333
+                ]
+            },
+            "properties": {
+                "name": "Île Malenvol",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.5252,
+                    -13.61088
+                ]
+            },
+            "properties": {
+                "name": "Anouit",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.525277777,
+                    -13.610833333
+                ]
+            },
+            "properties": {
+                "name": "Anouit",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.016666666,
+                    -15.6
+                ]
+            },
+            "properties": {
+                "name": "Île Carlo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.966666666,
+                    -15.616666666
+                ]
+            },
+            "properties": {
+                "name": "Île Elia",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.716666666,
+                    -16.516666666
+                ]
+            },
+            "properties": {
+                "name": "Île Faroun",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.683333333,
+                    -16.55
+                ]
+            },
+            "properties": {
+                "name": "Île Fido",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.833333333,
+                    -16.533333333
+                ]
+            },
+            "properties": {
+                "name": "Île Koivou",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.583333333,
+                    -16.516666666
+                ]
+            },
+            "properties": {
+                "name": "Île Lanour",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.383333333,
+                    -16.383333333
+                ]
+            },
+            "properties": {
+                "name": "Île Larambou",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.7,
+                    -16.533333333
+                ]
+            },
+            "properties": {
+                "name": "Île Limani",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.55,
+                    -13.9
+                ]
+            },
+            "properties": {
+                "name": "Île Luno",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.066666666,
+                    -15.066666666
+                ]
+            },
+            "properties": {
+                "name": "Île Malbwé",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.083333333,
+                    -15.083333333
+                ]
+            },
+            "properties": {
+                "name": "Île Malenvol",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.066666666,
+                    -14.983333333
+                ]
+            },
+            "properties": {
+                "name": "Île Malili",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.066666666,
+                    -15.066666666
+                ]
+            },
+            "properties": {
+                "name": "Île Malmas",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.066666666,
+                    -15.05
+                ]
+            },
+            "properties": {
+                "name": "Île Malnet",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.966666666,
+                    -15.583333333
+                ]
+            },
+            "properties": {
+                "name": "Île Maloka",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.183333333,
+                    -15.383333333
+                ]
+            },
+            "properties": {
+                "name": "Île Malon",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.586666666,
+                    -13.251388888
+                ]
+            },
+            "properties": {
+                "name": "Île Mel",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.533888888,
+                    -13.613333333
+                ]
+            },
+            "properties": {
+                "name": "Île Moïe",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.983333333,
+                    -15.05
+                ]
+            },
+            "properties": {
+                "name": "Île Ouré Ouré",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.9,
+                    -15.616666666
+                ]
+            },
+            "properties": {
+                "name": "Île Ouréouré",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.533333333,
+                    -13.916666666
+                ]
+            },
+            "properties": {
+                "name": "Île Pwotin'wol",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.183333333,
+                    -15.633333333
+                ]
+            },
+            "properties": {
+                "name": "Île Souchounlagré",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.016666666,
+                    -15.583333333
+                ]
+            },
+            "properties": {
+                "name": "Île Soyés",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.016666666,
+                    -15.6
+                ]
+            },
+            "properties": {
+                "name": "Île Tangis",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.9,
+                    -15.633333333
+                ]
+            },
+            "properties": {
+                "name": "Île Taviako",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.016666666,
+                    -15.616666666
+                ]
+            },
+            "properties": {
+                "name": "Île Toubana",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.033333333,
+                    -15.6
+                ]
+            },
+            "properties": {
+                "name": "Île Vénoui",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.53166,
+                    -13.60473
+                ]
+            },
+            "properties": {
+                "name": "Île Wosou",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.531666666,
+                    -13.604722222
+                ]
+            },
+            "properties": {
+                "name": "Île Wosou",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.133333333,
+                    -15.616666666
+                ]
+            },
+            "properties": {
+                "name": "Île Wékésa",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.766666666,
+                    -16.533333333
+                ]
+            },
+            "properties": {
+                "name": "Îlot Avok I",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.783333333,
+                    -16.533333333
+                ]
+            },
+            "properties": {
+                "name": "Îlot Avok II",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.783333333,
+                    -16.516666666
+                ]
+            },
+            "properties": {
+                "name": "Îlot Bagatelle",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.333333333,
+                    -17.8
+                ]
+            },
+            "properties": {
+                "name": "Îlot Kapouma",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.233333333,
+                    -15.683333333
+                ]
+            },
+            "properties": {
+                "name": "Malokilikili",
+                "article": "https://en.wikipedia.org/wiki/Malokilikili"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.616666666,
+                    -13.883333333
+                ]
+            },
+            "properties": {
+                "name": "Îlot Paknérénou",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.45,
+                    -16.116666666
+                ]
+            },
+            "properties": {
+                "name": "Îlot Souaro",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.45,
+                    -16.133333333
+                ]
+            },
+            "properties": {
+                "name": "Îlot Sowan",
+                "article": "https://en.wikipedia.org/wiki/Sowan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.433333333,
+                    -16.1
+                ]
+            },
+            "properties": {
+                "name": "Îlot Taïtaka",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.416666666,
+                    -16.5
+                ]
+            },
+            "properties": {
+                "name": "Îlot Ten Sticks",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.433333,
+                    -16.516667
+                ]
+            },
+            "properties": {
+                "name": "Arseo",
+                "article": "https://en.wikipedia.org/wiki/Arseo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.283333,
+                    -16.766667
+                ]
+            },
+            "properties": {
+                "name": "Avock",
+                "article": "https://en.wikipedia.org/wiki/Avock"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.463333333,
+                    -17.266944444
+                ]
+            },
+            "properties": {
+                "name": "Wot Island",
+                "article": "https://en.wikipedia.org/wiki/Wot_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.598,
+                    -13.879
+                ]
+            },
+            "properties": {
+                "name": "Leneu",
+                "article": "https://en.wikipedia.org/wiki/Leneu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.467,
+                    -17.814
+                ]
+            },
+            "properties": {
+                "name": "Iriwiti Lep",
+                "article": "https://en.wikipedia.org/wiki/Iriwiti_Lep"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.831,
+                    -16.524
+                ]
+            },
+            "properties": {
+                "name": "Uluveo",
+                "article": "https://en.wikipedia.org/wiki/Uluveo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.133,
+                    -14.9625
+                ]
+            },
+            "properties": {
+                "name": "Elephant Island",
+                "article": "https://en.wikipedia.org/wiki/Elephant_Island_(Vanuatu)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.2086,
+                    -15.3577
+                ]
+            },
+            "properties": {
+                "name": "Dany Island",
+                "article": "https://en.wikipedia.org/wiki/Dany_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.53377,
+                    -13.6132
+                ]
+            },
+            "properties": {
+                "name": "Lomeur",
+                "article": "https://en.wikipedia.org/wiki/Lomeur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.5221,
+                    -13.62525
+                ]
+            },
+            "properties": {
+                "name": "Watansa",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.50662,
+                    -13.59903
+                ]
+            },
+            "properties": {
+                "name": "Peten Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.830452777,
+                    15.390058333
+                ]
+            },
+            "properties": {
+                "name": "Q104972441",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.409722,
+                    -16.056944
+                ]
+            },
+            "properties": {
+                "name": "Q108714638",
+                "article": null
+            }
+        }
+    ]
+}

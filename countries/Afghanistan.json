@@ -1,0 +1,1965 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    67.116666666,
+                    36.7
+                ]
+            },
+            "properties": {
+                "name": "Mazar-i-Sharif",
+                "article": "https://en.wikipedia.org/wiki/Mazar-i-Sharif"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.423333333,
+                    33.549166666
+                ]
+            },
+            "properties": {
+                "name": "Ghazni",
+                "article": "https://en.wikipedia.org/wiki/Ghazni"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    66.898888888,
+                    36.758055555
+                ]
+            },
+            "properties": {
+                "name": "Balkh",
+                "article": "https://en.wikipedia.org/wiki/Balkh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.452777777,
+                    34.430277777
+                ]
+            },
+            "properties": {
+                "name": "Jalalabad",
+                "article": "https://en.wikipedia.org/wiki/Jalalabad"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    64.515888,
+                    34.396386
+                ]
+            },
+            "properties": {
+                "name": "Minaret of Jam",
+                "article": "https://en.wikipedia.org/wiki/Minaret_of_Jam"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    67.816666666,
+                    34.816666666
+                ]
+            },
+            "properties": {
+                "name": "Bamyan",
+                "article": "https://en.wikipedia.org/wiki/Bamyan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.725128,
+                    37.450332
+                ]
+            },
+            "properties": {
+                "name": "Zorkul",
+                "article": "https://en.wikipedia.org/wiki/Zorkul"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.848888888,
+                    34.659166666
+                ]
+            },
+            "properties": {
+                "name": "Uzbin Valley ambush",
+                "article": "https://en.wikipedia.org/wiki/Uzbin_Valley_ambush"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.828333333,
+                    36.431666666
+                ]
+            },
+            "properties": {
+                "name": "Noshaq",
+                "article": "https://en.wikipedia.org/wiki/Noshaq"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    66.0,
+                    32.13333333
+                ]
+            },
+            "properties": {
+                "name": "Battle of Firebase Anaconda",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Firebase_Anaconda"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    65.71666667,
+                    31.61666667
+                ]
+            },
+            "properties": {
+                "name": "Battle of Kandahar",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Kandahar_(1880)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.93333333,
+                    33.55
+                ]
+            },
+            "properties": {
+                "name": "Battle of Saragarhi",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Saragarhi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.7208,
+                    34.8958
+                ]
+            },
+            "properties": {
+                "name": "Battle of Alasay",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Alasay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.229722222,
+                    33.593055555
+                ]
+            },
+            "properties": {
+                "name": "Gardēz",
+                "article": "https://en.wikipedia.org/wiki/Gardez"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    61.86,
+                    30.96
+                ]
+            },
+            "properties": {
+                "name": "Zaranj",
+                "article": "https://en.wikipedia.org/wiki/Zaranj"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    64.371611111,
+                    31.593819444
+                ]
+            },
+            "properties": {
+                "name": "Lashkar Gah",
+                "article": "https://en.wikipedia.org/wiki/Lashkargah"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.7,
+                    35.95
+                ]
+            },
+            "properties": {
+                "name": "Pul-e Khomri",
+                "article": "https://en.wikipedia.org/wiki/Puli_Khumri"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.516666666,
+                    36.716666666
+                ]
+            },
+            "properties": {
+                "name": "Taloqan",
+                "article": "https://en.wikipedia.org/wiki/Taloqan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    67.826802777,
+                    34.832041666
+                ]
+            },
+            "properties": {
+                "name": "Buddhas of Bamiyan",
+                "article": "https://en.wikipedia.org/wiki/Buddhas_of_Bamiyan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.14583333,
+                    34.09305556
+                ]
+            },
+            "properties": {
+                "name": "Hadda",
+                "article": "https://en.wikipedia.org/wiki/Hadda,_Afghanistan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    66.906944444,
+                    32.106111111
+                ]
+            },
+            "properties": {
+                "name": "Qalat",
+                "article": "https://en.wikipedia.org/wiki/Qalati_Ghilji"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    65.133333333,
+                    31.733333333
+                ]
+            },
+            "properties": {
+                "name": "Battle of Maiwand",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Maiwand"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    62.119444444,
+                    32.343611111
+                ]
+            },
+            "properties": {
+                "name": "Farah",
+                "article": "https://en.wikipedia.org/wiki/Farah,_Afghanistan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    67.230833333,
+                    34.839722222
+                ]
+            },
+            "properties": {
+                "name": "Band-e Amir National Park",
+                "article": "https://en.wikipedia.org/wiki/Band-e_Amir_National_Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.914444444,
+                    37.184444444
+                ]
+            },
+            "properties": {
+                "name": "Imam Sahib",
+                "article": "https://en.wikipedia.org/wiki/Imam_Sahib"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.152777777,
+                    34.874166666
+                ]
+            },
+            "properties": {
+                "name": "Asadabad",
+                "article": "https://en.wikipedia.org/wiki/Asadabad,_Afghanistan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.366666666,
+                    34.4
+                ]
+            },
+            "properties": {
+                "name": "Mes Aynak",
+                "article": "https://en.wikipedia.org/wiki/Mes_Aynak"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.7,
+                    36.132777777
+                ]
+            },
+            "properties": {
+                "name": "Baghlan",
+                "article": "https://en.wikipedia.org/wiki/Baghlan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.233333333,
+                    34.933333333
+                ]
+            },
+            "properties": {
+                "name": "Bagram",
+                "article": "https://en.wikipedia.org/wiki/Bagram"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    65.752,
+                    36.665
+                ]
+            },
+            "properties": {
+                "name": "Sheberghan",
+                "article": "https://en.wikipedia.org/wiki/Sheberghan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    64.116667,
+                    31.516667
+                ]
+            },
+            "properties": {
+                "name": "Operation Moshtarak",
+                "article": "https://en.wikipedia.org/wiki/Operation_Moshtarak"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.408,
+                    37.169
+                ]
+            },
+            "properties": {
+                "name": "Ai-Khanoum",
+                "article": "https://en.wikipedia.org/wiki/Ai-Khanoum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.038333333,
+                    34.289166666
+                ]
+            },
+            "properties": {
+                "name": "1842 retreat from Kabul",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Gandamak"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.869722222,
+                    34.397222222
+                ]
+            },
+            "properties": {
+                "name": "Maidan Shar",
+                "article": "https://en.wikipedia.org/wiki/Maidan_Shar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.793333333,
+                    36.21
+                ]
+            },
+            "properties": {
+                "name": "Sar-i Sang",
+                "article": "https://en.wikipedia.org/wiki/Sar-i_Sang"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    65.251666666,
+                    34.5225
+                ]
+            },
+            "properties": {
+                "name": "Chaghcharan",
+                "article": "https://en.wikipedia.org/wiki/Chaghcharan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    61.666666666,
+                    30.833333333
+                ]
+            },
+            "properties": {
+                "name": "Hamun-e Helmand",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.28333333,
+                    34.58333333
+                ]
+            },
+            "properties": {
+                "name": "Minar-i Chakri",
+                "article": "https://en.wikipedia.org/wiki/Minar-i_Chakri"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    67.683333333,
+                    36.683333333
+                ]
+            },
+            "properties": {
+                "name": "Kholm",
+                "article": "https://en.wikipedia.org/wiki/Kholm,_Afghanistan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.03936,
+                    36.25341
+                ]
+            },
+            "properties": {
+                "name": "Aybak",
+                "article": "https://en.wikipedia.org/wiki/Aybak,_Samangan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.573888888,
+                    36.709166666
+                ]
+            },
+            "properties": {
+                "name": "Ishkashim",
+                "article": "https://en.wikipedia.org/wiki/Ishkashim,_Afghanistan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    65.116666666,
+                    36.95
+                ]
+            },
+            "properties": {
+                "name": "Andkhoy",
+                "article": "https://en.wikipedia.org/wiki/Andkhoy_(city)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    65.787,
+                    36.7
+                ]
+            },
+            "properties": {
+                "name": "Tillya Tepe",
+                "article": "https://en.wikipedia.org/wiki/Tillya_Tepe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.831667,
+                    36.659722
+                ]
+            },
+            "properties": {
+                "name": "Operation Halmazag",
+                "article": "https://en.wikipedia.org/wiki/Operation_Halmazag"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.163611111,
+                    36.683055555
+                ]
+            },
+            "properties": {
+                "name": "Khan Abad",
+                "article": "https://en.wikipedia.org/wiki/Khan_Abad"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.3028,
+                    33.3481
+                ]
+            },
+            "properties": {
+                "name": "Battle for Hill 3234",
+                "article": "https://en.wikipedia.org/wiki/Battle_for_Hill_3234"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.183333333,
+                    33.366666666
+                ]
+            },
+            "properties": {
+                "name": "Operation Anaconda",
+                "article": "https://en.wikipedia.org/wiki/Operation_Anaconda"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    66.084722222,
+                    32.852777777
+                ]
+            },
+            "properties": {
+                "name": "Battle of Chora",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Chora"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.525,
+                    37.325
+                ]
+            },
+            "properties": {
+                "name": "Shortugai",
+                "article": "https://en.wikipedia.org/wiki/Shortugai"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    64.83388889,
+                    32.07333333
+                ]
+            },
+            "properties": {
+                "name": "Operation Achilles",
+                "article": "https://en.wikipedia.org/wiki/Operation_Achilles"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.814121,
+                    36.68157
+                ]
+            },
+            "properties": {
+                "name": "Q1643568",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.74833333,
+                    35.88611111
+                ]
+            },
+            "properties": {
+                "name": "Rag-i-Bibi",
+                "article": "https://en.wikipedia.org/wiki/Rag-i-Bibi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.75244,
+                    35.89892
+                ]
+            },
+            "properties": {
+                "name": "Rag-i-Bibi",
+                "article": "https://en.wikipedia.org/wiki/Rag-i-Bibi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.21666667,
+                    34.11666667
+                ]
+            },
+            "properties": {
+                "name": "Battle of Tora Bora",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Tora_Bora"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.165833333,
+                    34.532777777
+                ]
+            },
+            "properties": {
+                "name": "Kabul",
+                "article": "https://en.wikipedia.org/wiki/Kabul"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    63.12,
+                    34.99
+                ]
+            },
+            "properties": {
+                "name": "Qala i Naw",
+                "article": "https://en.wikipedia.org/wiki/Qala_e_Naw"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    62.203056,
+                    34.341944
+                ]
+            },
+            "properties": {
+                "name": "Herat",
+                "article": "https://en.wikipedia.org/wiki/Herat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    65.71588,
+                    31.62068
+                ]
+            },
+            "properties": {
+                "name": "Kandahar",
+                "article": "https://en.wikipedia.org/wiki/Kandahar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    65.927777777,
+                    36.221388888
+                ]
+            },
+            "properties": {
+                "name": "Sar-e Pol",
+                "article": "https://en.wikipedia.org/wiki/Sar-e_Pol,_Afghanistan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    65.786944444,
+                    36.706388888
+                ]
+            },
+            "properties": {
+                "name": "Emchi-Tepe",
+                "article": "https://en.wikipedia.org/wiki/Yemshi_Tepe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    65.78916667,
+                    36.70555556
+                ]
+            },
+            "properties": {
+                "name": "Emchi-Tepe",
+                "article": "https://en.wikipedia.org/wiki/Yemshi_Tepe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    65.454166666,
+                    31.547777777
+                ]
+            },
+            "properties": {
+                "name": "Operation Medusa",
+                "article": "https://en.wikipedia.org/wiki/Operation_Medusa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    66.87,
+                    36.57
+                ]
+            },
+            "properties": {
+                "name": "Koh e Alburz",
+                "article": "https://en.wikipedia.org/wiki/Koh_e_Alburz_(Balkh)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    66.87,
+                    36.58
+                ]
+            },
+            "properties": {
+                "name": "Koh e Alburz",
+                "article": "https://en.wikipedia.org/wiki/Koh_e_Alburz_(Balkh)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    66.71666667,
+                    37.08333333
+                ]
+            },
+            "properties": {
+                "name": "Kutlug-Tepe",
+                "article": "https://en.wikipedia.org/wiki/Kutlug-Tepe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.566667,
+                    36.05
+                ]
+            },
+            "properties": {
+                "name": "Surkh Kotal",
+                "article": "https://en.wikipedia.org/wiki/Surkh_Kotal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    64.7444,
+                    32.4433
+                ]
+            },
+            "properties": {
+                "name": "Musa Qala",
+                "article": "https://en.wikipedia.org/wiki/Musa_Qala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.216666666,
+                    34.870555555
+                ]
+            },
+            "properties": {
+                "name": "Battle of Maravar Pass",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Maravar_Pass"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.2419,
+                    37.0272
+                ]
+            },
+            "properties": {
+                "name": "Q1972412",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.208888888,
+                    34.668333333
+                ]
+            },
+            "properties": {
+                "name": "Mihtarlam",
+                "article": "https://en.wikipedia.org/wiki/Mihtarlam"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.3106,
+                    34.9925
+                ]
+            },
+            "properties": {
+                "name": "Alexandria on the Caucasus",
+                "article": "https://en.wikipedia.org/wiki/Alexandria_in_the_Caucasus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    61.941667,
+                    29.835278
+                ]
+            },
+            "properties": {
+                "name": "Gowd-e Zerah",
+                "article": "https://en.wikipedia.org/wiki/Godzareh_Depression"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    62.13333333,
+                    33.3
+                ]
+            },
+            "properties": {
+                "name": "Shindand",
+                "article": "https://en.wikipedia.org/wiki/Shindand"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    62.14,
+                    33.303611111
+                ]
+            },
+            "properties": {
+                "name": "Shindand",
+                "article": "https://en.wikipedia.org/wiki/Shindand"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.022133333,
+                    36.245711111
+                ]
+            },
+            "properties": {
+                "name": "Takht-e Rostam",
+                "article": "https://en.wikipedia.org/wiki/Takht-e_Rostam"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.78,
+                    33.13
+                ]
+            },
+            "properties": {
+                "name": "Sharana",
+                "article": "https://en.wikipedia.org/wiki/Sharana"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    64.7444,
+                    32.4433
+                ]
+            },
+            "properties": {
+                "name": "Battle of Musa Qala",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Musa_Qala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.34139,
+                    35.41
+                ]
+            },
+            "properties": {
+                "name": "Battle of Kamdesh",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Kamdesh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    63.4794,
+                    33.1461
+                ]
+            },
+            "properties": {
+                "name": "Fil Kush",
+                "article": "https://en.wikipedia.org/wiki/Fil_Kush"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    63.47966667,
+                    33.14611111
+                ]
+            },
+            "properties": {
+                "name": "Fil Kush",
+                "article": "https://en.wikipedia.org/wiki/Fil_Kush"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    66.05,
+                    32.847222222
+                ]
+            },
+            "properties": {
+                "name": "Chora",
+                "article": "https://en.wikipedia.org/wiki/Chora,_Afghanistan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.40166667,
+                    34.56711111
+                ]
+            },
+            "properties": {
+                "name": "Q2740668",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.75963889,
+                    37.53625
+                ]
+            },
+            "properties": {
+                "name": "Q2751239",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.1725,
+                    34.46694444
+                ]
+            },
+            "properties": {
+                "name": "Q2751240",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.0057,
+                    34.7014
+                ]
+            },
+            "properties": {
+                "name": "Koh e Hindu",
+                "article": "https://en.wikipedia.org/wiki/Koh_e_Hindu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    63.90602778,
+                    32.43538889
+                ]
+            },
+            "properties": {
+                "name": "Q2751247",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.16775,
+                    35.12483333
+                ]
+            },
+            "properties": {
+                "name": "Q2751245",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    60.81416667,
+                    31.67930556
+                ]
+            },
+            "properties": {
+                "name": "Q2751252",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    66.378,
+                    32.61263889
+                ]
+            },
+            "properties": {
+                "name": "Q2799399",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    67.90694444,
+                    32.48388889
+                ]
+            },
+            "properties": {
+                "name": "Ab-i Istada",
+                "article": "https://en.wikipedia.org/wiki/Ab-i_Istada"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    66.51,
+                    36.05
+                ]
+            },
+            "properties": {
+                "name": "Aq Köprük",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    65.71666667,
+                    31.61666667
+                ]
+            },
+            "properties": {
+                "name": "Fall of Kandahar",
+                "article": "https://en.wikipedia.org/wiki/Fall_of_Kandahar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    64.363333333,
+                    31.589166666
+                ]
+            },
+            "properties": {
+                "name": "Friendly fire incident at Sangin",
+                "article": "https://en.wikipedia.org/wiki/Friendly_fire_incident_at_Sangin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    67.116666666,
+                    36.7
+                ]
+            },
+            "properties": {
+                "name": "Fall of Mazari Sharif",
+                "article": "https://en.wikipedia.org/wiki/Fall_of_Mazar-i-Sharif"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    62.488055555,
+                    32.625
+                ]
+            },
+            "properties": {
+                "name": "Battle of Shewan",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Shewan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.9075,
+                    35.0525
+                ]
+            },
+            "properties": {
+                "name": "Battle of Wanat",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Wanat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    65.649444444,
+                    31.654722222
+                ]
+            },
+            "properties": {
+                "name": "Battle of Arghandab",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Arghandab_(2008)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    66.905,
+                    36.716111
+                ]
+            },
+            "properties": {
+                "name": "Haji Piyada",
+                "article": "https://en.wikipedia.org/wiki/Haji_Piyada"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    66.98333333,
+                    36.66666667
+                ]
+            },
+            "properties": {
+                "name": "Battle of Qala-i-Jangi",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Qala-i-Jangi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    64.350822,
+                    31.565961
+                ]
+            },
+            "properties": {
+                "name": "Lashkari Bazar",
+                "article": "https://en.wikipedia.org/wiki/Lashkari_Bazar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    66.116666666,
+                    33.716666666
+                ]
+            },
+            "properties": {
+                "name": "Nili",
+                "article": "https://en.wikipedia.org/wiki/Nili,_Afghanistan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.9025,
+                    34.038333333
+                ]
+            },
+            "properties": {
+                "name": "Mount Sikaram",
+                "article": "https://en.wikipedia.org/wiki/Mount_Sikaram"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.340038,
+                    37.388299
+                ]
+            },
+            "properties": {
+                "name": "Kōl-e Shēwah",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.346944444,
+                    37.389166666
+                ]
+            },
+            "properties": {
+                "name": "Kōl-e Shēwah",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.1789,
+                    34.5236
+                ]
+            },
+            "properties": {
+                "name": "Arg",
+                "article": "https://en.wikipedia.org/wiki/Arg,_Kabul"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.9075,
+                    37.002777777
+                ]
+            },
+            "properties": {
+                "name": "Baharak",
+                "article": "https://en.wikipedia.org/wiki/Baharak,_Afghanistan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.1675,
+                    34.398611111
+                ]
+            },
+            "properties": {
+                "name": "Battle of Charasiab",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Charasiab"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.178333333,
+                    34.525277777
+                ]
+            },
+            "properties": {
+                "name": "Battle of Kabul",
+                "article": "https://en.wikipedia.org/wiki/Kabul_Expedition_(1842)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.766,
+                    37.333
+                ]
+            },
+            "properties": {
+                "name": "Concord Peak",
+                "article": "https://en.wikipedia.org/wiki/Concord_Peak"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.0,
+                    36.78333333
+                ]
+            },
+            "properties": {
+                "name": "Darra-e Kur",
+                "article": "https://en.wikipedia.org/wiki/Darra-e_Kur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.21361111,
+                    33.34277778
+                ]
+            },
+            "properties": {
+                "name": "Battle of Takur Ghar",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Takur_Ghar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    62.064444444,
+                    31.174444444
+                ]
+            },
+            "properties": {
+                "name": "Chakhansur",
+                "article": "https://en.wikipedia.org/wiki/Chakhansur_(village)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.63647222,
+                    33.321
+                ]
+            },
+            "properties": {
+                "name": "Sardeh Band",
+                "article": "https://en.wikipedia.org/wiki/Sardeh_Band"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    63.115555555,
+                    34.637777777
+                ]
+            },
+            "properties": {
+                "name": "Battle of Sabzak",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Sabzak"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    66.88522222,
+                    36.72972222
+                ]
+            },
+            "properties": {
+                "name": "Nava Vihara",
+                "article": "https://en.wikipedia.org/wiki/Nava_Vihara"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    66.01472222,
+                    33.89722222
+                ]
+            },
+            "properties": {
+                "name": "Kotal-e Khushk",
+                "article": "https://en.wikipedia.org/wiki/Kotal-e_Khushk"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.983333333,
+                    36.179166666
+                ]
+            },
+            "properties": {
+                "name": "Kuh-e Bandaka",
+                "article": "https://en.wikipedia.org/wiki/Kuh-e_Bandaka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    67.38333333,
+                    36.625
+                ]
+            },
+            "properties": {
+                "name": "Kumargah",
+                "article": "https://en.wikipedia.org/wiki/Kumargah"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    63.9,
+                    33.45
+                ]
+            },
+            "properties": {
+                "name": "Kūh-e Zābī",
+                "article": "https://en.wikipedia.org/wiki/K%C5%ABh-e_Z%C4%81b%C4%AB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.15277778,
+                    34.52
+                ]
+            },
+            "properties": {
+                "name": "Kōh-e Āsamā'ī",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.158611111,
+                    34.518333333
+                ]
+            },
+            "properties": {
+                "name": "Kōh-e Āsamā'ī",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    62.66666667,
+                    32.46666667
+                ]
+            },
+            "properties": {
+                "name": "Lor Koh",
+                "article": "https://en.wikipedia.org/wiki/Lor_Koh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.44,
+                    36.77583333
+                ]
+            },
+            "properties": {
+                "name": "Lunkho e Dosare",
+                "article": "https://en.wikipedia.org/wiki/Lunkho_e_Dosare"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    62.186111111,
+                    34.359166666
+                ]
+            },
+            "properties": {
+                "name": "Mousallah Complex",
+                "article": "https://en.wikipedia.org/wiki/Musalla_complex"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    65.25,
+                    31.65
+                ]
+            },
+            "properties": {
+                "name": "Mundigak",
+                "article": "https://en.wikipedia.org/wiki/Mundigak"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.1675,
+                    34.398611111
+                ]
+            },
+            "properties": {
+                "name": "Second Battle of Charasiab",
+                "article": "https://en.wikipedia.org/wiki/Second_Battle_of_Charasiab"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.23166667,
+                    36.67166667
+                ]
+            },
+            "properties": {
+                "name": "Shah Dhar",
+                "article": "https://en.wikipedia.org/wiki/Shah_Dhar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    67.821667,
+                    34.826389
+                ]
+            },
+            "properties": {
+                "name": "Shahr-e Gholghola",
+                "article": "https://en.wikipedia.org/wiki/Shahr-e_Gholghola"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.2138,
+                    33.3421
+                ]
+            },
+            "properties": {
+                "name": "Takur Ghar",
+                "article": "https://en.wikipedia.org/wiki/Takur_Ghar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.181894,
+                    34.491958
+                ]
+            },
+            "properties": {
+                "name": "Tepe Narenj",
+                "article": "https://en.wikipedia.org/wiki/Tepe_Narenj"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.764444444,
+                    37.071944444
+                ]
+            },
+            "properties": {
+                "name": "Volar",
+                "article": "https://en.wikipedia.org/wiki/Volar,_Afghanistan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    67.3333,
+                    31.7667
+                ]
+            },
+            "properties": {
+                "name": "Ẕāmi Kalay",
+                "article": "https://en.wikipedia.org/wiki/%E1%BA%94%C4%81mi_Kalay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.57388889,
+                    33.60388889
+                ]
+            },
+            "properties": {
+                "name": "Q8553081",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.25611111,
+                    35.38425
+                ]
+            },
+            "properties": {
+                "name": "Q8553089",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.95366667,
+                    35.20127778
+                ]
+            },
+            "properties": {
+                "name": "Q8553093",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    67.83086111,
+                    35.69488889
+                ]
+            },
+            "properties": {
+                "name": "Q8553132",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    66.512,
+                    32.6786
+                ]
+            },
+            "properties": {
+                "name": "Koh e Alburz",
+                "article": "https://en.wikipedia.org/wiki/Koh_e_Alburz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    66.87,
+                    36.57
+                ]
+            },
+            "properties": {
+                "name": "Koh e Alburz",
+                "article": "https://en.wikipedia.org/wiki/Koh_e_Alburz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    67.75316667,
+                    33.34988889
+                ]
+            },
+            "properties": {
+                "name": "Q8553232",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.467222222,
+                    37.015
+                ]
+            },
+            "properties": {
+                "name": "Qalʻah-ye Zāl",
+                "article": null
+            }
+        }
+    ]
+}

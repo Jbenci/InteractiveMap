@@ -1,0 +1,2931 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.55,
+                    40.716666666
+                ]
+            },
+            "properties": {
+                "name": "Fier",
+                "article": "https://en.wikipedia.org/wiki/Fier"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.016666666,
+                    39.883333333
+                ]
+            },
+            "properties": {
+                "name": "Saranda",
+                "article": "https://en.wikipedia.org/wiki/Sarand%C3%AB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7925,
+                    41.510833333
+                ]
+            },
+            "properties": {
+                "name": "Krujë",
+                "article": "https://en.wikipedia.org/wiki/Kruj%C3%AB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.05,
+                    40.9
+                ]
+            },
+            "properties": {
+                "name": "Lake Prespa",
+                "article": "https://en.wikipedia.org/wiki/Lake_Prespa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.4231,
+                    42.0758
+                ]
+            },
+            "properties": {
+                "name": "Kukës",
+                "article": "https://en.wikipedia.org/wiki/Kuk%C3%ABs"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7,
+                    40.933333333
+                ]
+            },
+            "properties": {
+                "name": "Lushnjë",
+                "article": "https://en.wikipedia.org/wiki/Lushnj%C3%AB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.428888888,
+                    41.683055555
+                ]
+            },
+            "properties": {
+                "name": "Peshkopi",
+                "article": "https://en.wikipedia.org/wiki/Peshkopi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.383,
+                    39.784
+                ]
+            },
+            "properties": {
+                "name": "Mourgana",
+                "article": "https://en.wikipedia.org/wiki/Mourgana"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.523333333,
+                    42.210555555
+                ]
+            },
+            "properties": {
+                "name": "Paštrik",
+                "article": "https://en.wikipedia.org/wiki/Pashtrik"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.094444444,
+                    41.499444444
+                ]
+            },
+            "properties": {
+                "name": "Klos, Mat",
+                "article": "https://en.wikipedia.org/wiki/Klos_(municipality)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.58166667,
+                    41.76305556
+                ]
+            },
+            "properties": {
+                "name": "Kunë Island",
+                "article": "https://en.wikipedia.org/wiki/Kun%C3%AB_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.1,
+                    40.766111111
+                ]
+            },
+            "properties": {
+                "name": "Small Prespa Lake",
+                "article": "https://en.wikipedia.org/wiki/Small_Prespa_Lake"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.095833333,
+                    39.949444444
+                ]
+            },
+            "properties": {
+                "name": "Delvinë",
+                "article": "https://en.wikipedia.org/wiki/Delvin%C3%AB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.654444444,
+                    41.393888888
+                ]
+            },
+            "properties": {
+                "name": "Vorë",
+                "article": "https://en.wikipedia.org/wiki/Vor%C3%AB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.655,
+                    41.39083
+                ]
+            },
+            "properties": {
+                "name": "Vorë",
+                "article": "https://en.wikipedia.org/wiki/Vor%C3%AB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.430555555,
+                    40.317777777
+                ]
+            },
+            "properties": {
+                "name": "Oricum",
+                "article": "https://en.wikipedia.org/wiki/Oricum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.283333333,
+                    40.5
+                ]
+            },
+            "properties": {
+                "name": "Sazan Island",
+                "article": "https://en.wikipedia.org/wiki/Sazan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7359,
+                    40.5991
+                ]
+            },
+            "properties": {
+                "name": "Ballsh",
+                "article": "https://en.wikipedia.org/wiki/Ballsh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.653055555,
+                    42.07
+                ]
+            },
+            "properties": {
+                "name": "Shurdhah Island",
+                "article": "https://en.wikipedia.org/wiki/Shurdhah"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.7,
+                    40.708333333
+                ]
+            },
+            "properties": {
+                "name": "Maliq",
+                "article": "https://en.wikipedia.org/wiki/Maliq"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.445263,
+                    41.312191
+                ]
+            },
+            "properties": {
+                "name": "Roman amphitheatre of Durrës",
+                "article": "https://en.wikipedia.org/wiki/Amphitheatre_of_Durr%C3%ABs"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.816797222,
+                    41.327697222
+                ]
+            },
+            "properties": {
+                "name": "Bank of Albania",
+                "article": "https://en.wikipedia.org/wiki/Bank_of_Albania"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.99,
+                    40.6275
+                ]
+            },
+            "properties": {
+                "name": "Bilisht",
+                "article": "https://en.wikipedia.org/wiki/Bilisht"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.75,
+                    41.05
+                ]
+            },
+            "properties": {
+                "name": "Peqin",
+                "article": "https://en.wikipedia.org/wiki/Peqin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.033333333,
+                    39.783333333
+                ]
+            },
+            "properties": {
+                "name": "Lake Butrint",
+                "article": "https://en.wikipedia.org/wiki/Butrint_Lagoon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.86666667,
+                    41.44527778
+                ]
+            },
+            "properties": {
+                "name": "Bovilla reservoir",
+                "article": "https://en.wikipedia.org/wiki/Lake_Bovilla"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.5467,
+                    41.7903
+                ]
+            },
+            "properties": {
+                "name": "Korab",
+                "article": "https://en.wikipedia.org/wiki/Korab_(mountain)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.469722222,
+                    42.011666666
+                ]
+            },
+            "properties": {
+                "name": "Gjallica",
+                "article": "https://en.wikipedia.org/wiki/Gjallica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.4146,
+                    42.1961
+                ]
+            },
+            "properties": {
+                "name": "Krumë",
+                "article": "https://en.wikipedia.org/wiki/Krum%C3%AB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.69222,
+                    41.5775
+                ]
+            },
+            "properties": {
+                "name": "Mamurras",
+                "article": "https://en.wikipedia.org/wiki/Mamurras"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.666666666,
+                    41.076111111
+                ]
+            },
+            "properties": {
+                "name": "Rrogozhinë",
+                "article": "https://en.wikipedia.org/wiki/Rrogozhin%C3%AB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.18944,
+                    40.31306
+                ]
+            },
+            "properties": {
+                "name": "Këlcyrë",
+                "article": "https://en.wikipedia.org/wiki/K%C3%ABlcyr%C3%AB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.192,
+                    40.313
+                ]
+            },
+            "properties": {
+                "name": "Këlcyrë",
+                "article": "https://en.wikipedia.org/wiki/K%C3%ABlcyr%C3%AB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.6,
+                    40.15
+                ]
+            },
+            "properties": {
+                "name": "Leskovik",
+                "article": "https://en.wikipedia.org/wiki/Leskovik"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8125,
+                    42.441666666
+                ]
+            },
+            "properties": {
+                "name": "Maja Jezercë",
+                "article": "https://en.wikipedia.org/wiki/Jezerc%C3%AB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.81860638,
+                    41.32992056
+                ]
+            },
+            "properties": {
+                "name": "Tirana International Hotel",
+                "article": "https://en.wikipedia.org/wiki/Tirana_International_Hotel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.925555555,
+                    41.365833333
+                ]
+            },
+            "properties": {
+                "name": "Mount Dajti",
+                "article": "https://en.wikipedia.org/wiki/Dajti"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.566666666,
+                    42.083333333
+                ]
+            },
+            "properties": {
+                "name": "Koritnik",
+                "article": "https://en.wikipedia.org/wiki/Koritnik"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.076011111,
+                    42.358216666
+                ]
+            },
+            "properties": {
+                "name": "Bajram Curri",
+                "article": "https://en.wikipedia.org/wiki/Bajram_Curri_(town)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.6194,
+                    40.6841
+                ]
+            },
+            "properties": {
+                "name": "Patos",
+                "article": "https://en.wikipedia.org/wiki/Patos_(municipality)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.983333333,
+                    41.033333333
+                ]
+            },
+            "properties": {
+                "name": "Cërrik",
+                "article": "https://en.wikipedia.org/wiki/C%C3%ABrrik"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.18139,
+                    39.65889
+                ]
+            },
+            "properties": {
+                "name": "Konispol",
+                "article": "https://en.wikipedia.org/wiki/Konispol"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.266666666,
+                    40.033333333
+                ]
+            },
+            "properties": {
+                "name": "Libohovë",
+                "article": "https://en.wikipedia.org/wiki/Libohov%C3%AB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.883333333,
+                    41.766666666
+                ]
+            },
+            "properties": {
+                "name": "Rrëshen",
+                "article": "https://en.wikipedia.org/wiki/Rr%C3%ABshen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.70222,
+                    40.7375
+                ]
+            },
+            "properties": {
+                "name": "Roskovec",
+                "article": "https://en.wikipedia.org/wiki/Roskovec"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.098055555,
+                    40.612222222
+                ]
+            },
+            "properties": {
+                "name": "Poliçan",
+                "article": "https://en.wikipedia.org/wiki/Poli%C3%A7an"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.98028,
+                    40.35167
+                ]
+            },
+            "properties": {
+                "name": "Memaliaj",
+                "article": "https://en.wikipedia.org/wiki/Memaliaj"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.983333333,
+                    40.35
+                ]
+            },
+            "properties": {
+                "name": "Memaliaj",
+                "article": "https://en.wikipedia.org/wiki/Memaliaj"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.713055555,
+                    41.635277777
+                ]
+            },
+            "properties": {
+                "name": "Laç",
+                "article": "https://en.wikipedia.org/wiki/La%C3%A7"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.914444444,
+                    40.803888888
+                ]
+            },
+            "properties": {
+                "name": "Kuçovë",
+                "article": "https://en.wikipedia.org/wiki/Ku%C3%A7ov%C3%AB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.316666666,
+                    41.183333333
+                ]
+            },
+            "properties": {
+                "name": "Librazhd",
+                "article": "https://en.wikipedia.org/wiki/Librazhd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.183333333,
+                    40.866666666
+                ]
+            },
+            "properties": {
+                "name": "Gramsh",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.567222222,
+                    41.345555555
+                ]
+            },
+            "properties": {
+                "name": "Shijak",
+                "article": "https://en.wikipedia.org/wiki/Shijak"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.56722,
+                    41.34556
+                ]
+            },
+            "properties": {
+                "name": "Shijak",
+                "article": "https://en.wikipedia.org/wiki/Shijak"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.683333333,
+                    40.333333333
+                ]
+            },
+            "properties": {
+                "name": "Ersekë",
+                "article": "https://en.wikipedia.org/wiki/Ersek%C3%AB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.55,
+                    41.066666666
+                ]
+            },
+            "properties": {
+                "name": "Prrenjas",
+                "article": "https://en.wikipedia.org/wiki/Prrenjas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.783333333,
+                    41.766666666
+                ]
+            },
+            "properties": {
+                "name": "Rubik",
+                "article": "https://en.wikipedia.org/wiki/Rubik_(town)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.227222222,
+                    40.504166666
+                ]
+            },
+            "properties": {
+                "name": "Çorovodë",
+                "article": "https://en.wikipedia.org/wiki/%C3%87orovod%C3%AB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.9,
+                    42.05
+                ]
+            },
+            "properties": {
+                "name": "Pukë",
+                "article": "https://en.wikipedia.org/wiki/Puk%C3%AB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.817777777,
+                    41.328888888
+                ]
+            },
+            "properties": {
+                "name": "Tirana",
+                "article": "https://en.wikipedia.org/wiki/Tirana"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8525,
+                    42.2947
+                ]
+            },
+            "properties": {
+                "name": "Maja e Ershellit",
+                "article": "https://en.wikipedia.org/wiki/Maja_e_Ershellit"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.525,
+                    41.637222222
+                ]
+            },
+            "properties": {
+                "name": "Deshat",
+                "article": "https://en.wikipedia.org/wiki/Deshat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.65,
+                    40.9
+                ]
+            },
+            "properties": {
+                "name": "Pogradec",
+                "article": "https://en.wikipedia.org/wiki/Pogradec"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.995,
+                    39.775
+                ]
+            },
+            "properties": {
+                "name": "Ksamil Islands",
+                "article": "https://en.wikipedia.org/wiki/Islets_of_Ksamil"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.933055555,
+                    40.791944444
+                ]
+            },
+            "properties": {
+                "name": "Maligrad",
+                "article": "https://en.wikipedia.org/wiki/Maligrad"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0186,
+                    40.2965
+                ]
+            },
+            "properties": {
+                "name": "Tepelena",
+                "article": "https://en.wikipedia.org/wiki/Tepelen%C3%AB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.445833333,
+                    41.313333333
+                ]
+            },
+            "properties": {
+                "name": "Durrës",
+                "article": "https://en.wikipedia.org/wiki/Durr%C3%ABs"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.082222222,
+                    41.1125
+                ]
+            },
+            "properties": {
+                "name": "Elbasan",
+                "article": "https://en.wikipedia.org/wiki/Elbasan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.766666666,
+                    40.616666666
+                ]
+            },
+            "properties": {
+                "name": "Korçë",
+                "article": "https://en.wikipedia.org/wiki/Kor%C3%A7%C3%AB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5,
+                    42.066666666
+                ]
+            },
+            "properties": {
+                "name": "Shkodër",
+                "article": "https://en.wikipedia.org/wiki/Shkod%C3%ABr"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.633333333,
+                    40.533333333
+                ]
+            },
+            "properties": {
+                "name": "Selenicë",
+                "article": "https://en.wikipedia.org/wiki/Selenic%C3%AB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.63583,
+                    40.53056
+                ]
+            },
+            "properties": {
+                "name": "Selenicë",
+                "article": "https://en.wikipedia.org/wiki/Selenic%C3%AB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.716666666,
+                    41.033333333
+                ]
+            },
+            "properties": {
+                "name": "Lake Ohrid",
+                "article": "https://en.wikipedia.org/wiki/Lake_Ohrid"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.483333333,
+                    40.45
+                ]
+            },
+            "properties": {
+                "name": "Vlorë",
+                "article": "https://en.wikipedia.org/wiki/Vlor%C3%AB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8175,
+                    41.3244
+                ]
+            },
+            "properties": {
+                "name": "Taivani",
+                "article": "https://en.wikipedia.org/wiki/Taivani"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.6434,
+                    41.7805
+                ]
+            },
+            "properties": {
+                "name": "Lezhë",
+                "article": "https://en.wikipedia.org/wiki/Lezh%C3%AB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.949673,
+                    40.704939
+                ]
+            },
+            "properties": {
+                "name": "Berat",
+                "article": "https://en.wikipedia.org/wiki/Berat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.13889,
+                    40.07583
+                ]
+            },
+            "properties": {
+                "name": "Gjirokastër",
+                "article": "https://en.wikipedia.org/wiki/Gjirokast%C3%ABr"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.6997,
+                    40.3769
+                ]
+            },
+            "properties": {
+                "name": "Amantia",
+                "article": "https://en.wikipedia.org/wiki/Amantia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0,
+                    41.6
+                ]
+            },
+            "properties": {
+                "name": "Burrel",
+                "article": "https://en.wikipedia.org/wiki/Burrel_(town)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.216666666,
+                    41.5
+                ]
+            },
+            "properties": {
+                "name": "Bulqizë",
+                "article": "https://en.wikipedia.org/wiki/Bulqiz%C3%AB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.01667,
+                    42.06222
+                ]
+            },
+            "properties": {
+                "name": "Fushë-Arrëz",
+                "article": "https://en.wikipedia.org/wiki/Fush%C3%AB-Arr%C3%ABz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.5,
+                    41.25
+                ]
+            },
+            "properties": {
+                "name": "Jablanica Mountains",
+                "article": "https://en.wikipedia.org/wiki/Jabllanica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.716666666,
+                    41.483333333
+                ]
+            },
+            "properties": {
+                "name": "Fushë-Krujë",
+                "article": "https://en.wikipedia.org/wiki/Fush%C3%AB-Kruj%C3%AB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.766666666,
+                    41.383333333
+                ]
+            },
+            "properties": {
+                "name": "Kamëz",
+                "article": "https://en.wikipedia.org/wiki/Kam%C3%ABz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.593888888,
+                    41.813611111
+                ]
+            },
+            "properties": {
+                "name": "Shëngjin",
+                "article": "https://en.wikipedia.org/wiki/Sh%C3%ABngjin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.08,
+                    41.78
+                ]
+            },
+            "properties": {
+                "name": "Kurbnesh",
+                "article": "https://en.wikipedia.org/wiki/Kurbnesh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.733333333,
+                    40.116666666
+                ]
+            },
+            "properties": {
+                "name": "Himarë",
+                "article": "https://en.wikipedia.org/wiki/Himar%C3%AB_(town)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.755863888,
+                    42.445722222
+                ]
+            },
+            "properties": {
+                "name": "Maja e Harapit",
+                "article": "https://en.wikipedia.org/wiki/Maja_e_Harapit"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.35,
+                    40.233333333
+                ]
+            },
+            "properties": {
+                "name": "Përmet",
+                "article": "https://en.wikipedia.org/wiki/P%C3%ABrmet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7155556,
+                    41.6838889
+                ]
+            },
+            "properties": {
+                "name": "Milot",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.75,
+                    40.333333333
+                ]
+            },
+            "properties": {
+                "name": "Gramos",
+                "article": "https://en.wikipedia.org/wiki/Gramos"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.4,
+                    40.133333333
+                ]
+            },
+            "properties": {
+                "name": "Mount Nemërçkë",
+                "article": "https://en.wikipedia.org/wiki/Nem%C3%ABr%C3%A7ka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.04161596,
+                    39.75217225
+                ]
+            },
+            "properties": {
+                "name": "Kalivo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.82166667,
+                    41.3275
+                ]
+            },
+            "properties": {
+                "name": "TID Tower",
+                "article": "https://en.wikipedia.org/wiki/Maritim_Plaza_Tirana"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.883333333,
+                    40.766666666
+                ]
+            },
+            "properties": {
+                "name": "Ura Vajgurore",
+                "article": "https://en.wikipedia.org/wiki/Ura_Vajgurore"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.87778,
+                    40.76889
+                ]
+            },
+            "properties": {
+                "name": "Ura Vajgurore",
+                "article": "https://en.wikipedia.org/wiki/Ura_Vajgurore"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.820056,
+                    41.324722
+                ]
+            },
+            "properties": {
+                "name": "Hotel Dajti",
+                "article": "https://en.wikipedia.org/wiki/Hotel_Dajti"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.51868439,
+                    40.99047533
+                ]
+            },
+            "properties": {
+                "name": "Royal Tombs of Selca e Poshtme",
+                "article": "https://en.wikipedia.org/wiki/Royal_Tombs_of_Selca_e_Poshtme"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.61666667,
+                    40.2
+                ]
+            },
+            "properties": {
+                "name": "Mount Çika",
+                "article": "https://en.wikipedia.org/wiki/%C3%87ik%C3%AB_(mountain)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.61666667,
+                    40.2
+                ]
+            },
+            "properties": {
+                "name": "Mount Çika",
+                "article": "https://en.wikipedia.org/wiki/%C3%87ik%C3%AB_(mountain)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5327,
+                    40.9964
+                ]
+            },
+            "properties": {
+                "name": "Divjakë",
+                "article": "https://en.wikipedia.org/wiki/Divjak%C3%AB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.10527,
+                    40.34222
+                ]
+            },
+            "properties": {
+                "name": "Mount Trebeshinë",
+                "article": "https://en.wikipedia.org/wiki/Trebeshin%C3%AB_(mountain)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.726,
+                    42.4272
+                ]
+            },
+            "properties": {
+                "name": "Radohina",
+                "article": "https://en.wikipedia.org/wiki/Radohina"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.83027778,
+                    41.69111111
+                ]
+            },
+            "properties": {
+                "name": "Lake Shkopeti",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.141802777,
+                    40.709088888
+                ]
+            },
+            "properties": {
+                "name": "Mount Tomorr",
+                "article": "https://en.wikipedia.org/wiki/Tomorr"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.44916667,
+                    42.04638889
+                ]
+            },
+            "properties": {
+                "name": "Tarabosh",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.77638889,
+                    41.47527778
+                ]
+            },
+            "properties": {
+                "name": "Albanopolis",
+                "article": "https://en.wikipedia.org/wiki/Albanopolis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.81583333,
+                    41.33638889
+                ]
+            },
+            "properties": {
+                "name": "Tirana railway station",
+                "article": "https://en.wikipedia.org/wiki/Tirana_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.3058,
+                    42.345
+                ]
+            },
+            "properties": {
+                "name": "Battle of Deçiq",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_De%C3%A7iq"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.878611111,
+                    42.165833333
+                ]
+            },
+            "properties": {
+                "name": "Paqe Island",
+                "article": "https://en.wikipedia.org/wiki/Paqe_Islet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.08,
+                    42.6
+                ]
+            },
+            "properties": {
+                "name": "Bogićevica",
+                "article": "https://en.wikipedia.org/wiki/Bogi%C4%87evica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.374722222,
+                    41.847222222
+                ]
+            },
+            "properties": {
+                "name": "Franc Jozeph Island",
+                "article": "https://en.wikipedia.org/wiki/Franc_Jozeph_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.265,
+                    40.031
+                ]
+            },
+            "properties": {
+                "name": "Libohovë Castle",
+                "article": "https://en.wikipedia.org/wiki/Libohov%C3%AB_Castle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.203511111,
+                    42.450061111
+                ]
+            },
+            "properties": {
+                "name": "Battle of Košare",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Ko%C5%A1are"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.401666666,
+                    40.517222222
+                ]
+            },
+            "properties": {
+                "name": "Zvërnec Island",
+                "article": "https://en.wikipedia.org/wiki/Zv%C3%ABrnec_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.461666666,
+                    42.059166666
+                ]
+            },
+            "properties": {
+                "name": "Shaqari Island",
+                "article": "https://en.wikipedia.org/wiki/Shaqari_Islet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.989722222,
+                    39.685277777
+                ]
+            },
+            "properties": {
+                "name": "Stil Island",
+                "article": "https://en.wikipedia.org/wiki/Stillo_Islet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.179138888,
+                    42.502305555
+                ]
+            },
+            "properties": {
+                "name": "Junik Mountains",
+                "article": "https://en.wikipedia.org/wiki/Junik_Mountains"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.17597198,
+                    39.67508316
+                ]
+            },
+            "properties": {
+                "name": "Konispol cave",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.82277778,
+                    41.32
+                ]
+            },
+            "properties": {
+                "name": "ABA Business Center",
+                "article": "https://en.wikipedia.org/wiki/ABA_Business_Center"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.82944444,
+                    41.3275
+                ]
+            },
+            "properties": {
+                "name": "Ali Demi Street",
+                "article": "https://en.wikipedia.org/wiki/Ali_Demi_Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.422778,
+                    42.278056
+                ]
+            },
+            "properties": {
+                "name": "Bajzë railway station",
+                "article": "https://en.wikipedia.org/wiki/Bajz%C3%AB_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.58111111,
+                    40.44694444
+                ]
+            },
+            "properties": {
+                "name": "Battle of Drashovica",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Drashovica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.6667,
+                    40.5833
+                ]
+            },
+            "properties": {
+                "name": "Battle of Morava–Ivan",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Morava%E2%80%93Ivan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.1053,
+                    40.3422
+                ]
+            },
+            "properties": {
+                "name": "Battle of Trebeshina",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Trebeshina"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.52197,
+                    41.24631
+                ]
+            },
+            "properties": {
+                "name": "Black Stone, Jablanica",
+                "article": "https://en.wikipedia.org/wiki/Black_Stone_(Jabllanica)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.5221,
+                    41.2464
+                ]
+            },
+            "properties": {
+                "name": "Black Stone, Jablanica",
+                "article": "https://en.wikipedia.org/wiki/Black_Stone_(Jabllanica)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.91667,
+                    41.0
+                ]
+            },
+            "properties": {
+                "name": "Dumre",
+                "article": "https://en.wikipedia.org/wiki/Dumre,_Albania"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.92222222,
+                    41.35361111
+                ]
+            },
+            "properties": {
+                "name": "Dajti Castle",
+                "article": "https://en.wikipedia.org/wiki/Dajti_Castle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.165,
+                    41.697777777
+                ]
+            },
+            "properties": {
+                "name": "Dejë Mountain",
+                "article": "https://en.wikipedia.org/wiki/Dej%C3%AB_(mountain)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.154166666,
+                    41.725
+                ]
+            },
+            "properties": {
+                "name": "Dejë Mountain",
+                "article": "https://en.wikipedia.org/wiki/Dej%C3%AB_(mountain)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5684091,
+                    40.2516476
+                ]
+            },
+            "properties": {
+                "name": "Dervish Ali's Tower",
+                "article": "https://en.wikipedia.org/wiki/Dervish_Ali%27s_Towers"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.101,
+                    42.5045
+                ]
+            },
+            "properties": {
+                "name": "Dhenve Lake",
+                "article": "https://en.wikipedia.org/wiki/Liqeni_i_Dhenve"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.455,
+                    41.3179
+                ]
+            },
+            "properties": {
+                "name": "Durrës Rail Station",
+                "article": "https://en.wikipedia.org/wiki/Durr%C3%ABs_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.82638889,
+                    41.31944444
+                ]
+            },
+            "properties": {
+                "name": "Elbasan Street",
+                "article": "https://en.wikipedia.org/wiki/Elbasan_Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.57222222,
+                    42.05638889
+                ]
+            },
+            "properties": {
+                "name": "Gajtan",
+                "article": "https://en.wikipedia.org/wiki/Gajtan,_Albania"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.4925,
+                    41.759444444
+                ]
+            },
+            "properties": {
+                "name": "Gramë Lake",
+                "article": "https://en.wikipedia.org/wiki/Lake_Gram%C3%AB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.806666666,
+                    42.460555555
+                ]
+            },
+            "properties": {
+                "name": "Great Lake of Buni Jezerce",
+                "article": "https://en.wikipedia.org/wiki/Great_Lake_of_Buni_Jezerce"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.122,
+                    42.525
+                ]
+            },
+            "properties": {
+                "name": "Gusan",
+                "article": "https://en.wikipedia.org/wiki/Gusan_(Accursed_Mountains)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.006,
+                    39.69
+                ]
+            },
+            "properties": {
+                "name": "Tongo Island",
+                "article": "https://en.wikipedia.org/wiki/Tongo_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.576,
+                    41.918
+                ]
+            },
+            "properties": {
+                "name": "Kalabak",
+                "article": "https://en.wikipedia.org/wiki/Kallabak_(mountain)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.81444444,
+                    41.32805556
+                ]
+            },
+            "properties": {
+                "name": "Kavaja Street",
+                "article": "https://en.wikipedia.org/wiki/Kavaja_Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.181389,
+                    42.719167
+                ]
+            },
+            "properties": {
+                "name": "Kepi Bar",
+                "article": "https://en.wikipedia.org/wiki/Kepi_Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.20361111,
+                    41.42333333
+                ]
+            },
+            "properties": {
+                "name": "Krasta",
+                "article": "https://en.wikipedia.org/wiki/Krast%C3%AB,_Dib%C3%ABr"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.3725,
+                    42.09527778
+                ]
+            },
+            "properties": {
+                "name": "Kukës Island",
+                "article": "https://en.wikipedia.org/wiki/Kuk%C3%ABs_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.181388888,
+                    41.785833333
+                ]
+            },
+            "properties": {
+                "name": "Kunora e Lurës",
+                "article": "https://en.wikipedia.org/wiki/Kunora_e_Lur%C3%ABs"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.076666666,
+                    42.529722222
+                ]
+            },
+            "properties": {
+                "name": "Lake Dash",
+                "article": "https://en.wikipedia.org/wiki/Lake_Dash"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7995,
+                    42.4657
+                ]
+            },
+            "properties": {
+                "name": "Maja Bojs",
+                "article": "https://en.wikipedia.org/wiki/Maja_e_Boj%C3%ABs"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.725,
+                    42.425
+                ]
+            },
+            "properties": {
+                "name": "Maja Briaset",
+                "article": "https://en.wikipedia.org/wiki/Maja_e_Brijasit"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.9,
+                    42.4
+                ]
+            },
+            "properties": {
+                "name": "Maja Grykat e Hapëta",
+                "article": "https://en.wikipedia.org/wiki/Grykat_e_Hap%C3%ABta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.9046,
+                    42.4087
+                ]
+            },
+            "properties": {
+                "name": "Maja Grykat e Hapëta",
+                "article": "https://en.wikipedia.org/wiki/Grykat_e_Hap%C3%ABta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8162,
+                    42.4499
+                ]
+            },
+            "properties": {
+                "name": "Maja Kokervhake",
+                "article": "https://en.wikipedia.org/wiki/Maja_e_Kok%C3%ABrhan%C3%ABs"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.760833,
+                    42.48
+                ]
+            },
+            "properties": {
+                "name": "Maja Shkurt",
+                "article": "https://en.wikipedia.org/wiki/Maja_Shkurt"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7497,
+                    42.5511
+                ]
+            },
+            "properties": {
+                "name": "Trojan",
+                "article": "https://en.wikipedia.org/wiki/Trojan_(mountain)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7362,
+                    42.4343
+                ]
+            },
+            "properties": {
+                "name": "Maja Visens",
+                "article": "https://en.wikipedia.org/wiki/Maja_e_Vishnjes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7719,
+                    42.4887
+                ]
+            },
+            "properties": {
+                "name": "Maja Vukocës",
+                "article": "https://en.wikipedia.org/wiki/Maja_e_Vukoc%C3%ABs"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.695,
+                    42.5575
+                ]
+            },
+            "properties": {
+                "name": "Maja e Grebenit",
+                "article": "https://en.wikipedia.org/wiki/Maja_e_Grebenit"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.716666666,
+                    42.316666666
+                ]
+            },
+            "properties": {
+                "name": "Maja e Elbunit",
+                "article": "https://en.wikipedia.org/wiki/Maja_e_Elbunit"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.451,
+                    40.8351
+                ]
+            },
+            "properties": {
+                "name": "Maja e Gurit të Topit",
+                "article": "https://en.wikipedia.org/wiki/Guri_i_Topit"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.9672,
+                    42.3853
+                ]
+            },
+            "properties": {
+                "name": "Maja e Hekurave",
+                "article": "https://en.wikipedia.org/wiki/Mali_i_Hekurave"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.966944444,
+                    42.388055555
+                ]
+            },
+            "properties": {
+                "name": "Maja e Hekurave",
+                "article": "https://en.wikipedia.org/wiki/Mali_i_Hekurave"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.796,
+                    42.4486
+                ]
+            },
+            "properties": {
+                "name": "Maja e Malësores",
+                "article": "https://en.wikipedia.org/wiki/Maja_e_Mal%C3%ABsores"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.5419,
+                    41.8016
+                ]
+            },
+            "properties": {
+                "name": "Maja e Ragamit",
+                "article": "https://en.wikipedia.org/wiki/Maja_e_Rragamit"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7266,
+                    42.445
+                ]
+            },
+            "properties": {
+                "name": "Maja e Risklit",
+                "article": "https://en.wikipedia.org/wiki/Maja_e_Reshkullit"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.15,
+                    40.7075
+                ]
+            },
+            "properties": {
+                "name": "Maja e Tomorrit",
+                "article": "https://en.wikipedia.org/wiki/Maja_e_Tomorrit"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7369,
+                    42.4726
+                ]
+            },
+            "properties": {
+                "name": "Maja e Shënikut",
+                "article": "https://en.wikipedia.org/wiki/Maja_e_Shnikut"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.7906,
+                    40.3734
+                ]
+            },
+            "properties": {
+                "name": "Maja e Vallamarës",
+                "article": "https://en.wikipedia.org/wiki/Maja_e_Vallamar%C3%ABs"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.533333333,
+                    42.366666666
+                ]
+            },
+            "properties": {
+                "name": "Maja e Veleçikut",
+                "article": "https://en.wikipedia.org/wiki/Vele%C3%A7ik"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.483333333,
+                    41.733333333
+                ]
+            },
+            "properties": {
+                "name": "Mali i Gramës",
+                "article": "https://en.wikipedia.org/wiki/Gram%C3%AB_(mountain)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.766666666,
+                    40.333333333
+                ]
+            },
+            "properties": {
+                "name": "Mali i Mesit",
+                "article": "https://en.wikipedia.org/wiki/Mesi_(mountain)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.241,
+                    41.466
+                ]
+            },
+            "properties": {
+                "name": "Cow's Mountain",
+                "article": "https://en.wikipedia.org/wiki/Mali_i_Lop%C3%ABs"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.46055556,
+                    42.00833333
+                ]
+            },
+            "properties": {
+                "name": "Malsori Island",
+                "article": "https://en.wikipedia.org/wiki/Malsori_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.1981,
+                    41.5694
+                ]
+            },
+            "properties": {
+                "name": "Micekus",
+                "article": "https://en.wikipedia.org/wiki/Miceku"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.3114,
+                    41.5753
+                ]
+            },
+            "properties": {
+                "name": "Mount Arith",
+                "article": "https://en.wikipedia.org/wiki/Mount_Arith"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.299,
+                    40.0289
+                ]
+            },
+            "properties": {
+                "name": "Mount Bureto",
+                "article": "https://en.wikipedia.org/wiki/Bureto_(mountain)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.23333,
+                    40.13333
+                ]
+            },
+            "properties": {
+                "name": "Mount Lunxhëri",
+                "article": "https://en.wikipedia.org/wiki/Lunxh%C3%ABri_(mountain)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.2427,
+                    40.1394
+                ]
+            },
+            "properties": {
+                "name": "Mount Lunxhëri",
+                "article": "https://en.wikipedia.org/wiki/Lunxh%C3%ABri_(mountain)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0594,
+                    40.3385
+                ]
+            },
+            "properties": {
+                "name": "Mount Shëndelli",
+                "article": "https://en.wikipedia.org/wiki/Sh%C3%ABndelli"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.45,
+                    40.58
+                ]
+            },
+            "properties": {
+                "name": "Ostrovicë",
+                "article": "https://en.wikipedia.org/wiki/Ostrovic%C3%AB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8314,
+                    41.3211
+                ]
+            },
+            "properties": {
+                "name": "Pjetër Budi Street",
+                "article": "https://en.wikipedia.org/wiki/Pjet%C3%ABr_Budi_Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.833333333,
+                    40.883333333
+                ]
+            },
+            "properties": {
+                "name": "Pllaja e Pusit",
+                "article": "https://en.wikipedia.org/wiki/Pllaja_e_Pusit"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.527,
+                    41.699
+                ]
+            },
+            "properties": {
+                "name": "Ploča",
+                "article": "https://en.wikipedia.org/wiki/Pllo%C3%A7%C3%AB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.832878,
+                    41.339368
+                ]
+            },
+            "properties": {
+                "name": "Prison Hospital of Tirana",
+                "article": "https://en.wikipedia.org/wiki/Prison_Hospital_of_Tirana"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.025833333,
+                    41.866111111
+                ]
+            },
+            "properties": {
+                "name": "Reps",
+                "article": "https://en.wikipedia.org/wiki/Reps"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.09,
+                    42.526
+                ]
+            },
+            "properties": {
+                "name": "Lake Sylbicë",
+                "article": "https://en.wikipedia.org/wiki/Lake_Sylbic%C3%AB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.286666666,
+                    41.435
+                ]
+            },
+            "properties": {
+                "name": "Sope Lake",
+                "article": "https://en.wikipedia.org/wiki/Lake_Sopa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.47,
+                    41.2
+                ]
+            },
+            "properties": {
+                "name": "Shebenik",
+                "article": "https://en.wikipedia.org/wiki/Shebenik"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.128,
+                    42.457
+                ]
+            },
+            "properties": {
+                "name": "Shkëlzen",
+                "article": "https://en.wikipedia.org/wiki/Shk%C3%ABlzen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.5419,
+                    41.8016
+                ]
+            },
+            "properties": {
+                "name": "Shulani i Radomirës",
+                "article": "https://en.wikipedia.org/wiki/Maja_e_Radomir%C3%ABs"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.2,
+                    40.2
+                ]
+            },
+            "properties": {
+                "name": "Southern Albanian Highlands",
+                "article": "https://en.wikipedia.org/wiki/Southern_Mountain_Region_(Albania)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8042224,
+                    41.3300497
+                ]
+            },
+            "properties": {
+                "name": "Tirana Mosaic",
+                "article": "https://en.wikipedia.org/wiki/Tirana_Mosaic"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.07889,
+                    42.555277777
+                ]
+            },
+            "properties": {
+                "name": "Trekufiri",
+                "article": "https://en.wikipedia.org/wiki/Trekufiri"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.465,
+                    40.793611111
+                ]
+            },
+            "properties": {
+                "name": "Valamara",
+                "article": "https://en.wikipedia.org/wiki/Valamara"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.525,
+                    41.637
+                ]
+            },
+            "properties": {
+                "name": "Velivar",
+                "article": "https://en.wikipedia.org/wiki/Velivar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.648333,
+                    41.400833
+                ]
+            },
+            "properties": {
+                "name": "Vorë Railway Station",
+                "article": "https://en.wikipedia.org/wiki/Vor%C3%AB_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.1323,
+                    40.0748
+                ]
+            },
+            "properties": {
+                "name": "Zekate House",
+                "article": "https://en.wikipedia.org/wiki/Zekate_House"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.144,
+                    40.707
+                ]
+            },
+            "properties": {
+                "name": "Çuka e Partizanit",
+                "article": "https://en.wikipedia.org/wiki/%C3%87uka_Partizani"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.595,
+                    41.877
+                ]
+            },
+            "properties": {
+                "name": "Kësula e Priftit Peak",
+                "article": "https://en.wikipedia.org/wiki/Ksulje_e_Priftit_Peak"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.4325,
+                    40.124166666
+                ]
+            },
+            "properties": {
+                "name": "Maja e Papingut",
+                "article": "https://en.wikipedia.org/wiki/Maja_e_Papingut"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.84888889,
+                    40.28638889
+                ]
+            },
+            "properties": {
+                "name": "Maja e Këndrevicës",
+                "article": "https://en.wikipedia.org/wiki/Griba"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.860555555,
+                    41.314722222
+                ]
+            },
+            "properties": {
+                "name": "Farka Lake",
+                "article": "https://en.wikipedia.org/wiki/Farka_Lake"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.55,
+                    42.4314
+                ]
+            },
+            "properties": {
+                "name": "Maja e Popljuces",
+                "article": "https://en.wikipedia.org/wiki/Maja_e_Poplluk%C3%ABs"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7047,
+                    42.4211
+                ]
+            },
+            "properties": {
+                "name": "Maja Tat",
+                "article": "https://en.wikipedia.org/wiki/Maja_Tat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.616666666,
+                    40.616666666
+                ]
+            },
+            "properties": {
+                "name": "Gurëzezë",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.591,
+                    41.629
+                ]
+            },
+            "properties": {
+                "name": "Patoku Lagoon",
+                "article": "https://en.wikipedia.org/wiki/Patok_Lagoon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.60167,
+                    41.62611
+                ]
+            },
+            "properties": {
+                "name": "Patoku Lagoon",
+                "article": "https://en.wikipedia.org/wiki/Patok_Lagoon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.954527777,
+                    41.314916666
+                ]
+            },
+            "properties": {
+                "name": "Mali i Priskës",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.86580556,
+                    40.6675
+                ]
+            },
+            "properties": {
+                "name": "Mount Shpirag",
+                "article": "https://en.wikipedia.org/wiki/Shpirag"
+            }
+        }
+    ]
+}

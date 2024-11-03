@@ -1,0 +1,5605 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.465889,
+                    30.333071
+                ]
+            },
+            "properties": {
+                "name": "Vaux Moise",
+                "article": "https://en.wikipedia.org/wiki/Vaux_Moise"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.1,
+                    32.083333333
+                ]
+            },
+            "properties": {
+                "name": "Zarqa",
+                "article": "https://en.wikipedia.org/wiki/Zarqa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.616669,
+                    32.450001
+                ]
+            },
+            "properties": {
+                "name": "Pella",
+                "article": "https://en.wikipedia.org/wiki/Pella,_Jordan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.0,
+                    29.516666666
+                ]
+            },
+            "properties": {
+                "name": "Aqaba",
+                "article": "https://en.wikipedia.org/wiki/Aqaba"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.85,
+                    32.555555555
+                ]
+            },
+            "properties": {
+                "name": "Irbid",
+                "article": "https://en.wikipedia.org/wiki/Irbid"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.87,
+                    32.683055555
+                ]
+            },
+            "properties": {
+                "name": "Raphana",
+                "article": "https://en.wikipedia.org/wiki/Raphana"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.205,
+                    32.342777777
+                ]
+            },
+            "properties": {
+                "name": "Mafraq",
+                "article": "https://en.wikipedia.org/wiki/Mafraq"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.976,
+                    31.988
+                ]
+            },
+            "properties": {
+                "name": "Ayn Ghazal",
+                "article": "https://en.wikipedia.org/wiki/Ayn_Ghazal_(archaeological_site)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.4,
+                    29.58333
+                ]
+            },
+            "properties": {
+                "name": "Jabal Ram",
+                "article": "https://en.wikipedia.org/wiki/Jabal_Ram"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.725555555,
+                    31.767777777
+                ]
+            },
+            "properties": {
+                "name": "Mount Nebo",
+                "article": "https://en.wikipedia.org/wiki/Mount_Nebo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.983333333,
+                    31.9
+                ]
+            },
+            "properties": {
+                "name": "Rajib",
+                "article": "https://en.wikipedia.org/wiki/Al-Rajib"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.46138889,
+                    30.41361111
+                ]
+            },
+            "properties": {
+                "name": "Ba'ja",
+                "article": "https://en.wikipedia.org/wiki/Ba%27ja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.534183333,
+                    31.253927777
+                ]
+            },
+            "properties": {
+                "name": "Bab edh-Dhra",
+                "article": "https://en.wikipedia.org/wiki/Bab_edh-Dhra"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.919722222,
+                    31.499722222
+                ]
+            },
+            "properties": {
+                "name": "Umm ar-Rasas",
+                "article": "https://en.wikipedia.org/wiki/Umm_ar-Rasas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.727222222,
+                    32.039166666
+                ]
+            },
+            "properties": {
+                "name": "Salt",
+                "article": "https://en.wikipedia.org/wiki/As-Salt"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.727222222,
+                    32.039166666
+                ]
+            },
+            "properties": {
+                "name": "Salt",
+                "article": "https://en.wikipedia.org/wiki/As-Salt"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.00479,
+                    31.87032
+                ]
+            },
+            "properties": {
+                "name": "Sahab",
+                "article": "https://en.wikipedia.org/wiki/Sahab,_Jordan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.81831,
+                    31.9545
+                ]
+            },
+            "properties": {
+                "name": "Wadi Al-Seer",
+                "article": "https://en.wikipedia.org/wiki/Wadi_Al-Seer"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.751666666,
+                    32.3325
+                ]
+            },
+            "properties": {
+                "name": "Ajloun",
+                "article": "https://en.wikipedia.org/wiki/Ajloun"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.751666666,
+                    32.3325
+                ]
+            },
+            "properties": {
+                "name": "Ajloun",
+                "article": "https://en.wikipedia.org/wiki/Ajloun"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.858417,
+                    32.598593
+                ]
+            },
+            "properties": {
+                "name": "Bayt Ras",
+                "article": "https://en.wikipedia.org/wiki/Capitolias"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.45145,
+                    30.32206
+                ]
+            },
+            "properties": {
+                "name": "Al Khazneh",
+                "article": "https://en.wikipedia.org/wiki/Al-Khazneh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.429166666,
+                    29.308333333
+                ]
+            },
+            "properties": {
+                "name": "Jabal Umm ad Dami",
+                "article": "https://en.wikipedia.org/wiki/Jabal_Umm_ad_Dami"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.87,
+                    32.68305556
+                ]
+            },
+            "properties": {
+                "name": "Abila",
+                "article": "https://en.wikipedia.org/wiki/Abila_(Decapolis)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.829722222,
+                    32.03
+                ]
+            },
+            "properties": {
+                "name": "Suwaylih",
+                "article": "https://en.wikipedia.org/wiki/Sweileh_area"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.64055556,
+                    31.86083333
+                ]
+            },
+            "properties": {
+                "name": "Ghassulian",
+                "article": "https://en.wikipedia.org/wiki/Ghassulian"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.63361,
+                    31.56694
+                ]
+            },
+            "properties": {
+                "name": "Machaerus",
+                "article": "https://en.wikipedia.org/wiki/Machaerus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.446945,
+                    30.321943
+                ]
+            },
+            "properties": {
+                "name": "High Place of Sacrifice",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.595105555,
+                    32.398983333
+                ]
+            },
+            "properties": {
+                "name": "Tell Abu al-Kharaz",
+                "article": "https://en.wikipedia.org/wiki/Tell_Abu_al-Kharaz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.8,
+                    31.716666666
+                ]
+            },
+            "properties": {
+                "name": "Madaba",
+                "article": "https://en.wikipedia.org/wiki/Madaba"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.65611111,
+                    32.62083333
+                ]
+            },
+            "properties": {
+                "name": "Tall Zira'a",
+                "article": "https://en.wikipedia.org/wiki/Tall_Zira%27a"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.45444444,
+                    31.72375
+                ]
+            },
+            "properties": {
+                "name": "Kharaneh IV",
+                "article": "https://en.wikipedia.org/wiki/Kharaneh_IV"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.58,
+                    31.95
+                ]
+            },
+            "properties": {
+                "name": "Battle of Karameh",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Karameh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.45138931,
+                    30.37527847
+                ]
+            },
+            "properties": {
+                "name": "Little Petra",
+                "article": "https://en.wikipedia.org/wiki/Little_Petra"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.809183333,
+                    32.284288888
+                ]
+            },
+            "properties": {
+                "name": "Sakib",
+                "article": "https://en.wikipedia.org/wiki/Sakib"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.2281,
+                    31.7994
+                ]
+            },
+            "properties": {
+                "name": "Battle of Ammunition Hill",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Ammunition_Hill"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.046388888,
+                    32.017777777
+                ]
+            },
+            "properties": {
+                "name": "Russeifa",
+                "article": "https://en.wikipedia.org/wiki/Russeifa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.980277777,
+                    29.547222222
+                ]
+            },
+            "properties": {
+                "name": "Tell el-Kheleifeh",
+                "article": "https://en.wikipedia.org/wiki/Tell_el-Kheleifeh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.8910698,
+                    32.2818498
+                ]
+            },
+            "properties": {
+                "name": "Temple of Artemis",
+                "article": "https://en.wikipedia.org/wiki/Temple_of_Artemis,_Jerash"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.604444444,
+                    30.8375
+                ]
+            },
+            "properties": {
+                "name": "Tafilah",
+                "article": "https://en.wikipedia.org/wiki/Tafilah"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.547222222,
+                    31.836944444
+                ]
+            },
+            "properties": {
+                "name": "Bethabara",
+                "article": "https://en.wikipedia.org/wiki/Bethabara"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.939363,
+                    31.951673
+                ]
+            },
+            "properties": {
+                "name": "Roman Theatre of Amman",
+                "article": "https://en.wikipedia.org/wiki/Roman_Theatre_(Amman)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.447756,
+                    30.37078
+                ]
+            },
+            "properties": {
+                "name": "Beidha",
+                "article": "https://en.wikipedia.org/wiki/Beidha_(archaeological_site)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.227655555,
+                    32.508125
+                ]
+            },
+            "properties": {
+                "name": "Silat al-Harithiya",
+                "article": "https://en.wikipedia.org/wiki/Silat_al-Harithiya"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.407,
+                    30.317
+                ]
+            },
+            "properties": {
+                "name": "Mount Haroun",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.40653791,
+                    30.316777048
+                ]
+            },
+            "properties": {
+                "name": "Mount Hor",
+                "article": "https://en.wikipedia.org/wiki/Mount_Hor"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.406537911,
+                    30.31677705
+                ]
+            },
+            "properties": {
+                "name": "Mount Hor",
+                "article": "https://en.wikipedia.org/wiki/Mount_Hor"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.4683,
+                    30.3339
+                ]
+            },
+            "properties": {
+                "name": "Q3032828",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.858333333,
+                    32.598611111
+                ]
+            },
+            "properties": {
+                "name": "Dion",
+                "article": "https://en.wikipedia.org/wiki/Dium_(Coele-Syria)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.9343,
+                    31.9547
+                ]
+            },
+            "properties": {
+                "name": "Amman Citadel",
+                "article": "https://en.wikipedia.org/wiki/Amman_Citadel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.868055555,
+                    30.690833333
+                ]
+            },
+            "properties": {
+                "name": "Khirbet es-Samra",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.225555555,
+                    31.778888888
+                ]
+            },
+            "properties": {
+                "name": "Jerusalem",
+                "article": "https://en.wikipedia.org/wiki/Jerusalem"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.933333333,
+                    31.95
+                ]
+            },
+            "properties": {
+                "name": "Amman",
+                "article": "https://en.wikipedia.org/wiki/Amman"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.440277777,
+                    30.328888888
+                ]
+            },
+            "properties": {
+                "name": "Petra",
+                "article": "https://en.wikipedia.org/wiki/Petra"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.440277777,
+                    30.328888888
+                ]
+            },
+            "properties": {
+                "name": "Petra",
+                "article": "https://en.wikipedia.org/wiki/Petra"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.891397222,
+                    32.272280555
+                ]
+            },
+            "properties": {
+                "name": "Jerash",
+                "article": "https://en.wikipedia.org/wiki/Jerash"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.705,
+                    31.184444444
+                ]
+            },
+            "properties": {
+                "name": "Al-Karak",
+                "article": "https://en.wikipedia.org/wiki/Al-Karak"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.006944444,
+                    32.559166666
+                ]
+            },
+            "properties": {
+                "name": "Ar Ramtha",
+                "article": "https://en.wikipedia.org/wiki/Ar-Ramtha"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.733333333,
+                    30.193333333
+                ]
+            },
+            "properties": {
+                "name": "Ma'an",
+                "article": "https://en.wikipedia.org/wiki/Ma%27an"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.864444444,
+                    32.025555555
+                ]
+            },
+            "properties": {
+                "name": "Al Jubayhah",
+                "article": "https://en.wikipedia.org/wiki/Jubeiha_area"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.95,
+                    31.916666666
+                ]
+            },
+            "properties": {
+                "name": "Al Quwaysimah",
+                "article": "https://en.wikipedia.org/wiki/Al-Quwaysimah_(Jordan)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.649,
+                    32.1948
+                ]
+            },
+            "properties": {
+                "name": "Tell Hammeh",
+                "article": "https://en.wikipedia.org/wiki/Tell_Hammeh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.94944444,
+                    31.95611111
+                ]
+            },
+            "properties": {
+                "name": "Raghadan Palace",
+                "article": "https://en.wikipedia.org/wiki/Raghadan_Palace"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.88,
+                    32.487
+                ]
+            },
+            "properties": {
+                "name": "Al Husn",
+                "article": "https://en.wikipedia.org/wiki/Al_Husn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.07083389,
+                    32.08737389
+                ]
+            },
+            "properties": {
+                "name": "Khirbet al-Batrawy",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.72527778,
+                    31.76777778
+                ]
+            },
+            "properties": {
+                "name": "Q3861775",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.65972222,
+                    32.36416667
+                ]
+            },
+            "properties": {
+                "name": "Al Hashimiyya",
+                "article": "https://en.wikipedia.org/wiki/Al_Hashimiyya"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.898611111,
+                    32.503055555
+                ]
+            },
+            "properties": {
+                "name": "Sarieh",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.81666667,
+                    31.95
+                ]
+            },
+            "properties": {
+                "name": "Marj Al-hamam",
+                "article": "https://en.wikipedia.org/wiki/Marj_Al-Hamam_area"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.563333,
+                    31.467222
+                ]
+            },
+            "properties": {
+                "name": "Aroer",
+                "article": "https://en.wikipedia.org/wiki/Aroer"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.13333,
+                    29.6
+                ]
+            },
+            "properties": {
+                "name": "Baggir",
+                "article": "https://en.wikipedia.org/wiki/Jabal_Ahmad_al_Baqir"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.9333,
+                    31.9333
+                ]
+            },
+            "properties": {
+                "name": "First Battle of Amman",
+                "article": "https://en.wikipedia.org/wiki/First_Battle_of_Amman"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.271537222,
+                    32.130239166
+                ]
+            },
+            "properties": {
+                "name": "Dhlail",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.756666666,
+                    32.306388888
+                ]
+            },
+            "properties": {
+                "name": "Ajloun",
+                "article": "https://en.wikipedia.org/wiki/Anjara"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.73,
+                    32.36
+                ]
+            },
+            "properties": {
+                "name": "Iraq ed-Dubb",
+                "article": "https://en.wikipedia.org/wiki/Iraq_ed-Dubb"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.703333,
+                    30.906389
+                ]
+            },
+            "properties": {
+                "name": "Khirbet ed-Dharih",
+                "article": "https://en.wikipedia.org/wiki/Khirbet_edh-Dharih"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.44194444,
+                    30.32861111
+                ]
+            },
+            "properties": {
+                "name": "Hare Edeom",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.95175,
+                    31.955138888
+                ]
+            },
+            "properties": {
+                "name": "Al-Joufa Mountain",
+                "article": "https://en.wikipedia.org/wiki/Al-Joufa_Mountain"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.529399,
+                    31.131588
+                ]
+            },
+            "properties": {
+                "name": "Numeira",
+                "article": "https://en.wikipedia.org/wiki/Numeira"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.7518,
+                    31.9128
+                ]
+            },
+            "properties": {
+                "name": "Qasr al Abd",
+                "article": "https://en.wikipedia.org/wiki/Qasr_al-Abd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.5027,
+                    31.0468
+                ]
+            },
+            "properties": {
+                "name": "Sanctuary of Agios Lot",
+                "article": "https://en.wikipedia.org/wiki/Monastery_of_St_Lot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.91008333,
+                    31.96372222
+                ]
+            },
+            "properties": {
+                "name": "Vertex Tower",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.830833333,
+                    32.06
+                ]
+            },
+            "properties": {
+                "name": "Ain Al-Basha",
+                "article": "https://en.wikipedia.org/wiki/Ain_Al-Basha"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.559305555,
+                    31.597
+                ]
+            },
+            "properties": {
+                "name": "Ayn al-Zara",
+                "article": "https://en.wikipedia.org/wiki/Ayn_al-Zara"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.9,
+                    31.65
+                ]
+            },
+            "properties": {
+                "name": "Q11953942",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.923055555,
+                    31.950555555
+                ]
+            },
+            "properties": {
+                "name": "Jabal Amman",
+                "article": "https://en.wikipedia.org/wiki/Jabal_Amman"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.608,
+                    32.61
+                ]
+            },
+            "properties": {
+                "name": "Al-Shuna al-Shamalyah",
+                "article": "https://en.wikipedia.org/wiki/Al-Shunah_al-Shamalyah"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.550277777,
+                    31.837222222
+                ]
+            },
+            "properties": {
+                "name": "Al Maghtas",
+                "article": "https://en.wikipedia.org/wiki/Al-Maghtas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.116666666,
+                    32.133333333
+                ]
+            },
+            "properties": {
+                "name": "Al Hashimiya",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.8881,
+                    31.8686
+                ]
+            },
+            "properties": {
+                "name": "'Umayri",
+                "article": "https://en.wikipedia.org/wiki/Tall_al-Umayri"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.7,
+                    32.3
+                ]
+            },
+            "properties": {
+                "name": "Kufranjah",
+                "article": "https://en.wikipedia.org/wiki/Kufranjah_City"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.9071062,
+                    32.475958
+                ]
+            },
+            "properties": {
+                "name": "Husn Camp",
+                "article": "https://en.wikipedia.org/wiki/Husn_Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.53333333,
+                    30.23333333
+                ]
+            },
+            "properties": {
+                "name": "Basta",
+                "article": "https://en.wikipedia.org/wiki/Basta_(archaeological_site)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.333333,
+                    30.0
+                ]
+            },
+            "properties": {
+                "name": "Humeima",
+                "article": "https://en.wikipedia.org/wiki/Humayma"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.4475,
+                    30.321944444
+                ]
+            },
+            "properties": {
+                "name": "Jebel al-Madhbah",
+                "article": "https://en.wikipedia.org/wiki/Jebel_al-Madhbah"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.0033,
+                    32.335
+                ]
+            },
+            "properties": {
+                "name": "Jawa",
+                "article": "https://en.wikipedia.org/wiki/Jawa,_Jordan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.408056,
+                    31.501556
+                ]
+            },
+            "properties": {
+                "name": "Wadi el Jilat",
+                "article": "https://en.wikipedia.org/wiki/Wadi_Jilat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.408056,
+                    31.501667
+                ]
+            },
+            "properties": {
+                "name": "Wadi el Jilat",
+                "article": "https://en.wikipedia.org/wiki/Wadi_Jilat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.866666666,
+                    31.5
+                ]
+            },
+            "properties": {
+                "name": "Al Mushayrifah",
+                "article": "https://en.wikipedia.org/wiki/Al_Mushayrifah_(31%C2%B030%E2%80%B20%E2%80%B3N_35%C2%B052%E2%80%B20%E2%80%B3E)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.052777777,
+                    31.900555555
+                ]
+            },
+            "properties": {
+                "name": "Al Mushayrifah",
+                "article": "https://en.wikipedia.org/wiki/Al_Mushayrifah_(31%C2%B054%E2%80%B22%E2%80%B3N_36%C2%B03%E2%80%B210%E2%80%B3E)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.914976,
+                    31.954383
+                ]
+            },
+            "properties": {
+                "name": "Al Burj",
+                "article": "https://en.wikipedia.org/wiki/Al_Burj_(Amman)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.03410556,
+                    29.56630833
+                ]
+            },
+            "properties": {
+                "name": "Tal Hujayrat Al-Ghuzlan",
+                "article": "https://en.wikipedia.org/wiki/Tall_Hujayrat_Al-Ghuzlan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.90944444,
+                    31.96327778
+                ]
+            },
+            "properties": {
+                "name": "The Heights Tower",
+                "article": "https://en.wikipedia.org/wiki/DAMAC_Tower"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.90827778,
+                    31.96213889
+                ]
+            },
+            "properties": {
+                "name": "Abdali Gateway",
+                "article": "https://en.wikipedia.org/wiki/Campbell_Gray_Living"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.90297222,
+                    31.96402778
+                ]
+            },
+            "properties": {
+                "name": "W Hotel Amman",
+                "article": "https://en.wikipedia.org/wiki/W_Amman"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.008888888,
+                    32.203888888
+                ]
+            },
+            "properties": {
+                "name": "Kharaysin",
+                "article": "https://en.wikipedia.org/wiki/Kharaysin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.79548,
+                    31.716107
+                ]
+            },
+            "properties": {
+                "name": "Archaeological Park of Madaba",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.392777777,
+                    30.230833333
+                ]
+            },
+            "properties": {
+                "name": "Q27121654",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.253055555,
+                    29.8225
+                ]
+            },
+            "properties": {
+                "name": "Jabal ar Radyah",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.779444444,
+                    32.011666666
+                ]
+            },
+            "properties": {
+                "name": "Q27121659",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.6323,
+                    31.3652
+                ]
+            },
+            "properties": {
+                "name": "Q27121670",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.7312,
+                    31.79772
+                ]
+            },
+            "properties": {
+                "name": "Q27119890",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.9332,
+                    30.6748
+                ]
+            },
+            "properties": {
+                "name": "Q27119889",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.64259,
+                    31.65145
+                ]
+            },
+            "properties": {
+                "name": "Q27119894",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.53223,
+                    29.42098
+                ]
+            },
+            "properties": {
+                "name": "Q27119895",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.4625,
+                    30.736388888
+                ]
+            },
+            "properties": {
+                "name": "Q27119899",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.66038,
+                    32.1173
+                ]
+            },
+            "properties": {
+                "name": "Q27119902",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.5,
+                    30.36667
+                ]
+            },
+            "properties": {
+                "name": "Q27119900",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.5992,
+                    31.5065
+                ]
+            },
+            "properties": {
+                "name": "Q27119907",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.6314,
+                    29.5368
+                ]
+            },
+            "properties": {
+                "name": "Q27119904",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.109722222,
+                    29.633611111
+                ]
+            },
+            "properties": {
+                "name": "Jabal Umm Sidrah",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.20317,
+                    29.47393
+                ]
+            },
+            "properties": {
+                "name": "Q27119922",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.53869,
+                    29.50751
+                ]
+            },
+            "properties": {
+                "name": "Q27119920",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.77984,
+                    30.49422
+                ]
+            },
+            "properties": {
+                "name": "Q27119937",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.2059,
+                    29.7822
+                ]
+            },
+            "properties": {
+                "name": "Q27119945",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.33072,
+                    29.68734
+                ]
+            },
+            "properties": {
+                "name": "Q27119954",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.733333333,
+                    31.816666666
+                ]
+            },
+            "properties": {
+                "name": "Q27119958",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.5424,
+                    29.808
+                ]
+            },
+            "properties": {
+                "name": "Q27119987",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.5192,
+                    30.78
+                ]
+            },
+            "properties": {
+                "name": "Q27120021",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.27806,
+                    30.03952
+                ]
+            },
+            "properties": {
+                "name": "Q27120029",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.5158,
+                    30.3279
+                ]
+            },
+            "properties": {
+                "name": "Jaba Zubayrah",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.32921,
+                    30.02168
+                ]
+            },
+            "properties": {
+                "name": "Q27120040",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.9948,
+                    32.4387
+                ]
+            },
+            "properties": {
+                "name": "Q27120072",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.884166666,
+                    32.723055555
+                ]
+            },
+            "properties": {
+                "name": "Al-Wehda Reservoir",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.4,
+                    30.35
+                ]
+            },
+            "properties": {
+                "name": "Jabal as Sumrah",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.888611111,
+                    32.157777777
+                ]
+            },
+            "properties": {
+                "name": "Q27120934",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.161388888,
+                    31.395277777
+                ]
+            },
+            "properties": {
+                "name": "Q27120943",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.539166666,
+                    31.133055555
+                ]
+            },
+            "properties": {
+                "name": "Q27120946",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.48181,
+                    30.07723
+                ]
+            },
+            "properties": {
+                "name": "Q27120944",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.1504,
+                    29.8587
+                ]
+            },
+            "properties": {
+                "name": "Q27120945",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.6517,
+                    30.815
+                ]
+            },
+            "properties": {
+                "name": "Q27120950",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.51667,
+                    30.95
+                ]
+            },
+            "properties": {
+                "name": "Q27120949",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.827222222,
+                    32.1
+                ]
+            },
+            "properties": {
+                "name": "Q27120958",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.4841,
+                    30.2431
+                ]
+            },
+            "properties": {
+                "name": "Q27120959",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.5,
+                    30.38333
+                ]
+            },
+            "properties": {
+                "name": "Q27120956",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.47,
+                    30.80333
+                ]
+            },
+            "properties": {
+                "name": "Q27120962",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.348333333,
+                    30.349444444
+                ]
+            },
+            "properties": {
+                "name": "Q27120966",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.45,
+                    30.26667
+                ]
+            },
+            "properties": {
+                "name": "Q27120974",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.51427,
+                    29.8187
+                ]
+            },
+            "properties": {
+                "name": "Q27120975",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.563333333,
+                    31.139444444
+                ]
+            },
+            "properties": {
+                "name": "Q27120973",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.2744,
+                    29.8441
+                ]
+            },
+            "properties": {
+                "name": "Q27120977",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.8424,
+                    30.8449
+                ]
+            },
+            "properties": {
+                "name": "Q27120982",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.185,
+                    29.920555555
+                ]
+            },
+            "properties": {
+                "name": "Q27120992",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.85748,
+                    32.15225
+                ]
+            },
+            "properties": {
+                "name": "Jebel et Tuweim",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.439166666,
+                    30.062222222
+                ]
+            },
+            "properties": {
+                "name": "Jabal at Turk",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.46667,
+                    30.08333
+                ]
+            },
+            "properties": {
+                "name": "Q27121006",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.17,
+                    29.7192
+                ]
+            },
+            "properties": {
+                "name": "Q27121007",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.65528,
+                    31.66017
+                ]
+            },
+            "properties": {
+                "name": "Q27121008",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.28427,
+                    30.00269
+                ]
+            },
+            "properties": {
+                "name": "Q27121014",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.19839,
+                    29.72267
+                ]
+            },
+            "properties": {
+                "name": "Q27121027",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.493888888,
+                    29.821944444
+                ]
+            },
+            "properties": {
+                "name": "Q27121024",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.7975,
+                    32.315
+                ]
+            },
+            "properties": {
+                "name": "Jabal Umm ad Daraj",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.576666666,
+                    31.194166666
+                ]
+            },
+            "properties": {
+                "name": "Q27121030",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.669722222,
+                    30.791666666
+                ]
+            },
+            "properties": {
+                "name": "Q27121031",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.23604,
+                    29.57238
+                ]
+            },
+            "properties": {
+                "name": "Q27121039",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.56667,
+                    31.05
+                ]
+            },
+            "properties": {
+                "name": "Q27121036",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.27439,
+                    29.4434
+                ]
+            },
+            "properties": {
+                "name": "Q27121042",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.6275,
+                    31.2808
+                ]
+            },
+            "properties": {
+                "name": "Q27121043",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.03376,
+                    32.28099
+                ]
+            },
+            "properties": {
+                "name": "Q27121040",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.0017,
+                    32.0992
+                ]
+            },
+            "properties": {
+                "name": "Q27121048",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.25,
+                    29.92
+                ]
+            },
+            "properties": {
+                "name": "Q27121049",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.62474,
+                    31.52908
+                ]
+            },
+            "properties": {
+                "name": "Umm ar Rujm",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.41885,
+                    29.46867
+                ]
+            },
+            "properties": {
+                "name": "Jabal Umm al Muqawwar",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.27941,
+                    29.96663
+                ]
+            },
+            "properties": {
+                "name": "Q27121061",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.87434,
+                    29.43756
+                ]
+            },
+            "properties": {
+                "name": "Q27121066",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.7042,
+                    30.8183
+                ]
+            },
+            "properties": {
+                "name": "Q27121067",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.45,
+                    30.05
+                ]
+            },
+            "properties": {
+                "name": "Q27121076",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.55928,
+                    29.52631
+                ]
+            },
+            "properties": {
+                "name": "Q27121080",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.68786,
+                    30.64838
+                ]
+            },
+            "properties": {
+                "name": "Q27121084",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.21667,
+                    29.71667
+                ]
+            },
+            "properties": {
+                "name": "Q27121091",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.633333333,
+                    31.266666666
+                ]
+            },
+            "properties": {
+                "name": "Q27121093",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.59104,
+                    31.04225
+                ]
+            },
+            "properties": {
+                "name": "Q27121671",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.66953,
+                    32.40789
+                ]
+            },
+            "properties": {
+                "name": "Q27121672",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.476944444,
+                    30.668333333
+                ]
+            },
+            "properties": {
+                "name": "Q27121677",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.21667,
+                    29.55
+                ]
+            },
+            "properties": {
+                "name": "Jabal ar Ratwah",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.699444444,
+                    30.703611111
+                ]
+            },
+            "properties": {
+                "name": "Jabal ar Rudaysah",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.1277,
+                    32.3489
+                ]
+            },
+            "properties": {
+                "name": "Q27121707",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.295,
+                    31.8817
+                ]
+            },
+            "properties": {
+                "name": "Q27121705",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.45656,
+                    29.56551
+                ]
+            },
+            "properties": {
+                "name": "Q27121708",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.3904,
+                    30.18081
+                ]
+            },
+            "properties": {
+                "name": "Jabal ar Rumayl",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.3706,
+                    29.59586
+                ]
+            },
+            "properties": {
+                "name": "Q27121713",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.48798,
+                    30.19749
+                ]
+            },
+            "properties": {
+                "name": "Q27121719",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.266666666,
+                    29.983333333
+                ]
+            },
+            "properties": {
+                "name": "Q27121721",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.583333333,
+                    31.366666666
+                ]
+            },
+            "properties": {
+                "name": "Q27121728",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.8317,
+                    32.4325
+                ]
+            },
+            "properties": {
+                "name": "Q27121736",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.4548,
+                    30.4602
+                ]
+            },
+            "properties": {
+                "name": "Q27121737",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.61667,
+                    30.85
+                ]
+            },
+            "properties": {
+                "name": "Q27121740",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.5725,
+                    31.9442
+                ]
+            },
+            "properties": {
+                "name": "Q27121747",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.4367,
+                    31.7837
+                ]
+            },
+            "properties": {
+                "name": "Q27121744",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.5142,
+                    30.8317
+                ]
+            },
+            "properties": {
+                "name": "Q27121750",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.098333333,
+                    29.573055555
+                ]
+            },
+            "properties": {
+                "name": "Q27121753",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.366666666,
+                    31.883333333
+                ]
+            },
+            "properties": {
+                "name": "Q27121758",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.516111111,
+                    29.745
+                ]
+            },
+            "properties": {
+                "name": "Jabal as Salaqah",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.6477,
+                    29.4741
+                ]
+            },
+            "properties": {
+                "name": "Q27121768",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.61774,
+                    30.80355
+                ]
+            },
+            "properties": {
+                "name": "Q27121774",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.6983,
+                    30.8433
+                ]
+            },
+            "properties": {
+                "name": "Q27121775",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.6889,
+                    30.1742
+                ]
+            },
+            "properties": {
+                "name": "Q27121780",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.1082,
+                    29.4827
+                ]
+            },
+            "properties": {
+                "name": "Q27121781",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.18449,
+                    32.13473
+                ]
+            },
+            "properties": {
+                "name": "Q27121787",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.639722222,
+                    31.406111111
+                ]
+            },
+            "properties": {
+                "name": "Q27121784",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.5924,
+                    30.6945
+                ]
+            },
+            "properties": {
+                "name": "Q27121791",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.0425,
+                    32.170555555
+                ]
+            },
+            "properties": {
+                "name": "Q27121789",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.03443,
+                    29.52954
+                ]
+            },
+            "properties": {
+                "name": "Q27121803",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.623888888,
+                    31.413055555
+                ]
+            },
+            "properties": {
+                "name": "Jabal ash Sharnayn",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.11616,
+                    29.40203
+                ]
+            },
+            "properties": {
+                "name": "Q27121817",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.73648,
+                    31.37959
+                ]
+            },
+            "properties": {
+                "name": "Shehan",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.7708,
+                    32.4192
+                ]
+            },
+            "properties": {
+                "name": "Q27121825",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.84842,
+                    32.13553
+                ]
+            },
+            "properties": {
+                "name": "Q27121832",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.18026,
+                    29.75586
+                ]
+            },
+            "properties": {
+                "name": "Q27121836",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.484166666,
+                    30.443888888
+                ]
+            },
+            "properties": {
+                "name": "Q27121843",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.30489,
+                    30.04014
+                ]
+            },
+            "properties": {
+                "name": "Q27121850",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.11473,
+                    29.51739
+                ]
+            },
+            "properties": {
+                "name": "Q27121848",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.53086,
+                    29.59873
+                ]
+            },
+            "properties": {
+                "name": "Q27121858",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.61667,
+                    30.78333
+                ]
+            },
+            "properties": {
+                "name": "Q27121859",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.72144,
+                    31.76508
+                ]
+            },
+            "properties": {
+                "name": "Q27121856",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.974722222,
+                    32.158611111
+                ]
+            },
+            "properties": {
+                "name": "Q27121872",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.43333,
+                    30.4
+                ]
+            },
+            "properties": {
+                "name": "Q27121876",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.51667,
+                    30.31667
+                ]
+            },
+            "properties": {
+                "name": "Q27121946",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.0934,
+                    31.658
+                ]
+            },
+            "properties": {
+                "name": "Q27121947",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.42511,
+                    30.25993
+                ]
+            },
+            "properties": {
+                "name": "Q27121954",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.948888888,
+                    32.164444444
+                ]
+            },
+            "properties": {
+                "name": "Q27121956",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.4608,
+                    30.1368
+                ]
+            },
+            "properties": {
+                "name": "Q27121957",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.5924,
+                    29.5492
+                ]
+            },
+            "properties": {
+                "name": "Q27122314",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.48333,
+                    30.25
+                ]
+            },
+            "properties": {
+                "name": "Q27122318",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.12559,
+                    29.75731
+                ]
+            },
+            "properties": {
+                "name": "Q27122323",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.55516,
+                    30.93231
+                ]
+            },
+            "properties": {
+                "name": "Q27122331",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.326,
+                    30.1333
+                ]
+            },
+            "properties": {
+                "name": "Q27122332",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.71222,
+                    32.28458
+                ]
+            },
+            "properties": {
+                "name": "Q27122338",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.2,
+                    29.9533
+                ]
+            },
+            "properties": {
+                "name": "Jabal al Murayqibah",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.2899,
+                    30.1167
+                ]
+            },
+            "properties": {
+                "name": "Q27122354",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.240833333,
+                    30.139444444
+                ]
+            },
+            "properties": {
+                "name": "Q27122355",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.609166666,
+                    31.370833333
+                ]
+            },
+            "properties": {
+                "name": "Jabal al Mushayrifah",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.33333,
+                    30.03333
+                ]
+            },
+            "properties": {
+                "name": "Q27122363",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.898888888,
+                    32.1475
+                ]
+            },
+            "properties": {
+                "name": "Q27122360",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.083333333,
+                    31.074166666
+                ]
+            },
+            "properties": {
+                "name": "Q27122365",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.714444444,
+                    32.0125
+                ]
+            },
+            "properties": {
+                "name": "Jabal al Muzawwad",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.97335,
+                    32.17157
+                ]
+            },
+            "properties": {
+                "name": "Q27122372",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.40696,
+                    30.31717
+                ]
+            },
+            "properties": {
+                "name": "Q27122373",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.75468,
+                    30.93081
+                ]
+            },
+            "properties": {
+                "name": "Q27122378",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.34168,
+                    30.03577
+                ]
+            },
+            "properties": {
+                "name": "Q27122379",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.47479,
+                    29.98956
+                ]
+            },
+            "properties": {
+                "name": "Jabal Naqb Ashtar",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.21667,
+                    29.71667
+                ]
+            },
+            "properties": {
+                "name": "Q27122386",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.53802,
+                    29.53937
+                ]
+            },
+            "properties": {
+                "name": "Q27122385",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.38711,
+                    30.26068
+                ]
+            },
+            "properties": {
+                "name": "Q27122407",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.248,
+                    30.1746
+                ]
+            },
+            "properties": {
+                "name": "Q27122410",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.16876,
+                    31.94846
+                ]
+            },
+            "properties": {
+                "name": "Q27122414",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.752222222,
+                    32.040833333
+                ]
+            },
+            "properties": {
+                "name": "Q27122413",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.45,
+                    30.03333
+                ]
+            },
+            "properties": {
+                "name": "Q27122416",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.58808,
+                    29.71631
+                ]
+            },
+            "properties": {
+                "name": "Q27122417",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.56992,
+                    30.80058
+                ]
+            },
+            "properties": {
+                "name": "Q27122431",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.2608,
+                    29.88
+                ]
+            },
+            "properties": {
+                "name": "Q27122432",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.3686,
+                    29.52
+                ]
+            },
+            "properties": {
+                "name": "Q27122437",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.77822,
+                    30.71462
+                ]
+            },
+            "properties": {
+                "name": "Q27122447",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.348055555,
+                    30.171388888
+                ]
+            },
+            "properties": {
+                "name": "Q27122490",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.721388888,
+                    31.718611111
+                ]
+            },
+            "properties": {
+                "name": "Q27122491",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.823055555,
+                    32.105555555
+                ]
+            },
+            "properties": {
+                "name": "Q27122503",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.6083,
+                    31.135
+                ]
+            },
+            "properties": {
+                "name": "Q27122501",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.646388888,
+                    31.389722222
+                ]
+            },
+            "properties": {
+                "name": "Q27122507",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.616666666,
+                    31.6
+                ]
+            },
+            "properties": {
+                "name": "Q27122512",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.62383,
+                    31.56762
+                ]
+            },
+            "properties": {
+                "name": "Qullat al Mishnaqah",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.157777777,
+                    29.674722222
+                ]
+            },
+            "properties": {
+                "name": "Q27122520",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.4715,
+                    29.8726
+                ]
+            },
+            "properties": {
+                "name": "Q27122521",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.48694,
+                    30.60083
+                ]
+            },
+            "properties": {
+                "name": "Q27122528",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.4133,
+                    30.1533
+                ]
+            },
+            "properties": {
+                "name": "Q27122571",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.4922,
+                    30.39402
+                ]
+            },
+            "properties": {
+                "name": "Q27122575",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.90318,
+                    32.11158
+                ]
+            },
+            "properties": {
+                "name": "Q27122572",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.8733,
+                    32.3342
+                ]
+            },
+            "properties": {
+                "name": "Q27122578",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.48,
+                    30.71
+                ]
+            },
+            "properties": {
+                "name": "Q27122580",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.86344,
+                    30.83399
+                ]
+            },
+            "properties": {
+                "name": "Q27122587",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.50195,
+                    30.26826
+                ]
+            },
+            "properties": {
+                "name": "Q27122792",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.683333333,
+                    31.166666666
+                ]
+            },
+            "properties": {
+                "name": "Q27122798",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.7125,
+                    30.8925
+                ]
+            },
+            "properties": {
+                "name": "Q27122799",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.8964,
+                    32.39337
+                ]
+            },
+            "properties": {
+                "name": "Q27122802",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.2668,
+                    29.4965
+                ]
+            },
+            "properties": {
+                "name": "Q27122803",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.9001,
+                    32.39888
+                ]
+            },
+            "properties": {
+                "name": "Q27122801",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.0892,
+                    29.5342
+                ]
+            },
+            "properties": {
+                "name": "Q27122805",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.8567,
+                    32.2992
+                ]
+            },
+            "properties": {
+                "name": "Q27122810",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.491388888,
+                    30.6475
+                ]
+            },
+            "properties": {
+                "name": "Q27122819",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.456944444,
+                    30.327777777
+                ]
+            },
+            "properties": {
+                "name": "Jabal Khabathah",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.2395,
+                    29.6485
+                ]
+            },
+            "properties": {
+                "name": "Q27122820",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.15121,
+                    29.53422
+                ]
+            },
+            "properties": {
+                "name": "Q27122821",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.046666666,
+                    32.393611111
+                ]
+            },
+            "properties": {
+                "name": "Q27122825",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.61807,
+                    29.87959
+                ]
+            },
+            "properties": {
+                "name": "Q27122843",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.418611111,
+                    29.395833333
+                ]
+            },
+            "properties": {
+                "name": "Q27122840",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.4325,
+                    30.1325
+                ]
+            },
+            "properties": {
+                "name": "Q27122849",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.58333,
+                    31.05
+                ]
+            },
+            "properties": {
+                "name": "Q27122854",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.18996,
+                    29.65214
+                ]
+            },
+            "properties": {
+                "name": "Khudayrat adh Dhikrah",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.6254,
+                    30.8779
+                ]
+            },
+            "properties": {
+                "name": "Q27122867",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.78098,
+                    32.23701
+                ]
+            },
+            "properties": {
+                "name": "Q27122871",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.40983,
+                    30.1913
+                ]
+            },
+            "properties": {
+                "name": "Jabal al Khurmah",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.8602,
+                    30.8733
+                ]
+            },
+            "properties": {
+                "name": "Q27122899",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.597777777,
+                    32.279166666
+                ]
+            },
+            "properties": {
+                "name": "Kurayyimah",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.65307,
+                    29.67233
+                ]
+            },
+            "properties": {
+                "name": "Q27122902",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.30077,
+                    30.17481
+                ]
+            },
+            "properties": {
+                "name": "Q27122904",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.495555555,
+                    30.228888888
+                ]
+            },
+            "properties": {
+                "name": "Q27122905",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.47252,
+                    30.87171
+                ]
+            },
+            "properties": {
+                "name": "Q27122915",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.4369,
+                    30.6532
+                ]
+            },
+            "properties": {
+                "name": "Q27122922",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.58333,
+                    31.05
+                ]
+            },
+            "properties": {
+                "name": "Q27122921",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.451111111,
+                    30.723055555
+                ]
+            },
+            "properties": {
+                "name": "Q27122934",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.55,
+                    30.81667
+                ]
+            },
+            "properties": {
+                "name": "Q27122933",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.505555555,
+                    29.529166666
+                ]
+            },
+            "properties": {
+                "name": "Jabal Mahraj",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.23333,
+                    29.73333
+                ]
+            },
+            "properties": {
+                "name": "Q27122942",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.491944444,
+                    30.574722222
+                ]
+            },
+            "properties": {
+                "name": "Jabal al Malaqah",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.2,
+                    29.58333
+                ]
+            },
+            "properties": {
+                "name": "Q27122963",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.76259,
+                    32.23221
+                ]
+            },
+            "properties": {
+                "name": "Q27122961",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.5883,
+                    30.935
+                ]
+            },
+            "properties": {
+                "name": "Q27122966",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.56897,
+                    29.57281
+                ]
+            },
+            "properties": {
+                "name": "Q27122971",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.6625,
+                    31.165
+                ]
+            },
+            "properties": {
+                "name": "Q27122968",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.50318,
+                    29.61779
+                ]
+            },
+            "properties": {
+                "name": "Q27122969",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.19874,
+                    29.67722
+                ]
+            },
+            "properties": {
+                "name": "Q27122974",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.596944444,
+                    29.722222222
+                ]
+            },
+            "properties": {
+                "name": "Q27123166",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.7687,
+                    30.85344
+                ]
+            },
+            "properties": {
+                "name": "Q27123167",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.61667,
+                    30.78333
+                ]
+            },
+            "properties": {
+                "name": "Q27123185",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.41675,
+                    30.26779
+                ]
+            },
+            "properties": {
+                "name": "Q27123190",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.463611111,
+                    29.946944444
+                ]
+            },
+            "properties": {
+                "name": "Jabal al Jill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.00398,
+                    32.27152
+                ]
+            },
+            "properties": {
+                "name": "Q27123204",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.5613,
+                    31.1025
+                ]
+            },
+            "properties": {
+                "name": "Q27123208",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.413611111,
+                    30.084166666
+                ]
+            },
+            "properties": {
+                "name": "Jabal al Juhayr",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.7175,
+                    31.0425
+                ]
+            },
+            "properties": {
+                "name": "Q27123217",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.23333,
+                    29.63333
+                ]
+            },
+            "properties": {
+                "name": "Q27123222",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.60175,
+                    30.20565
+                ]
+            },
+            "properties": {
+                "name": "Jabal al Juththah",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.48134,
+                    30.15571
+                ]
+            },
+            "properties": {
+                "name": "Q27123231",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.41765,
+                    30.10036
+                ]
+            },
+            "properties": {
+                "name": "Jabal Juwaybil",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.2096,
+                    30.0669
+                ]
+            },
+            "properties": {
+                "name": "Q27123704",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.370555555,
+                    30.197777777
+                ]
+            },
+            "properties": {
+                "name": "Q27123705",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.6737,
+                    30.903
+                ]
+            },
+            "properties": {
+                "name": "Q27123711",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.7188,
+                    32.0793
+                ]
+            },
+            "properties": {
+                "name": "Q27123715",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.6842,
+                    31.2325
+                ]
+            },
+            "properties": {
+                "name": "Q27123727",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.6,
+                    30.933333333
+                ]
+            },
+            "properties": {
+                "name": "Q27123734",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.6601,
+                    30.9542
+                ]
+            },
+            "properties": {
+                "name": "Q27123737",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.5231,
+                    29.7738
+                ]
+            },
+            "properties": {
+                "name": "Q27123746",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.189,
+                    29.8317
+                ]
+            },
+            "properties": {
+                "name": "Q27123754",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.6421,
+                    30.77289
+                ]
+            },
+            "properties": {
+                "name": "Q27123756",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.48222,
+                    30.56222
+                ]
+            },
+            "properties": {
+                "name": "Q27123763",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.72452,
+                    30.99034
+                ]
+            },
+            "properties": {
+                "name": "Q27123775",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.620833333,
+                    31.542777777
+                ]
+            },
+            "properties": {
+                "name": "Q27123777",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.641666666,
+                    31.459722222
+                ]
+            },
+            "properties": {
+                "name": "Q27123780",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.54,
+                    31.0492
+                ]
+            },
+            "properties": {
+                "name": "Q27123799",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.160277777,
+                    29.831388888
+                ]
+            },
+            "properties": {
+                "name": "Q27123803",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.8478,
+                    30.8087
+                ]
+            },
+            "properties": {
+                "name": "Q27123806",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.6259,
+                    29.6297
+                ]
+            },
+            "properties": {
+                "name": "Q27123809",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.8533,
+                    32.4275
+                ]
+            },
+            "properties": {
+                "name": "Q27124493",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.41934,
+                    30.23629
+                ]
+            },
+            "properties": {
+                "name": "Q27124502",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.465,
+                    30.531944444
+                ]
+            },
+            "properties": {
+                "name": "Q27124503",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.46642,
+                    30.2883
+                ]
+            },
+            "properties": {
+                "name": "Q27124543",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.202222222,
+                    29.553333333
+                ]
+            },
+            "properties": {
+                "name": "Q27124551",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.728611111,
+                    32.439722222
+                ]
+            },
+            "properties": {
+                "name": "Jebel Birqish",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.48432,
+                    30.0234
+                ]
+            },
+            "properties": {
+                "name": "Q27124554",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.72849,
+                    32.05347
+                ]
+            },
+            "properties": {
+                "name": "Q27124558",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.67243,
+                    32.22945
+                ]
+            },
+            "properties": {
+                "name": "Q27124559",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.730555555,
+                    32.056111111
+                ]
+            },
+            "properties": {
+                "name": "Q27124567",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.785,
+                    32.219166666
+                ]
+            },
+            "properties": {
+                "name": "Burma",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.3986,
+                    30.4256
+                ]
+            },
+            "properties": {
+                "name": "Q27124587",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.514722222,
+                    30.252777777
+                ]
+            },
+            "properties": {
+                "name": "Q27124584",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.61667,
+                    31.55
+                ]
+            },
+            "properties": {
+                "name": "Q27123823",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.79263,
+                    32.24609
+                ]
+            },
+            "properties": {
+                "name": "Q27123820",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.476388888,
+                    30.352777777
+                ]
+            },
+            "properties": {
+                "name": "Q27123827",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.249722222,
+                    30.149444444
+                ]
+            },
+            "properties": {
+                "name": "Q27123829",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.598055555,
+                    31.406944444
+                ]
+            },
+            "properties": {
+                "name": "Q27123836",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.16375,
+                    29.62293
+                ]
+            },
+            "properties": {
+                "name": "Q27123837",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.407222222,
+                    29.671388888
+                ]
+            },
+            "properties": {
+                "name": "Q27123843",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.523611111,
+                    30.222222222
+                ]
+            },
+            "properties": {
+                "name": "Q27123841",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.840277777,
+                    31.427777777
+                ]
+            },
+            "properties": {
+                "name": "Q27123847",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.6602,
+                    31.2652
+                ]
+            },
+            "properties": {
+                "name": "Q27123844",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.65441,
+                    31.62941
+                ]
+            },
+            "properties": {
+                "name": "Q27123850",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.326388888,
+                    29.976944444
+                ]
+            },
+            "properties": {
+                "name": "Q27123855",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.5192,
+                    30.8992
+                ]
+            },
+            "properties": {
+                "name": "Q27123862",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.5492,
+                    30.9642
+                ]
+            },
+            "properties": {
+                "name": "Q27123861",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.53333,
+                    30.8
+                ]
+            },
+            "properties": {
+                "name": "Q27123867",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.14747,
+                    29.64295
+                ]
+            },
+            "properties": {
+                "name": "Q27123879",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.4,
+                    30.16667
+                ]
+            },
+            "properties": {
+                "name": "Q27123883",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.173333333,
+                    29.548888888
+                ]
+            },
+            "properties": {
+                "name": "Q27123880",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.1292,
+                    29.8
+                ]
+            },
+            "properties": {
+                "name": "Q27123898",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.73777,
+                    31.65051
+                ]
+            },
+            "properties": {
+                "name": "Q27123917",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.401666666,
+                    30.304444444
+                ]
+            },
+            "properties": {
+                "name": "Q27123920",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.45333,
+                    30.52333
+                ]
+            },
+            "properties": {
+                "name": "Q27123924",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.198055555,
+                    31.938333333
+                ]
+            },
+            "properties": {
+                "name": "Q27123930",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.43589,
+                    30.41866
+                ]
+            },
+            "properties": {
+                "name": "Jabal Fidrah",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.92579,
+                    31.01111
+                ]
+            },
+            "properties": {
+                "name": "Q27125434",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.9082,
+                    31.0194
+                ]
+            },
+            "properties": {
+                "name": "Q27125433",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.958333333,
+                    31.082777777
+                ]
+            },
+            "properties": {
+                "name": "Q27125439",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.0942,
+                    31.1717
+                ]
+            },
+            "properties": {
+                "name": "Q27125444",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.0425,
+                    31.3996
+                ]
+            },
+            "properties": {
+                "name": "Q27125450",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.9293,
+                    31.4215
+                ]
+            },
+            "properties": {
+                "name": "Q27125449",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.748611111,
+                    31.396666666
+                ]
+            },
+            "properties": {
+                "name": "Q27125454",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.798055555,
+                    31.323888888
+                ]
+            },
+            "properties": {
+                "name": "Q27125455",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.595833333,
+                    31.282222222
+                ]
+            },
+            "properties": {
+                "name": "Jabal al Ghadaf",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.8729,
+                    29.5844
+                ]
+            },
+            "properties": {
+                "name": "Q27125466",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.47539,
+                    30.25907
+                ]
+            },
+            "properties": {
+                "name": "Q27125469",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.51848,
+                    30.94248
+                ]
+            },
+            "properties": {
+                "name": "Q27125472",
+                "article": null
+            }
+        }
+    ]
+}

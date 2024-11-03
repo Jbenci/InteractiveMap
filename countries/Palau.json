@@ -1,0 +1,915 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.624167,
+                    7.500556
+                ]
+            },
+            "properties": {
+                "name": "Ngerulmud",
+                "article": "https://en.wikipedia.org/wiki/Ngerulmud"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.48042,
+                    7.34333
+                ]
+            },
+            "properties": {
+                "name": "Koror",
+                "article": "https://en.wikipedia.org/wiki/Koror_(city)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.453055555,
+                    7.3325
+                ]
+            },
+            "properties": {
+                "name": "Malakal Island",
+                "article": "https://en.wikipedia.org/wiki/Malakal_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.25,
+                    7.01666667
+                ]
+            },
+            "properties": {
+                "name": "Battle of Peleliu",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Peleliu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.45,
+                    7.316666666
+                ]
+            },
+            "properties": {
+                "name": "Ngerekebesang Island",
+                "article": "https://en.wikipedia.org/wiki/Ngerekebesang"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.233961111,
+                    7.1298
+                ]
+            },
+            "properties": {
+                "name": "Q655458",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.564722222,
+                    7.530277777
+                ]
+            },
+            "properties": {
+                "name": "Babeldaob",
+                "article": "https://en.wikipedia.org/wiki/Babeldaob"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.569444444,
+                    7.565277777
+                ]
+            },
+            "properties": {
+                "name": "Mount Ngerchelchuus",
+                "article": "https://en.wikipedia.org/wiki/Mount_Ngerchelchuus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.316666666,
+                    4.316666666
+                ]
+            },
+            "properties": {
+                "name": "Merir",
+                "article": "https://en.wikipedia.org/wiki/Merir"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.3625,
+                    7.154166666
+                ]
+            },
+            "properties": {
+                "name": "Eil Malk",
+                "article": "https://en.wikipedia.org/wiki/Eil_Malk"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.22718611,
+                    5.35353333
+                ]
+            },
+            "properties": {
+                "name": "Fanna",
+                "article": "https://en.wikipedia.org/wiki/Fana_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.716666666,
+                    8.0825
+                ]
+            },
+            "properties": {
+                "name": "Kayangel",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.811891666,
+                    2.973622222
+                ]
+            },
+            "properties": {
+                "name": "Helen",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.81188,
+                    2.97529
+                ]
+            },
+            "properties": {
+                "name": "Helen",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.123611111,
+                    3.005555555
+                ]
+            },
+            "properties": {
+                "name": "Tobi",
+                "article": "https://en.wikipedia.org/wiki/Tobi_(island)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.481388888,
+                    7.344166666
+                ]
+            },
+            "properties": {
+                "name": "Koror Island",
+                "article": "https://en.wikipedia.org/wiki/Koror_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.603611111,
+                    7.5125
+                ]
+            },
+            "properties": {
+                "name": "Lake Ngardok",
+                "article": "https://en.wikipedia.org/wiki/Lake_Ngardok"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.27899722,
+                    7.09265833
+                ]
+            },
+            "properties": {
+                "name": "Carp Island",
+                "article": "https://en.wikipedia.org/wiki/Ngercheu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.27907,
+                    7.09395
+                ]
+            },
+            "properties": {
+                "name": "Carp Island",
+                "article": "https://en.wikipedia.org/wiki/Ngercheu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.952,
+                    4.655
+                ]
+            },
+            "properties": {
+                "name": "Pulo Anna",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.22063333,
+                    5.32623611
+                ]
+            },
+            "properties": {
+                "name": "Dongosaru",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.560246,
+                    7.360083
+                ]
+            },
+            "properties": {
+                "name": "Airai",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.31666667,
+                    7.13333333
+                ]
+            },
+            "properties": {
+                "name": "Bablomekang",
+                "article": "https://en.wikipedia.org/wiki/Bablomekang"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.4,
+                    7.23333333
+                ]
+            },
+            "properties": {
+                "name": "Chomedokl",
+                "article": "https://en.wikipedia.org/wiki/Chomedokl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.38111111,
+                    7.18944444
+                ]
+            },
+            "properties": {
+                "name": "Chouwid",
+                "article": "https://en.wikipedia.org/wiki/Chouwid"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.368008333,
+                    7.187302777
+                ]
+            },
+            "properties": {
+                "name": "Ulong Island",
+                "article": "https://en.wikipedia.org/wiki/Ulong_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.33333333,
+                    7.16666667
+                ]
+            },
+            "properties": {
+                "name": "Kuabeserrai",
+                "article": "https://en.wikipedia.org/wiki/Kuabeserrai"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.35,
+                    7.13333333
+                ]
+            },
+            "properties": {
+                "name": "Mchochaeo",
+                "article": "https://en.wikipedia.org/wiki/Mchochaeo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.36666667,
+                    7.2
+                ]
+            },
+            "properties": {
+                "name": "Ngeanges",
+                "article": "https://en.wikipedia.org/wiki/Ngeanges"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.35,
+                    7.18333333
+                ]
+            },
+            "properties": {
+                "name": "Ngelsibel",
+                "article": "https://en.wikipedia.org/wiki/Ngelsibel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.31666667,
+                    7.15
+                ]
+            },
+            "properties": {
+                "name": "Oilouch",
+                "article": "https://en.wikipedia.org/wiki/Oilouch"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.37693,
+                    7.21558
+                ]
+            },
+            "properties": {
+                "name": "Ongetkatel",
+                "article": "https://en.wikipedia.org/wiki/Ongetkatel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.613,
+                    7.7141
+                ]
+            },
+            "properties": {
+                "name": "Tet el Bad Stone Coffin",
+                "article": "https://en.wikipedia.org/wiki/Tet_el_Bad_Stone_Coffin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.630842,
+                    7.709078
+                ]
+            },
+            "properties": {
+                "name": "Badrulchau Stone Monoliths",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.25,
+                    7.016667
+                ]
+            },
+            "properties": {
+                "name": "Peleliu",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.55789,
+                    7.34033
+                ]
+            },
+            "properties": {
+                "name": "Ngkesill",
+                "article": "https://en.wikipedia.org/wiki/Ngkesill"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.381919,
+                    7.25371
+                ]
+            },
+            "properties": {
+                "name": "Ongael island",
+                "article": "https://en.wikipedia.org/wiki/Ongael"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.560277777,
+                    7.361111111
+                ]
+            },
+            "properties": {
+                "name": "Airai Bai",
+                "article": "https://en.wikipedia.org/wiki/Airai_Bai"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.624223,
+                    7.500196
+                ]
+            },
+            "properties": {
+                "name": "Capitol of Palau",
+                "article": "https://en.wikipedia.org/wiki/Capitol_of_Palau"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.248333333,
+                    7.103333333
+                ]
+            },
+            "properties": {
+                "name": "Bailechesengel",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.23622,
+                    7.14405
+                ]
+            },
+            "properties": {
+                "name": "Belual A Kelat",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.47287,
+                    7.46786
+                ]
+            },
+            "properties": {
+                "name": "Bkul-ngeiil",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.38647,
+                    7.25982
+                ]
+            },
+            "properties": {
+                "name": "Bridge Islet - Natural Arch",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.3331,
+                    7.26972
+                ]
+            },
+            "properties": {
+                "name": "Ngebedangel",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.36734,
+                    7.26757
+                ]
+            },
+            "properties": {
+                "name": "Ngebedel",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.44365,
+                    7.34238
+                ]
+            },
+            "properties": {
+                "name": "Ngerchaol",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.61938,
+                    7.75705
+                ]
+            },
+            "properties": {
+                "name": "Ngerechur",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.37726,
+                    7.19915
+                ]
+            },
+            "properties": {
+                "name": "Q49662740",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.425,
+                    7.273
+                ]
+            },
+            "properties": {
+                "name": "Ngeruktabel",
+                "article": "https://en.wikipedia.org/wiki/Ngeruktabel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.31584,
+                    7.15172
+                ]
+            },
+            "properties": {
+                "name": "Q49662754",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.37314,
+                    7.23966
+                ]
+            },
+            "properties": {
+                "name": "Olkeriil",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.56767,
+                    7.3474
+                ]
+            },
+            "properties": {
+                "name": "Orrak",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.25868,
+                    7.05592
+                ]
+            },
+            "properties": {
+                "name": "Ngedbus",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.27456,
+                    7.06359
+                ]
+            },
+            "properties": {
+                "name": "Q41798642",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.27209,
+                    7.02112
+                ]
+            },
+            "properties": {
+                "name": "Ngebad",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.126,
+                    6.89
+                ]
+            },
+            "properties": {
+                "name": "Angaur",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.49731,
+                    7.50883
+                ]
+            },
+            "properties": {
+                "name": "Lild",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.50156,
+                    7.50309
+                ]
+            },
+            "properties": {
+                "name": "Omeduaol",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.47813,
+                    7.48785
+                ]
+            },
+            "properties": {
+                "name": "Orachel",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.47546,
+                    7.48629
+                ]
+            },
+            "properties": {
+                "name": "Ordiilsau",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.2266,
+                    5.355
+                ]
+            },
+            "properties": {
+                "name": "Fanna",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.38768,
+                    7.27121
+                ]
+            },
+            "properties": {
+                "name": "Butottoribo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.446388888,
+                    7.354444444
+                ]
+            },
+            "properties": {
+                "name": "Q61992039",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.483333,
+                    7.310833
+                ]
+            },
+            "properties": {
+                "name": "Ulebsechel",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.4099,
+                    7.30883
+                ]
+            },
+            "properties": {
+                "name": "Tlutkaraguis",
+                "article": null
+            }
+        }
+    ]
+}

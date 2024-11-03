@@ -1,0 +1,2259 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.991388888,
+                    7.185277777
+                ]
+            },
+            "properties": {
+                "name": "Abomey",
+                "article": "https://en.wikipedia.org/wiki/Abomey"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.425555555,
+                    6.432777777
+                ]
+            },
+            "properties": {
+                "name": "Lake Nokoué",
+                "article": "https://en.wikipedia.org/wiki/Lake_Nokou%C3%A9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.415555555,
+                    9.328055555
+                ]
+            },
+            "properties": {
+                "name": "Mont Sokbaro",
+                "article": "https://en.wikipedia.org/wiki/Mont_Sokbaro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.783333,
+                    6.8
+                ]
+            },
+            "properties": {
+                "name": "Dogbo-Tota",
+                "article": "https://en.wikipedia.org/wiki/Dogbo-Tota"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.665,
+                    9.003
+                ]
+            },
+            "properties": {
+                "name": "Bassila",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.665277777,
+                    9.008055555
+                ]
+            },
+            "properties": {
+                "name": "Bassila",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.0835,
+                    7.1885
+                ]
+            },
+            "properties": {
+                "name": "Agongointo-Zoungoudo Underground Town",
+                "article": "https://en.wikipedia.org/wiki/Agongointo-Zoungoudo_Underground_Town"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.22416667,
+                    11.73055556
+                ]
+            },
+            "properties": {
+                "name": "Guéné",
+                "article": "https://en.wikipedia.org/wiki/Gu%C3%A9n%C3%A9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.165,
+                    10.1773
+                ]
+            },
+            "properties": {
+                "name": "Tanon Tani",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.96667,
+                    10.38333
+                ]
+            },
+            "properties": {
+                "name": "Monts Tapiengou",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.4186,
+                    10.4566
+                ]
+            },
+            "properties": {
+                "name": "Tataba",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.951388888,
+                    8.945555555
+                ]
+            },
+            "properties": {
+                "name": "Q21786449",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.4219,
+                    10.7618
+                ]
+            },
+            "properties": {
+                "name": "Temtoutamou",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.96667,
+                    10.35
+                ]
+            },
+            "properties": {
+                "name": "Monts Tertiaga",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.02711,
+                    10.61441
+                ]
+            },
+            "properties": {
+                "name": "Tessibohon",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.0835,
+                    10.6558
+                ]
+            },
+            "properties": {
+                "name": "Tessibouhon",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.0396,
+                    10.4654
+                ]
+            },
+            "properties": {
+                "name": "Tiokoti",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.150555555,
+                    9.0375
+                ]
+            },
+            "properties": {
+                "name": "Q21786497",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.840833333,
+                    8.325555555
+                ]
+            },
+            "properties": {
+                "name": "Q21786507",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.70253,
+                    6.74336
+                ]
+            },
+            "properties": {
+                "name": "Lagune Togbadji",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.140555555,
+                    9.119444444
+                ]
+            },
+            "properties": {
+                "name": "Q21786508",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.77671,
+                    6.61913
+                ]
+            },
+            "properties": {
+                "name": "Lac Toho",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.15122,
+                    6.40735
+                ]
+            },
+            "properties": {
+                "name": "Lagune Toho",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.15949,
+                    11.79433
+                ]
+            },
+            "properties": {
+                "name": "Touloua Toundi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.5205,
+                    11.675
+                ]
+            },
+            "properties": {
+                "name": "Tourougo Tondi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.186111111,
+                    9.159722222
+                ]
+            },
+            "properties": {
+                "name": "Q21786541",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.225277777,
+                    10.330833333
+                ]
+            },
+            "properties": {
+                "name": "Q21786559",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.3883,
+                    10.6378
+                ]
+            },
+            "properties": {
+                "name": "Waratamou",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.15802,
+                    10.20292
+                ]
+            },
+            "properties": {
+                "name": "Yonmbaga",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.3032,
+                    10.6495
+                ]
+            },
+            "properties": {
+                "name": "Yetamoute",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.37963,
+                    11.58792
+                ]
+            },
+            "properties": {
+                "name": "Zouka Tondi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.635555555,
+                    10.813333333
+                ]
+            },
+            "properties": {
+                "name": "Q21787647",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.9836,
+                    9.4237
+                ]
+            },
+            "properties": {
+                "name": "Mont Adiangdia",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.161666666,
+                    8.036944444
+                ]
+            },
+            "properties": {
+                "name": "Q21787666",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.67524,
+                    8.31518
+                ]
+            },
+            "properties": {
+                "name": "Agbagba",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.975,
+                    6.495
+                ]
+            },
+            "properties": {
+                "name": "Lake Ahémé",
+                "article": "https://en.wikipedia.org/wiki/Lake_Ah%C3%A9m%C3%A9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.183888888,
+                    11.795833333
+                ]
+            },
+            "properties": {
+                "name": "Akaï Tondi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.22849,
+                    8.81212
+                ]
+            },
+            "properties": {
+                "name": "Akbokoto",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.150555555,
+                    9.201111111
+                ]
+            },
+            "properties": {
+                "name": "Q21787718",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.65,
+                    8.4
+                ]
+            },
+            "properties": {
+                "name": "Q21787729",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.4554,
+                    7.26568
+                ]
+            },
+            "properties": {
+                "name": "Lac Aziri",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.183888888,
+                    9.044166666
+                ]
+            },
+            "properties": {
+                "name": "Q21787773",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.893333333,
+                    12.305833333
+                ]
+            },
+            "properties": {
+                "name": "Q21787786",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.0166,
+                    10.5908
+                ]
+            },
+            "properties": {
+                "name": "Banfili",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.43856,
+                    11.29845
+                ]
+            },
+            "properties": {
+                "name": "Banikoara",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.66335,
+                    10.22827
+                ]
+            },
+            "properties": {
+                "name": "Bembèrèkè",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.400833333,
+                    11.615277777
+                ]
+            },
+            "properties": {
+                "name": "Q21787842",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.142777777,
+                    9.139444444
+                ]
+            },
+            "properties": {
+                "name": "Q21787849",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.0667,
+                    7.17826
+                ]
+            },
+            "properties": {
+                "name": "Bohicon",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.33,
+                    9.4576
+                ]
+            },
+            "properties": {
+                "name": "Bonazuro",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.616666666,
+                    6.483333333
+                ]
+            },
+            "properties": {
+                "name": "Porto-Novo",
+                "article": "https://en.wikipedia.org/wiki/Porto-Novo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.416666666,
+                    6.366666666
+                ]
+            },
+            "properties": {
+                "name": "Cotonou",
+                "article": "https://en.wikipedia.org/wiki/Cotonou"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.2789,
+                    11.4369
+                ]
+            },
+            "properties": {
+                "name": "Q21787895",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.03831,
+                    10.62645
+                ]
+            },
+            "properties": {
+                "name": "Bourlatali",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.73798,
+                    12.36186
+                ]
+            },
+            "properties": {
+                "name": "Bourowa",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.43333,
+                    6.36667
+                ]
+            },
+            "properties": {
+                "name": "Lagune de Cotonou",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.04335,
+                    11.55207
+                ]
+            },
+            "properties": {
+                "name": "Dandagba",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.0154,
+                    10.3055
+                ]
+            },
+            "properties": {
+                "name": "Datanouata",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.166666666,
+                    9.0
+                ]
+            },
+            "properties": {
+                "name": "Q21787970",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.461944444,
+                    11.727777777
+                ]
+            },
+            "properties": {
+                "name": "Q21787968",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.289166666,
+                    9.345
+                ]
+            },
+            "properties": {
+                "name": "Q21787969",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.5167,
+                    10.9702
+                ]
+            },
+            "properties": {
+                "name": "Diaboto",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.4287,
+                    10.2581
+                ]
+            },
+            "properties": {
+                "name": "Dimansenntari",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.033,
+                    10.4882
+                ]
+            },
+            "properties": {
+                "name": "Ditetegle",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.181666666,
+                    11.520277777
+                ]
+            },
+            "properties": {
+                "name": "Q21788003",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.3708,
+                    10.7054
+                ]
+            },
+            "properties": {
+                "name": "Dotaka",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.6508,
+                    9.5042
+                ]
+            },
+            "properties": {
+                "name": "Colline Doukor",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.055,
+                    10.6529
+                ]
+            },
+            "properties": {
+                "name": "Douranima",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.66667,
+                    9.51667
+                ]
+            },
+            "properties": {
+                "name": "Colline Dourh",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.631944444,
+                    8.475833333
+                ]
+            },
+            "properties": {
+                "name": "Q21788018",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.163611111,
+                    9.100277777
+                ]
+            },
+            "properties": {
+                "name": "Q21788024",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.22257,
+                    11.42395
+                ]
+            },
+            "properties": {
+                "name": "Gbessa",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.7323,
+                    9.0704
+                ]
+            },
+            "properties": {
+                "name": "Mont Goubono",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.4993,
+                    11.16091
+                ]
+            },
+            "properties": {
+                "name": "Goupirou",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.133611111,
+                    9.095
+                ]
+            },
+            "properties": {
+                "name": "Q21788146",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.239444444,
+                    11.7525
+                ]
+            },
+            "properties": {
+                "name": "Q21788148",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.2252,
+                    10.296
+                ]
+            },
+            "properties": {
+                "name": "Idagouta",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.953888888,
+                    9.181666666
+                ]
+            },
+            "properties": {
+                "name": "Q21788163",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.01,
+                    10.2683
+                ]
+            },
+            "properties": {
+                "name": "Itadi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.760555555,
+                    8.559722222
+                ]
+            },
+            "properties": {
+                "name": "Mont Kagoulé",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.228611111,
+                    8.786388888
+                ]
+            },
+            "properties": {
+                "name": "Q21788185",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.896,
+                    11.1279
+                ]
+            },
+            "properties": {
+                "name": "Kaoura",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.9875,
+                    10.4658
+                ]
+            },
+            "properties": {
+                "name": "Kataripienga",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.2117,
+                    11.922
+                ]
+            },
+            "properties": {
+                "name": "Koto Gambo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.433333333,
+                    10.666666666
+                ]
+            },
+            "properties": {
+                "name": "Q21788226",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.5107,
+                    11.69625
+                ]
+            },
+            "properties": {
+                "name": "Kibini Tondi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.621111111,
+                    9.158611111
+                ]
+            },
+            "properties": {
+                "name": "Q21788243",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.995833333,
+                    11.507222222
+                ]
+            },
+            "properties": {
+                "name": "Q21788275",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.494,
+                    10.733
+                ]
+            },
+            "properties": {
+                "name": "Kontenatanmbou",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.378611111,
+                    11.644722222
+                ]
+            },
+            "properties": {
+                "name": "Q21788309",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.65812,
+                    8.38068
+                ]
+            },
+            "properties": {
+                "name": "Mont Koudia",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.082222222,
+                    8.697777777
+                ]
+            },
+            "properties": {
+                "name": "Monts Kouffé",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.1996,
+                    10.1894
+                ]
+            },
+            "properties": {
+                "name": "Koudouogo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.840833333,
+                    8.716388888
+                ]
+            },
+            "properties": {
+                "name": "Q21788328",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.12397,
+                    8.99733
+                ]
+            },
+            "properties": {
+                "name": "Kouko Koukou",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.11783,
+                    9.13765
+                ]
+            },
+            "properties": {
+                "name": "Koukpan",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.231388888,
+                    8.762777777
+                ]
+            },
+            "properties": {
+                "name": "Q21788340",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.195277777,
+                    10.386666666
+                ]
+            },
+            "properties": {
+                "name": "Q21788346",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.1325,
+                    10.2932
+                ]
+            },
+            "properties": {
+                "name": "Koupigou",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.98145,
+                    11.54581
+                ]
+            },
+            "properties": {
+                "name": "Kouta Foukoula",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.9866,
+                    11.6678
+                ]
+            },
+            "properties": {
+                "name": "Koutakpapa",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.479444444,
+                    9.953611111
+                ]
+            },
+            "properties": {
+                "name": "Q21788392",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.1676,
+                    10.7141
+                ]
+            },
+            "properties": {
+                "name": "Lakantia",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.668333333,
+                    8.191944444
+                ]
+            },
+            "properties": {
+                "name": "Q21788414",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.47068,
+                    10.85638
+                ]
+            },
+            "properties": {
+                "name": "Ligoakiani",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.978611111,
+                    12.210555555
+                ]
+            },
+            "properties": {
+                "name": "Q21788427",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.916666666,
+                    12.138333333
+                ]
+            },
+            "properties": {
+                "name": "Q21788430",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.00791,
+                    10.40677
+                ]
+            },
+            "properties": {
+                "name": "Loufadeole",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.65529,
+                    8.4215
+                ]
+            },
+            "properties": {
+                "name": "Mont Loya",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.54409,
+                    10.86672
+                ]
+            },
+            "properties": {
+                "name": "Moinoukoutanmbou",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.430833333,
+                    9.01
+                ]
+            },
+            "properties": {
+                "name": "Q21788482",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.81787,
+                    8.27624
+                ]
+            },
+            "properties": {
+                "name": "Mont Moro",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.527777777,
+                    10.756388888
+                ]
+            },
+            "properties": {
+                "name": "Q21788498",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.3464,
+                    10.2854
+                ]
+            },
+            "properties": {
+                "name": "Mont Nafa",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.16423,
+                    9.0415
+                ]
+            },
+            "properties": {
+                "name": "Nianmpiki",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.16322,
+                    9.19995
+                ]
+            },
+            "properties": {
+                "name": "Okoutaoka",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.45,
+                    10.483333333
+                ]
+            },
+            "properties": {
+                "name": "Q21788597",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.14196,
+                    9.00928
+                ]
+            },
+            "properties": {
+                "name": "Oufon",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.3155,
+                    11.1841
+                ]
+            },
+            "properties": {
+                "name": "Oudoga Miwa",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.2772,
+                    8.8636
+                ]
+            },
+            "properties": {
+                "name": "Oukonta Koda",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.26126,
+                    10.36802
+                ]
+            },
+            "properties": {
+                "name": "Oussobou Ditan",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.42655,
+                    10.67014
+                ]
+            },
+            "properties": {
+                "name": "Paratammou",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.294444444,
+                    9.289722222
+                ]
+            },
+            "properties": {
+                "name": "Q21788668",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.033055555,
+                    11.089722222
+                ]
+            },
+            "properties": {
+                "name": "Q21788688",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.6,
+                    6.466666666
+                ]
+            },
+            "properties": {
+                "name": "Q21788689",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.472777777,
+                    10.755555555
+                ]
+            },
+            "properties": {
+                "name": "Q21788727",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.4866,
+                    8.03424
+                ]
+            },
+            "properties": {
+                "name": "Savé",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.505277777,
+                    8.041388888
+                ]
+            },
+            "properties": {
+                "name": "Q21788743",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.975555555,
+                    7.928055555
+                ]
+            },
+            "properties": {
+                "name": "Savalou",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.16206,
+                    9.12225
+                ]
+            },
+            "properties": {
+                "name": "Sessia",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.01245,
+                    10.60219
+                ]
+            },
+            "properties": {
+                "name": "Sikelma",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.204166666,
+                    10.340833333
+                ]
+            },
+            "properties": {
+                "name": "Q21788764",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.305,
+                    8.935
+                ]
+            },
+            "properties": {
+                "name": "Q21788786",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.16,
+                    9.142222222
+                ]
+            },
+            "properties": {
+                "name": "Q21788824",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.2718,
+                    8.81063
+                ]
+            },
+            "properties": {
+                "name": "Q21788838",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.55018,
+                    10.95095
+                ]
+            },
+            "properties": {
+                "name": "Tadangou",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.1422,
+                    10.3268
+                ]
+            },
+            "properties": {
+                "name": "Tadouota",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.240555555,
+                    10.426944444
+                ]
+            },
+            "properties": {
+                "name": "Q21788844",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.546,
+                    10.8317
+                ]
+            },
+            "properties": {
+                "name": "Tandavo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.465833333,
+                    8.070277777
+                ]
+            },
+            "properties": {
+                "name": "Q21788855",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.2694,
+                    10.4834
+                ]
+            },
+            "properties": {
+                "name": "Tanakongoutansa",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.45214,
+                    10.22579
+                ]
+            },
+            "properties": {
+                "name": "Tanatouta",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.413333333,
+                    10.283055555
+                ]
+            },
+            "properties": {
+                "name": "Q21788858",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.48715,
+                    8.06136
+                ]
+            },
+            "properties": {
+                "name": "Mont Tani",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.442,
+                    10.3464
+                ]
+            },
+            "properties": {
+                "name": "Tankassika",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.1949,
+                    10.3139
+                ]
+            },
+            "properties": {
+                "name": "Tangouota",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.66667,
+                    6.55
+                ]
+            },
+            "properties": {
+                "name": "Avrankou",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.86743,
+                    11.0706
+                ]
+            },
+            "properties": {
+                "name": "Kandi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.918611111,
+                    11.576944444
+                ]
+            },
+            "properties": {
+                "name": "Q21921611",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.1000529,
+                    10.1832167
+                ]
+            },
+            "properties": {
+                "name": "Q31891847",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.7025,
+                    6.743333333
+                ]
+            },
+            "properties": {
+                "name": "Q60197155",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.500833,
+                    9.849722
+                ]
+            },
+            "properties": {
+                "name": "Q65156159",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.4548,
+                    7.2555
+                ]
+            },
+            "properties": {
+                "name": "Lake Azili",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.78399,
+                    6.81681
+                ]
+            },
+            "properties": {
+                "name": "Q71274502",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.703,
+                    6.743
+                ]
+            },
+            "properties": {
+                "name": "Lake Togbadji",
+                "article": "https://en.wikipedia.org/wiki/Lake_Togbadji"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.774,
+                    6.617
+                ]
+            },
+            "properties": {
+                "name": "Lake Toho, Benin",
+                "article": "https://en.wikipedia.org/wiki/Lake_Toho_(Benin)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.409086,
+                    6.351603
+                ]
+            },
+            "properties": {
+                "name": "Q98205857",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.62099564,
+                    6.478618383
+                ]
+            },
+            "properties": {
+                "name": "Q99735527",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.066325,
+                    7.175093332
+                ]
+            },
+            "properties": {
+                "name": "Q99743945",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.076111111,
+                    6.356388888
+                ]
+            },
+            "properties": {
+                "name": "Maison du Brésil",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.426535833,
+                    6.353082777
+                ]
+            },
+            "properties": {
+                "name": "BCEAO building in Cotonou",
+                "article": null
+            }
+        }
+    ]
+}

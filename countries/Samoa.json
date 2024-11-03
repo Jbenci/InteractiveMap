@@ -1,0 +1,1265 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -171.75,
+                    -13.916666666
+                ]
+            },
+            "properties": {
+                "name": "Upolu",
+                "article": "https://en.wikipedia.org/wiki/Upolu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -172.416666666,
+                    -13.583333333
+                ]
+            },
+            "properties": {
+                "name": "Savai'i",
+                "article": "https://en.wikipedia.org/wiki/Savai%CA%BBi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -172.15,
+                    -13.816666666
+                ]
+            },
+            "properties": {
+                "name": "Apolima",
+                "article": "https://en.wikipedia.org/wiki/Apolima"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -172.111111111,
+                    -13.85
+                ]
+            },
+            "properties": {
+                "name": "Manono Island",
+                "article": "https://en.wikipedia.org/wiki/Manono_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -171.4106,
+                    -14.0728
+                ]
+            },
+            "properties": {
+                "name": "Nu'ulua",
+                "article": "https://en.wikipedia.org/wiki/Nu%CA%BBulua"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -171.41616,
+                    -14.02069
+                ]
+            },
+            "properties": {
+                "name": "Namua",
+                "article": "https://en.wikipedia.org/wiki/Namua"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -172.485833333,
+                    -13.618333333
+                ]
+            },
+            "properties": {
+                "name": "Silisili",
+                "article": "https://en.wikipedia.org/wiki/Silisili"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -171.423,
+                    -14.063
+                ]
+            },
+            "properties": {
+                "name": "Nu'utele",
+                "article": "https://en.wikipedia.org/wiki/Nu%CA%BButele"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -172.1293,
+                    -13.8424
+                ]
+            },
+            "properties": {
+                "name": "Nu'ulopa",
+                "article": "https://en.wikipedia.org/wiki/Nu%CA%BBulopa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -171.76666667,
+                    -13.86666667
+                ]
+            },
+            "properties": {
+                "name": "Mount Vaea",
+                "article": "https://en.wikipedia.org/wiki/Mount_Vaea"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -171.822222,
+                    -13.916111
+                ]
+            },
+            "properties": {
+                "name": "Falemauga Caves",
+                "article": "https://en.wikipedia.org/wiki/Falemauga_Caves"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -172.48333333,
+                    -13.56666667
+                ]
+            },
+            "properties": {
+                "name": "Mauga Afi",
+                "article": "https://en.wikipedia.org/wiki/Mauga_Afi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -172.4,
+                    -13.53333333
+                ]
+            },
+            "properties": {
+                "name": "Mount Matavanu",
+                "article": "https://en.wikipedia.org/wiki/Mount_Matavanu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -171.68987,
+                    -14.04679
+                ]
+            },
+            "properties": {
+                "name": "Nu'usafe'e Island",
+                "article": "https://en.wikipedia.org/wiki/Nu%CA%BBusafe%CA%BBe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -171.827703,
+                    -13.9102
+                ]
+            },
+            "properties": {
+                "name": "Lake Lanoto'o",
+                "article": "https://en.wikipedia.org/wiki/Lake_Lanoto%27o"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -171.733333333,
+                    -13.916666666
+                ]
+            },
+            "properties": {
+                "name": "Mount Vaitoa",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -171.66,
+                    -13.920833333
+                ]
+            },
+            "properties": {
+                "name": "Mauga Tele",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -171.9623,
+                    -13.8789
+                ]
+            },
+            "properties": {
+                "name": "Mount Tafua Upolu",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -172.339444444,
+                    -13.618888888
+                ]
+            },
+            "properties": {
+                "name": "Mount To'iave'a",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -172.4,
+                    -13.616666666
+                ]
+            },
+            "properties": {
+                "name": "Mount Teelagi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -171.8986,
+                    -13.9001
+                ]
+            },
+            "properties": {
+                "name": "Mount Talito'elau",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -171.95,
+                    -13.9
+                ]
+            },
+            "properties": {
+                "name": "Mount Tafatafao",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -172.470277777,
+                    -13.627222222
+                ]
+            },
+            "properties": {
+                "name": "Mount Siope",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -171.868888888,
+                    -13.901388888
+                ]
+            },
+            "properties": {
+                "name": "Mount Siga'ele",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -172.320833333,
+                    -13.588611111
+                ]
+            },
+            "properties": {
+                "name": "Mount Puna",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -172.466666666,
+                    -13.566666666
+                ]
+            },
+            "properties": {
+                "name": "Mount Parasit",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -172.521944444,
+                    -13.734722222
+                ]
+            },
+            "properties": {
+                "name": "Mount Olomanu",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -171.4826,
+                    -14.0149
+                ]
+            },
+            "properties": {
+                "name": "Mount Olomauga",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -172.395833333,
+                    -13.559444444
+                ]
+            },
+            "properties": {
+                "name": "Mount Mulimauga",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -172.618055555,
+                    -13.5975
+                ]
+            },
+            "properties": {
+                "name": "Mount Maugaloa",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -172.447222222,
+                    -13.620833333
+                ]
+            },
+            "properties": {
+                "name": "Mount Mata'aga",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -172.387222222,
+                    -13.629444444
+                ]
+            },
+            "properties": {
+                "name": "Mount Mana'omia",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -172.3,
+                    -13.6
+                ]
+            },
+            "properties": {
+                "name": "Malaulano See",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -172.3372,
+                    -13.6632
+                ]
+            },
+            "properties": {
+                "name": "Mount Mafane",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -171.752222222,
+                    -13.935833333
+                ]
+            },
+            "properties": {
+                "name": "Mount Le Pu'e",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -171.9875,
+                    -13.879166666
+                ]
+            },
+            "properties": {
+                "name": "Mount Lauti",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -172.5,
+                    -13.733333333
+                ]
+            },
+            "properties": {
+                "name": "Lataiuta",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -171.816666666,
+                    -13.883333333
+                ]
+            },
+            "properties": {
+                "name": "Mount Lanutata",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -171.4725,
+                    -14.020277777
+                ]
+            },
+            "properties": {
+                "name": "Mount Lanotai",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -172.448333333,
+                    -13.585277777
+                ]
+            },
+            "properties": {
+                "name": "Mount Fa'ani",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -171.621388888,
+                    -13.977777777
+                ]
+            },
+            "properties": {
+                "name": "Mount Fealofani",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -171.608333333,
+                    -13.956944444
+                ]
+            },
+            "properties": {
+                "name": "Mount Poutavai",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -171.683611111,
+                    -13.951666666
+                ]
+            },
+            "properties": {
+                "name": "Mount Fito",
+                "article": "https://en.wikipedia.org/wiki/Mount_Fito"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -171.5204,
+                    -13.9985
+                ]
+            },
+            "properties": {
+                "name": "Mount Tiatala",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -171.614444444,
+                    -13.9825
+                ]
+            },
+            "properties": {
+                "name": "Mount Mauga Sa",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -171.544722222,
+                    -13.993611111
+                ]
+            },
+            "properties": {
+                "name": "Mount Seuga",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -171.563333333,
+                    -13.979722222
+                ]
+            },
+            "properties": {
+                "name": "Mount Fogalepulu",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -171.580833333,
+                    -13.971111111
+                ]
+            },
+            "properties": {
+                "name": "Mount Mauga-o-Alii",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -172.278333333,
+                    -13.691388888
+                ]
+            },
+            "properties": {
+                "name": "Mount Oloulu",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -172.266944444,
+                    -13.701944444
+                ]
+            },
+            "properties": {
+                "name": "Mount Ulivaa",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -172.2234,
+                    -13.7194
+                ]
+            },
+            "properties": {
+                "name": "Mount Valusia",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -172.271944444,
+                    -13.665
+                ]
+            },
+            "properties": {
+                "name": "Mount Nei",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -172.504722222,
+                    -13.727777777
+                ]
+            },
+            "properties": {
+                "name": "Mount Fatuafie",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -172.522222222,
+                    -13.727777777
+                ]
+            },
+            "properties": {
+                "name": "Mount Olotane",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -172.489444444,
+                    -13.745277777
+                ]
+            },
+            "properties": {
+                "name": "Mount Tiafue",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -172.694722222,
+                    -13.541111111
+                ]
+            },
+            "properties": {
+                "name": "Mount Sama'au",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -172.636944444,
+                    -13.596666666
+                ]
+            },
+            "properties": {
+                "name": "Mount Elietoga",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -172.4099,
+                    -13.572
+                ]
+            },
+            "properties": {
+                "name": "Mount Maugaloa",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -172.332222222,
+                    -13.629722222
+                ]
+            },
+            "properties": {
+                "name": "Mount Ve'a",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -172.3415,
+                    -13.6272
+                ]
+            },
+            "properties": {
+                "name": "Mount Mataulano",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -171.9075,
+                    -13.888055555
+                ]
+            },
+            "properties": {
+                "name": "Mount Mariota",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -172.283055555,
+                    -13.624722222
+                ]
+            },
+            "properties": {
+                "name": "Mount Punaiseesee",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -171.801666666,
+                    -13.858888888
+                ]
+            },
+            "properties": {
+                "name": "Mount Maugafolau",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -172.496666666,
+                    -13.740555555
+                ]
+            },
+            "properties": {
+                "name": "Mount Lelua",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -172.510555555,
+                    -13.726111111
+                ]
+            },
+            "properties": {
+                "name": "Mount Ailao",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -172.5,
+                    -13.724444444
+                ]
+            },
+            "properties": {
+                "name": "Mount Leele",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -172.434722222,
+                    -13.621388888
+                ]
+            },
+            "properties": {
+                "name": "Mount Mua",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -172.378888888,
+                    -13.533888888
+                ]
+            },
+            "properties": {
+                "name": "Mount Ma'asina",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -171.618055555,
+                    -13.880555555
+                ]
+            },
+            "properties": {
+                "name": "Albatross Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -172.1,
+                    -13.666666666
+                ]
+            },
+            "properties": {
+                "name": "Asi, Samoa",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -172.133333333,
+                    -13.7
+                ]
+            },
+            "properties": {
+                "name": "Avalua",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -171.833333333,
+                    -13.833333333
+                ]
+            },
+            "properties": {
+                "name": "Apia",
+                "article": "https://en.wikipedia.org/wiki/Apia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -172.097222222,
+                    -13.849444444
+                ]
+            },
+            "properties": {
+                "name": "Fatuanava Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -172.115,
+                    -13.859722222
+                ]
+            },
+            "properties": {
+                "name": "Lepuia'i Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -171.802222222,
+                    -13.786944444
+                ]
+            },
+            "properties": {
+                "name": "Mata'afa Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -172.12935,
+                    -13.84219
+                ]
+            },
+            "properties": {
+                "name": "Nulopa Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -171.746388888,
+                    -13.829166666
+                ]
+            },
+            "properties": {
+                "name": "Taumeasina Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -172.083333333,
+                    -13.85
+                ]
+            },
+            "properties": {
+                "name": "Utuie",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -171.899722222,
+                    -14.005555555
+                ]
+            },
+            "properties": {
+                "name": "Nu'uavasa Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -172.185555555,
+                    -13.687222222
+                ]
+            },
+            "properties": {
+                "name": "Nu'unefu Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -172.214444444,
+                    -13.736944444
+                ]
+            },
+            "properties": {
+                "name": "Nu'upulu Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -171.576388888,
+                    -13.879444444
+                ]
+            },
+            "properties": {
+                "name": "Nu'utele Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -171.759622222,
+                    -13.832711111
+                ]
+            },
+            "properties": {
+                "name": "Aggie Grey's Hotel and Bungalows",
+                "article": "https://en.wikipedia.org/wiki/Sheraton_Samoa_Aggie_Grey%27s_Hotel_%26_Bungalows"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -171.8276,
+                    -13.91033
+                ]
+            },
+            "properties": {
+                "name": "Lanoto'o",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -171.5623,
+                    -14.0439
+                ]
+            },
+            "properties": {
+                "name": "Q47483825",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -171.841143,
+                    -13.907693
+                ]
+            },
+            "properties": {
+                "name": "Q56045843",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -171.682105,
+                    -13.953774
+                ]
+            },
+            "properties": {
+                "name": "Q56045844",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -172.3365,
+                    -13.6316
+                ]
+            },
+            "properties": {
+                "name": "Q56045866",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -171.8474,
+                    -13.9119
+                ]
+            },
+            "properties": {
+                "name": "Q56045864",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -171.51478,
+                    -14.0013
+                ]
+            },
+            "properties": {
+                "name": "Q56045865",
+                "article": null
+            }
+        }
+    ]
+}

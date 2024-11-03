@@ -1,0 +1,285 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -13.23305556,
+                    8.48333333
+                ]
+            },
+            "properties": {
+                "name": "Freetown Central Prison",
+                "article": "https://en.wikipedia.org/wiki/Freetown_Central_Prison"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -11.718055555,
+                    7.350555555
+                ]
+            },
+            "properties": {
+                "name": "Pujehun",
+                "article": "https://en.wikipedia.org/wiki/Pujehun"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -11.183333333,
+                    7.883333333
+                ]
+            },
+            "properties": {
+                "name": "Kenema",
+                "article": "https://en.wikipedia.org/wiki/Kenema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -11.116666666,
+                    9.225
+                ]
+            },
+            "properties": {
+                "name": "Mount Bintumani",
+                "article": "https://en.wikipedia.org/wiki/Mount_Bintumani"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -11.74,
+                    7.956388888
+                ]
+            },
+            "properties": {
+                "name": "Bo",
+                "article": "https://en.wikipedia.org/wiki/Bo,_Sierra_Leone"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -12.505,
+                    7.526388888
+                ]
+            },
+            "properties": {
+                "name": "Bonthe",
+                "article": "https://en.wikipedia.org/wiki/Bonthe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -12.433333333,
+                    8.160555555
+                ]
+            },
+            "properties": {
+                "name": "Moyamba",
+                "article": "https://en.wikipedia.org/wiki/Moyamba"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -11.551666666,
+                    9.587777777
+                ]
+            },
+            "properties": {
+                "name": "Kabala",
+                "article": "https://en.wikipedia.org/wiki/Kabala,_Sierra_Leone"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -11.040833333,
+                    8.611666666
+                ]
+            },
+            "properties": {
+                "name": "Yengema",
+                "article": "https://en.wikipedia.org/wiki/Yengema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10.971666666,
+                    8.643888888
+                ]
+            },
+            "properties": {
+                "name": "Koidu",
+                "article": "https://en.wikipedia.org/wiki/Koidu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -13.04026944,
+                    8.56987222
+                ]
+            },
+            "properties": {
+                "name": "Bunce Island",
+                "article": "https://en.wikipedia.org/wiki/Bunce_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -13.225179,
+                    8.107739
+                ]
+            },
+            "properties": {
+                "name": "Ricketts Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -12.783333333,
+                    8.766666666
+                ]
+            },
+            "properties": {
+                "name": "Port Loko",
+                "article": "https://en.wikipedia.org/wiki/Port_Loko"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10.573333333,
+                    8.279444444
+                ]
+            },
+            "properties": {
+                "name": "Kailahun",
+                "article": "https://en.wikipedia.org/wiki/Kailahun"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -12.918055555,
+                    9.123888888
+                ]
+            },
+            "properties": {
+                "name": "Kambia",
+                "article": "https://en.wikipedia.org/wiki/Kambia,_Sierra_Leone"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -11.949444444,
+                    8.721111111
+                ]
+            },
+            "properties": {
+                "name": "Magburaka",
+                "article": "https://en.wikipedia.org/wiki/Magburaka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -12.7,
+                    7.55
+                ]
+            },
+            "properties": {
+                "name": "Sherbro Island",
+                "article": "https://en.wikipedia.org/wiki/Sherbro_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -11.521497,
+                    9.248345
+                ]
+            },
+            "properties": {
+                "name": "Lake Sonfon",
+                "article": "https://en.wikipedia.org/wiki/Lake_Sonfon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -12.3167,
+                    9.73333
+                ]
+            },
+            "properties": {
+                "name": "Yana",
+                "article": "https://en.wikipedia.org/wiki/Yana,_Sierra_Leone"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -12.3166667,
+                    9.7333333
+                ]
+            },
+            "properties": {
+                "name": "Yana",
+                "article": "https://en.wikipedia.org/wiki/Yana,_Sierra_Leone"
+            }
+        }
+    ]
+}

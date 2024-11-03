@@ -1,0 +1,1405 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.134033333,
+                    49.163816666
+                ]
+            },
+            "properties": {
+                "name": "Gerlachovský štít",
+                "article": "https://en.wikipedia.org/wiki/Gerlachovsk%C3%BD_%C5%A1t%C3%ADt"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.863611111,
+                    48.858888888
+                ]
+            },
+            "properties": {
+                "name": "Turčianske Teplice",
+                "article": "https://en.wikipedia.org/wiki/Tur%C4%8Dianske_Teplice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.14,
+                    48.635
+                ]
+            },
+            "properties": {
+                "name": "Šaštín-Stráže",
+                "article": "https://en.wikipedia.org/wiki/%C5%A0a%C5%A1t%C3%ADn-Str%C3%A1%C5%BEe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.683333333,
+                    49.133333333
+                ]
+            },
+            "properties": {
+                "name": "Rajecké Teplice",
+                "article": "https://en.wikipedia.org/wiki/Rajeck%C3%A9_Teplice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.979722222,
+                    48.423333333
+                ]
+            },
+            "properties": {
+                "name": "Kráľovský Chlmec",
+                "article": "https://en.wikipedia.org/wiki/Kr%C3%A1%C4%BEovsk%C3%BD_Chlmec"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.892777777,
+                    48.700277777
+                ]
+            },
+            "properties": {
+                "name": "Medzev",
+                "article": "https://en.wikipedia.org/wiki/Medzev"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.537222222,
+                    48.665277777
+                ]
+            },
+            "properties": {
+                "name": "Brezová pod Bradlom",
+                "article": "https://en.wikipedia.org/wiki/Brezov%C3%A1_pod_Bradlom"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.145277777,
+                    48.735277777
+                ]
+            },
+            "properties": {
+                "name": "Banská Bystrica",
+                "article": "https://en.wikipedia.org/wiki/Bansk%C3%A1_Bystrica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.040555555,
+                    48.894166666
+                ]
+            },
+            "properties": {
+                "name": "Trenčín",
+                "article": "https://en.wikipedia.org/wiki/Tren%C4%8D%C3%ADn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.565444444,
+                    49.088694444
+                ]
+            },
+            "properties": {
+                "name": "Kremenec",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.625277777,
+                    49.405
+                ]
+            },
+            "properties": {
+                "name": "Turzovka",
+                "article": "https://en.wikipedia.org/wiki/Turzovka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.396388888,
+                    48.378055555
+                ]
+            },
+            "properties": {
+                "name": "Zlaté Moravce",
+                "article": "https://en.wikipedia.org/wiki/Zlat%C3%A9_Moravce"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.18944444,
+                    48.18472222
+                ]
+            },
+            "properties": {
+                "name": "Zlaté Piesky",
+                "article": "https://en.wikipedia.org/wiki/Zlat%C3%A9_Piesky"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.893055555,
+                    48.458611111
+                ]
+            },
+            "properties": {
+                "name": "Banská Štiavnica",
+                "article": "https://en.wikipedia.org/wiki/Bansk%C3%A1_%C5%A0tiavnica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.624166666,
+                    48.771388888
+                ]
+            },
+            "properties": {
+                "name": "Prievidza",
+                "article": "https://en.wikipedia.org/wiki/Prievidza"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.128333333,
+                    47.763333333
+                ]
+            },
+            "properties": {
+                "name": "Komárno",
+                "article": "https://en.wikipedia.org/wiki/Kom%C3%A1rno"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.08865,
+                    48.41704
+                ]
+            },
+            "properties": {
+                "name": "Čierna nad Tisou",
+                "article": "https://en.wikipedia.org/wiki/%C4%8Cierna_nad_Tisou"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.105555555,
+                    48.344444444
+                ]
+            },
+            "properties": {
+                "name": "Zobor",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.108333333,
+                    48.345833333
+                ]
+            },
+            "properties": {
+                "name": "Zobor",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.533333333,
+                    48.283333333
+                ]
+            },
+            "properties": {
+                "name": "Tlmače",
+                "article": "https://en.wikipedia.org/wiki/Tlma%C4%8De"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.179,
+                    48.746
+                ]
+            },
+            "properties": {
+                "name": "Sobrance",
+                "article": "https://en.wikipedia.org/wiki/Sobrance"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.590555555,
+                    49.022777777
+                ]
+            },
+            "properties": {
+                "name": "Levoča",
+                "article": "https://en.wikipedia.org/wiki/Levo%C4%8Da"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.391666666,
+                    48.523569444
+                ]
+            },
+            "properties": {
+                "name": "Záruby",
+                "article": "https://en.wikipedia.org/wiki/Z%C3%A1ruby"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.215555555,
+                    48.251944444
+                ]
+            },
+            "properties": {
+                "name": "Svätý Jur",
+                "article": "https://en.wikipedia.org/wiki/Sv%C3%A4t%C3%BD_Jur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.828611111,
+                    48.271944444
+                ]
+            },
+            "properties": {
+                "name": "Fiľakovo",
+                "article": "https://en.wikipedia.org/wiki/Fi%C4%BEakovo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.15,
+                    48.933333333
+                ]
+            },
+            "properties": {
+                "name": "Nová Dubnica",
+                "article": "https://en.wikipedia.org/wiki/Nov%C3%A1_Dubnica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.716666666,
+                    48.633333333
+                ]
+            },
+            "properties": {
+                "name": "Trebišov",
+                "article": "https://en.wikipedia.org/wiki/Trebi%C5%A1ov"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.151944444,
+                    48.625555555
+                ]
+            },
+            "properties": {
+                "name": "Sliač",
+                "article": "https://en.wikipedia.org/wiki/Slia%C4%8D"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.330555555,
+                    49.12
+                ]
+            },
+            "properties": {
+                "name": "Púchov",
+                "article": "https://en.wikipedia.org/wiki/P%C3%BAchov"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7975,
+                    48.430555555
+                ]
+            },
+            "properties": {
+                "name": "Poltár",
+                "article": "https://en.wikipedia.org/wiki/Polt%C3%A1r"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.1122,
+                    49.1689
+                ]
+            },
+            "properties": {
+                "name": "Q260733",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.316666666,
+                    48.25
+                ]
+            },
+            "properties": {
+                "name": "Vráble",
+                "article": "https://en.wikipedia.org/wiki/Vr%C3%A1ble"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0803,
+                    49.1531
+                ]
+            },
+            "properties": {
+                "name": "Popradské pleso",
+                "article": "https://en.wikipedia.org/wiki/Popradsk%C3%A9_pleso"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.531388888,
+                    48.658611111
+                ]
+            },
+            "properties": {
+                "name": "Rožňava",
+                "article": "https://en.wikipedia.org/wiki/Ro%C5%BE%C5%88ava"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.639444444,
+                    48.426666666
+                ]
+            },
+            "properties": {
+                "name": "Nová Baňa",
+                "article": "https://en.wikipedia.org/wiki/Nov%C3%A1_Ba%C5%88a"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.618055555,
+                    49.081111111
+                ]
+            },
+            "properties": {
+                "name": "Liptovský Mikuláš",
+                "article": "https://en.wikipedia.org/wiki/Liptovsk%C3%BD_Mikul%C3%A1%C5%A1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.172777777,
+                    47.983055555
+                ]
+            },
+            "properties": {
+                "name": "Nové Zámky",
+                "article": "https://en.wikipedia.org/wiki/Nov%C3%A9_Z%C3%A1mky"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.208333333,
+                    48.773611111
+                ]
+            },
+            "properties": {
+                "name": "Stolica",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.3675,
+                    48.820555555
+                ]
+            },
+            "properties": {
+                "name": "Dobšiná",
+                "article": "https://en.wikipedia.org/wiki/Dob%C5%A1in%C3%A1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.640169444,
+                    48.936611111
+                ]
+            },
+            "properties": {
+                "name": "Ďumbier",
+                "article": "https://en.wikipedia.org/wiki/%C4%8Eumbier"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.182222222,
+                    49.198888888
+                ]
+            },
+            "properties": {
+                "name": "Ľadový štít",
+                "article": "https://en.wikipedia.org/wiki/%C4%BDadov%C3%BD_%C5%A1t%C3%ADt"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.112777777,
+                    48.144722222
+                ]
+            },
+            "properties": {
+                "name": "Bratislava",
+                "article": "https://en.wikipedia.org/wiki/Bratislava"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.047161111,
+                    48.661975
+                ]
+            },
+            "properties": {
+                "name": "Kúty railway station",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.420833333,
+                    48.557222222
+                ]
+            },
+            "properties": {
+                "name": "Detva",
+                "article": "https://en.wikipedia.org/wiki/Detva"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.133055555,
+                    48.583055555
+                ]
+            },
+            "properties": {
+                "name": "Zvolen",
+                "article": "https://en.wikipedia.org/wiki/Zvolen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.153333333,
+                    48.574444444
+                ]
+            },
+            "properties": {
+                "name": "Zvolen",
+                "article": "https://en.wikipedia.org/wiki/Zvolen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.25,
+                    48.716666666
+                ]
+            },
+            "properties": {
+                "name": "Košice",
+                "article": "https://en.wikipedia.org/wiki/Ko%C5%A1ice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.733333333,
+                    49.216666666
+                ]
+            },
+            "properties": {
+                "name": "Žilina",
+                "article": "https://en.wikipedia.org/wiki/%C5%BDilina"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.233333333,
+                    49.0
+                ]
+            },
+            "properties": {
+                "name": "Prešov",
+                "article": "https://en.wikipedia.org/wiki/Pre%C5%A1ov"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.586211111,
+                    48.37775
+                ]
+            },
+            "properties": {
+                "name": "Trnava",
+                "article": "https://en.wikipedia.org/wiki/Trnava"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.3,
+                    49.05
+                ]
+            },
+            "properties": {
+                "name": "Poprad",
+                "article": "https://en.wikipedia.org/wiki/Poprad"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0875,
+                    48.314722222
+                ]
+            },
+            "properties": {
+                "name": "Nitra",
+                "article": "https://en.wikipedia.org/wiki/Nitra"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.921388888,
+                    49.063611111
+                ]
+            },
+            "properties": {
+                "name": "Martin",
+                "article": "https://en.wikipedia.org/wiki/Martin,_Slovakia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.275833333,
+                    49.295
+                ]
+            },
+            "properties": {
+                "name": "Bardejov",
+                "article": "https://en.wikipedia.org/wiki/Bardejov"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.308333333,
+                    49.078611111
+                ]
+            },
+            "properties": {
+                "name": "Ružomberok",
+                "article": "https://en.wikipedia.org/wiki/Ru%C5%BEomberok"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.558055555,
+                    49.222777777
+                ]
+            },
+            "properties": {
+                "name": "Bytča",
+                "article": "https://en.wikipedia.org/wiki/Byt%C4%8Da"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.718055555,
+                    47.799166666
+                ]
+            },
+            "properties": {
+                "name": "Štúrovo",
+                "article": "https://en.wikipedia.org/wiki/%C5%A0t%C3%BArovo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.45,
+                    49.116666666
+                ]
+            },
+            "properties": {
+                "name": "Považská Bystrica",
+                "article": "https://en.wikipedia.org/wiki/Pova%C5%BEsk%C3%A1_Bystrica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.833333333,
+                    48.583333333
+                ]
+            },
+            "properties": {
+                "name": "Piešťany",
+                "article": "https://en.wikipedia.org/wiki/Pie%C5%A1%C5%A5any"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.483888888,
+                    48.637222222
+                ]
+            },
+            "properties": {
+                "name": "Poľana",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.429166666,
+                    49.138333333
+                ]
+            },
+            "properties": {
+                "name": "Kežmarok",
+                "article": "https://en.wikipedia.org/wiki/Ke%C5%BEmarok"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.245555555,
+                    49.360277777
+                ]
+            },
+            "properties": {
+                "name": "Stebnícka Magura",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.788333333,
+                    49.438611111
+                ]
+            },
+            "properties": {
+                "name": "Čadca",
+                "article": "https://en.wikipedia.org/wiki/%C4%8Cadca"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.724444444,
+                    49.039444444
+                ]
+            },
+            "properties": {
+                "name": "Liptovský Hrádok",
+                "article": "https://en.wikipedia.org/wiki/Liptovsk%C3%BD_Hr%C3%A1dok"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.945555555,
+                    48.680555555
+                ]
+            },
+            "properties": {
+                "name": "Tisovec",
+                "article": "https://en.wikipedia.org/wiki/Tisovec"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.997222222,
+                    47.915277777
+                ]
+            },
+            "properties": {
+                "name": "Kolárovo",
+                "article": "https://en.wikipedia.org/wiki/Kol%C3%A1rovo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.833333333,
+                    48.783333333
+                ]
+            },
+            "properties": {
+                "name": "Nové Mesto nad Váhom",
+                "article": "https://en.wikipedia.org/wiki/Nov%C3%A9_Mesto_nad_V%C3%A1hom"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.48,
+                    49.41
+                ]
+            },
+            "properties": {
+                "name": "Námestovo",
+                "article": "https://en.wikipedia.org/wiki/N%C3%A1mestovo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.036388888,
+                    49.168333333
+                ]
+            },
+            "properties": {
+                "name": "Capie pleso",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.57884,
+                    47.89211
+                ]
+            },
+            "properties": {
+                "name": "Gabčíkovo",
+                "article": "https://en.wikipedia.org/wiki/Gab%C4%8D%C3%ADkovo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.116944444,
+                    48.966944444
+                ]
+            },
+            "properties": {
+                "name": "Nemšová",
+                "article": "https://en.wikipedia.org/wiki/Nem%C5%A1ov%C3%A1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.966666666,
+                    48.066666666
+                ]
+            },
+            "properties": {
+                "name": "Šahy",
+                "article": "https://en.wikipedia.org/wiki/%C5%A0ahy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.311666666,
+                    48.026666666
+                ]
+            },
+            "properties": {
+                "name": "Šamorín",
+                "article": "https://en.wikipedia.org/wiki/%C5%A0amor%C3%ADn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.883333333,
+                    48.15
+                ]
+            },
+            "properties": {
+                "name": "Šaľa",
+                "article": "https://en.wikipedia.org/wiki/%C5%A0a%C4%BEa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.65361111,
+                    48.93666667
+                ]
+            },
+            "properties": {
+                "name": "Štiavnica",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.058333333,
+                    49.1225
+                ]
+            },
+            "properties": {
+                "name": "Štrbské pleso",
+                "article": "https://en.wikipedia.org/wiki/%C5%A0trbsk%C3%A9_pleso"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.183333333,
+                    48.083333333
+                ]
+            },
+            "properties": {
+                "name": "Šurany",
+                "article": "https://en.wikipedia.org/wiki/%C5%A0urany"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.08638889,
+                    49.18944444
+                ]
+            },
+            "properties": {
+                "name": "Żabi Mnich",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.716666666,
+                    48.483333333
+                ]
+            },
+            "properties": {
+                "name": "Žarnovica",
+                "article": "https://en.wikipedia.org/wiki/%C5%BDarnovica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.660277777,
+                    48.048611111
+                ]
+            },
+            "properties": {
+                "name": "Želiezovce",
+                "article": "https://en.wikipedia.org/wiki/%C5%BDeliezovce"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.853333333,
+                    48.591944444
+                ]
+            },
+            "properties": {
+                "name": "Žiar nad Hronom",
+                "article": "https://en.wikipedia.org/wiki/%C5%BDiar_nad_Hronom"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.733333333,
+                    48.283333333
+                ]
+            },
+            "properties": {
+                "name": "Sereď",
+                "article": "https://en.wikipedia.org/wiki/Sere%C4%8F"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.730833333,
+                    48.191388888
+                ]
+            },
+            "properties": {
+                "name": "Galanta",
+                "article": "https://en.wikipedia.org/wiki/Galanta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.918333333,
+                    48.7575
+                ]
+            },
+            "properties": {
+                "name": "Michalovce",
+                "article": "https://en.wikipedia.org/wiki/Michalovce"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.566666666,
+                    48.95
+                ]
+            },
+            "properties": {
+                "name": "Spišská Nová Ves",
+                "article": "https://en.wikipedia.org/wiki/Spi%C5%A1sk%C3%A1_Nov%C3%A1_Ves"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.638055555,
+                    48.803611111
+                ]
+            },
+            "properties": {
+                "name": "Brezno",
+                "article": "https://en.wikipedia.org/wiki/Brezno"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.165833333,
+                    48.9575
+                ]
+            },
+            "properties": {
+                "name": "Dubnica nad Váhom",
+                "article": "https://en.wikipedia.org/wiki/Dubnica_nad_V%C3%A1hom"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.236111111,
+                    48.999444444
+                ]
+            },
+            "properties": {
+                "name": "Ilava",
+                "article": "https://en.wikipedia.org/wiki/Ilava"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.912222222,
+                    48.930555555
+                ]
+            },
+            "properties": {
+                "name": "Humenné",
+                "article": "https://en.wikipedia.org/wiki/Humenn%C3%A9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.606944444,
+                    48.213611111
+                ]
+            },
+            "properties": {
+                "name": "Levice",
+                "article": "https://en.wikipedia.org/wiki/Levice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.55027778,
+                    49.33694444
+                ]
+            },
+            "properties": {
+                "name": "Tvrdošín",
+                "article": "https://en.wikipedia.org/wiki/Tvrdo%C5%A1%C3%ADn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.695555555,
+                    48.777222222
+                ]
+            },
+            "properties": {
+                "name": "Stará Turá",
+                "article": "https://en.wikipedia.org/wiki/Star%C3%A1_Tur%C3%A1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.783333333,
+                    49.3
+                ]
+            },
+            "properties": {
+                "name": "Kysucké Nové Mesto",
+                "article": "https://en.wikipedia.org/wiki/Kysuck%C3%A9_Nov%C3%A9_Mesto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.8,
+                    48.95
+                ]
+            },
+            "properties": {
+                "name": "Spišské Vlachy",
+                "article": "https://en.wikipedia.org/wiki/Spi%C5%A1sk%C3%A9_Vlachy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.88,
+                    48.168611111
+                ]
+            },
+            "properties": {
+                "name": "Dudince",
+                "article": "https://en.wikipedia.org/wiki/Dudince"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.166111111,
+                    48.910555555
+                ]
+            },
+            "properties": {
+                "name": "Trenčianske Teplice",
+                "article": "https://en.wikipedia.org/wiki/Tren%C4%8Dianske_Teplice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.75305556,
+                    48.99888889
+                ]
+            },
+            "properties": {
+                "name": "Spišské Podhradie",
+                "article": "https://en.wikipedia.org/wiki/Spi%C5%A1sk%C3%A9_Podhradie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.1306,
+                    49.1533
+                ]
+            },
+            "properties": {
+                "name": "Batizovské pleso",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.258055555,
+                    48.718611111
+                ]
+            },
+            "properties": {
+                "name": "Bánovce nad Bebravou",
+                "article": "https://en.wikipedia.org/wiki/B%C3%A1novce_nad_Bebravou"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.516666666,
+                    49.111666666
+                ]
+            },
+            "properties": {
+                "name": "Giraltovce",
+                "article": "https://en.wikipedia.org/wiki/Giraltovce"
+            }
+        }
+    ]
+}

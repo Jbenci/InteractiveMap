@@ -1,0 +1,1405 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.81,
+                    17.64
+                ]
+            },
+            "properties": {
+                "name": "Barbuda",
+                "article": "https://en.wikipedia.org/wiki/Barbuda"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.8,
+                    17.085
+                ]
+            },
+            "properties": {
+                "name": "Antigua",
+                "article": "https://en.wikipedia.org/wiki/Antigua"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.766666666,
+                    17.1
+                ]
+            },
+            "properties": {
+                "name": "Parham, Antigua",
+                "article": "https://en.wikipedia.org/wiki/Parham,_Antigua_and_Barbuda"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -62.345,
+                    16.938333333
+                ]
+            },
+            "properties": {
+                "name": "Redonda",
+                "article": "https://en.wikipedia.org/wiki/Redonda"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.833333333,
+                    17.633333333
+                ]
+            },
+            "properties": {
+                "name": "Codrington",
+                "article": "https://en.wikipedia.org/wiki/Codrington,_Barbuda"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.85,
+                    17.05
+                ]
+            },
+            "properties": {
+                "name": "Mount Obama",
+                "article": "https://en.wikipedia.org/wiki/Boggy_Peak"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.8,
+                    17.116666666
+                ]
+            },
+            "properties": {
+                "name": "Piggotts",
+                "article": "https://en.wikipedia.org/wiki/Piggotts"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.7,
+                    17.05
+                ]
+            },
+            "properties": {
+                "name": "Freetown",
+                "article": "https://en.wikipedia.org/wiki/Freetown,_Antigua_and_Barbuda"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.783333333,
+                    17.016666666
+                ]
+            },
+            "properties": {
+                "name": "Falmouth",
+                "article": "https://en.wikipedia.org/wiki/Falmouth,_Antigua_and_Barbuda"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.7186,
+                    17.1083
+                ]
+            },
+            "properties": {
+                "name": "Crump Island",
+                "article": "https://en.wikipedia.org/wiki/Crump_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.840572,
+                    17.122879
+                ]
+            },
+            "properties": {
+                "name": "Government House",
+                "article": "https://en.wikipedia.org/wiki/Government_House,_Antigua_and_Barbuda"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.72423,
+                    17.14512
+                ]
+            },
+            "properties": {
+                "name": "Great Bird Island",
+                "article": "https://en.wikipedia.org/wiki/Great_Bird_Island_(Antigua_and_Barbuda)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.73218,
+                    17.12143
+                ]
+            },
+            "properties": {
+                "name": "Guiana Island",
+                "article": "https://en.wikipedia.org/wiki/Guiana_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.7972,
+                    17.1478
+                ]
+            },
+            "properties": {
+                "name": "Barnes Hill, Antigua",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.75333333,
+                    17.155
+                ]
+            },
+            "properties": {
+                "name": "Long Island",
+                "article": "https://en.wikipedia.org/wiki/Long_Island_(Antigua_and_Barbuda)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.7046,
+                    17.1054
+                ]
+            },
+            "properties": {
+                "name": "Pelican Island, Antigua and Barbuda",
+                "article": "https://en.wikipedia.org/wiki/Pelican_Island_(Antigua_and_Barbuda)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.748611111,
+                    17.064166666
+                ]
+            },
+            "properties": {
+                "name": "Potworks Dam",
+                "article": "https://en.wikipedia.org/wiki/Potworks_Dam"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.79807,
+                    17.17582
+                ]
+            },
+            "properties": {
+                "name": "Prickly Pear Island",
+                "article": "https://en.wikipedia.org/wiki/Prickly_Pear_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.7219,
+                    17.141
+                ]
+            },
+            "properties": {
+                "name": "Hell's Gate Island",
+                "article": "https://en.wikipedia.org/wiki/Hell%27s_Gate_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.82148,
+                    17.01526
+                ]
+            },
+            "properties": {
+                "name": "Fisher Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.67244,
+                    17.07942
+                ]
+            },
+            "properties": {
+                "name": "Bird Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.783333333,
+                    17.0
+                ]
+            },
+            "properties": {
+                "name": "Q21052044",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.78266,
+                    17.01456
+                ]
+            },
+            "properties": {
+                "name": "Blake Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.84877,
+                    17.02875
+                ]
+            },
+            "properties": {
+                "name": "Cade Peak",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.86334,
+                    17.05192
+                ]
+            },
+            "properties": {
+                "name": "Botts Peak",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.73673,
+                    17.61501
+                ]
+            },
+            "properties": {
+                "name": "Castle Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.85932,
+                    17.09368
+                ]
+            },
+            "properties": {
+                "name": "Cashew Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.78835,
+                    17.0195
+                ]
+            },
+            "properties": {
+                "name": "Cherry Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.783333333,
+                    17.116666666
+                ]
+            },
+            "properties": {
+                "name": "Q21052070",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.88727,
+                    17.03606
+                ]
+            },
+            "properties": {
+                "name": "Crab Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.83557,
+                    17.68061
+                ]
+            },
+            "properties": {
+                "name": "Cuffy Creek",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.75,
+                    17.01667023
+                ]
+            },
+            "properties": {
+                "name": "Dow Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.76374,
+                    17.00274
+                ]
+            },
+            "properties": {
+                "name": "Q21052185",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.77378,
+                    17.0026
+                ]
+            },
+            "properties": {
+                "name": "English Point",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.72325,
+                    17.1364
+                ]
+            },
+            "properties": {
+                "name": "Exchange Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.88343,
+                    17.08105
+                ]
+            },
+            "properties": {
+                "name": "Flat Top Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.83431,
+                    17.14523
+                ]
+            },
+            "properties": {
+                "name": "Friars Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.883333333,
+                    17.05
+                ]
+            },
+            "properties": {
+                "name": "Q21052266",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.82746,
+                    17.69172
+                ]
+            },
+            "properties": {
+                "name": "Goat Island Flush",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.76667023,
+                    17.66666985
+                ]
+            },
+            "properties": {
+                "name": "Gun Shop Cliff",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.76667,
+                    17.66667
+                ]
+            },
+            "properties": {
+                "name": "Gun Shop Cliff",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.7278,
+                    17.1128
+                ]
+            },
+            "properties": {
+                "name": "Hawes Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.72194,
+                    17.14106
+                ]
+            },
+            "properties": {
+                "name": "Hells Gate Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.683333333,
+                    17.066666666
+                ]
+            },
+            "properties": {
+                "name": "Nanny Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.92658,
+                    17.13423
+                ]
+            },
+            "properties": {
+                "name": "Sandy Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.82471,
+                    17.11167
+                ]
+            },
+            "properties": {
+                "name": "Scotts Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.68016,
+                    17.041
+                ]
+            },
+            "properties": {
+                "name": "Smith Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.85,
+                    17.1
+                ]
+            },
+            "properties": {
+                "name": "Smith Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.79787,
+                    17.02462
+                ]
+            },
+            "properties": {
+                "name": "Sugar Loaf Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.89234,
+                    17.11239
+                ]
+            },
+            "properties": {
+                "name": "Table Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.76749,
+                    17.65198
+                ]
+            },
+            "properties": {
+                "name": "The Highlands",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.73332977,
+                    17.01667023
+                ]
+            },
+            "properties": {
+                "name": "The Ridge",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.86833,
+                    17.16084
+                ]
+            },
+            "properties": {
+                "name": "The Sisters",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.7349,
+                    17.54776
+                ]
+            },
+            "properties": {
+                "name": "White Cliff",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.666666666,
+                    17.05
+                ]
+            },
+            "properties": {
+                "name": "Q21053079",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.88581,
+                    17.11639
+                ]
+            },
+            "properties": {
+                "name": "Yepton Peak",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.76925,
+                    17.11431
+                ]
+            },
+            "properties": {
+                "name": "Vernon's Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.844722222,
+                    17.121111111
+                ]
+            },
+            "properties": {
+                "name": "Saint John's",
+                "article": "https://en.wikipedia.org/wiki/St._John%27s,_Antigua_and_Barbuda"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.669523,
+                    17.053522
+                ]
+            },
+            "properties": {
+                "name": "York Island",
+                "article": "https://en.wikipedia.org/wiki/York_Island_(Antigua_and_Barbuda)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.666667,
+                    17.0705
+                ]
+            },
+            "properties": {
+                "name": "Green Island",
+                "article": "https://en.wikipedia.org/wiki/Green_Island_(Antigua_and_Barbuda)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.796111111,
+                    17.146944444
+                ]
+            },
+            "properties": {
+                "name": "Coolidge",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.780726,
+                    17.043707
+                ]
+            },
+            "properties": {
+                "name": "Tyrells",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.7552,
+                    17.044
+                ]
+            },
+            "properties": {
+                "name": "Bethesda Dam",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.73,
+                    17.13
+                ]
+            },
+            "properties": {
+                "name": "Rabbit Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.7058,
+                    17.1025
+                ]
+            },
+            "properties": {
+                "name": "Codrington Island",
+                "article": "https://en.wikipedia.org/wiki/Codrington_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.72315,
+                    17.09915
+                ]
+            },
+            "properties": {
+                "name": "Laviscounts Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.7631,
+                    17.094
+                ]
+            },
+            "properties": {
+                "name": "Lindsay Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.729722222,
+                    17.133888888
+                ]
+            },
+            "properties": {
+                "name": "Lobster Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.763333333,
+                    17.144444444
+                ]
+            },
+            "properties": {
+                "name": "Maiden Island",
+                "article": "https://en.wikipedia.org/wiki/Maiden_Island_(Antigua_and_Barbuda)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.76316,
+                    17.14528
+                ]
+            },
+            "properties": {
+                "name": "Maiden Island",
+                "article": "https://en.wikipedia.org/wiki/Maiden_Island_(Antigua_and_Barbuda)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.8873,
+                    17.0958
+                ]
+            },
+            "properties": {
+                "name": "Maiden Island, Saint Mary",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.8513,
+                    17.66813
+                ]
+            },
+            "properties": {
+                "name": "Man of War Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.83631,
+                    17.15409
+                ]
+            },
+            "properties": {
+                "name": "Marble Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.842222222,
+                    17.058333333
+                ]
+            },
+            "properties": {
+                "name": "McNish Mountain",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.766666666,
+                    17.166666666
+                ]
+            },
+            "properties": {
+                "name": "Q21052631",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.81667,
+                    17.13333
+                ]
+            },
+            "properties": {
+                "name": "Mount Pleasant",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.88324,
+                    17.10732
+                ]
+            },
+            "properties": {
+                "name": "Mount Thomas, Saint John",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.7,
+                    17.083330555
+                ]
+            },
+            "properties": {
+                "name": "Q21052651",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.89107,
+                    17.0254
+                ]
+            },
+            "properties": {
+                "name": "Pelican Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.90868,
+                    17.09974
+                ]
+            },
+            "properties": {
+                "name": "Pelican Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.7,
+                    17.1
+                ]
+            },
+            "properties": {
+                "name": "Q21052754",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.85,
+                    17.15
+                ]
+            },
+            "properties": {
+                "name": "Pelican Rocks",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.73332977,
+                    17.60000038
+                ]
+            },
+            "properties": {
+                "name": "Pigeon Cliff",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.74686,
+                    17.64446
+                ]
+            },
+            "properties": {
+                "name": "Pigeon Cliff",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.8791,
+                    17.12883
+                ]
+            },
+            "properties": {
+                "name": "Pillar Rock",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.75714,
+                    17.09833
+                ]
+            },
+            "properties": {
+                "name": "Pointed Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.833333333,
+                    17.166666666
+                ]
+            },
+            "properties": {
+                "name": "Q21052802",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.8011,
+                    17.13863
+                ]
+            },
+            "properties": {
+                "name": "Powells Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.73101,
+                    17.13592
+                ]
+            },
+            "properties": {
+                "name": "Rabitt Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.85603,
+                    17.12619
+                ]
+            },
+            "properties": {
+                "name": "Rat Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.9,
+                    17.083333333
+                ]
+            },
+            "properties": {
+                "name": "Q21052837",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.728333333,
+                    17.137777777
+                ]
+            },
+            "properties": {
+                "name": "Red Head Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.80337,
+                    17.01083
+                ]
+            },
+            "properties": {
+                "name": "Q21052856",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.85343,
+                    17.06147
+                ]
+            },
+            "properties": {
+                "name": "Rock Peak",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.85895,
+                    17.14538
+                ]
+            },
+            "properties": {
+                "name": "Runaway Bay",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.88333,
+                    17.08333
+                ]
+            },
+            "properties": {
+                "name": "Saddle Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.86208,
+                    17.12615
+                ]
+            },
+            "properties": {
+                "name": "Saint John's Harbour",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.89107,
+                    17.0254
+                ]
+            },
+            "properties": {
+                "name": "Johnson Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.726313102,
+                    17.143356867
+                ]
+            },
+            "properties": {
+                "name": "Galley Island Major",
+                "article": "https://en.wikipedia.org/wiki/Galley_Island_Major"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.727608107,
+                    17.142942317
+                ]
+            },
+            "properties": {
+                "name": "Galley Island Minor",
+                "article": "https://en.wikipedia.org/wiki/Galley_Island_Minor"
+            }
+        }
+    ]
+}

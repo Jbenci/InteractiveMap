@@ -1,0 +1,5493 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.234166666,
+                    36.604722222
+                ]
+            },
+            "properties": {
+                "name": "Takht-e Soleyman",
+                "article": "https://en.wikipedia.org/wiki/Takht-e_Soleym%C4%81n"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    52.89,
+                    29.935
+                ]
+            },
+            "properties": {
+                "name": "Persepolis",
+                "article": "https://en.wikipedia.org/wiki/Persepolis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    50.0775,
+                    32.364444444
+                ]
+            },
+            "properties": {
+                "name": "Zard Kuh",
+                "article": "https://en.wikipedia.org/wiki/Zard-Kuh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.036111111,
+                    25.875833333
+                ]
+            },
+            "properties": {
+                "name": "Abu Musa",
+                "article": "https://en.wikipedia.org/wiki/Abu_Musa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.68780833,
+                    36.26214722
+                ]
+            },
+            "properties": {
+                "name": "Ziwiye",
+                "article": "https://en.wikipedia.org/wiki/Ziwiye_hoard"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    53.966666666,
+                    26.533333333
+                ]
+            },
+            "properties": {
+                "name": "Kish Island",
+                "article": "https://en.wikipedia.org/wiki/Kish_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    53.179444444,
+                    30.2
+                ]
+            },
+            "properties": {
+                "name": "Pasargadae",
+                "article": "https://en.wikipedia.org/wiki/Pasargadae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    56.0,
+                    26.833333333
+                ]
+            },
+            "properties": {
+                "name": "Qeshm Island",
+                "article": "https://en.wikipedia.org/wiki/Qeshm_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.458892,
+                    37.004831
+                ]
+            },
+            "properties": {
+                "name": "Teppe Hasanlu",
+                "article": "https://en.wikipedia.org/wiki/Teppe_Hasanlu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.7,
+                    38.74
+                ]
+            },
+            "properties": {
+                "name": "Arasbaran",
+                "article": "https://en.wikipedia.org/wiki/Arasbaran"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    56.8674,
+                    28.3309
+                ]
+            },
+            "properties": {
+                "name": "Tepe Yahya",
+                "article": "https://en.wikipedia.org/wiki/Tepe_Yahya"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.437194444,
+                    34.762361111
+                ]
+            },
+            "properties": {
+                "name": "Ganjnameh Tourist Resort Complex",
+                "article": "https://en.wikipedia.org/wiki/Ganjnameh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.570833,
+                    29.777778
+                ]
+            },
+            "properties": {
+                "name": "Bishapur",
+                "article": "https://en.wikipedia.org/wiki/Bishapur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.661388888,
+                    32.613611111
+                ]
+            },
+            "properties": {
+                "name": "University of Isfahan",
+                "article": "https://en.wikipedia.org/wiki/University_of_Isfahan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.107783,
+                    34.390832
+                ]
+            },
+            "properties": {
+                "name": "Razi University",
+                "article": "https://en.wikipedia.org/wiki/Razi_University"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    61.133333333,
+                    28.6
+                ]
+            },
+            "properties": {
+                "name": "Mount Taftan",
+                "article": "https://en.wikipedia.org/wiki/Taftan_(volcano)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    52.407777777,
+                    30.011666666
+                ]
+            },
+            "properties": {
+                "name": "Anshan Persia",
+                "article": "https://en.wikipedia.org/wiki/Anshan_(Persia)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    53.17901,
+                    30.2033075
+                ]
+            },
+            "properties": {
+                "name": "Rahmatabad Mound",
+                "article": "https://en.wikipedia.org/wiki/Rahmatabad_Mound"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.950943,
+                    38.884575
+                ]
+            },
+            "properties": {
+                "name": "Bastam Citadel",
+                "article": "https://en.wikipedia.org/wiki/Bastam_Citadel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    52.874722222,
+                    29.988888888
+                ]
+            },
+            "properties": {
+                "name": "Naqsh-e Rustam",
+                "article": "https://en.wikipedia.org/wiki/Naqsh-e_Rostam"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    56.46,
+                    27.0675
+                ]
+            },
+            "properties": {
+                "name": "Hormuz Island",
+                "article": "https://en.wikipedia.org/wiki/Hormuz_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.516247,
+                    34.8065
+                ]
+            },
+            "properties": {
+                "name": "Ecbatana",
+                "article": "https://en.wikipedia.org/wiki/Ecbatana"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.516247,
+                    34.8065
+                ]
+            },
+            "properties": {
+                "name": "Ecbatana",
+                "article": "https://en.wikipedia.org/wiki/Ecbatana"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    53.58333333,
+                    36.75
+                ]
+            },
+            "properties": {
+                "name": "Ashuradeh",
+                "article": "https://en.wikipedia.org/wiki/Ashuradeh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    53.981111111,
+                    36.905833333
+                ]
+            },
+            "properties": {
+                "name": "Ashuradeh",
+                "article": "https://en.wikipedia.org/wiki/Ashuradeh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.45916667,
+                    36.83055556
+                ]
+            },
+            "properties": {
+                "name": "Marlik",
+                "article": "https://en.wikipedia.org/wiki/Marlik"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.066667,
+                    34.516667
+                ]
+            },
+            "properties": {
+                "name": "Godin Tepe",
+                "article": "https://en.wikipedia.org/wiki/Godin_Tepe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.539444444,
+                    25.909444444
+                ]
+            },
+            "properties": {
+                "name": "Sirri Island",
+                "article": "https://en.wikipedia.org/wiki/Sirri_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.5,
+                    36.166666666
+                ]
+            },
+            "properties": {
+                "name": "Azad Kuh",
+                "article": "https://en.wikipedia.org/wiki/Azad_Kooh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    60.011111111,
+                    28.075833333
+                ]
+            },
+            "properties": {
+                "name": "Kūh-e Zendeh",
+                "article": "https://en.wikipedia.org/wiki/Bazman"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.178,
+                    30.434
+                ]
+            },
+            "properties": {
+                "name": "Liberation of Khorramshahr",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Khorramshahr_(1982)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.283333333,
+                    30.333333333
+                ]
+            },
+            "properties": {
+                "name": "Siege of Abadan",
+                "article": "https://en.wikipedia.org/wiki/Siege_of_Abadan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    52.909444444,
+                    29.981666666
+                ]
+            },
+            "properties": {
+                "name": "Istakhr",
+                "article": "https://en.wikipedia.org/wiki/Istakhr"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    58.849166666,
+                    36.426388888
+                ]
+            },
+            "properties": {
+                "name": "Mount Binalud",
+                "article": "https://en.wikipedia.org/wiki/Mount_Binalud"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    50.31,
+                    29.245
+                ]
+            },
+            "properties": {
+                "name": "Kharg Island",
+                "article": "https://en.wikipedia.org/wiki/Kharg_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.423055555,
+                    35.693333333
+                ]
+            },
+            "properties": {
+                "name": "Lalehzar Street",
+                "article": "https://en.wikipedia.org/wiki/Laleh-Zar_Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.132096,
+                    34.387529
+                ]
+            },
+            "properties": {
+                "name": "Taq-e Bostan",
+                "article": "https://en.wikipedia.org/wiki/Taq-e_Bostan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    53.632222222,
+                    26.673888888
+                ]
+            },
+            "properties": {
+                "name": "Hendurabi",
+                "article": "https://en.wikipedia.org/wiki/Hendurabi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.866666666,
+                    26.633333333
+                ]
+            },
+            "properties": {
+                "name": "Hengam Island",
+                "article": "https://en.wikipedia.org/wiki/Hengam_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    56.35,
+                    26.85
+                ]
+            },
+            "properties": {
+                "name": "Larak Island",
+                "article": "https://en.wikipedia.org/wiki/Larak_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    61.666666666,
+                    30.833333333
+                ]
+            },
+            "properties": {
+                "name": "Hamun-e Helmand",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.43,
+                    35.804722222
+                ]
+            },
+            "properties": {
+                "name": "Tajrish",
+                "article": "https://en.wikipedia.org/wiki/Tajrish"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    61.331944444,
+                    30.595277777
+                ]
+            },
+            "properties": {
+                "name": "Shahr-e Sukhteh",
+                "article": "https://en.wikipedia.org/wiki/Shahr-e_Sukhteh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.9599,
+                    34.5015
+                ]
+            },
+            "properties": {
+                "name": "Temple of Anahita at Kangavar",
+                "article": "https://en.wikipedia.org/wiki/Temple_of_Anahita,_Kangavar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.928333333,
+                    31.871944444
+                ]
+            },
+            "properties": {
+                "name": "Kul-e Farah",
+                "article": "https://en.wikipedia.org/wiki/Kul-e_Farah"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.5511,
+                    36.0661
+                ]
+            },
+            "properties": {
+                "name": "Kholeno",
+                "article": "https://en.wikipedia.org/wiki/Kholeno"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.166666666,
+                    30.433333333
+                ]
+            },
+            "properties": {
+                "name": "Battle of Khorramshahr",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Khorramshahr_(1980)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    53.471,
+                    29.7275
+                ]
+            },
+            "properties": {
+                "name": "Tashk Lake",
+                "article": "https://en.wikipedia.org/wiki/Tashk_Lake"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    53.541923,
+                    29.722766
+                ]
+            },
+            "properties": {
+                "name": "Tashk Lake",
+                "article": "https://en.wikipedia.org/wiki/Tashk_Lake"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.5,
+                    36.5
+                ]
+            },
+            "properties": {
+                "name": "Matiene",
+                "article": "https://en.wikipedia.org/wiki/Matiene"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    61.244444444,
+                    30.943888888
+                ]
+            },
+            "properties": {
+                "name": "Mount Khajeh",
+                "article": "https://en.wikipedia.org/wiki/Mount_Khajeh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    61.244444444,
+                    30.943888888
+                ]
+            },
+            "properties": {
+                "name": "Mount Khajeh",
+                "article": "https://en.wikipedia.org/wiki/Mount_Khajeh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.326389,
+                    32.078889
+                ]
+            },
+            "properties": {
+                "name": "Haft Tepe",
+                "article": "https://en.wikipedia.org/wiki/Haft_Tepe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.520833333,
+                    32.008333333
+                ]
+            },
+            "properties": {
+                "name": "Chogha Zanbil",
+                "article": "https://en.wikipedia.org/wiki/Chogha_Zanbil"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    50.5,
+                    42.0
+                ]
+            },
+            "properties": {
+                "name": "Caspian Sea",
+                "article": "https://en.wikipedia.org/wiki/Caspian_Sea"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    52.109166666,
+                    35.955277777
+                ]
+            },
+            "properties": {
+                "name": "Damavand",
+                "article": "https://en.wikipedia.org/wiki/Mount_Damavand"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    52.474444,
+                    27.625278
+                ]
+            },
+            "properties": {
+                "name": "bandar shirinoo",
+                "article": "https://en.wikipedia.org/wiki/Bandar-e_Shirinu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.649444444,
+                    34.712777777
+                ]
+            },
+            "properties": {
+                "name": "Talkhab",
+                "article": "https://en.wikipedia.org/wiki/Talkh_Ab,_Markazi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.516666666,
+                    32.283333333
+                ]
+            },
+            "properties": {
+                "name": "Gundeshapur",
+                "article": "https://en.wikipedia.org/wiki/Gundeshapur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.0,
+                    36.0
+                ]
+            },
+            "properties": {
+                "name": "Musasir",
+                "article": "https://en.wikipedia.org/wiki/Musasir"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.4128,
+                    35.7626
+                ]
+            },
+            "properties": {
+                "name": "K. N. Toosi University of Technology",
+                "article": "https://en.wikipedia.org/wiki/K._N._Toosi_University_of_Technology"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.836944444,
+                    38.266944444
+                ]
+            },
+            "properties": {
+                "name": "Sabalan",
+                "article": "https://en.wikipedia.org/wiki/Sabalan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    50.1725,
+                    27.993055555
+                ]
+            },
+            "properties": {
+                "name": "Farsi Island",
+                "article": "https://en.wikipedia.org/wiki/Farsi_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.5,
+                    37.73
+                ]
+            },
+            "properties": {
+                "name": "Sahand",
+                "article": "https://en.wikipedia.org/wiki/Sahand"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.4,
+                    35.1
+                ]
+            },
+            "properties": {
+                "name": "Shaho",
+                "article": "https://en.wikipedia.org/wiki/Shaho"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.384964,
+                    36.154544
+                ]
+            },
+            "properties": {
+                "name": "Tepe Hissar",
+                "article": "https://en.wikipedia.org/wiki/Tepe_Hissar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.419722222,
+                    35.884166666
+                ]
+            },
+            "properties": {
+                "name": "Tochal",
+                "article": "https://en.wikipedia.org/wiki/Tochal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.0375,
+                    35.961666666
+                ]
+            },
+            "properties": {
+                "name": "Hecatompylos",
+                "article": "https://en.wikipedia.org/wiki/Qumis,_Iran"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    52.887305555,
+                    29.966527777
+                ]
+            },
+            "properties": {
+                "name": "Naqsh-e Rajab",
+                "article": "https://en.wikipedia.org/wiki/Naqsh-e_Rajab"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.18305556,
+                    31.56083333
+                ]
+            },
+            "properties": {
+                "name": "Battle of Dezful",
+                "article": "https://en.wikipedia.org/wiki/Operation_Nasr"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.466666666,
+                    32.383333333
+                ]
+            },
+            "properties": {
+                "name": "Battle of Dezful",
+                "article": "https://en.wikipedia.org/wiki/Operation_Nasr"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.404722222,
+                    33.968888888
+                ]
+            },
+            "properties": {
+                "name": "Tepe Sialk",
+                "article": "https://en.wikipedia.org/wiki/Tepe_Sialk"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.222222222,
+                    25.231666666
+                ]
+            },
+            "properties": {
+                "name": "Aryai",
+                "article": "https://en.wikipedia.org/wiki/Sir_Abu_Nu%27ayr"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    60.480833,
+                    36.314444
+                ]
+            },
+            "properties": {
+                "name": "Bazangan Lake",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.281667,
+                    33.3075
+                ]
+            },
+            "properties": {
+                "name": "Gahar Lake",
+                "article": "https://en.wikipedia.org/wiki/Gahar_Lake"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.1849,
+                    33.1729
+                ]
+            },
+            "properties": {
+                "name": "Little Gahar Lake",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    59.869444444,
+                    34.3475
+                ]
+            },
+            "properties": {
+                "name": "Zozan",
+                "article": "https://en.wikipedia.org/wiki/Zuzan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.47277778,
+                    30.185
+                ]
+            },
+            "properties": {
+                "name": "Kurangun",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.411,
+                    35.732861111
+                ]
+            },
+            "properties": {
+                "name": "Valiasr Street",
+                "article": "https://en.wikipedia.org/wiki/Valiasr_Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.423611111,
+                    35.817222222
+                ]
+            },
+            "properties": {
+                "name": "Sa'dabad Palace",
+                "article": "https://en.wikipedia.org/wiki/Sa%27dabad_Complex"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    52.52675,
+                    29.639741666
+                ]
+            },
+            "properties": {
+                "name": "Shiraz University",
+                "article": "https://en.wikipedia.org/wiki/Shiraz_University"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.5,
+                    37.85
+                ]
+            },
+            "properties": {
+                "name": "Shahi Island",
+                "article": "https://en.wikipedia.org/wiki/Shahi_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.7792,
+                    28.4632
+                ]
+            },
+            "properties": {
+                "name": "Konar Sandal",
+                "article": "https://en.wikipedia.org/wiki/Konar_Sandal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.533333333,
+                    30.083333333
+                ]
+            },
+            "properties": {
+                "name": "Abadan Island",
+                "article": "https://en.wikipedia.org/wiki/Abadan_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    52.348888888,
+                    35.849444444
+                ]
+            },
+            "properties": {
+                "name": "Sahun Lake",
+                "article": "https://en.wikipedia.org/wiki/Lake_Sahun"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.118611111,
+                    30.116388888
+                ]
+            },
+            "properties": {
+                "name": "Shahrbabak",
+                "article": "https://en.wikipedia.org/wiki/Shahr-e_Babak"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.53888889,
+                    36.02944444
+                ]
+            },
+            "properties": {
+                "name": "Q2224547",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.216666666,
+                    30.333333333
+                ]
+            },
+            "properties": {
+                "name": "Minoo Island",
+                "article": "https://en.wikipedia.org/wiki/Minu_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.486666666,
+                    34.664166666
+                ]
+            },
+            "properties": {
+                "name": "Alvand",
+                "article": "https://en.wikipedia.org/wiki/Alvand"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    52.88,
+                    29.91
+                ]
+            },
+            "properties": {
+                "name": "Tall-i Bakun",
+                "article": "https://en.wikipedia.org/wiki/Tall-i_Bakun"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    50.191598,
+                    31.612403
+                ]
+            },
+            "properties": {
+                "name": "Sheivand",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.90527778,
+                    37.79916667
+                ]
+            },
+            "properties": {
+                "name": "Hashtpar",
+                "article": "https://en.wikipedia.org/wiki/T%C4%81lesh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.324922,
+                    32.557814
+                ]
+            },
+            "properties": {
+                "name": "Ali Kosh",
+                "article": "https://en.wikipedia.org/wiki/Ali_Kosh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    53.266666666,
+                    26.816666666
+                ]
+            },
+            "properties": {
+                "name": "Lavan Island",
+                "article": "https://en.wikipedia.org/wiki/Lavan_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    60.432375,
+                    36.85791667
+                ]
+            },
+            "properties": {
+                "name": "Altyndepe",
+                "article": "https://en.wikipedia.org/wiki/Altyndepe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.116666666,
+                    34.45
+                ]
+            },
+            "properties": {
+                "name": "Ganj Dareh",
+                "article": "https://en.wikipedia.org/wiki/Ganj_Dareh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    60.81416667,
+                    31.67930556
+                ]
+            },
+            "properties": {
+                "name": "Q2751252",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    53.30527778,
+                    30.76772222
+                ]
+            },
+            "properties": {
+                "name": "Q2752796",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.38333333,
+                    34.34555556
+                ]
+            },
+            "properties": {
+                "name": "Q2753772",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.680944,
+                    36.298335
+                ]
+            },
+            "properties": {
+                "name": "Hakim Sabzevari University",
+                "article": "https://en.wikipedia.org/wiki/Hakim_Sabzevari_University"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    52.65384,
+                    29.5854
+                ]
+            },
+            "properties": {
+                "name": "Barm-e Delak",
+                "article": "https://en.wikipedia.org/wiki/Barm-e_Delak"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.897875,
+                    34.440894
+                ]
+            },
+            "properties": {
+                "name": "Dukkan-e Daud",
+                "article": "https://en.wikipedia.org/wiki/Dukkan-e_Daud"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.133333333,
+                    35.533333333
+                ]
+            },
+            "properties": {
+                "name": "Zarivar Lake",
+                "article": "https://en.wikipedia.org/wiki/Zrebar_Lake"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    50.0,
+                    36.32
+                ]
+            },
+            "properties": {
+                "name": "Imam Khomeini International University",
+                "article": "https://en.wikipedia.org/wiki/Imam_Khomeini_International_University"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.4375,
+                    30.951666666
+                ]
+            },
+            "properties": {
+                "name": "Dena",
+                "article": "https://en.wikipedia.org/wiki/Dena"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    52.963333333,
+                    29.909722222
+                ]
+            },
+            "properties": {
+                "name": "Kuh-e Rahmat",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.406416666,
+                    35.695388888
+                ]
+            },
+            "properties": {
+                "name": "Jomhuri Street",
+                "article": "https://en.wikipedia.org/wiki/Jomhuri"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.6837,
+                    37.4127
+                ]
+            },
+            "properties": {
+                "name": "Lake Ajigol",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.584722222,
+                    37.356666666
+                ]
+            },
+            "properties": {
+                "name": "Lake Alagol",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.564722222,
+                    37.997777777
+                ]
+            },
+            "properties": {
+                "name": "Neor Lake",
+                "article": "https://en.wikipedia.org/wiki/Neor_Lake"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.5649,
+                    37.9978
+                ]
+            },
+            "properties": {
+                "name": "Neor Lake",
+                "article": "https://en.wikipedia.org/wiki/Neor_Lake"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.583055555,
+                    37.35
+                ]
+            },
+            "properties": {
+                "name": "Alma Gol Lake",
+                "article": "https://en.wikipedia.org/wiki/Alma_Gol_Lake"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.827,
+                    32.361
+                ]
+            },
+            "properties": {
+                "name": "Mowri",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    53.2122,
+                    29.7341
+                ]
+            },
+            "properties": {
+                "name": "Qadamgah",
+                "article": "https://en.wikipedia.org/wiki/Qadamgah_(ancient_site)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.561389,
+                    32.388889
+                ]
+            },
+            "properties": {
+                "name": "Qaleh Bozi",
+                "article": "https://en.wikipedia.org/wiki/Qal%27eh_Bozi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.561667,
+                    32.407972
+                ]
+            },
+            "properties": {
+                "name": "Qaleh Bozi",
+                "article": "https://en.wikipedia.org/wiki/Qal%27eh_Bozi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.516388888,
+                    26.2875
+                ]
+            },
+            "properties": {
+                "name": "Greater Farvar Island",
+                "article": "https://en.wikipedia.org/wiki/Faror_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.95,
+                    29.66666667
+                ]
+            },
+            "properties": {
+                "name": "Qal'eh Hasan Ali",
+                "article": "https://en.wikipedia.org/wiki/Qal%27eh_Hasan_Ali"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.796388888,
+                    29.518611111
+                ]
+            },
+            "properties": {
+                "name": "Lake Parishan",
+                "article": "https://en.wikipedia.org/wiki/Lake_Parishan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.44972222,
+                    35.61027778
+                ]
+            },
+            "properties": {
+                "name": "Cheshmeh-Ali",
+                "article": "https://en.wikipedia.org/wiki/Cheshmeh-Ali_(Shahr-e-Rey)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.15,
+                    26.24
+                ]
+            },
+            "properties": {
+                "name": "Lesser Tunb",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    50.352403,
+                    29.33325
+                ]
+            },
+            "properties": {
+                "name": "Khargu Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.4484,
+                    34.2484
+                ]
+            },
+            "properties": {
+                "name": "Eshaqvand Tombs",
+                "article": "https://en.wikipedia.org/wiki/Essaqwand_Rock_Tombs"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.46111111,
+                    33.49111111
+                ]
+            },
+            "properties": {
+                "name": "Shikaft-e Gulgul",
+                "article": "https://en.wikipedia.org/wiki/Shikaft-e_Gulgul"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    53.411111111,
+                    26.791111111
+                ]
+            },
+            "properties": {
+                "name": "Shidvar Island",
+                "article": "https://en.wikipedia.org/wiki/Shidvar_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.6289,
+                    35.0045
+                ]
+            },
+            "properties": {
+                "name": "Tang-i Var Inscription",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.282777777,
+                    38.213333333
+                ]
+            },
+            "properties": {
+                "name": "Shorabil Lake",
+                "article": "https://en.wikipedia.org/wiki/Shorabil_Lake"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.2944,
+                    38.0712
+                ]
+            },
+            "properties": {
+                "name": "Tabriz Art University",
+                "article": "https://en.wikipedia.org/wiki/Tabriz_Islamic_Arts_University"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.480277777,
+                    32.6525
+                ]
+            },
+            "properties": {
+                "name": "Asgharabad",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.854444444,
+                    33.974444444
+                ]
+            },
+            "properties": {
+                "name": "Choqab Dar",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    50.9625,
+                    36.375833333
+                ]
+            },
+            "properties": {
+                "name": "Alam-Kuh",
+                "article": "https://en.wikipedia.org/wiki/Alam-Kuh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.654652,
+                    31.2986023
+                ]
+            },
+            "properties": {
+                "name": "Shahid Chamran University of Ahvaz",
+                "article": "https://en.wikipedia.org/wiki/Shahid_Chamran_University_of_Ahvaz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.427263888,
+                    34.389813888
+                ]
+            },
+            "properties": {
+                "name": "Mount Behistun",
+                "article": "https://en.wikipedia.org/wiki/Mount_Behistun"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    50.805833333,
+                    32.358055555
+                ]
+            },
+            "properties": {
+                "name": "Mehdiyeh",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.563611111,
+                    30.703888888
+                ]
+            },
+            "properties": {
+                "name": "Mehrian-e 'Olya",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    53.368055555,
+                    29.481944444
+                ]
+            },
+            "properties": {
+                "name": "Mo`ezzabad-e Jaberi",
+                "article": "https://en.wikipedia.org/wiki/Moezzabad-e_Jaberi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.068333333,
+                    35.326666666
+                ]
+            },
+            "properties": {
+                "name": "Q3873472",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.143611,
+                    37.930278
+                ]
+            },
+            "properties": {
+                "name": "Sahand University of Technology",
+                "article": "https://en.wikipedia.org/wiki/Sahand_University_of_Technology"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.32851111,
+                    38.06156667
+                ]
+            },
+            "properties": {
+                "name": "University of Zanjan",
+                "article": "https://en.wikipedia.org/wiki/University_of_Zanjan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    50.599722222,
+                    32.253333333
+                ]
+            },
+            "properties": {
+                "name": "Pordanjan",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    58.794,
+                    36.255
+                ]
+            },
+            "properties": {
+                "name": "University of Neyshabur",
+                "article": "https://en.wikipedia.org/wiki/University_of_Neyshabur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.353426,
+                    33.483787
+                ]
+            },
+            "properties": {
+                "name": "Castle of Siba",
+                "article": "https://en.wikipedia.org/wiki/Siba_Castle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    53.152777777,
+                    28.4475
+                ]
+            },
+            "properties": {
+                "name": "Shahrak-e Emām Khomeynī",
+                "article": "https://en.wikipedia.org/wiki/Emam_Shahr,_Fars"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.768333333,
+                    32.087777777
+                ]
+            },
+            "properties": {
+                "name": "Shahrak-e Shahid Sharafat",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.831388888,
+                    32.007222222
+                ]
+            },
+            "properties": {
+                "name": "Shahrak-e Shahid Pur Mohammadi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.506809236,
+                    35.74177634
+                ]
+            },
+            "properties": {
+                "name": "Iran University of Science and Technology",
+                "article": "https://en.wikipedia.org/wiki/Iran_University_of_Science_and_Technology"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.923333333,
+                    35.319166666
+                ]
+            },
+            "properties": {
+                "name": "Abidar",
+                "article": "https://en.wikipedia.org/wiki/Abidar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    50.816667,
+                    34.583333
+                ]
+            },
+            "properties": {
+                "name": "University of Qom",
+                "article": "https://en.wikipedia.org/wiki/University_of_Qom"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    52.381783,
+                    29.695546
+                ]
+            },
+            "properties": {
+                "name": "Mount Derak",
+                "article": "https://en.wikipedia.org/wiki/Mount_Derak"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    52.564344,
+                    29.631742
+                ]
+            },
+            "properties": {
+                "name": "Mount Chehel Maqam",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    50.5375,
+                    32.245833333
+                ]
+            },
+            "properties": {
+                "name": "Gujan",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    52.635555555,
+                    29.578611111
+                ]
+            },
+            "properties": {
+                "name": "Q4159224",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    50.772222222,
+                    32.0625
+                ]
+            },
+            "properties": {
+                "name": "Dastna",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    52.491111111,
+                    29.705
+                ]
+            },
+            "properties": {
+                "name": "Q4159666",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.499444444,
+                    27.074916666
+                ]
+            },
+            "properties": {
+                "name": "Terenah",
+                "article": "https://en.wikipedia.org/wiki/Terenah"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.41373,
+                    39.64827
+                ]
+            },
+            "properties": {
+                "name": "Little Ararat",
+                "article": "https://en.wikipedia.org/wiki/Little_Ararat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.39734373,
+                    35.65710023
+                ]
+            },
+            "properties": {
+                "name": "Tehran Railway Station",
+                "article": "https://en.wikipedia.org/wiki/Tehran_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    50.569722222,
+                    32.391666666
+                ]
+            },
+            "properties": {
+                "name": "Q4496127",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    52.421666666,
+                    29.749166666
+                ]
+            },
+            "properties": {
+                "name": "Q4521360",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.65037,
+                    31.29735
+                ]
+            },
+            "properties": {
+                "name": "Ahvaz Jundishapur University of Medical Sciences",
+                "article": "https://en.wikipedia.org/wiki/Ahvaz_Jundishapur_University_of_Medical_Sciences"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.303881,
+                    35.301608
+                ]
+            },
+            "properties": {
+                "name": "Ali-Sadr Cave",
+                "article": "https://en.wikipedia.org/wiki/Ali-Sadr_Cave"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.305938888,
+                    38.083116666
+                ]
+            },
+            "properties": {
+                "name": "Amir Nezam House",
+                "article": "https://en.wikipedia.org/wiki/Amir_Nezam_House"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.7,
+                    34.08
+                ]
+            },
+            "properties": {
+                "name": "Arak University of Medical Sciences",
+                "article": "https://en.wikipedia.org/wiki/Arak_University_of_Medical_Sciences"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.288616666,
+                    38.081711111
+                ]
+            },
+            "properties": {
+                "name": "Constitution House of Tabriz",
+                "article": "https://en.wikipedia.org/wiki/Constitution_House_of_Tabriz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.322222222,
+                    38.105555555
+                ]
+            },
+            "properties": {
+                "name": "Eynali",
+                "article": "https://en.wikipedia.org/wiki/Eynali"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.42125,
+                    35.701555555
+                ]
+            },
+            "properties": {
+                "name": "Enqelab Street",
+                "article": "https://en.wikipedia.org/wiki/Enqelab_Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.22781,
+                    38.07194
+                ]
+            },
+            "properties": {
+                "name": "Tabriz Railway Station",
+                "article": "https://en.wikipedia.org/wiki/Tabriz_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.433736,
+                    35.777714
+                ]
+            },
+            "properties": {
+                "name": "Azad University Tehran medical Branch",
+                "article": "https://en.wikipedia.org/wiki/Islamic_Azad_University,_Tehran_Medical_Branch"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.366638888,
+                    35.700416666
+                ]
+            },
+            "properties": {
+                "name": "Azadi Avenue",
+                "article": "https://en.wikipedia.org/wiki/Azadi_Avenue"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.94894167,
+                    37.81235
+                ]
+            },
+            "properties": {
+                "name": "Azarbaijan Shahid Madani University",
+                "article": "https://en.wikipedia.org/wiki/Azarbaijan_Shahid_Madani_University"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.445852777,
+                    37.756144444
+                ]
+            },
+            "properties": {
+                "name": "Ağ Dağ",
+                "article": "https://en.wikipedia.org/wiki/A%C4%9F_Da%C4%9F"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    56.28,
+                    28.04
+                ]
+            },
+            "properties": {
+                "name": "Kūh-e Bandī",
+                "article": "https://en.wikipedia.org/wiki/Band-e_Kuh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    59.1015,
+                    37.462777777
+                ]
+            },
+            "properties": {
+                "name": "Bandian Complex",
+                "article": "https://en.wikipedia.org/wiki/Bandian_complex"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.78346,
+                    33.94795
+                ]
+            },
+            "properties": {
+                "name": "Chia Jani",
+                "article": "https://en.wikipedia.org/wiki/Chia_Jani"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.78346,
+                    33.94795
+                ]
+            },
+            "properties": {
+                "name": "Chia Jani",
+                "article": "https://en.wikipedia.org/wiki/Chia_Jani"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.505,
+                    32.222222
+                ]
+            },
+            "properties": {
+                "name": "Chogha Bonut",
+                "article": "https://en.wikipedia.org/wiki/Chogha_Bonut"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.526972222,
+                    35.724083333
+                ]
+            },
+            "properties": {
+                "name": "Damavand Street",
+                "article": "https://en.wikipedia.org/wiki/Damavand_Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.491667,
+                    27.087222
+                ]
+            },
+            "properties": {
+                "name": "Dasak mountain",
+                "article": "https://en.wikipedia.org/wiki/Dasak_Mountain"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.590278,
+                    36.934722
+                ]
+            },
+            "properties": {
+                "name": "Tureng Tepe",
+                "article": "https://en.wikipedia.org/wiki/Tureng_Tepe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.130813888,
+                    34.400952777
+                ]
+            },
+            "properties": {
+                "name": "Do-Ashkaft Cave",
+                "article": "https://en.wikipedia.org/wiki/Do-Ashkaft_Cave"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.29,
+                    38.07527778
+                ]
+            },
+            "properties": {
+                "name": "Ferdowsi Street (Tabriz)",
+                "article": "https://en.wikipedia.org/wiki/Ferdowsi_Street,_Tabriz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.570277777,
+                    32.648055555
+                ]
+            },
+            "properties": {
+                "name": "Marbin Fortress",
+                "article": "https://en.wikipedia.org/wiki/Fire_Temple_of_Isfahan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.28916667,
+                    33.34416667
+                ]
+            },
+            "properties": {
+                "name": "Mount Oshtoran",
+                "article": "https://en.wikipedia.org/wiki/Oshtorankuh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    50.18,
+                    35.18
+                ]
+            },
+            "properties": {
+                "name": "Q5556467",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.55091667,
+                    37.17763889
+                ]
+            },
+            "properties": {
+                "name": "Gilan University of Medical Sciences",
+                "article": "https://en.wikipedia.org/wiki/Gilan_University_of_Medical_Sciences"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.448138888,
+                    35.755805555
+                ]
+            },
+            "properties": {
+                "name": "Shariati Street",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.439511,
+                    36.842257
+                ]
+            },
+            "properties": {
+                "name": "Gorgan University",
+                "article": "https://en.wikipedia.org/wiki/Gorgan_University"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    50.872222222,
+                    34.215
+                ]
+            },
+            "properties": {
+                "name": "Mount Barf Anbar (Qom Province)",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.416472222,
+                    35.672666666
+                ]
+            },
+            "properties": {
+                "name": "Khayyam Street",
+                "article": "https://en.wikipedia.org/wiki/Khayyam_Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.4228807,
+                    35.8114642
+                ]
+            },
+            "properties": {
+                "name": "Museum of Fine Arts of Sa'dabad Complex",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.452222222,
+                    35.813083333
+                ]
+            },
+            "properties": {
+                "name": "Bahonar Street",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.483333333,
+                    34.803888888
+                ]
+            },
+            "properties": {
+                "name": "Hamedan Museum of Natural History",
+                "article": "https://en.wikipedia.org/wiki/Hamedan_Museum_of_Natural_History"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    59.558888888,
+                    36.28
+                ]
+            },
+            "properties": {
+                "name": "Mount Sangi (Mashhad)",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.9944,
+                    32.6342
+                ]
+            },
+            "properties": {
+                "name": "Q5666208",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.544033,
+                    32.73065
+                ]
+            },
+            "properties": {
+                "name": "Q5670388",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.8,
+                    37.16
+                ]
+            },
+            "properties": {
+                "name": "Q5672248",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    50.993333333,
+                    30.085833333
+                ]
+            },
+            "properties": {
+                "name": "Q5672890",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.072847865,
+                    28.758229684
+                ]
+            },
+            "properties": {
+                "name": "Q5674610",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.952264,
+                    35.816671
+                ]
+            },
+            "properties": {
+                "name": "Tepe Sagzabad",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.975,
+                    32.69777778
+                ]
+            },
+            "properties": {
+                "name": "Q5675314",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.9835,
+                    29.6149
+                ]
+            },
+            "properties": {
+                "name": "Arzhan Lake",
+                "article": "https://en.wikipedia.org/wiki/Lake_Arzhan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.7,
+                    38.26666667
+                ]
+            },
+            "properties": {
+                "name": "Mishoodaghi Mount",
+                "article": "https://en.wikipedia.org/wiki/Mishodaghi_Mount"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.481667,
+                    33.959167
+                ]
+            },
+            "properties": {
+                "name": "Q5681148",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.4111394,
+                    35.7644388
+                ]
+            },
+            "properties": {
+                "name": "Q5681634",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.17443611,
+                    30.53984444
+                ]
+            },
+            "properties": {
+                "name": "Amirkabir University of Technology, Mahshahr branch",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.361333333,
+                    35.71975
+                ]
+            },
+            "properties": {
+                "name": "Sattar Khan Street",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.270833,
+                    29.5125
+                ]
+            },
+            "properties": {
+                "name": "Kūh-e Hezār",
+                "article": "https://en.wikipedia.org/wiki/Hazaran"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    50.57506,
+                    36.20594
+                ]
+            },
+            "properties": {
+                "name": "Q5691030",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.12765,
+                    34.400989
+                ]
+            },
+            "properties": {
+                "name": "Meywala Mount",
+                "article": "https://en.wikipedia.org/wiki/Mount_Meywala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.543888888,
+                    37.273055555
+                ]
+            },
+            "properties": {
+                "name": "Eynak Lagoon",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.6459,
+                    34.74
+                ]
+            },
+            "properties": {
+                "name": "Q5691669",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.299958333,
+                    38.087886111
+                ]
+            },
+            "properties": {
+                "name": "Pottery museum of Tabriz",
+                "article": "https://en.wikipedia.org/wiki/Pottery_Museum_of_Tabriz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.6208,
+                    37.4803
+                ]
+            },
+            "properties": {
+                "name": "Kabudan Island",
+                "article": "https://en.wikipedia.org/wiki/Kabudan_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    52.574290462,
+                    29.592547757
+                ]
+            },
+            "properties": {
+                "name": "Natural History and Technology Museum of Shiraz University",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.408044,
+                    35.695025
+                ]
+            },
+            "properties": {
+                "name": "Q5701841",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    56.099444444,
+                    27.395277777
+                ]
+            },
+            "properties": {
+                "name": "Mount Genow",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    52.750194,
+                    30.777306
+                ]
+            },
+            "properties": {
+                "name": "Q5703015",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.3223,
+                    38.064
+                ]
+            },
+            "properties": {
+                "name": "Tabriz Museum of Natural History",
+                "article": "https://en.wikipedia.org/wiki/Tabriz_Museum_of_Natural_History"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.686666666,
+                    29.638611111
+                ]
+            },
+            "properties": {
+                "name": "Mount Kuhnavard",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    58.191735,
+                    37.526802
+                ]
+            },
+            "properties": {
+                "name": "Q5704799",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.05194444,
+                    39.21722222
+                ]
+            },
+            "properties": {
+                "name": "Sakhteman",
+                "article": "https://en.wikipedia.org/wiki/Sakhteman,_Poldasht"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.975013,
+                    35.823285
+                ]
+            },
+            "properties": {
+                "name": "Teppe Zagheh",
+                "article": "https://en.wikipedia.org/wiki/Teppe_Zagheh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.332777777,
+                    33.653333333
+                ]
+            },
+            "properties": {
+                "name": "Mount Qala Qiran",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.10333333,
+                    37.71166667
+                ]
+            },
+            "properties": {
+                "name": "Nakhjavan Tappeh",
+                "article": "https://en.wikipedia.org/wiki/Nakhjavan_Tappeh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    52.53765,
+                    27.94618889
+                ]
+            },
+            "properties": {
+                "name": "Q5710636",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.445,
+                    27.914
+                ]
+            },
+            "properties": {
+                "name": "Q5710758",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    58.191735,
+                    37.526802
+                ]
+            },
+            "properties": {
+                "name": "Q5714223",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.422694444,
+                    35.788888888
+                ]
+            },
+            "properties": {
+                "name": "Fayyazi Street (Elahiyeh)",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.02623889,
+                    38.91180556
+                ]
+            },
+            "properties": {
+                "name": "Q5720558",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    53.05503889,
+                    29.30241667
+                ]
+            },
+            "properties": {
+                "name": "Qal'eh gorikhteh",
+                "article": "https://en.wikipedia.org/wiki/Qaleh_gorikhteh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.758055555,
+                    36.575833333
+                ]
+            },
+            "properties": {
+                "name": "Mount Shahvar",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.070333,
+                    34.310139
+                ]
+            },
+            "properties": {
+                "name": "Q5723181",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    50.867958333,
+                    28.988663888
+                ]
+            },
+            "properties": {
+                "name": "Q5723230",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.16597222,
+                    36.49394444
+                ]
+            },
+            "properties": {
+                "name": "Q5724182",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.445277777,
+                    33.856111111
+                ]
+            },
+            "properties": {
+                "name": "Mount Shahbaz (Markazi)",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.043355,
+                    34.1347104
+                ]
+            },
+            "properties": {
+                "name": "Q5726325",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.48678333,
+                    34.66391944
+                ]
+            },
+            "properties": {
+                "name": "Q5726843",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    52.90706667,
+                    27.80172778
+                ]
+            },
+            "properties": {
+                "name": "Q5729916",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.035185,
+                    34.297315
+                ]
+            },
+            "properties": {
+                "name": "Kermanshah University of Technology",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.035076,
+                    34.29746
+                ]
+            },
+            "properties": {
+                "name": "Kermanshah University of Technology",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.270569,
+                    38.22729
+                ]
+            },
+            "properties": {
+                "name": "Islamic Azad University Ardabil",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.437638888,
+                    35.672555555
+                ]
+            },
+            "properties": {
+                "name": "Ray Street",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    53.06259167,
+                    36.56521944
+                ]
+            },
+            "properties": {
+                "name": "Q5774602",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.237,
+                    34.392
+                ]
+            },
+            "properties": {
+                "name": "Mount Paraw",
+                "article": "https://en.wikipedia.org/wiki/Mount_Paraw"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.4655,
+                    36.0534
+                ]
+            },
+            "properties": {
+                "name": "Q5782933",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.8,
+                    37.16
+                ]
+            },
+            "properties": {
+                "name": "Q5784459",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.868349,
+                    34.463259
+                ]
+            },
+            "properties": {
+                "name": "Anobanini rock relief",
+                "article": "https://en.wikipedia.org/wiki/Anubanini_rock_relief"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    50.007333333,
+                    36.243666666
+                ]
+            },
+            "properties": {
+                "name": "Qazvin Railway Station",
+                "article": "https://en.wikipedia.org/wiki/Qazvin_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.90490833,
+                    32.33936111
+                ]
+            },
+            "properties": {
+                "name": "Q5853169",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    61.685802016,
+                    30.975706884
+                ]
+            },
+            "properties": {
+                "name": "Zahedan Kohneh",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.2267,
+                    37.3839
+                ]
+            },
+            "properties": {
+                "name": "Taher Gurab",
+                "article": "https://en.wikipedia.org/wiki/Taher_Gurab"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    58.91166667,
+                    34.46666667
+                ]
+            },
+            "properties": {
+                "name": "Rushnavand, Razavi Khorasan",
+                "article": "https://en.wikipedia.org/wiki/Rushnavand,_Razavi_Khorasan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.927432,
+                    36.37474
+                ]
+            },
+            "properties": {
+                "name": "Islamic Azad University, Shahrood Branch",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    50.867,
+                    34.5883
+                ]
+            },
+            "properties": {
+                "name": "Q5861298",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.354722,
+                    35.829444
+                ]
+            },
+            "properties": {
+                "name": "Chin Kalagh",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.452777777,
+                    34.408055555
+                ]
+            },
+            "properties": {
+                "name": "Tepe Naderi (Bisotun)",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    60.4475,
+                    27.201944444
+                ]
+            },
+            "properties": {
+                "name": "Tepe Bampur",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.222916666,
+                    35.522222222
+                ]
+            },
+            "properties": {
+                "name": "Tepe Mafinabad",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.9358,
+                    34.0236
+                ]
+            },
+            "properties": {
+                "name": "Bābā Jān Tepe",
+                "article": "https://en.wikipedia.org/wiki/B%C4%81b%C4%81_J%C4%81n_Tepe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.720194444,
+                    35.201444444
+                ]
+            },
+            "properties": {
+                "name": "Tepe Hesar-e Hasan Beyk",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.637222222,
+                    28.099166666
+                ]
+            },
+            "properties": {
+                "name": "Mount Derang (Deyr County)",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.407638888,
+                    35.673805555
+                ]
+            },
+            "properties": {
+                "name": "Vahdat-e Islami Street",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.698888888,
+                    36.0625
+                ]
+            },
+            "properties": {
+                "name": "Q5882760",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.879444444,
+                    36.323333333
+                ]
+            },
+            "properties": {
+                "name": "Tepe Khurian-3",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.046363,
+                    34.292815
+                ]
+            },
+            "properties": {
+                "name": "Kermanshah Technical and Vocational University",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    59.218171,
+                    32.8767
+                ]
+            },
+            "properties": {
+                "name": "Birjand University of Technology",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.216944444,
+                    35.509166666
+                ]
+            },
+            "properties": {
+                "name": "Tepe Vavan",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.423147,
+                    35.693554
+                ]
+            },
+            "properties": {
+                "name": "Q5892787",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.69935,
+                    36.89051
+                ]
+            },
+            "properties": {
+                "name": "Dorfak",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.588888888,
+                    31.241388888
+                ]
+            },
+            "properties": {
+                "name": "Q5895105",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.426309,
+                    35.694595
+                ]
+            },
+            "properties": {
+                "name": "Q5895317",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    50.957222222,
+                    35.619444444
+                ]
+            },
+            "properties": {
+                "name": "Tepe Balkin",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    50.833091666,
+                    28.922041666
+                ]
+            },
+            "properties": {
+                "name": "Q5900096",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    59.21336111,
+                    32.87866667
+                ]
+            },
+            "properties": {
+                "name": "Q5901194",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.201666666,
+                    36.614444444
+                ]
+            },
+            "properties": {
+                "name": "Zendan-e Soleyman",
+                "article": "https://en.wikipedia.org/wiki/Prison_of_Solomon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.504567,
+                    33.0563
+                ]
+            },
+            "properties": {
+                "name": "Q5902249",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.019722222,
+                    35.601666666
+                ]
+            },
+            "properties": {
+                "name": "Tepe Juqin",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.437568,
+                    35.698261
+                ]
+            },
+            "properties": {
+                "name": "Q5902888",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    58.388888888,
+                    35.270277777
+                ]
+            },
+            "properties": {
+                "name": "Tepe Dozd (Razavi Khorasan)",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.426914,
+                    35.674232
+                ]
+            },
+            "properties": {
+                "name": "Q5904462",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    52.038055555,
+                    29.819166666
+                ]
+            },
+            "properties": {
+                "name": "Haft Barm",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    53.00766111,
+                    27.56915556
+                ]
+            },
+            "properties": {
+                "name": "Q5907231",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.485111,
+                    36.67094
+                ]
+            },
+            "properties": {
+                "name": "Q5907464",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    56.9055,
+                    37.574777777
+                ]
+            },
+            "properties": {
+                "name": "Tepe Delavar (Maneh and Samalqan County)",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    50.833091666,
+                    28.922041666
+                ]
+            },
+            "properties": {
+                "name": "Q5912230",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.067019444,
+                    30.280269444
+                ]
+            },
+            "properties": {
+                "name": "Q5912984",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.755555555,
+                    36.270138888
+                ]
+            },
+            "properties": {
+                "name": "Tepe Dehmolla",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.381,
+                    35.718
+                ]
+            },
+            "properties": {
+                "name": "AJA University of Medical Sciences",
+                "article": "https://en.wikipedia.org/wiki/AJA_University_of_Medical_Sciences"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.875277777,
+                    36.304722222
+                ]
+            },
+            "properties": {
+                "name": "Tepe Khurian-1",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.399444444,
+                    36.129722222
+                ]
+            },
+            "properties": {
+                "name": "Tepe Shamsabad (Damghan County)",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    59.041388888,
+                    36.772777777
+                ]
+            },
+            "properties": {
+                "name": "Tepe Qiasabad",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.6781,
+                    34.0784
+                ]
+            },
+            "properties": {
+                "name": "Q5919933",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    60.850642,
+                    29.447918
+                ]
+            },
+            "properties": {
+                "name": "Zahedan University of Medical Sciences",
+                "article": "https://en.wikipedia.org/wiki/Zahedan_University_of_Medical_Sciences"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    50.778055555,
+                    32.218055555
+                ]
+            },
+            "properties": {
+                "name": "Tepe Eskandari",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.885833333,
+                    36.315833333
+                ]
+            },
+            "properties": {
+                "name": "Tepe Khurian-2",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.977222222,
+                    35.095833333
+                ]
+            },
+            "properties": {
+                "name": "Abdolabad Site (Bardaskan County)",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    50.391027777,
+                    34.854527777
+                ]
+            },
+            "properties": {
+                "name": "Tepe Imamzadeh Abdullah (Saveh County)",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    53.378888888,
+                    35.558611111
+                ]
+            },
+            "properties": {
+                "name": "Tepe Chaleh Khandaq-e Shahjuq",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.419861111,
+                    35.694194444
+                ]
+            },
+            "properties": {
+                "name": "Ferdowsi Street",
+                "article": "https://en.wikipedia.org/wiki/Ferdowsi_Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    58.191735,
+                    37.526802
+                ]
+            },
+            "properties": {
+                "name": "Kismar",
+                "article": "https://en.wikipedia.org/wiki/Kismar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.45417,
+                    35.85778
+                ]
+            },
+            "properties": {
+                "name": "Kolakchal",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.128222222,
+                    34.490555555
+                ]
+            },
+            "properties": {
+                "name": "Imamzadeh Sakineh Khatun Mounds",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.145278,
+                    37.518056
+                ]
+            },
+            "properties": {
+                "name": "Geoy Tepe",
+                "article": "https://en.wikipedia.org/wiki/Geoy_Tepe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.377444444,
+                    35.759916666
+                ]
+            },
+            "properties": {
+                "name": "Mahestan Street (Tehran)",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    50.85015833,
+                    28.89576667
+                ]
+            },
+            "properties": {
+                "name": "Persian Gulf Sea and Seamanship Museum",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.3813071,
+                    31.8592358
+                ]
+            },
+            "properties": {
+                "name": "Mirror and Lighting Museum",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    50.51,
+                    36.549444
+                ]
+            },
+            "properties": {
+                "name": "Q5936067",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.7553538,
+                    38.2133399
+                ]
+            },
+            "properties": {
+                "name": "Q5936270",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.36496,
+                    33.513434
+                ]
+            },
+            "properties": {
+                "name": "Lorestan University",
+                "article": "https://en.wikipedia.org/wiki/Lorestan_University"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.422611111,
+                    35.681833333
+                ]
+            },
+            "properties": {
+                "name": "Naser Khosrow Street",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.35151667,
+                    33.50799444
+                ]
+            },
+            "properties": {
+                "name": "Keeyow Lake",
+                "article": "https://en.wikipedia.org/wiki/Keeyow_Lake"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    59.5294,
+                    36.3413
+                ]
+            },
+            "properties": {
+                "name": "Sadjad University of Technology",
+                "article": "https://en.wikipedia.org/wiki/Sadjad_University"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.422108,
+                    35.679069
+                ]
+            },
+            "properties": {
+                "name": "Shams-ol-Emareh",
+                "article": "https://en.wikipedia.org/wiki/Shams-ol-Emareh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    50.60928611,
+                    29.48348889
+                ]
+            },
+            "properties": {
+                "name": "Q5939421",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.366667,
+                    33.65
+                ]
+            },
+            "properties": {
+                "name": "Ilam University",
+                "article": "https://en.wikipedia.org/wiki/Ilam_University"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    59.624803888,
+                    36.304666111
+                ]
+            },
+            "properties": {
+                "name": "Mashhad Railway Station",
+                "article": "https://en.wikipedia.org/wiki/Mashhad_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    52.889722222,
+                    29.936388888
+                ]
+            },
+            "properties": {
+                "name": "Processional Way of Persepolis",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    58.7851,
+                    36.195008333
+                ]
+            },
+            "properties": {
+                "name": "Nishapur Railway Station",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.132096,
+                    34.387529
+                ]
+            },
+            "properties": {
+                "name": "Q5942322",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.420694444,
+                    35.684027777
+                ]
+            },
+            "properties": {
+                "name": "Bab Homayun Street",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    53.0463614,
+                    36.0878098
+                ]
+            },
+            "properties": {
+                "name": "Q5944271",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.919339,
+                    35.722581
+                ]
+            },
+            "properties": {
+                "name": "Islamic Azad University Roudehen Branch",
+                "article": "https://en.wikipedia.org/wiki/Islamic_Azad_University,_Roudehen_Branch"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.2763,
+                    37.3791
+                ]
+            },
+            "properties": {
+                "name": "University of Maragheh",
+                "article": "https://en.wikipedia.org/wiki/University_of_Maragheh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    53.633888888,
+                    36.170833333
+                ]
+            },
+            "properties": {
+                "name": "Mount Qaleh Shahdezh",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.5394625,
+                    27.1941577
+                ]
+            },
+            "properties": {
+                "name": "Lavar",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.441032,
+                    36.843175
+                ]
+            },
+            "properties": {
+                "name": "Golestan University",
+                "article": "https://en.wikipedia.org/wiki/Golestan_University"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    62.07594983,
+                    27.23863
+                ]
+            },
+            "properties": {
+                "name": "Sib and Suran Castle",
+                "article": "https://en.wikipedia.org/wiki/Sib_and_Suran_Castle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.22529444,
+                    36.476525
+                ]
+            },
+            "properties": {
+                "name": "Q5947744",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.693015,
+                    33.920329
+                ]
+            },
+            "properties": {
+                "name": "Islamic Azad University, Borujerd",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.947308,
+                    30.401455
+                ]
+            },
+            "properties": {
+                "name": "Q5947823",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.001764,
+                    35.282466
+                ]
+            },
+            "properties": {
+                "name": "Kurdistan University of Medical Sciences",
+                "article": "https://en.wikipedia.org/wiki/Kurdistan_University_of_Medical_Sciences"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    61.6363,
+                    30.7906
+                ]
+            },
+            "properties": {
+                "name": "Dahan-e Gholaman",
+                "article": "https://en.wikipedia.org/wiki/Dahan-e_Gholaman"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.591955,
+                    30.652291
+                ]
+            },
+            "properties": {
+                "name": "Yasuj University",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.53671265,
+                    35.81917572
+                ]
+            },
+            "properties": {
+                "name": "Mount Chehelcheshmeh",
+                "article": "https://en.wikipedia.org/wiki/Mount_Chlchama"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    50.974203,
+                    35.795278
+                ]
+            },
+            "properties": {
+                "name": "University of Environment",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.560001,
+                    34.844859
+                ]
+            },
+            "properties": {
+                "name": "Islamic Azad University of Hamadan",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.948611111,
+                    35.124444444
+                ]
+            },
+            "properties": {
+                "name": "Firuzabad Site (Bardaskan County)",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    52.43219,
+                    29.7641
+                ]
+            },
+            "properties": {
+                "name": "Shiraz Railway Station",
+                "article": "https://en.wikipedia.org/wiki/Shiraz_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.71195556,
+                    34.10013611
+                ]
+            },
+            "properties": {
+                "name": "Iran University of Science and Technology, Arak branch",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.991392,
+                    36.262819
+                ]
+            },
+            "properties": {
+                "name": "Bolur Hammam",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    58.13555556,
+                    33.91
+                ]
+            },
+            "properties": {
+                "name": "Kuh-e-Ghal'eh, Ferdows",
+                "article": "https://en.wikipedia.org/wiki/Qal%27eh_Kuh_of_Ferdows"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.4064856,
+                    35.7033044
+                ]
+            },
+            "properties": {
+                "name": "Applied Scientific University of Karaj Municipality",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.3705,
+                    35.7002
+                ]
+            },
+            "properties": {
+                "name": "Soureh University",
+                "article": "https://en.wikipedia.org/wiki/Soore_University"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.35,
+                    35.34
+                ]
+            },
+            "properties": {
+                "name": "Q5955000",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.86611111,
+                    38.39813889
+                ]
+            },
+            "properties": {
+                "name": "Islamic Azad University of Astara",
+                "article": "https://en.wikipedia.org/wiki/Islamic_Azad_University,_Astara_Branch"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    52.839633,
+                    29.915151
+                ]
+            },
+            "properties": {
+                "name": "Islamic Azad University, Marvdasht",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.84854,
+                    34.263847
+                ]
+            },
+            "properties": {
+                "name": "Malayer University",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.48974,
+                    35.8167
+                ]
+            },
+            "properties": {
+                "name": "Q5958443",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    61.48925,
+                    31.036138888
+                ]
+            },
+            "properties": {
+                "name": "University of Zabol",
+                "article": "https://en.wikipedia.org/wiki/Zabol_University"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    50.807307,
+                    34.574605
+                ]
+            },
+            "properties": {
+                "name": "Islamic Azad University, Qom branch",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.995587,
+                    30.344324
+                ]
+            },
+            "properties": {
+                "name": "Q5959824",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.6629418,
+                    29.6277216
+                ]
+            },
+            "properties": {
+                "name": "Salman Farsi University of Kazerun",
+                "article": "https://en.wikipedia.org/wiki/Salman_Farsi_University_of_Kazerun"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    52.39996667,
+                    29.77111944
+                ]
+            },
+            "properties": {
+                "name": "Payam Noor University of Shiraz",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    58.687322,
+                    34.368232
+                ]
+            },
+            "properties": {
+                "name": "Islamic Azad University, Gonabad branch",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    50.383889,
+                    36.84125
+                ]
+            },
+            "properties": {
+                "name": "Q5962191",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.585277777,
+                    32.615
+                ]
+            },
+            "properties": {
+                "name": "Shahyoun",
+                "article": "https://en.wikipedia.org/wiki/Shahiyun"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.979452,
+                    37.652163
+                ]
+            },
+            "properties": {
+                "name": "Urmia University of Technology",
+                "article": "https://en.wikipedia.org/wiki/Urmia_University_of_Technology"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.78444444,
+                    32.64233889
+                ]
+            },
+            "properties": {
+                "name": "Islamic Azad University Isfahan Branch (Khorasgan)",
+                "article": "https://en.wikipedia.org/wiki/Islamic_Azad_University,_Isfahan_(Khorasgan)_Branch"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    52.5326242,
+                    28.8527394
+                ]
+            },
+            "properties": {
+                "name": "Gor",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    60.633,
+                    25.33
+                ]
+            },
+            "properties": {
+                "name": "International University of Chabahar",
+                "article": "https://en.wikipedia.org/wiki/International_University_of_Chabahar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.4058,
+                    35.7797
+                ]
+            },
+            "properties": {
+                "name": "University of Islamic Republic of Iran Broadcasting",
+                "article": "https://en.wikipedia.org/wiki/Iran_Broadcasting_University"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.66175,
+                    32.614111
+                ]
+            },
+            "properties": {
+                "name": "Isfahan University of Medical Sciences",
+                "article": "https://en.wikipedia.org/wiki/Isfahan_University_of_Medical_Sciences"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.482,
+                    32.716
+                ]
+            },
+            "properties": {
+                "name": "Islamic Azad University of Khomeynishahr",
+                "article": "https://en.wikipedia.org/wiki/Islamic_Azad_University,_Khomeyni_Shahr_Branch"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    53.22120556,
+                    27.70024722
+                ]
+            },
+            "properties": {
+                "name": "Q6320979",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.391055555,
+                    35.701777777
+                ]
+            },
+            "properties": {
+                "name": "Kargar Street",
+                "article": "https://en.wikipedia.org/wiki/Kargar_Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    52.279166666,
+                    27.811944444
+                ]
+            },
+            "properties": {
+                "name": "Mount Padri",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.426226,
+                    35.703735
+                ]
+            },
+            "properties": {
+                "name": "Kharazmi University",
+                "article": "https://en.wikipedia.org/wiki/Kharazmi_University"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.426744,
+                    35.703919
+                ]
+            },
+            "properties": {
+                "name": "Kharazmi University",
+                "article": "https://en.wikipedia.org/wiki/Kharazmi_University"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.295528,
+                    38.073792
+                ]
+            },
+            "properties": {
+                "name": "Q6400683",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.491667,
+                    27.087222
+                ]
+            },
+            "properties": {
+                "name": "Khe aab mountain",
+                "article": "https://en.wikipedia.org/wiki/Khe_Aab_Mountain"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.42,
+                    37.7425
+                ]
+            },
+            "properties": {
+                "name": "Khalid Nabi Cemetery",
+                "article": "https://en.wikipedia.org/wiki/Khalid_Nabi_Cemetery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.443888888,
+                    26.118333333
+                ]
+            },
+            "properties": {
+                "name": "Lesser Farvar Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    50.841730555,
+                    28.996469444
+                ]
+            },
+            "properties": {
+                "name": "Negin",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.471,
+                    27.822
+                ]
+            },
+            "properties": {
+                "name": "Nakhiloo Island",
+                "article": "https://en.wikipedia.org/wiki/Nakhiloo_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.926667,
+                    30.344444
+                ]
+            },
+            "properties": {
+                "name": "Q6414901",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    50.861944,
+                    28.984722
+                ]
+            },
+            "properties": {
+                "name": "Q6414913",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.10833333,
+                    30.1
+                ]
+            },
+            "properties": {
+                "name": "Dara Island",
+                "article": "https://en.wikipedia.org/wiki/Dara_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.1675,
+                    30.1409
+                ]
+            },
+            "properties": {
+                "name": "Buneh",
+                "article": "https://en.wikipedia.org/wiki/Buneh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.351,
+                    27.991
+                ]
+            },
+            "properties": {
+                "name": "Om-e Sile island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.23419804,
+                    37.37955608
+                ]
+            },
+            "properties": {
+                "name": "Maragheh Railway Station",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.637172,
+                    37.584471
+                ]
+            },
+            "properties": {
+                "name": "Marmisho Lake",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    53.301388888,
+                    36.836111111
+                ]
+            },
+            "properties": {
+                "name": "Lapu Wetland",
+                "article": "https://en.wikipedia.org/wiki/Lapoo_Zaghmarz_Wetland_and_abbandan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.351439,
+                    35.701797
+                ]
+            },
+            "properties": {
+                "name": "University of Applied Science and Technology",
+                "article": "https://en.wikipedia.org/wiki/University_of_Applied_Science_and_Technology"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.359158,
+                    35.699489
+                ]
+            },
+            "properties": {
+                "name": "Q6536195",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    53.524666666,
+                    28.147833333
+                ]
+            },
+            "properties": {
+                "name": "Tel Atashkadeh",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.295314,
+                    38.069623
+                ]
+            },
+            "properties": {
+                "name": "Q6541137",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.434361111,
+                    34.388222222
+                ]
+            },
+            "properties": {
+                "name": "Behistun",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.077187,
+                    30.242167
+                ]
+            },
+            "properties": {
+                "name": "Islamic Azad University Kerman",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.552777777,
+                    32.880277777
+                ]
+            },
+            "properties": {
+                "name": "Malek Ashtar University of Technology",
+                "article": "https://en.wikipedia.org/wiki/Malek-Ashtar_University_of_Technology"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.493056,
+                    35.783056
+                ]
+            },
+            "properties": {
+                "name": "Malek Ashtar University of Technology",
+                "article": "https://en.wikipedia.org/wiki/Malek-Ashtar_University_of_Technology"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.295038888,
+                    38.072716666
+                ]
+            },
+            "properties": {
+                "name": "Measure museum",
+                "article": "https://en.wikipedia.org/wiki/Measure_Museum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    50.848921,
+                    34.606867
+                ]
+            },
+            "properties": {
+                "name": "Mofid University",
+                "article": "https://en.wikipedia.org/wiki/Mofid_University"
+            }
+        }
+    ]
+}

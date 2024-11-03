@@ -1,0 +1,4205 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.19166666,
+                    11.72444444
+                ]
+            },
+            "properties": {
+                "name": "Moucha Island",
+                "article": "https://en.wikipedia.org/wiki/Moucha_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.366666666,
+                    11.108611111
+                ]
+            },
+            "properties": {
+                "name": "Dikhil",
+                "article": "https://en.wikipedia.org/wiki/Dikhil"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.791944444,
+                    11.522222222
+                ]
+            },
+            "properties": {
+                "name": "Arta",
+                "article": "https://en.wikipedia.org/wiki/Arta,_Djibouti"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.883333333,
+                    11.783333333
+                ]
+            },
+            "properties": {
+                "name": "Tadjoura",
+                "article": "https://en.wikipedia.org/wiki/Tadjoura"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.7125,
+                    11.155833333
+                ]
+            },
+            "properties": {
+                "name": "Ali Sabieh",
+                "article": "https://en.wikipedia.org/wiki/Ali_Sabieh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.283333333,
+                    11.966666666
+                ]
+            },
+            "properties": {
+                "name": "Obock",
+                "article": "https://en.wikipedia.org/wiki/Obock"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.405,
+                    12.470833333
+                ]
+            },
+            "properties": {
+                "name": "Mousa Ali",
+                "article": "https://en.wikipedia.org/wiki/Mousa_Ali"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.333333333,
+                    12.633333333
+                ]
+            },
+            "properties": {
+                "name": "Manda-Inakir",
+                "article": "https://en.wikipedia.org/wiki/Manda-Inakir"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.1025,
+                    11.003611111
+                ]
+            },
+            "properties": {
+                "name": "`As `Ela",
+                "article": "https://en.wikipedia.org/wiki/As_Eyla"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.405893,
+                    11.331246
+                ]
+            },
+            "properties": {
+                "name": "Abou Maya Island",
+                "article": "https://en.wikipedia.org/wiki/Abou_Maya_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.12333333,
+                    11.35555556
+                ]
+            },
+            "properties": {
+                "name": "Ali Olo",
+                "article": "https://en.wikipedia.org/wiki/Ali_Olo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.24861111,
+                    11.83611111
+                ]
+            },
+            "properties": {
+                "name": "Garbi",
+                "article": "https://en.wikipedia.org/wiki/Garbi_(mountain)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.535,
+                    11.42277778
+                ]
+            },
+            "properties": {
+                "name": "Hemed",
+                "article": "https://en.wikipedia.org/wiki/Hemed_(mountain)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.111646,
+                    11.33786
+                ]
+            },
+            "properties": {
+                "name": "Ile Warramous Island",
+                "article": "https://en.wikipedia.org/wiki/Ile_Warramous_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.43,
+                    12.471
+                ]
+            },
+            "properties": {
+                "name": "Kaḏḏa Dâbali",
+                "article": "https://en.wikipedia.org/wiki/Ka%E1%B8%8F%E1%B8%8Fa_D%C3%A2bali"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.715,
+                    11.15277778
+                ]
+            },
+            "properties": {
+                "name": "Mountain of Ali Sabieh",
+                "article": "https://en.wikipedia.org/wiki/Ali_Sabieh_Mountain"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.2986,
+                    12.5183
+                ]
+            },
+            "properties": {
+                "name": "Siyyân H̱imâr",
+                "article": "https://en.wikipedia.org/wiki/Siyyan_Himar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.3083,
+                    12.4696
+                ]
+            },
+            "properties": {
+                "name": "Rocher Siyyan",
+                "article": "https://en.wikipedia.org/wiki/Rocher_Siyyan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.24888889,
+                    11.09083333
+                ]
+            },
+            "properties": {
+                "name": "Handoga",
+                "article": "https://en.wikipedia.org/wiki/Handoga"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.07388889,
+                    11.06083333
+                ]
+            },
+            "properties": {
+                "name": "Asa Koma",
+                "article": "https://en.wikipedia.org/wiki/Asa_Koma"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.980277777,
+                    12.238611111
+                ]
+            },
+            "properties": {
+                "name": "Q23719846",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.430277777,
+                    12.174444444
+                ]
+            },
+            "properties": {
+                "name": "Q23719844",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.164722222,
+                    12.211111111
+                ]
+            },
+            "properties": {
+                "name": "Q23719845",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.426666666,
+                    12.4575
+                ]
+            },
+            "properties": {
+                "name": "Q23719856",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.7075,
+                    11.06139
+                ]
+            },
+            "properties": {
+                "name": "Sôfe",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    41.882777777,
+                    11.327777777
+                ]
+            },
+            "properties": {
+                "name": "Kôfâro",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.888333333,
+                    11.3775
+                ]
+            },
+            "properties": {
+                "name": "Sogsog",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.383333333,
+                    11.233333333
+                ]
+            },
+            "properties": {
+                "name": "Soladala",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.643611111,
+                    11.909722222
+                ]
+            },
+            "properties": {
+                "name": "Somma",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.983333333,
+                    11.95
+                ]
+            },
+            "properties": {
+                "name": "Sono-Ali",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.675,
+                    11.966388888
+                ]
+            },
+            "properties": {
+                "name": "Siridle",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.023611111,
+                    11.295833333
+                ]
+            },
+            "properties": {
+                "name": "Soume",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.083333333,
+                    12.016666666
+                ]
+            },
+            "properties": {
+                "name": "Sousso",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.5,
+                    11.033333333
+                ]
+            },
+            "properties": {
+                "name": "Soureïra",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.833333333,
+                    11.916666666
+                ]
+            },
+            "properties": {
+                "name": "Ta‘arro",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.911111111,
+                    11.894722222
+                ]
+            },
+            "properties": {
+                "name": "Tabkalle",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.016388888,
+                    11.931666666
+                ]
+            },
+            "properties": {
+                "name": "Tablo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.975277777,
+                    12.4675
+                ]
+            },
+            "properties": {
+                "name": "Waydal",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.672222222,
+                    11.694166666
+                ]
+            },
+            "properties": {
+                "name": "Waydalou",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.653055555,
+                    11.9225
+                ]
+            },
+            "properties": {
+                "name": "Wayḏeḏlou",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.591388888,
+                    11.665277777
+                ]
+            },
+            "properties": {
+                "name": "Wayḏeḏlou",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.054166666,
+                    11.290833333
+                ]
+            },
+            "properties": {
+                "name": "Ouaïḏi‘lou",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.643333333,
+                    12.163611111
+                ]
+            },
+            "properties": {
+                "name": "Wê‘i Kori",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.86733,
+                    12.29683
+                ]
+            },
+            "properties": {
+                "name": "Yagali",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.681666666,
+                    11.6125
+                ]
+            },
+            "properties": {
+                "name": "Q23720526",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.731111111,
+                    11.947777777
+                ]
+            },
+            "properties": {
+                "name": "Oylali",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.847777777,
+                    12.243611111
+                ]
+            },
+            "properties": {
+                "name": "Oylali Kanta",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.1,
+                    12.483333333
+                ]
+            },
+            "properties": {
+                "name": "Oyso",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.322777777,
+                    11.625277777
+                ]
+            },
+            "properties": {
+                "name": "Sidîẖa Dabba",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.378611111,
+                    11.342777777
+                ]
+            },
+            "properties": {
+                "name": "Sidiẖa Kôma",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.03,
+                    12.041666666
+                ]
+            },
+            "properties": {
+                "name": "Sillé",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.892222222,
+                    11.283611111
+                ]
+            },
+            "properties": {
+                "name": "Si‘îd Hâroûn",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.968611111,
+                    12.112777777
+                ]
+            },
+            "properties": {
+                "name": "Simbili‘lou",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.983611111,
+                    12.530555555
+                ]
+            },
+            "properties": {
+                "name": "Simbili‘lou",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.108333333,
+                    11.966666666
+                ]
+            },
+            "properties": {
+                "name": "Oroli",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.055,
+                    11.914166666
+                ]
+            },
+            "properties": {
+                "name": "Ouaïbolé",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.061111111,
+                    11.959444444
+                ]
+            },
+            "properties": {
+                "name": "Ouaïbolou",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.08,
+                    11.3358
+                ]
+            },
+            "properties": {
+                "name": "Ouassakado",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.711111111,
+                    12.208055555
+                ]
+            },
+            "properties": {
+                "name": "Oud ‘Ale",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.033055555,
+                    11.965
+                ]
+            },
+            "properties": {
+                "name": "Oudadi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.690555555,
+                    12.052222222
+                ]
+            },
+            "properties": {
+                "name": "Ouḏ ‘Ale",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.025,
+                    12.221666666
+                ]
+            },
+            "properties": {
+                "name": "Ouḏ ‘Ale",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.034722222,
+                    11.754444444
+                ]
+            },
+            "properties": {
+                "name": "Ouḏ ‘Ale",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.99,
+                    11.994444444
+                ]
+            },
+            "properties": {
+                "name": "Oûḏ ‘Ale",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.148055555,
+                    11.595
+                ]
+            },
+            "properties": {
+                "name": "Djibouti",
+                "article": "https://en.wikipedia.org/wiki/Djibouti_City"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.7,
+                    11.95
+                ]
+            },
+            "properties": {
+                "name": "Taranta",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.9351,
+                    10.992
+                ]
+            },
+            "properties": {
+                "name": "Tarantar",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.966666666,
+                    11.466666666
+                ]
+            },
+            "properties": {
+                "name": "Téouaïle",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.153055555,
+                    12.310277777
+                ]
+            },
+            "properties": {
+                "name": "Tôboki",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.015277777,
+                    12.528055555
+                ]
+            },
+            "properties": {
+                "name": "Toronkak",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.41209,
+                    12.45969
+                ]
+            },
+            "properties": {
+                "name": "Tolka",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.780277777,
+                    11.850833333
+                ]
+            },
+            "properties": {
+                "name": "Touké",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.330833333,
+                    12.408888888
+                ]
+            },
+            "properties": {
+                "name": "Wâda",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.343611111,
+                    12.118333333
+                ]
+            },
+            "properties": {
+                "name": "Wadarwelli",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.015833333,
+                    12.138333333
+                ]
+            },
+            "properties": {
+                "name": "Waddi ‘Ale",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.921944444,
+                    12.351666666
+                ]
+            },
+            "properties": {
+                "name": "Waddi Kôma",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.887777777,
+                    11.160555555
+                ]
+            },
+            "properties": {
+                "name": "Ouadjâlé",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.034166666,
+                    11.621388888
+                ]
+            },
+            "properties": {
+                "name": "Wago",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    41.853888888,
+                    11.379722222
+                ]
+            },
+            "properties": {
+                "name": "Wa‘inbagou",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.942777777,
+                    12.167777777
+                ]
+            },
+            "properties": {
+                "name": "Wakir",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.375555555,
+                    11.503055555
+                ]
+            },
+            "properties": {
+                "name": "Wakri Garobta",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.024166666,
+                    12.504444444
+                ]
+            },
+            "properties": {
+                "name": "Wal‘is",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.690555555,
+                    11.616666666
+                ]
+            },
+            "properties": {
+                "name": "Oualouallé",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.125555555,
+                    11.306111111
+                ]
+            },
+            "properties": {
+                "name": "Ouambarka Ouâhayyi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.766388888,
+                    11.096944444
+                ]
+            },
+            "properties": {
+                "name": "Warâbaley",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.688888888,
+                    11.063611111
+                ]
+            },
+            "properties": {
+                "name": "Ouaraga Goldahanléï",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.094166666,
+                    11.617777777
+                ]
+            },
+            "properties": {
+                "name": "War‘ambile",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.031944444,
+                    11.716944444
+                ]
+            },
+            "properties": {
+                "name": "War‘ambile",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.876111111,
+                    11.5775
+                ]
+            },
+            "properties": {
+                "name": "Qalouaïd Ḏêr",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.1725,
+                    11.351111111
+                ]
+            },
+            "properties": {
+                "name": "Qôrmaaḏ",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.027222222,
+                    12.341944444
+                ]
+            },
+            "properties": {
+                "name": "Ragôgis",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.8688,
+                    12.1133
+                ]
+            },
+            "properties": {
+                "name": "Rahra",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.2325,
+                    12.214166666
+                ]
+            },
+            "properties": {
+                "name": "Râkîba ‘Ale",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.455555555,
+                    12.455277777
+                ]
+            },
+            "properties": {
+                "name": "Rakîba ‘Ale",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.815277777,
+                    12.212777777
+                ]
+            },
+            "properties": {
+                "name": "Ramôdiya",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.765277777,
+                    11.258055555
+                ]
+            },
+            "properties": {
+                "name": "Rakoubiyêl",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.133333333,
+                    12.183333333
+                ]
+            },
+            "properties": {
+                "name": "Râra",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.033888888,
+                    12.443611111
+                ]
+            },
+            "properties": {
+                "name": "Rarou",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.041111111,
+                    12.418611111
+                ]
+            },
+            "properties": {
+                "name": "Rarou",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.007777777,
+                    11.931666666
+                ]
+            },
+            "properties": {
+                "name": "Redima",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.033055555,
+                    11.965
+                ]
+            },
+            "properties": {
+                "name": "Oudadi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.690555555,
+                    12.052222222
+                ]
+            },
+            "properties": {
+                "name": "Ouḏ ‘Ale",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.025,
+                    12.221666666
+                ]
+            },
+            "properties": {
+                "name": "Ouḏ ‘Ale",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.034722222,
+                    11.754444444
+                ]
+            },
+            "properties": {
+                "name": "Ouḏ ‘Ale",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.99,
+                    11.994444444
+                ]
+            },
+            "properties": {
+                "name": "Oûḏ ‘Ale",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.383333333,
+                    11.4
+                ]
+            },
+            "properties": {
+                "name": "Oud ‘Ali",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.8731,
+                    12.3243
+                ]
+            },
+            "properties": {
+                "name": "Ouḏ ‘Ale",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.0439,
+                    12.3768
+                ]
+            },
+            "properties": {
+                "name": "Ouḏ ‘Ale",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.094722222,
+                    11.673333333
+                ]
+            },
+            "properties": {
+                "name": "Ouḏ Gêra",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.0317,
+                    12.2786
+                ]
+            },
+            "properties": {
+                "name": "Sagmouden",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.293055555,
+                    12.021944444
+                ]
+            },
+            "properties": {
+                "name": "Sâkâlol",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.828888888,
+                    11.453055555
+                ]
+            },
+            "properties": {
+                "name": "Sallêlé",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.927222222,
+                    12.007222222
+                ]
+            },
+            "properties": {
+                "name": "Saloulle",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.145555555,
+                    12.408888888
+                ]
+            },
+            "properties": {
+                "name": "Samalli ‘Ale",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.071666666,
+                    11.326666666
+                ]
+            },
+            "properties": {
+                "name": "San‘as",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.315555555,
+                    12.253611111
+                ]
+            },
+            "properties": {
+                "name": "Sanbôhi Kôma",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.927777777,
+                    12.205
+                ]
+            },
+            "properties": {
+                "name": "Sangerra",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.789722222,
+                    11.545833333
+                ]
+            },
+            "properties": {
+                "name": "Sangârti Yar",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.1942,
+                    11.8386
+                ]
+            },
+            "properties": {
+                "name": "Sara Kôma",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.955277777,
+                    12.221111111
+                ]
+            },
+            "properties": {
+                "name": "Sarârou",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.194166666,
+                    11.963611111
+                ]
+            },
+            "properties": {
+                "name": "Sârouli",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.760555555,
+                    11.866666666
+                ]
+            },
+            "properties": {
+                "name": "Sasaẖya",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.1033,
+                    11.6594
+                ]
+            },
+            "properties": {
+                "name": "Sasak le Bago",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.145,
+                    11.9425
+                ]
+            },
+            "properties": {
+                "name": "Sasakle",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.060277777,
+                    12.448888888
+                ]
+            },
+            "properties": {
+                "name": "Sêmo le ‘Alé",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.86313,
+                    12.0078
+                ]
+            },
+            "properties": {
+                "name": "Sîḏa",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.02,
+                    11.915277777
+                ]
+            },
+            "properties": {
+                "name": "Oudlé",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.64,
+                    11.666111111
+                ]
+            },
+            "properties": {
+                "name": "Ouḏ Kôma",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.623888888,
+                    11.145277777
+                ]
+            },
+            "properties": {
+                "name": "Oudougo Djîfta",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.625,
+                    11.107222222
+                ]
+            },
+            "properties": {
+                "name": "Oudougo Djôgta",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.076944444,
+                    11.848055555
+                ]
+            },
+            "properties": {
+                "name": "Q23721972",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.816666666,
+                    11.933333333
+                ]
+            },
+            "properties": {
+                "name": "Oufi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.874722222,
+                    11.855277777
+                ]
+            },
+            "properties": {
+                "name": "Ougba",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.7858,
+                    11.17
+                ]
+            },
+            "properties": {
+                "name": "Ouer",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.576944444,
+                    11.907777777
+                ]
+            },
+            "properties": {
+                "name": "Oukoufé",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.244166666,
+                    11.676666666
+                ]
+            },
+            "properties": {
+                "name": "Q23722002",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.960277777,
+                    11.873888888
+                ]
+            },
+            "properties": {
+                "name": "Oumbouyyoukli",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.953888888,
+                    12.026666666
+                ]
+            },
+            "properties": {
+                "name": "Q23722007",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.535555555,
+                    11.423055555
+                ]
+            },
+            "properties": {
+                "name": "Oummoûna",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.38608,
+                    12.46449
+                ]
+            },
+            "properties": {
+                "name": "Q23722028",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.403611111,
+                    12.388888888
+                ]
+            },
+            "properties": {
+                "name": "Q23722045",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.833333333,
+                    12.231944444
+                ]
+            },
+            "properties": {
+                "name": "Q23722061",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.490555555,
+                    11.458611111
+                ]
+            },
+            "properties": {
+                "name": "Q23722075",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.45191,
+                    12.44532
+                ]
+            },
+            "properties": {
+                "name": "Q23722083",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.504444444,
+                    12.166111111
+                ]
+            },
+            "properties": {
+                "name": "Q23722101",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.896111111,
+                    12.561111111
+                ]
+            },
+            "properties": {
+                "name": "Ounouddi ‘Amra",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.216666666,
+                    11.416666666
+                ]
+            },
+            "properties": {
+                "name": "Ouré Ahmed",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.044722222,
+                    11.715833333
+                ]
+            },
+            "properties": {
+                "name": "Q23722132",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.021666666,
+                    11.331944444
+                ]
+            },
+            "properties": {
+                "name": "Ourrou‘ide Gêra",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.223611111,
+                    11.924444444
+                ]
+            },
+            "properties": {
+                "name": "Ouroumma",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.101944444,
+                    12.322777777
+                ]
+            },
+            "properties": {
+                "name": "Mousalle",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.229722222,
+                    11.785277777
+                ]
+            },
+            "properties": {
+                "name": "Namma H̱âki",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.648333333,
+                    11.758888888
+                ]
+            },
+            "properties": {
+                "name": "Nararte",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    41.950277777,
+                    11.573888888
+                ]
+            },
+            "properties": {
+                "name": "Nakilti Gona",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.904166666,
+                    12.099722222
+                ]
+            },
+            "properties": {
+                "name": "Narigeyta",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.281111111,
+                    12.270555555
+                ]
+            },
+            "properties": {
+                "name": "Noumẖêlo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.683333333,
+                    11.816666666
+                ]
+            },
+            "properties": {
+                "name": "Morne Noir",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.088888888,
+                    11.912222222
+                ]
+            },
+            "properties": {
+                "name": "Obloli",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.044444444,
+                    12.183888888
+                ]
+            },
+            "properties": {
+                "name": "Nounkak‘ide Bôlo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.0625,
+                    11.619166666
+                ]
+            },
+            "properties": {
+                "name": "Obroyto",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.717777777,
+                    11.526944444
+                ]
+            },
+            "properties": {
+                "name": "Odob",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.525833333,
+                    12.205277777
+                ]
+            },
+            "properties": {
+                "name": "Q23722635",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.0175,
+                    12.399722222
+                ]
+            },
+            "properties": {
+                "name": "Okli ‘Ale",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.9,
+                    11.916666666
+                ]
+            },
+            "properties": {
+                "name": "Olissa",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.066388888,
+                    11.642777777
+                ]
+            },
+            "properties": {
+                "name": "Ourwali",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.335833333,
+                    11.741666666
+                ]
+            },
+            "properties": {
+                "name": "Masôlay",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.320555555,
+                    11.613333333
+                ]
+            },
+            "properties": {
+                "name": "Massâba Kôma",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.1567,
+                    11.8669
+                ]
+            },
+            "properties": {
+                "name": "Mayranta",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.92834,
+                    12.49398
+                ]
+            },
+            "properties": {
+                "name": "Maygayraba",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.883333333,
+                    12.483333333
+                ]
+            },
+            "properties": {
+                "name": "Médéré",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.24861,
+                    11.83694
+                ]
+            },
+            "properties": {
+                "name": "Mêgo Aroug",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.032222222,
+                    11.999166666
+                ]
+            },
+            "properties": {
+                "name": "Mel",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.7,
+                    11.983333333
+                ]
+            },
+            "properties": {
+                "name": "Mélé",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.643055555,
+                    11.792777777
+                ]
+            },
+            "properties": {
+                "name": "Meleh",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.861666666,
+                    11.932777777
+                ]
+            },
+            "properties": {
+                "name": "Milaglé",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.07,
+                    11.971944444
+                ]
+            },
+            "properties": {
+                "name": "Mirato",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.123888888,
+                    11.613888888
+                ]
+            },
+            "properties": {
+                "name": "Minimmali",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.870833333,
+                    12.048333333
+                ]
+            },
+            "properties": {
+                "name": "Môla",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.175277777,
+                    11.896944444
+                ]
+            },
+            "properties": {
+                "name": "Mokoli Gêra",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.7475,
+                    12.0225
+                ]
+            },
+            "properties": {
+                "name": "Morô‘i",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.842,
+                    12.0848
+                ]
+            },
+            "properties": {
+                "name": "Morokonta",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.32,
+                    11.644722222
+                ]
+            },
+            "properties": {
+                "name": "Moudda Lê",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.577777777,
+                    11.621944444
+                ]
+            },
+            "properties": {
+                "name": "Moudoû‘oud",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.082222222,
+                    11.574166666
+                ]
+            },
+            "properties": {
+                "name": "Orgahiyta",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.914722222,
+                    12.4125
+                ]
+            },
+            "properties": {
+                "name": "Orboyto le Dabba",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.326666666,
+                    12.316666666
+                ]
+            },
+            "properties": {
+                "name": "Q23722661",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.910277777,
+                    11.509444444
+                ]
+            },
+            "properties": {
+                "name": "Lângobâlé ‘Addê",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.21667,
+                    11.7
+                ]
+            },
+            "properties": {
+                "name": "Q23722909",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.490833333,
+                    11.566388888
+                ]
+            },
+            "properties": {
+                "name": "Laynoytali",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.810555555,
+                    11.954166666
+                ]
+            },
+            "properties": {
+                "name": "Lili‘ya",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.299444444,
+                    12.2725
+                ]
+            },
+            "properties": {
+                "name": "Loubak Adan",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.774722222,
+                    11.896944444
+                ]
+            },
+            "properties": {
+                "name": "Loubak ‘Alé",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.902222222,
+                    11.943333333
+                ]
+            },
+            "properties": {
+                "name": "Loubakli Dir",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.907222222,
+                    11.951944444
+                ]
+            },
+            "properties": {
+                "name": "Loubaklo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.930555555,
+                    11.870277777
+                ]
+            },
+            "properties": {
+                "name": "Loubâtanlou",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.853333333,
+                    11.175555555
+                ]
+            },
+            "properties": {
+                "name": "Lougag ‘Ali",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.528055555,
+                    11.704166666
+                ]
+            },
+            "properties": {
+                "name": "Lubâtalle",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.005555555,
+                    11.981944444
+                ]
+            },
+            "properties": {
+                "name": "Maanditi Gouyyouh",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.739444444,
+                    11.881111111
+                ]
+            },
+            "properties": {
+                "name": "Ma‘arre",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.9849,
+                    12.1892
+                ]
+            },
+            "properties": {
+                "name": "Mabouk",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.619444444,
+                    11.682777777
+                ]
+            },
+            "properties": {
+                "name": "Mabdaẖa",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.393611111,
+                    12.243055555
+                ]
+            },
+            "properties": {
+                "name": "Madâdag",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.931388888,
+                    11.996944444
+                ]
+            },
+            "properties": {
+                "name": "Madag",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.001944444,
+                    12.222222222
+                ]
+            },
+            "properties": {
+                "name": "Maḏḏaggala Kôma",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.366666666,
+                    11.616666666
+                ]
+            },
+            "properties": {
+                "name": "Madgan Gâlih",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.916666666,
+                    12.5
+                ]
+            },
+            "properties": {
+                "name": "Magahira",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.266666666,
+                    11.65
+                ]
+            },
+            "properties": {
+                "name": "M'afoïta",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.313888888,
+                    11.870833333
+                ]
+            },
+            "properties": {
+                "name": "Maẖlâlaw",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.133333333,
+                    12.166666666
+                ]
+            },
+            "properties": {
+                "name": "Maïssanaho",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.923611111,
+                    11.976111111
+                ]
+            },
+            "properties": {
+                "name": "Maïdalâla‘",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.7132,
+                    12.2628
+                ]
+            },
+            "properties": {
+                "name": "Mak‘arrou",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.103611111,
+                    11.695555555
+                ]
+            },
+            "properties": {
+                "name": "Mak‘arre",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.3189,
+                    11.7325
+                ]
+            },
+            "properties": {
+                "name": "Makisso",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.901388888,
+                    12.049722222
+                ]
+            },
+            "properties": {
+                "name": "Mak‘ôri",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.825277777,
+                    12.369166666
+                ]
+            },
+            "properties": {
+                "name": "Malgiyya",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.057777777,
+                    11.883888888
+                ]
+            },
+            "properties": {
+                "name": "Mangaïa",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.841944444,
+                    11.908333333
+                ]
+            },
+            "properties": {
+                "name": "Margada",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.884722222,
+                    11.931388888
+                ]
+            },
+            "properties": {
+                "name": "Kousra",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.46,
+                    12.32
+                ]
+            },
+            "properties": {
+                "name": "Kousrali",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.063611111,
+                    11.687222222
+                ]
+            },
+            "properties": {
+                "name": "Koytali H̱arka",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.0725,
+                    12.025277777
+                ]
+            },
+            "properties": {
+                "name": "Labka",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.666666666,
+                    11.083333333
+                ]
+            },
+            "properties": {
+                "name": "Labakourousle",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.8725,
+                    11.998611111
+                ]
+            },
+            "properties": {
+                "name": "Marmourta",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.803055555,
+                    11.492222222
+                ]
+            },
+            "properties": {
+                "name": "Marian ‘Ad",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.144444444,
+                    12.206388888
+                ]
+            },
+            "properties": {
+                "name": "Masgidle",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.06361,
+                    11.75194
+                ]
+            },
+            "properties": {
+                "name": "Masguid Amo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.15833,
+                    11.71472
+                ]
+            },
+            "properties": {
+                "name": "Maskal",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.624722222,
+                    11.769166666
+                ]
+            },
+            "properties": {
+                "name": "Masgilde",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.613888888,
+                    11.669166666
+                ]
+            },
+            "properties": {
+                "name": "Maskabo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.623611111,
+                    12.195833333
+                ]
+            },
+            "properties": {
+                "name": "Kaflali",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.546944444,
+                    11.7825
+                ]
+            },
+            "properties": {
+                "name": "Kâhoyta",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.848055555,
+                    11.476111111
+                ]
+            },
+            "properties": {
+                "name": "Kalâloho",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.15655,
+                    12.71842
+                ]
+            },
+            "properties": {
+                "name": "Kallîda",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.268611111,
+                    11.628888888
+                ]
+            },
+            "properties": {
+                "name": "Kandi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.624166666,
+                    11.621666666
+                ]
+            },
+            "properties": {
+                "name": "Kanniyeyta",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.275833333,
+                    11.878333333
+                ]
+            },
+            "properties": {
+                "name": "Karabti San",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    41.983055555,
+                    11.148888888
+                ]
+            },
+            "properties": {
+                "name": "Karbilhi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.185,
+                    11.25
+                ]
+            },
+            "properties": {
+                "name": "Karankali",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.686111111,
+                    11.758888888
+                ]
+            },
+            "properties": {
+                "name": "Karêrou",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.420555555,
+                    12.466388888
+                ]
+            },
+            "properties": {
+                "name": "Karmiseyna",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.835277777,
+                    11.9425
+                ]
+            },
+            "properties": {
+                "name": "Kasalto",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.293055555,
+                    11.881944444
+                ]
+            },
+            "properties": {
+                "name": "Kayni‘e Goura",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.647222222,
+                    11.880555555
+                ]
+            },
+            "properties": {
+                "name": "Kassalto",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.796666666,
+                    12.016666666
+                ]
+            },
+            "properties": {
+                "name": "Kibou",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.0156,
+                    11.1131
+                ]
+            },
+            "properties": {
+                "name": "Kifillo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.3625,
+                    12.248611111
+                ]
+            },
+            "properties": {
+                "name": "Kilîma Gêra",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.69,
+                    11.75
+                ]
+            },
+            "properties": {
+                "name": "Kontoyli",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.345833333,
+                    12.243888888
+                ]
+            },
+            "properties": {
+                "name": "Kôrarre",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.7794,
+                    11.4825
+                ]
+            },
+            "properties": {
+                "name": "Koron",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.827222222,
+                    11.539166666
+                ]
+            },
+            "properties": {
+                "name": "Koulamaléï",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.52,
+                    11.06389
+                ]
+            },
+            "properties": {
+                "name": "Koulâmalé",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.965277777,
+                    11.468611111
+                ]
+            },
+            "properties": {
+                "name": "Koulamâlé",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.088333333,
+                    12.073611111
+                ]
+            },
+            "properties": {
+                "name": "Koumbouḏoûḏa",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.0042,
+                    12.033
+                ]
+            },
+            "properties": {
+                "name": "Koummalsa",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.619166666,
+                    11.438055555
+                ]
+            },
+            "properties": {
+                "name": "Kourani Boûr",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.503611111,
+                    11.498055555
+                ]
+            },
+            "properties": {
+                "name": "Lâḏînis",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.085277777,
+                    12.231111111
+                ]
+            },
+            "properties": {
+                "name": "Lâḏbiḏaytou",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.86,
+                    11.271388888
+                ]
+            },
+            "properties": {
+                "name": "Lafaha Ḏoûrré",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.666666666,
+                    11.75
+                ]
+            },
+            "properties": {
+                "name": "Pic Lagarde",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.856111111,
+                    12.236111111
+                ]
+            },
+            "properties": {
+                "name": "Lâggourbo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.183333333,
+                    12.2975
+                ]
+            },
+            "properties": {
+                "name": "Lak‘olé",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.311111111,
+                    11.655277777
+                ]
+            },
+            "properties": {
+                "name": "Lakattim Lâ‘ou",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    41.85,
+                    11.416666666
+                ]
+            },
+            "properties": {
+                "name": "Lama Guéra Rassa",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.868611111,
+                    12.074722222
+                ]
+            },
+            "properties": {
+                "name": "Lak‘o le ‘Ale",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.85,
+                    11.033333333
+                ]
+            },
+            "properties": {
+                "name": "Lammoûdley",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.0911,
+                    11.5575
+                ]
+            },
+            "properties": {
+                "name": "Iẖayle",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.816666666,
+                    11.965555555
+                ]
+            },
+            "properties": {
+                "name": "Illi ‘Ale",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    41.987222222,
+                    11.661666666
+                ]
+            },
+            "properties": {
+                "name": "Illi Fôha",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.108888888,
+                    12.206388888
+                ]
+            },
+            "properties": {
+                "name": "Illy ‘Ale",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.934722222,
+                    11.541388888
+                ]
+            },
+            "properties": {
+                "name": "Ina Dirir",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.1725,
+                    11.9125
+                ]
+            },
+            "properties": {
+                "name": "Ina‘ito",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.333333333,
+                    12.25
+                ]
+            },
+            "properties": {
+                "name": "Inakir",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.143055555,
+                    11.986944444
+                ]
+            },
+            "properties": {
+                "name": "Inḏa‘i ‘Alé",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.915833333,
+                    12.456944444
+                ]
+            },
+            "properties": {
+                "name": "Inâ‘ito",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.855,
+                    11.973333333
+                ]
+            },
+            "properties": {
+                "name": "Ingidda‘lou",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.5375,
+                    11.8525
+                ]
+            },
+            "properties": {
+                "name": "Q23723398",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.381944444,
+                    12.208333333
+                ]
+            },
+            "properties": {
+                "name": "Q23723403",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.01,
+                    11.9225
+                ]
+            },
+            "properties": {
+                "name": "Inkararo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.1897,
+                    11.9331
+                ]
+            },
+            "properties": {
+                "name": "Inkaflo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.477777777,
+                    11.600277777
+                ]
+            },
+            "properties": {
+                "name": "Inki Garrayto",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.001111111,
+                    12.509444444
+                ]
+            },
+            "properties": {
+                "name": "Inkilaki",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.4342,
+                    11.1308
+                ]
+            },
+            "properties": {
+                "name": "Intimara",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.4917,
+                    11.13
+                ]
+            },
+            "properties": {
+                "name": "Intimara",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.958611111,
+                    12.051388888
+                ]
+            },
+            "properties": {
+                "name": "Irawnaba",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.975555555,
+                    12.505833333
+                ]
+            },
+            "properties": {
+                "name": "Irrire",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.328055555,
+                    11.0175
+                ]
+            },
+            "properties": {
+                "name": "Q23723423",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.876111111,
+                    11.891666666
+                ]
+            },
+            "properties": {
+                "name": "Irrâgi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.739166666,
+                    11.894722222
+                ]
+            },
+            "properties": {
+                "name": "Q23723427",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    41.986944444,
+                    11.296111111
+                ]
+            },
+            "properties": {
+                "name": "Isihwê‘e",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.855555555,
+                    11.819722222
+                ]
+            },
+            "properties": {
+                "name": "Q23723430",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.321666666,
+                    12.128611111
+                ]
+            },
+            "properties": {
+                "name": "Itikta",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.005833333,
+                    11.883055555
+                ]
+            },
+            "properties": {
+                "name": "Issa",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    41.981944444,
+                    11.658333333
+                ]
+            },
+            "properties": {
+                "name": "Q23723433",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.2992,
+                    12.2067
+                ]
+            },
+            "properties": {
+                "name": "Kabalto",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.017222222,
+                    12.050555555
+                ]
+            },
+            "properties": {
+                "name": "Kabi‘lou",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.555555555,
+                    11.630555555
+                ]
+            },
+            "properties": {
+                "name": "Kadda Gâli Mâ‘aba",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.8309,
+                    12.2147
+                ]
+            },
+            "properties": {
+                "name": "Kaḏḏa Garra‘ta",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.496388888,
+                    11.735555555
+                ]
+            },
+            "properties": {
+                "name": "H̱asan Ḏâ",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.230833333,
+                    12.244166666
+                ]
+            },
+            "properties": {
+                "name": "Hâwaẖ H̱arka",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.0675,
+                    11.658888888
+                ]
+            },
+            "properties": {
+                "name": "Hayiggêdan",
+                "article": null
+            }
+        }
+    ]
+}

@@ -1,0 +1,1405 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.33,
+                    44.53
+                ]
+            },
+            "properties": {
+                "name": "Lake Champlain",
+                "article": "https://en.wikipedia.org/wiki/Lake_Champlain"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.628,
+                    49.7664
+                ]
+            },
+            "properties": {
+                "name": "Oak Lake",
+                "article": "https://en.wikipedia.org/wiki/Oak_Lake,_Manitoba"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.522,
+                    49.4808
+                ]
+            },
+            "properties": {
+                "name": "Hartney",
+                "article": "https://en.wikipedia.org/wiki/Hartney"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.932,
+                    49.8508
+                ]
+            },
+            "properties": {
+                "name": "Virden",
+                "article": "https://en.wikipedia.org/wiki/Virden,_Manitoba"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.3594,
+                    49.8689
+                ]
+            },
+            "properties": {
+                "name": "Carberry",
+                "article": "https://en.wikipedia.org/wiki/Carberry,_Manitoba"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.5161,
+                    50.0622
+                ]
+            },
+            "properties": {
+                "name": "Beausejour",
+                "article": "https://en.wikipedia.org/wiki/Beausejour,_Manitoba"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.0,
+                    69.0
+                ]
+            },
+            "properties": {
+                "name": "Baffin Island",
+                "article": "https://en.wikipedia.org/wiki/Baffin_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.2611,
+                    50.3858
+                ]
+            },
+            "properties": {
+                "name": "Teulon",
+                "article": "https://en.wikipedia.org/wiki/Teulon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.055,
+                    49.230555555
+                ]
+            },
+            "properties": {
+                "name": "Boissevain",
+                "article": "https://en.wikipedia.org/wiki/Boissevain,_Manitoba"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.49477,
+                    49.19082
+                ]
+            },
+            "properties": {
+                "name": "Deloraine",
+                "article": "https://en.wikipedia.org/wiki/Deloraine,_Manitoba"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.295,
+                    49.1122
+                ]
+            },
+            "properties": {
+                "name": "Deloraine",
+                "article": "https://en.wikipedia.org/wiki/Deloraine,_Manitoba"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.106388888,
+                    43.728888888
+                ]
+            },
+            "properties": {
+                "name": "Lake Ontario",
+                "article": "https://en.wikipedia.org/wiki/Lake_Ontario"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.760021944,
+                    47.528816111
+                ]
+            },
+            "properties": {
+                "name": "Lake Superior",
+                "article": "https://en.wikipedia.org/wiki/Lake_Superior"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.756293,
+                    44.592584
+                ]
+            },
+            "properties": {
+                "name": "Lake Huron",
+                "article": "https://en.wikipedia.org/wiki/Lake_Huron"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.521666666,
+                    63.749444444
+                ]
+            },
+            "properties": {
+                "name": "Iqaluit",
+                "article": "https://en.wikipedia.org/wiki/Iqaluit"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -135.055833333,
+                    60.717222222
+                ]
+            },
+            "properties": {
+                "name": "Whitehorse",
+                "article": "https://en.wikipedia.org/wiki/Whitehorse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -114.3975,
+                    62.442222222
+                ]
+            },
+            "properties": {
+                "name": "Yellowknife",
+                "article": "https://en.wikipedia.org/wiki/Yellowknife"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -113.5,
+                    53.533333333
+                ]
+            },
+            "properties": {
+                "name": "Edmonton",
+                "article": "https://en.wikipedia.org/wiki/Edmonton"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.6178,
+                    50.45008
+                ]
+            },
+            "properties": {
+                "name": "Regina",
+                "article": "https://en.wikipedia.org/wiki/Regina,_Saskatchewan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.606666666,
+                    50.454722222
+                ]
+            },
+            "properties": {
+                "name": "Regina",
+                "article": "https://en.wikipedia.org/wiki/Regina,_Saskatchewan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -63.128333,
+                    46.233611
+                ]
+            },
+            "properties": {
+                "name": "Charlottetown",
+                "article": "https://en.wikipedia.org/wiki/Charlottetown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -66.666666666,
+                    45.95
+                ]
+            },
+            "properties": {
+                "name": "Fredericton",
+                "article": "https://en.wikipedia.org/wiki/Fredericton"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -63.571388888,
+                    44.647777777
+                ]
+            },
+            "properties": {
+                "name": "Halifax",
+                "article": "https://en.wikipedia.org/wiki/Halifax,_Nova_Scotia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.25,
+                    52.116666666
+                ]
+            },
+            "properties": {
+                "name": "Lake Winnipeg",
+                "article": "https://en.wikipedia.org/wiki/Lake_Winnipeg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.5,
+                    43.316666666
+                ]
+            },
+            "properties": {
+                "name": "South Huron",
+                "article": "https://en.wikipedia.org/wiki/South_Huron"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.999722222,
+                    42.25
+                ]
+            },
+            "properties": {
+                "name": "Lake Erie",
+                "article": "https://en.wikipedia.org/wiki/Lake_Erie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.0,
+                    66.0
+                ]
+            },
+            "properties": {
+                "name": "Great Bear Lake",
+                "article": "https://en.wikipedia.org/wiki/Great_Bear_Lake"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.683333333,
+                    52.133333333
+                ]
+            },
+            "properties": {
+                "name": "Saskatoon",
+                "article": "https://en.wikipedia.org/wiki/Saskatoon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.936388888,
+                    49.164166666
+                ]
+            },
+            "properties": {
+                "name": "Nanaimo",
+                "article": "https://en.wikipedia.org/wiki/Nanaimo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.38677,
+                    43.67026
+                ]
+            },
+            "properties": {
+                "name": "Yonge Street",
+                "article": "https://en.wikipedia.org/wiki/Yonge_Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.433,
+                    51.625
+                ]
+            },
+            "properties": {
+                "name": "Crowfoot Mountain",
+                "article": "https://en.wikipedia.org/wiki/Crowfoot_Mountain_(Alberta)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.9942,
+                    48.25
+                ]
+            },
+            "properties": {
+                "name": "Lac Osisko",
+                "article": "https://en.wikipedia.org/wiki/Osisko_Lake"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -130.166666666,
+                    53.416666666
+                ]
+            },
+            "properties": {
+                "name": "Banks Island",
+                "article": "https://en.wikipedia.org/wiki/Banks_Island_(British_Columbia)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -128.842222222,
+                    52.925555555
+                ]
+            },
+            "properties": {
+                "name": "Princess Royal Island",
+                "article": "https://en.wikipedia.org/wiki/Princess_Royal_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -132.127777777,
+                    53.078888888
+                ]
+            },
+            "properties": {
+                "name": "Moresby Island",
+                "article": "https://en.wikipedia.org/wiki/Moresby_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.386666666,
+                    43.670277777
+                ]
+            },
+            "properties": {
+                "name": "Toronto",
+                "article": "https://en.wikipedia.org/wiki/Toronto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.7,
+                    43.733333333
+                ]
+            },
+            "properties": {
+                "name": "Goderich",
+                "article": "https://en.wikipedia.org/wiki/Goderich,_Ontario"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.683333333,
+                    44.583333333
+                ]
+            },
+            "properties": {
+                "name": "Brockville",
+                "article": "https://en.wikipedia.org/wiki/Brockville"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.4066,
+                    42.9745
+                ]
+            },
+            "properties": {
+                "name": "Sarnia",
+                "article": "https://en.wikipedia.org/wiki/Sarnia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.2461,
+                    48.3822
+                ]
+            },
+            "properties": {
+                "name": "Thunder Bay",
+                "article": "https://en.wikipedia.org/wiki/Thunder_Bay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.686,
+                    44.39
+                ]
+            },
+            "properties": {
+                "name": "Barrie",
+                "article": "https://en.wikipedia.org/wiki/Barrie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.263055555,
+                    43.140833333
+                ]
+            },
+            "properties": {
+                "name": "Brantford",
+                "article": "https://en.wikipedia.org/wiki/Brantford"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8,
+                    43.325
+                ]
+            },
+            "properties": {
+                "name": "Burlington",
+                "article": "https://en.wikipedia.org/wiki/Burlington,_Ontario"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.383333333,
+                    44.166666666
+                ]
+            },
+            "properties": {
+                "name": "Belleville",
+                "article": "https://en.wikipedia.org/wiki/Belleville,_Ontario"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -114.066666666,
+                    51.05
+                ]
+            },
+            "properties": {
+                "name": "Calgary",
+                "article": "https://en.wikipedia.org/wiki/Calgary"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.5,
+                    43.833333333
+                ]
+            },
+            "properties": {
+                "name": "Vaughan",
+                "article": "https://en.wikipedia.org/wiki/Vaughan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.25,
+                    43.8833
+                ]
+            },
+            "properties": {
+                "name": "Markham",
+                "article": "https://en.wikipedia.org/wiki/Markham,_Ontario"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.766666666,
+                    43.683333333
+                ]
+            },
+            "properties": {
+                "name": "Brampton",
+                "article": "https://en.wikipedia.org/wiki/Brampton"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -55.777222222,
+                    48.566388888
+                ]
+            },
+            "properties": {
+                "name": "Newfoundland",
+                "article": "https://en.wikipedia.org/wiki/Newfoundland_(island)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.65,
+                    43.6
+                ]
+            },
+            "properties": {
+                "name": "Mississauga",
+                "article": "https://en.wikipedia.org/wiki/Mississauga"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.437222222,
+                    43.871388888
+                ]
+            },
+            "properties": {
+                "name": "Richmond Hill",
+                "article": "https://en.wikipedia.org/wiki/Richmond_Hill,_Ontario"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.45,
+                    44.06
+                ]
+            },
+            "properties": {
+                "name": "Newmarket",
+                "article": "https://en.wikipedia.org/wiki/Newmarket,_Ontario"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.216944444,
+                    50.907222222
+                ]
+            },
+            "properties": {
+                "name": "Arborg",
+                "article": "https://en.wikipedia.org/wiki/Arborg,_Manitoba"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -140.653888888,
+                    60.583055555
+                ]
+            },
+            "properties": {
+                "name": "King Peak",
+                "article": "https://en.wikipedia.org/wiki/King_Peak_(Yukon)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -101.253,
+                    53.825
+                ]
+            },
+            "properties": {
+                "name": "The Pas",
+                "article": "https://en.wikipedia.org/wiki/The_Pas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.95,
+                    49.833333333
+                ]
+            },
+            "properties": {
+                "name": "Brandon",
+                "article": "https://en.wikipedia.org/wiki/Brandon,_Manitoba"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.95,
+                    50.2258
+                ]
+            },
+            "properties": {
+                "name": "Gladstone",
+                "article": "https://en.wikipedia.org/wiki/Gladstone,_Manitoba"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -101.0475,
+                    50.4225
+                ]
+            },
+            "properties": {
+                "name": "Birtle",
+                "article": "https://en.wikipedia.org/wiki/Birtle,_Manitoba"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.2497,
+                    42.9837
+                ]
+            },
+            "properties": {
+                "name": "London",
+                "article": "https://en.wikipedia.org/wiki/London,_Ontario"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.183333333,
+                    42.4
+                ]
+            },
+            "properties": {
+                "name": "Chatham-Kent",
+                "article": "https://en.wikipedia.org/wiki/Chatham-Kent"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.487777777,
+                    51.149722222
+                ]
+            },
+            "properties": {
+                "name": "Gilbert Plains",
+                "article": "https://en.wikipedia.org/wiki/Gilbert_Plains"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.9742,
+                    50.5058
+                ]
+            },
+            "properties": {
+                "name": "Winnipeg Beach",
+                "article": "https://en.wikipedia.org/wiki/Winnipeg_Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -94.7089,
+                    56.3478
+                ]
+            },
+            "properties": {
+                "name": "Gillam",
+                "article": "https://en.wikipedia.org/wiki/Gillam,_Manitoba"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -140.402777777,
+                    60.567222222
+                ]
+            },
+            "properties": {
+                "name": "Mount Logan",
+                "article": "https://en.wikipedia.org/wiki/Mount_Logan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.472,
+                    51.3083
+                ]
+            },
+            "properties": {
+                "name": "Mount Macdonald",
+                "article": "https://en.wikipedia.org/wiki/Mount_Macdonald"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.233333333,
+                    43.183333333
+                ]
+            },
+            "properties": {
+                "name": "St. Catharines",
+                "article": "https://en.wikipedia.org/wiki/St._Catharines"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.869166666,
+                    43.256666666
+                ]
+            },
+            "properties": {
+                "name": "Hamilton",
+                "article": "https://en.wikipedia.org/wiki/Hamilton,_Ontario"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -124.583333333,
+                    54.55
+                ]
+            },
+            "properties": {
+                "name": "Stuart Lake",
+                "article": "https://en.wikipedia.org/wiki/Stuart_Lake"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -63.614,
+                    44.635
+                ]
+            },
+            "properties": {
+                "name": "Melville Island",
+                "article": "https://en.wikipedia.org/wiki/Melville_Island_(Nova_Scotia)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -113.50515,
+                    75.50135
+                ]
+            },
+            "properties": {
+                "name": "Melville Island",
+                "article": "https://en.wikipedia.org/wiki/Melville_Island_(Northwest_Territories_and_Nunavut)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.5,
+                    75.5
+                ]
+            },
+            "properties": {
+                "name": "Melville Island",
+                "article": "https://en.wikipedia.org/wiki/Melville_Island_(Northwest_Territories_and_Nunavut)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -64.165,
+                    48.495
+                ]
+            },
+            "properties": {
+                "name": "Île Bonaventure",
+                "article": "https://en.wikipedia.org/wiki/Bonaventure_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.6494,
+                    49.6697
+                ]
+            },
+            "properties": {
+                "name": "Ste. Anne",
+                "article": "https://en.wikipedia.org/wiki/Ste._Anne"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.233333333,
+                    68.966666666
+                ]
+            },
+            "properties": {
+                "name": "King William Island",
+                "article": "https://en.wikipedia.org/wiki/King_William_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.0,
+                    79.833333333
+                ]
+            },
+            "properties": {
+                "name": "Ellesmere Island",
+                "article": "https://en.wikipedia.org/wiki/Ellesmere_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.8939,
+                    49.2014
+                ]
+            },
+            "properties": {
+                "name": "Pilot Mound",
+                "article": "https://en.wikipedia.org/wiki/Pilot_Mound,_Manitoba"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -113.7541,
+                    71.451
+                ]
+            },
+            "properties": {
+                "name": "Victoria Island",
+                "article": "https://en.wikipedia.org/wiki/Victoria_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.0,
+                    71.0
+                ]
+            },
+            "properties": {
+                "name": "Victoria Island",
+                "article": "https://en.wikipedia.org/wiki/Victoria_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -114.771,
+                    55.2853
+                ]
+            },
+            "properties": {
+                "name": "Slave Lake",
+                "article": "https://en.wikipedia.org/wiki/Slave_Lake"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.6628,
+                    49.1833
+                ]
+            },
+            "properties": {
+                "name": "Killarney",
+                "article": "https://en.wikipedia.org/wiki/Killarney,_Manitoba"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -125.5,
+                    49.6
+                ]
+            },
+            "properties": {
+                "name": "Vancouver Island",
+                "article": "https://en.wikipedia.org/wiki/Vancouver_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.891111111,
+                    48.415277777
+                ]
+            },
+            "properties": {
+                "name": "Île Bicquette",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -126.0,
+                    54.75
+                ]
+            },
+            "properties": {
+                "name": "Babine Lake",
+                "article": "https://en.wikipedia.org/wiki/Babine_Lake"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.814166666,
+                    45.401388888
+                ]
+            },
+            "properties": {
+                "name": "Lac Saint-Louis",
+                "article": "https://en.wikipedia.org/wiki/Lake_Saint-Louis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.764166666,
+                    43.218333333
+                ]
+            },
+            "properties": {
+                "name": "Battle of Stoney Creek",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Stoney_Creek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.5,
+                    75.5
+                ]
+            },
+            "properties": {
+                "name": "Little Cornwallis Island",
+                "article": "https://en.wikipedia.org/wiki/Little_Cornwallis_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -94.666666666,
+                    53.783333333
+                ]
+            },
+            "properties": {
+                "name": "Island Lake",
+                "article": "https://en.wikipedia.org/wiki/Island_Lake_(Manitoba)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.03526,
+                    42.31729
+                ]
+            },
+            "properties": {
+                "name": "Windsor",
+                "article": "https://en.wikipedia.org/wiki/Windsor,_Ontario"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.004722222,
+                    49.850555555
+                ]
+            },
+            "properties": {
+                "name": "Mount Garibaldi",
+                "article": "https://en.wikipedia.org/wiki/Mount_Garibaldi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.85,
+                    75.133333333
+                ]
+            },
+            "properties": {
+                "name": "Devon Island",
+                "article": "https://en.wikipedia.org/wiki/Devon_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.67,
+                    46.295
+                ]
+            },
+            "properties": {
+                "name": "Cape Breton Island",
+                "article": "https://en.wikipedia.org/wiki/Cape_Breton_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -55.531222222,
+                    51.595266666
+                ]
+            },
+            "properties": {
+                "name": "L'Anse aux Meadows",
+                "article": "https://en.wikipedia.org/wiki/L%27Anse_aux_Meadows"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.483333333,
+                    43.45
+                ]
+            },
+            "properties": {
+                "name": "Kitchener",
+                "article": "https://en.wikipedia.org/wiki/Kitchener,_Ontario"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.5,
+                    73.0
+                ]
+            },
+            "properties": {
+                "name": "Banks Island",
+                "article": "https://en.wikipedia.org/wiki/Banks_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93.031388888,
+                    48.636944444
+                ]
+            },
+            "properties": {
+                "name": "Rainy Lake",
+                "article": "https://en.wikipedia.org/wiki/Rainy_Lake"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93.130833333,
+                    48.726666666
+                ]
+            },
+            "properties": {
+                "name": "Rainy Lake",
+                "article": "https://en.wikipedia.org/wiki/Rainy_Lake"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.5,
+                    44.233333333
+                ]
+            },
+            "properties": {
+                "name": "Kingston",
+                "article": "https://en.wikipedia.org/wiki/Kingston,_Ontario"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.954444444,
+                    50.120833333
+                ]
+            },
+            "properties": {
+                "name": "Whistler",
+                "article": "https://en.wikipedia.org/wiki/Whistler,_British_Columbia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.421944444,
+                    79.683611111
+                ]
+            },
+            "properties": {
+                "name": "Axel Heiberg Island",
+                "article": "https://en.wikipedia.org/wiki/Axel_Heiberg_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.5,
+                    64.5
+                ]
+            },
+            "properties": {
+                "name": "Southampton Island",
+                "article": "https://en.wikipedia.org/wiki/Southampton_Island"
+            }
+        }
+    ]
+}

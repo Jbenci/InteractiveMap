@@ -1,0 +1,5605 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.499444444,
+                    59.377861111
+                ]
+            },
+            "properties": {
+                "name": "Karlstad railway station",
+                "article": "https://en.wikipedia.org/wiki/Karlstad_Central_Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.2975,
+                    59.88361111
+                ]
+            },
+            "properties": {
+                "name": "Charlottenberg Station",
+                "article": "https://en.wikipedia.org/wiki/Charlottenberg_Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.876388888,
+                    63.55
+                ]
+            },
+            "properties": {
+                "name": "Norrbyskär",
+                "article": "https://en.wikipedia.org/wiki/Norrbysk%C3%A4r"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.879166666,
+                    59.161666666
+                ]
+            },
+            "properties": {
+                "name": "Stora Le",
+                "article": "https://en.wikipedia.org/wiki/Stora_Le"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.74222222,
+                    60.55916667
+                ]
+            },
+            "properties": {
+                "name": "Storsjön",
+                "article": "https://en.wikipedia.org/wiki/Storsj%C3%B6n_(G%C3%A4strikland)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.916666666,
+                    57.9
+                ]
+            },
+            "properties": {
+                "name": "Lake Bästeträsk",
+                "article": "https://en.wikipedia.org/wiki/Lake_B%C3%A4stetr%C3%A4sk"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.5,
+                    58.916666666
+                ]
+            },
+            "properties": {
+                "name": "Vänern",
+                "article": "https://en.wikipedia.org/wiki/V%C3%A4nern"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.70333333,
+                    63.28916667
+                ]
+            },
+            "properties": {
+                "name": "Paradiskullen",
+                "article": "https://en.wikipedia.org/wiki/Paradiskullen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.567282992,
+                    56.440814675
+                ]
+            },
+            "properties": {
+                "name": "Hallands Väderö",
+                "article": "https://en.wikipedia.org/wiki/Hallands_V%C3%A4der%C3%B6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.808309707,
+                    58.03410006
+                ]
+            },
+            "properties": {
+                "name": "Vårgårda",
+                "article": "https://en.wikipedia.org/wiki/V%C3%A5rg%C3%A5rda"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.27111111,
+                    63.56527778
+                ]
+            },
+            "properties": {
+                "name": "Landösjön",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2,
+                    59.5
+                ]
+            },
+            "properties": {
+                "name": "Mälaren",
+                "article": "https://en.wikipedia.org/wiki/M%C3%A4laren"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.6,
+                    58.4
+                ]
+            },
+            "properties": {
+                "name": "Vättern",
+                "article": "https://en.wikipedia.org/wiki/V%C3%A4ttern"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.06472222,
+                    59.33194444
+                ]
+            },
+            "properties": {
+                "name": "The House of Culture",
+                "article": "https://en.wikipedia.org/wiki/The_House_of_Culture_(Stockholm)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.8212957,
+                    69.0172102
+                ]
+            },
+            "properties": {
+                "name": "Lake Kilpisjärvi",
+                "article": "https://en.wikipedia.org/wiki/Lake_Kilpisj%C3%A4rvi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.545,
+                    59.336666666
+                ]
+            },
+            "properties": {
+                "name": "Birka",
+                "article": "https://en.wikipedia.org/wiki/Birka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.545,
+                    59.336666666
+                ]
+            },
+            "properties": {
+                "name": "Birka",
+                "article": "https://en.wikipedia.org/wiki/Birka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.75,
+                    59.25
+                ]
+            },
+            "properties": {
+                "name": "Hjälmaren",
+                "article": "https://en.wikipedia.org/wiki/Hj%C3%A4lmaren"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.12726,
+                    68.42583
+                ]
+            },
+            "properties": {
+                "name": "Riksgränsen Station",
+                "article": "https://en.wikipedia.org/wiki/Riksgr%C3%A4nsen_Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.55,
+                    67.883333333
+                ]
+            },
+            "properties": {
+                "name": "Kebnekaise",
+                "article": "https://en.wikipedia.org/wiki/Kebnekaise"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.1,
+                    68.366666666
+                ]
+            },
+            "properties": {
+                "name": "Torneträsk",
+                "article": "https://en.wikipedia.org/wiki/Tornetr%C3%A4sk"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.8,
+                    60.85
+                ]
+            },
+            "properties": {
+                "name": "Siljan",
+                "article": "https://en.wikipedia.org/wiki/Siljan_(lake)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.63333,
+                    56.75
+                ]
+            },
+            "properties": {
+                "name": "Öland",
+                "article": "https://en.wikipedia.org/wiki/%C3%96land"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.666666666,
+                    56.733333333
+                ]
+            },
+            "properties": {
+                "name": "Öland",
+                "article": "https://en.wikipedia.org/wiki/%C3%96land"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.643333333,
+                    59.553611111
+                ]
+            },
+            "properties": {
+                "name": "Glafsfjorden",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.495202,
+                    57.049329
+                ]
+            },
+            "properties": {
+                "name": "Jällunden",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.010555555,
+                    59.278055555
+                ]
+            },
+            "properties": {
+                "name": "Älvsjö railway station",
+                "article": "https://en.wikipedia.org/wiki/%C3%84lvsj%C3%B6_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.275555555,
+                    57.791944444
+                ]
+            },
+            "properties": {
+                "name": "Huskvarna",
+                "article": "https://en.wikipedia.org/wiki/Huskvarna"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.76276944,
+                    63.73671944
+                ]
+            },
+            "properties": {
+                "name": "Åbosjön",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.093055555,
+                    63.430833333
+                ]
+            },
+            "properties": {
+                "name": "Åreskutan",
+                "article": "https://en.wikipedia.org/wiki/%C3%85reskutan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.88635,
+                    63.61661667
+                ]
+            },
+            "properties": {
+                "name": "Stor-Åskasjön",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.733333333,
+                    56.633333333
+                ]
+            },
+            "properties": {
+                "name": "Åsnen",
+                "article": "https://en.wikipedia.org/wiki/%C3%85snen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.803055555,
+                    58.0025
+                ]
+            },
+            "properties": {
+                "name": "Åsunden Östergötland",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3875,
+                    57.73333333
+                ]
+            },
+            "properties": {
+                "name": "Åsunden",
+                "article": "https://en.wikipedia.org/wiki/%C3%85sunden,_V%C3%A4sterg%C3%B6tland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.050555555,
+                    59.365277777
+                ]
+            },
+            "properties": {
+                "name": "Universitetet railway station",
+                "article": "https://en.wikipedia.org/wiki/Universitetet_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.19563,
+                    55.7053
+                ]
+            },
+            "properties": {
+                "name": "AF-borgen",
+                "article": "https://en.wikipedia.org/wiki/AF_Borgen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.97094167,
+                    63.46470556
+                ]
+            },
+            "properties": {
+                "name": "Ödsbysjön",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.865,
+                    58.75694444
+                ]
+            },
+            "properties": {
+                "name": "Öja",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.92361111,
+                    58.56388889
+                ]
+            },
+            "properties": {
+                "name": "Östen",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.975,
+                    57.441666666
+                ]
+            },
+            "properties": {
+                "name": "Östergarnsholm",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.780833333,
+                    59.797777777
+                ]
+            },
+            "properties": {
+                "name": "Stones of Mora",
+                "article": "https://en.wikipedia.org/wiki/Stones_of_Mora"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.01875,
+                    63.66419722
+                ]
+            },
+            "properties": {
+                "name": "Översjön",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.6756,
+                    63.9098
+                ]
+            },
+            "properties": {
+                "name": "Över-Karpsjön",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.62361111,
+                    68.29722222
+                ]
+            },
+            "properties": {
+                "name": "Abiskojaure",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.068611111,
+                    59.329444444
+                ]
+            },
+            "properties": {
+                "name": "Stockholm",
+                "article": "https://en.wikipedia.org/wiki/Stockholm"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.021423031,
+                    55.593188589
+                ]
+            },
+            "properties": {
+                "name": "Malmö",
+                "article": "https://en.wikipedia.org/wiki/Malm%C3%B6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.273330771,
+                    57.097293156
+                ]
+            },
+            "properties": {
+                "name": "Varberg",
+                "article": "https://en.wikipedia.org/wiki/Varberg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.638946597,
+                    59.849760548
+                ]
+            },
+            "properties": {
+                "name": "Uppsala",
+                "article": "https://en.wikipedia.org/wiki/Uppsala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.144388888,
+                    60.674833333
+                ]
+            },
+            "properties": {
+                "name": "Gävle",
+                "article": "https://en.wikipedia.org/wiki/G%C3%A4vle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.191498303,
+                    65.583820878
+                ]
+            },
+            "properties": {
+                "name": "Luleå",
+                "article": "https://en.wikipedia.org/wiki/Lule%C3%A5"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.013888888,
+                    57.654166666
+                ]
+            },
+            "properties": {
+                "name": "Mölndal",
+                "article": "https://en.wikipedia.org/wiki/M%C3%B6lndal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.418621243,
+                    57.791731009
+                ]
+            },
+            "properties": {
+                "name": "Ulricehamn",
+                "article": "https://en.wikipedia.org/wiki/Ulricehamn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.105876863,
+                    59.422726676
+                ]
+            },
+            "properties": {
+                "name": "Kungsör",
+                "article": "https://en.wikipedia.org/wiki/Kungs%C3%B6r"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.070833333,
+                    59.346388888
+                ]
+            },
+            "properties": {
+                "name": "Stockholm East Station",
+                "article": "https://en.wikipedia.org/wiki/Stockholm_East_Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.06245,
+                    59.31369
+                ]
+            },
+            "properties": {
+                "name": "Stockholms södra",
+                "article": "https://en.wikipedia.org/wiki/Stockholm_South_Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.111111111,
+                    59.066944444
+                ]
+            },
+            "properties": {
+                "name": "Hallsberg railway station",
+                "article": "https://en.wikipedia.org/wiki/Hallsberg_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.497089901,
+                    56.901418059
+                ]
+            },
+            "properties": {
+                "name": "Falkenberg",
+                "article": "https://en.wikipedia.org/wiki/Falkenberg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.496111111,
+                    59.380833333
+                ]
+            },
+            "properties": {
+                "name": "Adelsö",
+                "article": "https://en.wikipedia.org/wiki/Adels%C3%B6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.83333333,
+                    58.23333333
+                ]
+            },
+            "properties": {
+                "name": "Battle of Lena",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Lena"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.634167,
+                    58.413611
+                ]
+            },
+            "properties": {
+                "name": "Battle of Stångebro",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_St%C3%A5ngebro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.377885,
+                    56.112543
+                ]
+            },
+            "properties": {
+                "name": "Ivöleden",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.248055555,
+                    58.360555555
+                ]
+            },
+            "properties": {
+                "name": "Gotska Sandön",
+                "article": "https://en.wikipedia.org/wiki/Gotska_Sand%C3%B6n"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.989166666,
+                    57.695555555
+                ]
+            },
+            "properties": {
+                "name": "Universeum",
+                "article": "https://en.wikipedia.org/wiki/Universeum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.89635278,
+                    63.54656389
+                ]
+            },
+            "properties": {
+                "name": "Agnsjön",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.166666666,
+                    59.591666666
+                ]
+            },
+            "properties": {
+                "name": "Rödlöga",
+                "article": "https://en.wikipedia.org/wiki/R%C3%B6dl%C3%B6ga"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.278614911,
+                    58.304433536
+                ]
+            },
+            "properties": {
+                "name": "Hjo",
+                "article": "https://en.wikipedia.org/wiki/Hjo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.638888888,
+                    59.894444444
+                ]
+            },
+            "properties": {
+                "name": "Gamla Uppsala",
+                "article": "https://en.wikipedia.org/wiki/Gamla_Uppsala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.408333333,
+                    63.983888888
+                ]
+            },
+            "properties": {
+                "name": "Ströms vattudal",
+                "article": "https://en.wikipedia.org/wiki/Str%C3%B6ms_vattudal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.778333333,
+                    65.235833333
+                ]
+            },
+            "properties": {
+                "name": "Storuman Lake",
+                "article": "https://en.wikipedia.org/wiki/Storuman_(lake)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.116666666,
+                    65.716666666
+                ]
+            },
+            "properties": {
+                "name": "Storvindeln",
+                "article": "https://en.wikipedia.org/wiki/Storvindeln_Lake"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.272222222,
+                    59.189722222
+                ]
+            },
+            "properties": {
+                "name": "Årsjön",
+                "article": "https://en.wikipedia.org/wiki/%C3%85rsj%C3%B6n,_Tyresta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.695,
+                    55.905833333
+                ]
+            },
+            "properties": {
+                "name": "Ven",
+                "article": "https://en.wikipedia.org/wiki/Ven_(Sweden)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.500555555,
+                    59.109722222
+                ]
+            },
+            "properties": {
+                "name": "Kymmendö",
+                "article": "https://en.wikipedia.org/wiki/Kymmend%C3%B6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.333333333,
+                    58.05
+                ]
+            },
+            "properties": {
+                "name": "Visingsö",
+                "article": "https://en.wikipedia.org/wiki/Visings%C3%B6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.63210297,
+                    59.85869217
+                ]
+            },
+            "properties": {
+                "name": "Royal Society of Sciences in Uppsala",
+                "article": "https://en.wikipedia.org/wiki/Royal_Society_of_Sciences_in_Uppsala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.131155655,
+                    58.332131056
+                ]
+            },
+            "properties": {
+                "name": "Mjölby",
+                "article": "https://en.wikipedia.org/wiki/Mj%C3%B6lby"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.64083333,
+                    63.69555556
+                ]
+            },
+            "properties": {
+                "name": "Oldfjällen",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.45,
+                    63.866666666
+                ]
+            },
+            "properties": {
+                "name": "Oldfjällen",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5983,
+                    58.4342
+                ]
+            },
+            "properties": {
+                "name": "Battle of Stegeborg",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Stegeborg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.405440637,
+                    65.281884022
+                ]
+            },
+            "properties": {
+                "name": "Hortlax",
+                "article": "https://en.wikipedia.org/wiki/Hortlax"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.63806,
+                    67.15944
+                ]
+            },
+            "properties": {
+                "name": "Tärendöholmen",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.64472222,
+                    59.63055556
+                ]
+            },
+            "properties": {
+                "name": "Anundshög",
+                "article": "https://en.wikipedia.org/wiki/Anundsh%C3%B6g"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.215,
+                    63.4426
+                ]
+            },
+            "properties": {
+                "name": "Anundsjösjön",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.08694444,
+                    59.33416667
+                ]
+            },
+            "properties": {
+                "name": "Apoteket Storken",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.299111111,
+                    57.633719444
+                ]
+            },
+            "properties": {
+                "name": "Battle of Visby",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Visby"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.890833333,
+                    66.455
+                ]
+            },
+            "properties": {
+                "name": "Storsaivis",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.316666666,
+                    63.216666666
+                ]
+            },
+            "properties": {
+                "name": "Storsjön",
+                "article": "https://en.wikipedia.org/wiki/Storsj%C3%B6n"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.054722,
+                    59.3275
+                ]
+            },
+            "properties": {
+                "name": "Stockholm City Hall",
+                "article": "https://en.wikipedia.org/wiki/Stockholm_City_Hall"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.549166666,
+                    67.934166666
+                ]
+            },
+            "properties": {
+                "name": "Q654126",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0417,
+                    59.3306
+                ]
+            },
+            "properties": {
+                "name": "Kungsholmen",
+                "article": "https://en.wikipedia.org/wiki/Kungsholmen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.68047451,
+                    57.495403647
+                ]
+            },
+            "properties": {
+                "name": "Kinna",
+                "article": "https://en.wikipedia.org/wiki/Kinna"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.166666666,
+                    56.666666666
+                ]
+            },
+            "properties": {
+                "name": "Möckeln",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.058094,
+                    59.331995
+                ]
+            },
+            "properties": {
+                "name": "Vasagatan",
+                "article": "https://en.wikipedia.org/wiki/Vasagatan,_Stockholm"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.0544,
+                    55.3827
+                ]
+            },
+            "properties": {
+                "name": "Ale's Stones",
+                "article": "https://en.wikipedia.org/wiki/Ale%27s_Stones"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.31666667,
+                    63.0
+                ]
+            },
+            "properties": {
+                "name": "Battle of Napue",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Napue"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.72,
+                    56.0775
+                ]
+            },
+            "properties": {
+                "name": "Battle of Helsingborg",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Helsingborg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.988888888,
+                    59.372222222
+                ]
+            },
+            "properties": {
+                "name": "Råstasjön",
+                "article": "https://en.wikipedia.org/wiki/R%C3%A5stasj%C3%B6n"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.28333333,
+                    67.13333333
+                ]
+            },
+            "properties": {
+                "name": "Laitaure",
+                "article": "https://en.wikipedia.org/wiki/Laitaure"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.579722222,
+                    67.942222222
+                ]
+            },
+            "properties": {
+                "name": "Kaskasatjåkka",
+                "article": "https://en.wikipedia.org/wiki/Kaskasatj%C3%A5kka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.85694444,
+                    58.40888889
+                ]
+            },
+            "properties": {
+                "name": "Askeby Abbey",
+                "article": "https://en.wikipedia.org/wiki/Askeby_Abbey"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.296111111,
+                    68.815833333
+                ]
+            },
+            "properties": {
+                "name": "Rostojávri",
+                "article": "https://en.wikipedia.org/wiki/Rostoj%C3%A1vri"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0711,
+                    59.3136
+                ]
+            },
+            "properties": {
+                "name": "Södermalm",
+                "article": "https://en.wikipedia.org/wiki/S%C3%B6dermalm"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.400007,
+                    65.600004
+                ]
+            },
+            "properties": {
+                "name": "Lövören",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.186365606,
+                    58.944138339
+                ]
+            },
+            "properties": {
+                "name": "Strömstad",
+                "article": "https://en.wikipedia.org/wiki/Str%C3%B6mstad"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.4,
+                    57.288055555
+                ]
+            },
+            "properties": {
+                "name": "Asträsk, Gotland",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.857324534,
+                    57.70788425
+                ]
+            },
+            "properties": {
+                "name": "Asunden",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.523064841,
+                    58.526759218
+                ]
+            },
+            "properties": {
+                "name": "Karlsborg",
+                "article": "https://en.wikipedia.org/wiki/Karlsborg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.1863,
+                    55.7067
+                ]
+            },
+            "properties": {
+                "name": "Lund Central Station",
+                "article": "https://en.wikipedia.org/wiki/Lund_Central_Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.466666666,
+                    62.4
+                ]
+            },
+            "properties": {
+                "name": "Alnön",
+                "article": "https://en.wikipedia.org/wiki/Aln%C3%B6n"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.027777777,
+                    59.321111111
+                ]
+            },
+            "properties": {
+                "name": "Långholmen",
+                "article": "https://en.wikipedia.org/wiki/L%C3%A5ngholmen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.088284,
+                    59.971233
+                ]
+            },
+            "properties": {
+                "name": "Q787892",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.37777222,
+                    63.64921389
+                ]
+            },
+            "properties": {
+                "name": "Norra Bergsjön",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.073624,
+                    59.332396
+                ]
+            },
+            "properties": {
+                "name": "Berns Salonger",
+                "article": "https://en.wikipedia.org/wiki/Berns_salonger"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.116666666,
+                    59.325
+                ]
+            },
+            "properties": {
+                "name": "Djurgården",
+                "article": "https://en.wikipedia.org/wiki/Djurg%C3%A5rden"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.06658889,
+                    59.28867778
+                ]
+            },
+            "properties": {
+                "name": "Enskede gård",
+                "article": "https://en.wikipedia.org/wiki/Enskede_g%C3%A5rd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.06233333,
+                    59.33525
+                ]
+            },
+            "properties": {
+                "name": "Kungsgatan",
+                "article": "https://en.wikipedia.org/wiki/Kungsgatan,_Stockholm"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.14083333,
+                    57.45472222
+                ]
+            },
+            "properties": {
+                "name": "Paviken",
+                "article": "https://en.wikipedia.org/wiki/Paviken"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.07,
+                    59.33333333
+                ]
+            },
+            "properties": {
+                "name": "Hamngatan",
+                "article": "https://en.wikipedia.org/wiki/Hamngatan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.906957059,
+                    59.660456097
+                ]
+            },
+            "properties": {
+                "name": "Furusund",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.5,
+                    66.233333333
+                ]
+            },
+            "properties": {
+                "name": "Hornavan",
+                "article": "https://en.wikipedia.org/wiki/Hornavan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.084166666,
+                    59.325833333
+                ]
+            },
+            "properties": {
+                "name": "Skeppsholmen",
+                "article": "https://en.wikipedia.org/wiki/Skeppsholmen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.563544209,
+                    61.009614244
+                ]
+            },
+            "properties": {
+                "name": "Mora",
+                "article": "https://en.wikipedia.org/wiki/Mora,_Sweden"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.883333333,
+                    57.766666666
+                ]
+            },
+            "properties": {
+                "name": "Hisingen",
+                "article": "https://en.wikipedia.org/wiki/Hisingen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.40805556,
+                    59.00166667
+                ]
+            },
+            "properties": {
+                "name": "Björnerödspiggen",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.17196,
+                    60.37091
+                ]
+            },
+            "properties": {
+                "name": "Gudsberga",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.9941,
+                    55.6052
+                ]
+            },
+            "properties": {
+                "name": "Annellska huset",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.999,
+                    55.6048
+                ]
+            },
+            "properties": {
+                "name": "Faxeska huset",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.780269,
+                    57.695158
+                ]
+            },
+            "properties": {
+                "name": "Bogeviken",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.780694444,
+                    57.695277777
+                ]
+            },
+            "properties": {
+                "name": "Bogeviken",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.07645,
+                    59.32932222
+                ]
+            },
+            "properties": {
+                "name": "Bolinder Palace",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.733611111,
+                    56.961944444
+                ]
+            },
+            "properties": {
+                "name": "Bolmsö",
+                "article": "https://en.wikipedia.org/wiki/Bolms%C3%B6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.666666666,
+                    56.916666666
+                ]
+            },
+            "properties": {
+                "name": "Bolmen",
+                "article": "https://en.wikipedia.org/wiki/Bolmen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.697876187,
+                    56.878739889
+                ]
+            },
+            "properties": {
+                "name": "Borgholm",
+                "article": "https://en.wikipedia.org/wiki/Borgholm"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.063055555,
+                    59.325
+                ]
+            },
+            "properties": {
+                "name": "Riddarholmen",
+                "article": "https://en.wikipedia.org/wiki/Riddarholmen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.59083333,
+                    58.26805556
+                ]
+            },
+            "properties": {
+                "name": "Ekornavallen",
+                "article": "https://en.wikipedia.org/wiki/Ekornavallen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.576921233,
+                    56.196001685
+                ]
+            },
+            "properties": {
+                "name": "Höganäs",
+                "article": "https://en.wikipedia.org/wiki/H%C3%B6gan%C3%A4s"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0697,
+                    59.3279
+                ]
+            },
+            "properties": {
+                "name": "Helgeandsholmen",
+                "article": "https://en.wikipedia.org/wiki/Helgeandsholmen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.07233333,
+                    59.32508333
+                ]
+            },
+            "properties": {
+                "name": "Köpmangatan",
+                "article": "https://en.wikipedia.org/wiki/K%C3%B6pmangatan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.175,
+                    58.986666666
+                ]
+            },
+            "properties": {
+                "name": "Älvsnabben",
+                "article": "https://en.wikipedia.org/wiki/%C3%84lvsnabben"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.194027777,
+                    55.70525
+                ]
+            },
+            "properties": {
+                "name": "Kungshuset",
+                "article": "https://en.wikipedia.org/wiki/Kungshuset"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.333333333,
+                    62.416666666
+                ]
+            },
+            "properties": {
+                "name": "Q943244",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.507777777,
+                    56.919444444
+                ]
+            },
+            "properties": {
+                "name": "Falkenberg railway station",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.833333333,
+                    65.966666666
+                ]
+            },
+            "properties": {
+                "name": "Uddjaure",
+                "article": "https://en.wikipedia.org/wiki/Uddjaure"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.750555555,
+                    56.163333333
+                ]
+            },
+            "properties": {
+                "name": "Elleholm",
+                "article": "https://en.wikipedia.org/wiki/Elleholm"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.835,
+                    55.393888888
+                ]
+            },
+            "properties": {
+                "name": "Falsterbo",
+                "article": "https://en.wikipedia.org/wiki/Falsterbo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.633333333,
+                    58.166666666
+                ]
+            },
+            "properties": {
+                "name": "Orust",
+                "article": "https://en.wikipedia.org/wiki/Orust"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.283333333,
+                    65.916666666
+                ]
+            },
+            "properties": {
+                "name": "Norra Storfjället",
+                "article": "https://en.wikipedia.org/wiki/Norra_Storfj%C3%A4llet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.04,
+                    59.36805556
+                ]
+            },
+            "properties": {
+                "name": "Brunnsviken",
+                "article": "https://en.wikipedia.org/wiki/Brunnsviken"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.541666666,
+                    63.191666666
+                ]
+            },
+            "properties": {
+                "name": "Frösön",
+                "article": "https://en.wikipedia.org/wiki/Fr%C3%B6s%C3%B6n"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.5667,
+                    58.8
+                ]
+            },
+            "properties": {
+                "name": "Bullaresjöarna",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.15,
+                    57.933333333
+                ]
+            },
+            "properties": {
+                "name": "Fårö",
+                "article": "https://en.wikipedia.org/wiki/F%C3%A5r%C3%B6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.5875,
+                    58.67444444
+                ]
+            },
+            "properties": {
+                "name": "Earnaness",
+                "article": "https://en.wikipedia.org/wiki/Earnaness"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.777894781,
+                    57.615455765
+                ]
+            },
+            "properties": {
+                "name": "Styrsö",
+                "article": "https://en.wikipedia.org/wiki/Styrs%C3%B6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.157999165,
+                    58.419026965
+                ]
+            },
+            "properties": {
+                "name": "Tibro",
+                "article": "https://en.wikipedia.org/wiki/Tibro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.06467222,
+                    59.32529444
+                ]
+            },
+            "properties": {
+                "name": "Hessensteinska palatset",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2525,
+                    63.385277777
+                ]
+            },
+            "properties": {
+                "name": "Näldsjön",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.562234965,
+                    67.093890507
+                ]
+            },
+            "properties": {
+                "name": "Dundret",
+                "article": "https://en.wikipedia.org/wiki/Dundret"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.683333333,
+                    60.533333333
+                ]
+            },
+            "properties": {
+                "name": "Runn",
+                "article": "https://en.wikipedia.org/wiki/Runn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.45,
+                    64.41527778
+                ]
+            },
+            "properties": {
+                "name": "Bygdeträsket",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.361035,
+                    55.338268
+                ]
+            },
+            "properties": {
+                "name": "Q1019316",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.9375,
+                    59.01666667
+                ]
+            },
+            "properties": {
+                "name": "Båven",
+                "article": "https://en.wikipedia.org/wiki/B%C3%A5ven"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.8725,
+                    62.740555555
+                ]
+            },
+            "properties": {
+                "name": "Börtnen",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.55,
+                    57.5
+                ]
+            },
+            "properties": {
+                "name": "Gotland",
+                "article": "https://en.wikipedia.org/wiki/Gotland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.004166666,
+                    59.325
+                ]
+            },
+            "properties": {
+                "name": "Lilla Essingen",
+                "article": "https://en.wikipedia.org/wiki/Lilla_Essingen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.988888888,
+                    59.321111111
+                ]
+            },
+            "properties": {
+                "name": "Stora Essingen",
+                "article": "https://en.wikipedia.org/wiki/Stora_Essingen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.020833333,
+                    59.318333333
+                ]
+            },
+            "properties": {
+                "name": "Reimersholme",
+                "article": "https://en.wikipedia.org/wiki/Reimersholme"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.089444,
+                    59.322222
+                ]
+            },
+            "properties": {
+                "name": "Kastellholmen",
+                "article": "https://en.wikipedia.org/wiki/Kastellholmen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.062875,
+                    59.33411389
+                ]
+            },
+            "properties": {
+                "name": "Hötorgshallen",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.174722222,
+                    62.055277777
+                ]
+            },
+            "properties": {
+                "name": "Svegssjön",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.040833333,
+                    63.358888888
+                ]
+            },
+            "properties": {
+                "name": "Alsensjön",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0637807,
+                    59.3368768
+                ]
+            },
+            "properties": {
+                "name": "Tunnelgatan",
+                "article": "https://en.wikipedia.org/wiki/Tunnelgatan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.284444444,
+                    59.228055555
+                ]
+            },
+            "properties": {
+                "name": "Albysjön",
+                "article": "https://en.wikipedia.org/wiki/Albysj%C3%B6n_(Tyres%C3%B6)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.568055555,
+                    67.479722222
+                ]
+            },
+            "properties": {
+                "name": "Vásstenjávrre",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.73571389,
+                    60.89834167
+                ]
+            },
+            "properties": {
+                "name": "Granberget",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.48611111,
+                    67.91944444
+                ]
+            },
+            "properties": {
+                "name": "Drakryggen",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.739532,
+                    57.343013
+                ]
+            },
+            "properties": {
+                "name": "Skärsjön",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.131388888,
+                    62.800555555
+                ]
+            },
+            "properties": {
+                "name": "Storsjön",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.620277777,
+                    62.786666666
+                ]
+            },
+            "properties": {
+                "name": "Flåsjön",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.15,
+                    57.18333333
+                ]
+            },
+            "properties": {
+                "name": "Fegen",
+                "article": "https://en.wikipedia.org/wiki/Fegen_(lake)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.06667,
+                    63.51667
+                ]
+            },
+            "properties": {
+                "name": "Q1278740",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.110216168,
+                    57.496024296
+                ]
+            },
+            "properties": {
+                "name": "Svenljunga",
+                "article": "https://en.wikipedia.org/wiki/Svenljunga"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.0166667,
+                    57.0666667
+                ]
+            },
+            "properties": {
+                "name": "Vidöstern",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.56042222,
+                    63.30293889
+                ]
+            },
+            "properties": {
+                "name": "Själevadsfjärden",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.232478,
+                    56.087982
+                ]
+            },
+            "properties": {
+                "name": "Herrevad Abbey",
+                "article": "https://en.wikipedia.org/wiki/Herrevad_Abbey"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.03833333,
+                    59.32722222
+                ]
+            },
+            "properties": {
+                "name": "Norr Mälarstrand",
+                "article": "https://en.wikipedia.org/wiki/Norr_M%C3%A4larstrand"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4,
+                    56.119444444
+                ]
+            },
+            "properties": {
+                "name": "Ivö",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.83333333,
+                    64.125
+                ]
+            },
+            "properties": {
+                "name": "Flåsjön",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.51666667,
+                    67.87222222
+                ]
+            },
+            "properties": {
+                "name": "Q1378753",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.29461,
+                    55.923372
+                ]
+            },
+            "properties": {
+                "name": "Kungsstugan",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.74648889,
+                    63.51120278
+                ]
+            },
+            "properties": {
+                "name": "Skalmsjösjön",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.913166666,
+                    57.788666666
+                ]
+            },
+            "properties": {
+                "name": "Fardume lake",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.1311,
+                    65.7091
+                ]
+            },
+            "properties": {
+                "name": "Kataja",
+                "article": "https://en.wikipedia.org/wiki/Kataja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.96666667,
+                    56.23333333
+                ]
+            },
+            "properties": {
+                "name": "Kallsjön",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.9164,
+                    60.0951
+                ]
+            },
+            "properties": {
+                "name": "Q1422474",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.0,
+                    63.61666667
+                ]
+            },
+            "properties": {
+                "name": "Kallsjön",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.073888888,
+                    62.467222222
+                ]
+            },
+            "properties": {
+                "name": "Myckelmyrberget",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.19833333,
+                    67.1675
+                ]
+            },
+            "properties": {
+                "name": "Skierfe",
+                "article": "https://en.wikipedia.org/wiki/Skierfe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.20972222,
+                    67.16527778
+                ]
+            },
+            "properties": {
+                "name": "Skierfe",
+                "article": "https://en.wikipedia.org/wiki/Skierfe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.153317,
+                    56.028884
+                ]
+            },
+            "properties": {
+                "name": "Fornstugan i Tivoliparken",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.7938044,
+                    57.2521142
+                ]
+            },
+            "properties": {
+                "name": "Blå Jungfrun",
+                "article": "https://en.wikipedia.org/wiki/Bl%C3%A5_Jungfrun"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.8086,
+                    59.3297
+                ]
+            },
+            "properties": {
+                "name": "Lovö vattenverk",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.15,
+                    58.666666666
+                ]
+            },
+            "properties": {
+                "name": "Kållandsö",
+                "article": "https://en.wikipedia.org/wiki/K%C3%A5llands%C3%B6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.21678,
+                    57.600269
+                ]
+            },
+            "properties": {
+                "name": "Fridhem",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.05383,
+                    59.51595
+                ]
+            },
+            "properties": {
+                "name": "Arkils tingstad",
+                "article": "https://en.wikipedia.org/wiki/Arkils_tingstad"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.61194444,
+                    60.91277778
+                ]
+            },
+            "properties": {
+                "name": "Sollerön",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5718,
+                    56.5365
+                ]
+            },
+            "properties": {
+                "name": "Q1471842",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.45,
+                    60.383333333
+                ]
+            },
+            "properties": {
+                "name": "Gräsö",
+                "article": "https://en.wikipedia.org/wiki/Gr%C3%A4s%C3%B6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.76666667,
+                    56.96666667
+                ]
+            },
+            "properties": {
+                "name": "Helgasjön",
+                "article": "https://en.wikipedia.org/wiki/Helgasj%C3%B6n"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.015277777,
+                    57.768611111
+                ]
+            },
+            "properties": {
+                "name": "Furillen",
+                "article": "https://en.wikipedia.org/wiki/Furillen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.759789,
+                    57.41242
+                ]
+            },
+            "properties": {
+                "name": "Vallsjön",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.58861111,
+                    55.68083333
+                ]
+            },
+            "properties": {
+                "name": "Vombsjön",
+                "article": "https://en.wikipedia.org/wiki/Vombsj%C3%B6n"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.42028,
+                    57.73361
+                ]
+            },
+            "properties": {
+                "name": "Q1479245",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.118407035,
+                    58.701967
+                ]
+            },
+            "properties": {
+                "name": "Töreboda",
+                "article": "https://en.wikipedia.org/wiki/T%C3%B6reboda"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.550277777,
+                    57.784166666
+                ]
+            },
+            "properties": {
+                "name": "Galtåsen",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.805833333,
+                    61.878333333
+                ]
+            },
+            "properties": {
+                "name": "Q1494424",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.60614167,
+                    63.562325
+                ]
+            },
+            "properties": {
+                "name": "Gensjösjön",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.233888888,
+                    55.6825
+                ]
+            },
+            "properties": {
+                "name": "The King's Grave",
+                "article": "https://en.wikipedia.org/wiki/The_King%27s_Grave"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.959644151,
+                    58.622401926
+                ]
+            },
+            "properties": {
+                "name": "Glan",
+                "article": "https://en.wikipedia.org/wiki/Glan_(lake)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.633333333,
+                    58.016666666
+                ]
+            },
+            "properties": {
+                "name": "Tjörn",
+                "article": "https://en.wikipedia.org/wiki/Tj%C3%B6rn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.721111,
+                    55.806111
+                ]
+            },
+            "properties": {
+                "name": "Hörby transmitter",
+                "article": "https://en.wikipedia.org/wiki/H%C3%B6rby_transmitter"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1075,
+                    62.596388888
+                ]
+            },
+            "properties": {
+                "name": "Lännässjön",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.40833333,
+                    57.89138889
+                ]
+            },
+            "properties": {
+                "name": "Mjörn",
+                "article": "https://en.wikipedia.org/wiki/Mj%C3%B6rn_(lake)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.566666666,
+                    59.409722222
+                ]
+            },
+            "properties": {
+                "name": "Grinda",
+                "article": "https://en.wikipedia.org/wiki/Grinda"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.43416389,
+                    56.387825
+                ]
+            },
+            "properties": {
+                "name": "Gettlinge grave field",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.817439,
+                    57.78398
+                ]
+            },
+            "properties": {
+                "name": "Domarlunden",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.6573,
+                    57.3291
+                ]
+            },
+            "properties": {
+                "name": "Gålrums grave field",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4611,
+                    56.1685
+                ]
+            },
+            "properties": {
+                "name": "Hjortahammars grave field",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.09888889,
+                    57.36611111
+                ]
+            },
+            "properties": {
+                "name": "Q1552425",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.09563,
+                    58.98619
+                ]
+            },
+            "properties": {
+                "name": "Gullspång",
+                "article": "https://en.wikipedia.org/wiki/Gullsp%C3%A5ng"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.06233333,
+                    59.33525
+                ]
+            },
+            "properties": {
+                "name": "Götgatan",
+                "article": "https://en.wikipedia.org/wiki/G%C3%B6tgatan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.7603,
+                    48.3359
+                ]
+            },
+            "properties": {
+                "name": "Battle of Wittenweiher",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Wittenweiher"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.085629165,
+                    57.90662988
+                ]
+            },
+            "properties": {
+                "name": "Habo",
+                "article": "https://en.wikipedia.org/wiki/Habo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.763888888,
+                    59.623611111
+                ]
+            },
+            "properties": {
+                "name": "Ängsö National Park",
+                "article": "https://en.wikipedia.org/wiki/%C3%84ngs%C3%B6_National_Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.25277778,
+                    58.54722222
+                ]
+            },
+            "properties": {
+                "name": "Hamburgö",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.666666666,
+                    58.516666666
+                ]
+            },
+            "properties": {
+                "name": "Roxen",
+                "article": "https://en.wikipedia.org/wiki/Roxen_(lake)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.845833333,
+                    56.010277777
+                ]
+            },
+            "properties": {
+                "name": "Hanö",
+                "article": "https://en.wikipedia.org/wiki/Han%C3%B6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.520125,
+                    63.343025
+                ]
+            },
+            "properties": {
+                "name": "Happstafjärden",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.01666667,
+                    58.25694444
+                ]
+            },
+            "properties": {
+                "name": "Harstena",
+                "article": "https://en.wikipedia.org/wiki/Harstena"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.44997,
+                    56.34699
+                ]
+            },
+            "properties": {
+                "name": "Q1598940",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.680435,
+                    59.278511
+                ]
+            },
+            "properties": {
+                "name": "Helgö",
+                "article": "https://en.wikipedia.org/wiki/Helg%C3%B6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.960061111,
+                    59.461211111
+                ]
+            },
+            "properties": {
+                "name": "Uppland Runic Inscription 100",
+                "article": "https://en.wikipedia.org/wiki/Uppland_Runic_Inscription_100"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.534668,
+                    56.5613744
+                ]
+            },
+            "properties": {
+                "name": "Törn",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.60222222,
+                    59.39833333
+                ]
+            },
+            "properties": {
+                "name": "Alsters herrgård",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.26472222,
+                    58.24777778
+                ]
+            },
+            "properties": {
+                "name": "Almnäs Castle",
+                "article": "https://en.wikipedia.org/wiki/Almn%C3%A4s_Castle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.38638889,
+                    58.61944444
+                ]
+            },
+            "properties": {
+                "name": "Hellekis säteri",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.023758787,
+                    58.07519983
+                ]
+            },
+            "properties": {
+                "name": "Herrljunga",
+                "article": "https://en.wikipedia.org/wiki/Herrljunga"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.69583333,
+                    56.04694444
+                ]
+            },
+            "properties": {
+                "name": "Hotell Mollberg",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.55,
+                    58.316666666
+                ]
+            },
+            "properties": {
+                "name": "Lake Hornborga",
+                "article": "https://en.wikipedia.org/wiki/Lake_Hornborga"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.95194444,
+                    57.19388889
+                ]
+            },
+            "properties": {
+                "name": "Hornsjön",
+                "article": "https://en.wikipedia.org/wiki/Hornsj%C3%B6n"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.383333333,
+                    62.316666666
+                ]
+            },
+            "properties": {
+                "name": "Rogen",
+                "article": "https://en.wikipedia.org/wiki/Rogen_(lake)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.068611111,
+                    59.329444444
+                ]
+            },
+            "properties": {
+                "name": "Battle of Brunkeberg",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Brunkeberg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.160024109,
+                    58.027879105
+                ]
+            },
+            "properties": {
+                "name": "Lödöse",
+                "article": "https://en.wikipedia.org/wiki/L%C3%B6d%C3%B6se"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.964603,
+                    63.449117
+                ]
+            },
+            "properties": {
+                "name": "Hällberget",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.67973611,
+                    63.49972222
+                ]
+            },
+            "properties": {
+                "name": "Hällvattnet",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.03333333,
+                    56.38333333
+                ]
+            },
+            "properties": {
+                "name": "Q1643483",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.649711717,
+                    57.690967419
+                ]
+            },
+            "properties": {
+                "name": "Hönö",
+                "article": "https://en.wikipedia.org/wiki/H%C3%B6n%C3%B6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.60818611,
+                    63.30876667
+                ]
+            },
+            "properties": {
+                "name": "Svarttjärnen",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.204375,
+                    55.711737
+                ]
+            },
+            "properties": {
+                "name": "Gamla vattentornet, Lund",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3781,
+                    58.7806
+                ]
+            },
+            "properties": {
+                "name": "Q1652259",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.8901633,
+                    57.9297363
+                ]
+            },
+            "properties": {
+                "name": "Ingetorpssjön",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.69833333,
+                    68.3725
+                ]
+            },
+            "properties": {
+                "name": "Njullá",
+                "article": "https://en.wikipedia.org/wiki/Nuolja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.406166,
+                    56.137468
+                ]
+            },
+            "properties": {
+                "name": "Q1675865",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.416666666,
+                    56.083333333
+                ]
+            },
+            "properties": {
+                "name": "Ivö Lake",
+                "article": "https://en.wikipedia.org/wiki/Iv%C3%B6_Lake"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.526925,
+                    56.441545
+                ]
+            },
+            "properties": {
+                "name": "Q1679348",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.07055556,
+                    59.32444444
+                ]
+            },
+            "properties": {
+                "name": "Skomakargatan",
+                "article": "https://en.wikipedia.org/wiki/Skomakargatan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0834,
+                    59.310625
+                ]
+            },
+            "properties": {
+                "name": "Katarina Bangata",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.059027777,
+                    59.39825
+                ]
+            },
+            "properties": {
+                "name": "Djursholms Ösby railway station",
+                "article": "https://en.wikipedia.org/wiki/Djursholms_%C3%96sby_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.73361111,
+                    63.88166667
+                ]
+            },
+            "properties": {
+                "name": "Q1734351",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.22416667,
+                    59.25861111
+                ]
+            },
+            "properties": {
+                "name": "Mariefred Charterhouse",
+                "article": "https://en.wikipedia.org/wiki/Mariefred_Charterhouse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.625,
+                    56.775
+                ]
+            },
+            "properties": {
+                "name": "Karums alvar",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.62579444,
+                    56.77561111
+                ]
+            },
+            "properties": {
+                "name": "Karums alvar",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.5403,
+                    63.7583
+                ]
+            },
+            "properties": {
+                "name": "Oldsjön",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.176944444,
+                    58.015833333
+                ]
+            },
+            "properties": {
+                "name": "Sommen",
+                "article": "https://en.wikipedia.org/wiki/Sommen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.416666666,
+                    59.066666666
+                ]
+            },
+            "properties": {
+                "name": "Ornö",
+                "article": "https://en.wikipedia.org/wiki/Orn%C3%B6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.33641,
+                    58.69995
+                ]
+            },
+            "properties": {
+                "name": "Rock Carvings in Tanum",
+                "article": "https://en.wikipedia.org/wiki/Rock_Carvings_in_Tanum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.60614167,
+                    63.562325
+                ]
+            },
+            "properties": {
+                "name": "Myckelgensjösjön",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7676,
+                    68.4623
+                ]
+            },
+            "properties": {
+                "name": "Leinavatn",
+                "article": "https://en.wikipedia.org/wiki/Leinavatnet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.439444444,
+                    66.066388888
+                ]
+            },
+            "properties": {
+                "name": "Gresvatnet",
+                "article": "https://en.wikipedia.org/wiki/Gresvatnet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.45709,
+                    66.05951
+                ]
+            },
+            "properties": {
+                "name": "Gresvatnet",
+                "article": "https://en.wikipedia.org/wiki/Gresvatnet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.057222,
+                    64.103611
+                ]
+            },
+            "properties": {
+                "name": "Rengen",
+                "article": "https://en.wikipedia.org/wiki/Rengen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9749,
+                    64.0269
+                ]
+            },
+            "properties": {
+                "name": "Kingen",
+                "article": "https://en.wikipedia.org/wiki/Kingen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.96882,
+                    68.04399
+                ]
+            },
+            "properties": {
+                "name": "Båvrojávrre",
+                "article": "https://en.wikipedia.org/wiki/B%C3%A5vroj%C3%A1vrre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.968888888,
+                    68.044027777
+                ]
+            },
+            "properties": {
+                "name": "Båvrojávrre",
+                "article": "https://en.wikipedia.org/wiki/B%C3%A5vroj%C3%A1vrre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.3635,
+                    68.1116
+                ]
+            },
+            "properties": {
+                "name": "Kjårdavatnet",
+                "article": "https://en.wikipedia.org/wiki/Tj%C3%A5rdavatnet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.220284,
+                    56.685088
+                ]
+            },
+            "properties": {
+                "name": "Q1777318",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2667,
+                    58.8167
+                ]
+            },
+            "properties": {
+                "name": "Battle of Älgarås",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_%C3%84lgar%C3%A5s"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.6975,
+                    56.048333333
+                ]
+            },
+            "properties": {
+                "name": "Kärnan",
+                "article": "https://en.wikipedia.org/wiki/K%C3%A4rnan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0825,
+                    59.326388888
+                ]
+            },
+            "properties": {
+                "name": "Skeppsholmen Church",
+                "article": "https://en.wikipedia.org/wiki/Skeppsholmen_Church"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.06388889,
+                    59.32527778
+                ]
+            },
+            "properties": {
+                "name": "Stenbockska Palatset",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.062596,
+                    59.336505
+                ]
+            },
+            "properties": {
+                "name": "Sveavägen",
+                "article": "https://en.wikipedia.org/wiki/Sveav%C3%A4gen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.06388889,
+                    58.54138889
+                ]
+            },
+            "properties": {
+                "name": "Charlottenborg Castle",
+                "article": "https://en.wikipedia.org/wiki/Charlottenborg_manor_house"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.19526,
+                    55.70203
+                ]
+            },
+            "properties": {
+                "name": "Krognoshuset",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.27615,
+                    63.82061
+                ]
+            },
+            "properties": {
+                "name": "Umeå Arts Campus",
+                "article": "https://en.wikipedia.org/wiki/Ume%C3%A5_Arts_Campus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.652,
+                    58.18
+                ]
+            },
+            "properties": {
+                "name": "Battle of Åsle",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_%C3%85sle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.48,
+                    59.38
+                ]
+            },
+            "properties": {
+                "name": "Q1795305",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.069972,
+                    59.324417
+                ]
+            },
+            "properties": {
+                "name": "Västerlånggatan",
+                "article": "https://en.wikipedia.org/wiki/V%C3%A4sterl%C3%A5nggatan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.05805556,
+                    59.35388889
+                ]
+            },
+            "properties": {
+                "name": "AlbaNova",
+                "article": "https://en.wikipedia.org/wiki/AlbaNova"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0661,
+                    59.3178
+                ]
+            },
+            "properties": {
+                "name": "Van der Nootska Palace",
+                "article": "https://en.wikipedia.org/wiki/Van_der_Nootska_Palace"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.89222222,
+                    65.75972222
+                ]
+            },
+            "properties": {
+                "name": "Pitkäkari",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.08416667,
+                    65.63805556
+                ]
+            },
+            "properties": {
+                "name": "Olnilsbrottet",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.44194444,
+                    65.68583333
+                ]
+            },
+            "properties": {
+                "name": "Tvegränaören",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.22027778,
+                    65.88277778
+                ]
+            },
+            "properties": {
+                "name": "Q1812337",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.12166667,
+                    65.61527778
+                ]
+            },
+            "properties": {
+                "name": "Sarven Riskilö",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2167,
+                    55.975
+                ]
+            },
+            "properties": {
+                "name": "Hammarsjön",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.17353,
+                    61.60816
+                ]
+            },
+            "properties": {
+                "name": "Ulvsjön",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.62194444,
+                    65.57111111
+                ]
+            },
+            "properties": {
+                "name": "Storgrundet",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.88555556,
+                    68.42666667
+                ]
+            },
+            "properties": {
+                "name": "Q1815511",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.5367,
+                    65.492
+                ]
+            },
+            "properties": {
+                "name": "Stor-Brändön",
+                "article": "https://en.wikipedia.org/wiki/Stor-Br%C3%A4nd%C3%B6n"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.87527778,
+                    67.65527778
+                ]
+            },
+            "properties": {
+                "name": "Q1817286",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.9375,
+                    65.888611111
+                ]
+            },
+            "properties": {
+                "name": "Lulholmen",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.088688503,
+                    59.375074698
+                ]
+            },
+            "properties": {
+                "name": "Tranholmen",
+                "article": "https://en.wikipedia.org/wiki/Tranholmen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.48722222,
+                    67.66638889
+                ]
+            },
+            "properties": {
+                "name": "Q1820522",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.07111111,
+                    65.72722222
+                ]
+            },
+            "properties": {
+                "name": "Hyyppä",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.87388889,
+                    66.59583333
+                ]
+            },
+            "properties": {
+                "name": "Q1876964",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.73278,
+                    66.94333
+                ]
+            },
+            "properties": {
+                "name": "Q1877059",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.49777778,
+                    65.77166667
+                ]
+            },
+            "properties": {
+                "name": "Franska stenarna",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.222222222,
+                    67.875
+                ]
+            },
+            "properties": {
+                "name": "Luossavaara",
+                "article": "https://en.wikipedia.org/wiki/Luossavaara"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.07722222,
+                    68.22416667
+                ]
+            },
+            "properties": {
+                "name": "Q1877730",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.130555555,
+                    60.991666666
+                ]
+            },
+            "properties": {
+                "name": "Q1877744",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.911637,
+                    65.740714
+                ]
+            },
+            "properties": {
+                "name": "Rånön",
+                "article": "https://en.wikipedia.org/wiki/R%C3%A5n%C3%B6n"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.69138889,
+                    65.50111111
+                ]
+            },
+            "properties": {
+                "name": "Mjoön",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.80416667,
+                    65.67888889
+                ]
+            },
+            "properties": {
+                "name": "Puukkonkrunni",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.94583333,
+                    66.01
+                ]
+            },
+            "properties": {
+                "name": "Q1880921",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.97416667,
+                    65.7275
+                ]
+            },
+            "properties": {
+                "name": "Svallgrundet",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.82194,
+                    66.21667
+                ]
+            },
+            "properties": {
+                "name": "Q1881699",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.885,
+                    65.7425
+                ]
+            },
+            "properties": {
+                "name": "Malungsgrundet",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7251,
+                    67.8141
+                ]
+            },
+            "properties": {
+                "name": "Holmajärvi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.72361111,
+                    65.745
+                ]
+            },
+            "properties": {
+                "name": "Följet",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.37138889,
+                    65.76972222
+                ]
+            },
+            "properties": {
+                "name": "Binnören",
+                "article": "https://en.wikipedia.org/wiki/Binn%C3%B6ren"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.372,
+                    65.77
+                ]
+            },
+            "properties": {
+                "name": "Binnören",
+                "article": "https://en.wikipedia.org/wiki/Binn%C3%B6ren"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.82055556,
+                    65.70388889
+                ]
+            },
+            "properties": {
+                "name": "Hällhamskatagrynnorna",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.25,
+                    65.76667
+                ]
+            },
+            "properties": {
+                "name": "Blåbärgrundet",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.243611111,
+                    65.771666666
+                ]
+            },
+            "properties": {
+                "name": "Blåbärgrundet",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.52666667,
+                    65.77333333
+                ]
+            },
+            "properties": {
+                "name": "Hästgrunden",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.19999722,
+                    67.51666667
+                ]
+            },
+            "properties": {
+                "name": "Q1823124",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.51388889,
+                    65.32777778
+                ]
+            },
+            "properties": {
+                "name": "Grytan",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.16138889,
+                    66.46361111
+                ]
+            },
+            "properties": {
+                "name": "Q1824843",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.60638889,
+                    65.36888889
+                ]
+            },
+            "properties": {
+                "name": "Sandön",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.907061,
+                    57.272176
+                ]
+            },
+            "properties": {
+                "name": "Q1825160",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.063030943,
+                    57.312699206
+                ]
+            },
+            "properties": {
+                "name": "Lilla Karlsö",
+                "article": "https://en.wikipedia.org/wiki/Lilla_Karls%C3%B6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.1919059,
+                    63.009068
+                ]
+            },
+            "properties": {
+                "name": "Q1825232",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.215,
+                    66.66361111
+                ]
+            },
+            "properties": {
+                "name": "Yttre Lansjärv",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.49361111,
+                    65.365
+                ]
+            },
+            "properties": {
+                "name": "Rävagrundet",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.04305556,
+                    65.50777778
+                ]
+            },
+            "properties": {
+                "name": "Lill-Furuholmen",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.41638889,
+                    65.54027778
+                ]
+            },
+            "properties": {
+                "name": "Kälkholmen",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.74194444,
+                    65.69694444
+                ]
+            },
+            "properties": {
+                "name": "Pihjalakari",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.066666666,
+                    65.871388888
+                ]
+            },
+            "properties": {
+                "name": "Q1839161",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.1026,
+                    59.3286
+                ]
+            },
+            "properties": {
+                "name": "Skånska gruvan",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.13138889,
+                    65.61666667
+                ]
+            },
+            "properties": {
+                "name": "Kraaselikrunni",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.975833333,
+                    55.562694444
+                ]
+            },
+            "properties": {
+                "name": "Hyllie railway station",
+                "article": "https://en.wikipedia.org/wiki/Hyllie_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.75416667,
+                    65.79027778
+                ]
+            },
+            "properties": {
+                "name": "Storfårögrynnan",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.04888889,
+                    65.75111111
+                ]
+            },
+            "properties": {
+                "name": "Revelholmen",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.90528,
+                    65.91861
+                ]
+            },
+            "properties": {
+                "name": "Q1849470",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.42361111,
+                    68.20944444
+                ]
+            },
+            "properties": {
+                "name": "Luovaara",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5525,
+                    61.081944444
+                ]
+            },
+            "properties": {
+                "name": "Orsa Lake",
+                "article": "https://en.wikipedia.org/wiki/Orsa_Lake"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.64999722,
+                    67.68333056
+                ]
+            },
+            "properties": {
+                "name": "Q1851450",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.006388888,
+                    65.503888888
+                ]
+            },
+            "properties": {
+                "name": "Halsön",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.72855,
+                    65.480387
+                ]
+            },
+            "properties": {
+                "name": "Småskär",
+                "article": "https://en.wikipedia.org/wiki/Sm%C3%A5sk%C3%A4r"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.10444444,
+                    67.91555556
+                ]
+            },
+            "properties": {
+                "name": "Q1852695",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.166666666,
+                    66.833333333
+                ]
+            },
+            "properties": {
+                "name": "Ikesjaure",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.82277778,
+                    65.63055556
+                ]
+            },
+            "properties": {
+                "name": "Husören",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.96667,
+                    65.41667
+                ]
+            },
+            "properties": {
+                "name": "Lill-Hamnskäret",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.96444444,
+                    65.42
+                ]
+            },
+            "properties": {
+                "name": "Lill-Hamnskäret",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.65222222,
+                    65.76194444
+                ]
+            },
+            "properties": {
+                "name": "Yttre Västantillgrundet",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.18166667,
+                    65.75833333
+                ]
+            },
+            "properties": {
+                "name": "Hamnholmen",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.18861111,
+                    65.73361111
+                ]
+            },
+            "properties": {
+                "name": "Truten",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.06638889,
+                    65.97388889
+                ]
+            },
+            "properties": {
+                "name": "Q1860184",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.88555556,
+                    65.6875
+                ]
+            },
+            "properties": {
+                "name": "Kaxen",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.75666667,
+                    68.44472222
+                ]
+            },
+            "properties": {
+                "name": "Q1863111",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5225,
+                    65.78444444
+                ]
+            },
+            "properties": {
+                "name": "Kallvikskäret",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.54916667,
+                    65.68055556
+                ]
+            },
+            "properties": {
+                "name": "Fjuksökallarna",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.55,
+                    65.68333
+                ]
+            },
+            "properties": {
+                "name": "Fjuksökallarna",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.358742151,
+                    57.483805247
+                ]
+            },
+            "properties": {
+                "name": "Tranemo",
+                "article": "https://en.wikipedia.org/wiki/Tranemo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.9,
+                    65.666666666
+                ]
+            },
+            "properties": {
+                "name": "Lilla Huvön",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.97416667,
+                    65.7275
+                ]
+            },
+            "properties": {
+                "name": "Lilla Huvön",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.8525,
+                    66.34583
+                ]
+            },
+            "properties": {
+                "name": "Q1865414",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.37944444,
+                    68.04194444
+                ]
+            },
+            "properties": {
+                "name": "Q1866145",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.56333333,
+                    65.78166667
+                ]
+            },
+            "properties": {
+                "name": "Svartören",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.78888889,
+                    65.16972222
+                ]
+            },
+            "properties": {
+                "name": "Lillrevet",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.8,
+                    65.166666666
+                ]
+            },
+            "properties": {
+                "name": "Lillrevet",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.79305556,
+                    65.78611111
+                ]
+            },
+            "properties": {
+                "name": "Ol-Knuts",
+                "article": "https://en.wikipedia.org/wiki/Ol-Knuts"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.78833333,
+                    65.61555556
+                ]
+            },
+            "properties": {
+                "name": "Eva",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.635997,
+                    59.858148
+                ]
+            },
+            "properties": {
+                "name": "Gallery London",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.44722222,
+                    65.79083333
+                ]
+            },
+            "properties": {
+                "name": "Risön-Ångören",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.38694444,
+                    65.84527778
+                ]
+            },
+            "properties": {
+                "name": "Flakaskäret",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.84277778,
+                    65.79361111
+                ]
+            },
+            "properties": {
+                "name": "Bodörsreven",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.59972222,
+                    65.21111111
+                ]
+            },
+            "properties": {
+                "name": "Klinten",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.7625,
+                    67.47972
+                ]
+            },
+            "properties": {
+                "name": "Q1873184",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.77722,
+                    66.10806
+                ]
+            },
+            "properties": {
+                "name": "Q1875454",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.65638889,
+                    65.6
+                ]
+            },
+            "properties": {
+                "name": "Tärngrundet",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.72388889,
+                    65.74638889
+                ]
+            },
+            "properties": {
+                "name": "Ristikari",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.46583333,
+                    67.4425
+                ]
+            },
+            "properties": {
+                "name": "Aareavaara",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.10361111,
+                    65.63666667
+                ]
+            },
+            "properties": {
+                "name": "Sellingssundet",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.08944444,
+                    65.78722222
+                ]
+            },
+            "properties": {
+                "name": "Yli Penno",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.70611,
+                    67.48111
+                ]
+            },
+            "properties": {
+                "name": "Q1892134",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.02055556,
+                    65.41361111
+                ]
+            },
+            "properties": {
+                "name": "Stor-Kunoögrund",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.35138889,
+                    65.63083333
+                ]
+            },
+            "properties": {
+                "name": "Björkön",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8181,
+                    68.0421
+                ]
+            },
+            "properties": {
+                "name": "Njuotjan Lake",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.81861111,
+                    68.04444444
+                ]
+            },
+            "properties": {
+                "name": "Njuotjan Lake",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.74972222,
+                    65.28555556
+                ]
+            },
+            "properties": {
+                "name": "Koskäret",
+                "article": null
+            }
+        }
+    ]
+}

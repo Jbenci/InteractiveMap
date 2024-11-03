@@ -1,0 +1,1405 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    91.416666666,
+                    53.716666666
+                ]
+            },
+            "properties": {
+                "name": "Abakan",
+                "article": "https://en.wikipedia.org/wiki/Abakan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    61.4,
+                    55.15
+                ]
+            },
+            "properties": {
+                "name": "Chelyabinsk",
+                "article": "https://en.wikipedia.org/wiki/Chelyabinsk"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.885277777,
+                    43.115
+                ]
+            },
+            "properties": {
+                "name": "Vladivostok",
+                "article": "https://en.wikipedia.org/wiki/Vladivostok"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.416666666,
+                    53.516666666
+                ]
+            },
+            "properties": {
+                "name": "Tolyatti",
+                "article": "https://en.wikipedia.org/wiki/Tolyatti"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.083333333,
+                    44.6
+                ]
+            },
+            "properties": {
+                "name": "Maykop",
+                "article": "https://en.wikipedia.org/wiki/Maykop"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.505,
+                    42.9825
+                ]
+            },
+            "properties": {
+                "name": "Makhachkala",
+                "article": "https://en.wikipedia.org/wiki/Makhachkala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    50.5,
+                    42.0
+                ]
+            },
+            "properties": {
+                "name": "Caspian Sea",
+                "article": "https://en.wikipedia.org/wiki/Caspian_Sea"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    108.00472222,
+                    53.30277778
+                ]
+            },
+            "properties": {
+                "name": "Lake Baikal",
+                "article": "https://en.wikipedia.org/wiki/Lake_Baikal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.733333333,
+                    54.433333333
+                ]
+            },
+            "properties": {
+                "name": "Vištytis",
+                "article": "https://en.wikipedia.org/wiki/Vi%C5%A1tytis_(lake)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.066666666,
+                    55.333333333
+                ]
+            },
+            "properties": {
+                "name": "Kemerovo",
+                "article": "https://en.wikipedia.org/wiki/Kemerovo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.3,
+                    52.283333333
+                ]
+            },
+            "properties": {
+                "name": "Irkutsk",
+                "article": "https://en.wikipedia.org/wiki/Irkutsk"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.122892,
+                    59.56841
+                ]
+            },
+            "properties": {
+                "name": "Gatchina",
+                "article": "https://en.wikipedia.org/wiki/Gatchina"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    143.0,
+                    50.5
+                ]
+            },
+            "properties": {
+                "name": "Sakhalin",
+                "article": "https://en.wikipedia.org/wiki/Sakhalin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.5,
+                    58.233333333
+                ]
+            },
+            "properties": {
+                "name": "Battle of the Ice",
+                "article": "https://en.wikipedia.org/wiki/Battle_on_the_Ice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.10691,
+                    59.569307
+                ]
+            },
+            "properties": {
+                "name": "White Lake",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.459722222,
+                    60.842777777
+                ]
+            },
+            "properties": {
+                "name": "Lake Ladoga",
+                "article": "https://en.wikipedia.org/wiki/Lake_Ladoga"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.29972223,
+                    59.9638889
+                ]
+            },
+            "properties": {
+                "name": "Gatchinskaya Street",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.166666666,
+                    44.866666666
+                ]
+            },
+            "properties": {
+                "name": "Abinsk",
+                "article": "https://en.wikipedia.org/wiki/Abinsk"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.0,
+                    44.933333333
+                ]
+            },
+            "properties": {
+                "name": "Krymsk",
+                "article": "https://en.wikipedia.org/wiki/Krymsk"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.491666666,
+                    58.676666666
+                ]
+            },
+            "properties": {
+                "name": "Lake Peipus",
+                "article": "https://en.wikipedia.org/wiki/Lake_Peipus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.309961,
+                    44.89619
+                ]
+            },
+            "properties": {
+                "name": "Gorgippia",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.05,
+                    54.56666667
+                ]
+            },
+            "properties": {
+                "name": "Great stand on the Ugra river",
+                "article": "https://en.wikipedia.org/wiki/Great_Stand_on_the_Ugra_River"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.43,
+                    54.56
+                ]
+            },
+            "properties": {
+                "name": "Battle of Krasnoi",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Krasnoi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.256388888,
+                    59.938611111
+                ]
+            },
+            "properties": {
+                "name": "Vasilyevsky Island",
+                "article": "https://en.wikipedia.org/wiki/Vasilyevsky_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.426388888,
+                    42.666666666
+                ]
+            },
+            "properties": {
+                "name": "Matveev Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.505,
+                    42.970277777
+                ]
+            },
+            "properties": {
+                "name": "Rabbit Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.174722222,
+                    55.806388888
+                ]
+            },
+            "properties": {
+                "name": "Novatorlar",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.167777777,
+                    55.777777777
+                ]
+            },
+            "properties": {
+                "name": "Ämät",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.9,
+                    43.216666666
+                ]
+            },
+            "properties": {
+                "name": "Skrebtsov island",
+                "article": "https://en.wikipedia.org/wiki/Skrebtsov_island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.456944444,
+                    42.923611111
+                ]
+            },
+            "properties": {
+                "name": "Sidorov Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.446111111,
+                    42.832222222
+                ]
+            },
+            "properties": {
+                "name": "Antipenko Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.445277777,
+                    42.806944444
+                ]
+            },
+            "properties": {
+                "name": "Sibiryakov Island",
+                "article": "https://en.wikipedia.org/wiki/Sibiryakov_Island_(Primorsky_Krai)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.359722222,
+                    42.670833333
+                ]
+            },
+            "properties": {
+                "name": "Durnovo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.465277777,
+                    42.913888888
+                ]
+            },
+            "properties": {
+                "name": "Gerasimov Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.365277777,
+                    42.693055555
+                ]
+            },
+            "properties": {
+                "name": "Island de Livrona",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.352777777,
+                    42.681944444
+                ]
+            },
+            "properties": {
+                "name": "Hildebrandt Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.7442,
+                    60.7092
+                ]
+            },
+            "properties": {
+                "name": "Siege of Vyborg",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.163861111,
+                    55.764916666
+                ]
+            },
+            "properties": {
+                "name": "Ämät metro",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.112694444,
+                    55.762611111
+                ]
+            },
+            "properties": {
+                "name": "Waxit",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.080555555,
+                    55.8425
+                ]
+            },
+            "properties": {
+                "name": "Wastaniä",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.182972222,
+                    55.822055555
+                ]
+            },
+            "properties": {
+                "name": "Kompressornyj",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.0,
+                    44.166666666
+                ]
+            },
+            "properties": {
+                "name": "Mezmaiskaya cave",
+                "article": "https://en.wikipedia.org/wiki/Mezmaiskaya_cave"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.100833333,
+                    55.788055555
+                ]
+            },
+            "properties": {
+                "name": "Kazan I",
+                "article": "https://en.wikipedia.org/wiki/Kazan_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.516666666,
+                    48.7
+                ]
+            },
+            "properties": {
+                "name": "Battle of Stalingrad",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Stalingrad"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.437875,
+                    43.35254
+                ]
+            },
+            "properties": {
+                "name": "Mount Elbrus",
+                "article": "https://en.wikipedia.org/wiki/Mount_Elbrus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    58.4681,
+                    51.229
+                ]
+            },
+            "properties": {
+                "name": "Orsk",
+                "article": "https://en.wikipedia.org/wiki/Orsk"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.217225,
+                    54.5937
+                ]
+            },
+            "properties": {
+                "name": "Ayukul",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    56.058333333,
+                    54.775555555
+                ]
+            },
+            "properties": {
+                "name": "Kashkadan",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.400458333,
+                    79.118097222
+                ]
+            },
+            "properties": {
+                "name": "Ostryj Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    161.362966666,
+                    56.653633333
+                ]
+            },
+            "properties": {
+                "name": "Shiveluch",
+                "article": "https://en.wikipedia.org/wiki/Shiveluch"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.475,
+                    75.805555555
+                ]
+            },
+            "properties": {
+                "name": "Usuk-Karga",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.19625,
+                    55.853666666
+                ]
+            },
+            "properties": {
+                "name": "Därwişlär",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    90.083333333,
+                    52.65
+                ]
+            },
+            "properties": {
+                "name": "Abaza",
+                "article": "https://en.wikipedia.org/wiki/Abaza_(town)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    53.65,
+                    53.683333333
+                ]
+            },
+            "properties": {
+                "name": "Abdulino",
+                "article": "https://en.wikipedia.org/wiki/Abdulino"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    53.933333333,
+                    55.9
+                ]
+            },
+            "properties": {
+                "name": "Agidel",
+                "article": "https://en.wikipedia.org/wiki/Agidel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -179.4,
+                    71.233333333
+                ]
+            },
+            "properties": {
+                "name": "Wrangel Island",
+                "article": "https://en.wikipedia.org/wiki/Wrangel_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    142.85,
+                    49.684722222
+                ]
+            },
+            "properties": {
+                "name": "Yelniki-Sakhalinskiye",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.994166666,
+                    61.786666666
+                ]
+            },
+            "properties": {
+                "name": "Shotozero",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.894174,
+                    55.816096
+                ]
+            },
+            "properties": {
+                "name": "Yüdin",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    152.516666666,
+                    47.333333333
+                ]
+            },
+            "properties": {
+                "name": "Ketoy",
+                "article": "https://en.wikipedia.org/wiki/Ketoy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    87.819166666,
+                    49.145833333
+                ]
+            },
+            "properties": {
+                "name": "Tavan Bogd",
+                "article": "https://en.wikipedia.org/wiki/Tavan_Bogd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.916666666,
+                    65.9
+                ]
+            },
+            "properties": {
+                "name": "Keret",
+                "article": "https://en.wikipedia.org/wiki/Lake_Keret"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.2,
+                    54.6
+                ]
+            },
+            "properties": {
+                "name": "Battle of Gumbinnen",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Gumbinnen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.573333333,
+                    54.630555555
+                ]
+            },
+            "properties": {
+                "name": "Battle of Stallupönen",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Stallup%C3%B6nen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.24361111,
+                    59.92416667
+                ]
+            },
+            "properties": {
+                "name": "Kozhevennaya Line",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.466666666,
+                    57.65
+                ]
+            },
+            "properties": {
+                "name": "Demyansk Pocket",
+                "article": "https://en.wikipedia.org/wiki/Demyansk_Pocket"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.655555555,
+                    61.690555555
+                ]
+            },
+            "properties": {
+                "name": "Lake Onega",
+                "article": "https://en.wikipedia.org/wiki/Lake_Onega"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.433888888,
+                    67.718611111
+                ]
+            },
+            "properties": {
+                "name": "Yudychvumchorr",
+                "article": "https://en.wikipedia.org/wiki/Yudychvumchorr"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.733333333,
+                    53.15
+                ]
+            },
+            "properties": {
+                "name": "Nikolayevsk-on-Amur",
+                "article": "https://en.wikipedia.org/wiki/Nikolayevsk-on-Amur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.253343,
+                    66.689441
+                ]
+            },
+            "properties": {
+                "name": "Mangazeya",
+                "article": "https://en.wikipedia.org/wiki/Mangazeya"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.639444444,
+                    43.963611111
+                ]
+            },
+            "properties": {
+                "name": "Novopavlovsk",
+                "article": "https://en.wikipedia.org/wiki/Novopavlovsk"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.05,
+                    49.0
+                ]
+            },
+            "properties": {
+                "name": "Obluchye",
+                "article": "https://en.wikipedia.org/wiki/Obluchye,_Jewish_Autonomous_Oblast"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.616666666,
+                    55.1
+                ]
+            },
+            "properties": {
+                "name": "Obninsk",
+                "article": "https://en.wikipedia.org/wiki/Obninsk"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.65416667,
+                    55.775
+                ]
+            },
+            "properties": {
+                "name": "Komsomolskaya Square",
+                "article": "https://en.wikipedia.org/wiki/Komsomolskaya_Square_(Moscow)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.1,
+                    54.866666666
+                ]
+            },
+            "properties": {
+                "name": "Polessk",
+                "article": "https://en.wikipedia.org/wiki/Polessk"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.85202,
+                    58.06853
+                ]
+            },
+            "properties": {
+                "name": "Battle of the Sit River",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_the_Sit_River"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.816666666,
+                    55.516666666
+                ]
+            },
+            "properties": {
+                "name": "Battle of Borodino",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Borodino"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.25,
+                    55.0
+                ]
+            },
+            "properties": {
+                "name": "Bering Island",
+                "article": "https://en.wikipedia.org/wiki/Bering_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.55,
+                    53.816666666
+                ]
+            },
+            "properties": {
+                "name": "Skopin",
+                "article": "https://en.wikipedia.org/wiki/Skopin,_Russia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    62.1554,
+                    57.3424
+                ]
+            },
+            "properties": {
+                "name": "Pisany Stone",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.579722222,
+                    51.987777777
+                ]
+            },
+            "properties": {
+                "name": "Lake Chukchagirskoye",
+                "article": "https://en.wikipedia.org/wiki/Lake_Chukchagir"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.916666666,
+                    62.333333333
+                ]
+            },
+            "properties": {
+                "name": "Vodlozero",
+                "article": "https://en.wikipedia.org/wiki/Lake_Vodlozero"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.416666666,
+                    45.016666666
+                ]
+            },
+            "properties": {
+                "name": "Khanka",
+                "article": "https://en.wikipedia.org/wiki/Lake_Khanka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.575555555,
+                    42.862777777
+                ]
+            },
+            "properties": {
+                "name": "Ruy Mountain",
+                "article": "https://en.wikipedia.org/wiki/Ruy_(mountain)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.283333333,
+                    58.266666666
+                ]
+            },
+            "properties": {
+                "name": "Ilmen",
+                "article": "https://en.wikipedia.org/wiki/Lake_Ilmen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.216666666,
+                    62.083333333
+                ]
+            },
+            "properties": {
+                "name": "Kizhi",
+                "article": "https://en.wikipedia.org/wiki/Kizhi_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    59.55,
+                    70.016666666
+                ]
+            },
+            "properties": {
+                "name": "Vaygach Island",
+                "article": "https://en.wikipedia.org/wiki/Vaygach_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.518888888,
+                    42.696944444
+                ]
+            },
+            "properties": {
+                "name": "Mount Kazbek",
+                "article": "https://en.wikipedia.org/wiki/Mount_Kazbek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    160.633333333,
+                    56.066666666
+                ]
+            },
+            "properties": {
+                "name": "Klyuchevskaya Sopka",
+                "article": "https://en.wikipedia.org/wiki/Klyuchevskaya_Sopka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    142.758333333,
+                    48.5725
+                ]
+            },
+            "properties": {
+                "name": "Porech'ye",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    142.497777777,
+                    48.025277777
+                ]
+            },
+            "properties": {
+                "name": "Q211079",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.0,
+                    72.0
+                ]
+            },
+            "properties": {
+                "name": "Yuzhny Island",
+                "article": "https://en.wikipedia.org/wiki/Yuzhny_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.216666666,
+                    59.05
+                ]
+            },
+            "properties": {
+                "name": "Vyalye",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.095833333,
+                    59.255555555
+                ]
+            },
+            "properties": {
+                "name": "Orlinskoe",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.11907,
+                    59.56005
+                ]
+            },
+            "properties": {
+                "name": "Chyornoe Lake",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.116388888,
+                    59.564444444
+                ]
+            },
+            "properties": {
+                "name": "Admiralty",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.089696,
+                    55.838046
+                ]
+            },
+            "properties": {
+                "name": "Gagarin Street",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.031014,
+                    55.866816
+                ]
+            },
+            "properties": {
+                "name": "Belomorskaya Street",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    143.055555555,
+                    75.113888888
+                ]
+            },
+            "properties": {
+                "name": "Kotordyr",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.869444444,
+                    74.8
+                ]
+            },
+            "properties": {
+                "name": "Posadny",
+                "article": null
+            }
+        }
+    ]
+}

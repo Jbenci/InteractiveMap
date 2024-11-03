@@ -1,0 +1,2861 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.638333333,
+                    44.173333333
+                ]
+            },
+            "properties": {
+                "name": "Constanța",
+                "article": "https://en.wikipedia.org/wiki/Constan%C8%9Ba"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.559444444,
+                    46.78
+                ]
+            },
+            "properties": {
+                "name": "Cluj-Napoca",
+                "article": "https://en.wikipedia.org/wiki/Cluj-Napoca"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.63,
+                    47.6
+                ]
+            },
+            "properties": {
+                "name": "Pietrosul Rodnei",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.571944444,
+                    47.656666666
+                ]
+            },
+            "properties": {
+                "name": "Baia Mare",
+                "article": "https://en.wikipedia.org/wiki/Baia_Mare"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.82222222,
+                    45.34611111
+                ]
+            },
+            "properties": {
+                "name": "Q302019",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.47111,
+                    44.81944
+                ]
+            },
+            "properties": {
+                "name": "Q338318",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.45,
+                    44.716666666
+                ]
+            },
+            "properties": {
+                "name": "Ada Kaleh",
+                "article": "https://en.wikipedia.org/wiki/Ada_Kaleh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.350833333,
+                    46.163888888
+                ]
+            },
+            "properties": {
+                "name": "Mediaș",
+                "article": "https://en.wikipedia.org/wiki/Media%C8%99"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.064722222,
+                    46.673055555
+                ]
+            },
+            "properties": {
+                "name": "Huși",
+                "article": "https://en.wikipedia.org/wiki/Hu%C8%99i"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.53861111,
+                    45.58416667
+                ]
+            },
+            "properties": {
+                "name": "Q396955",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.919166666,
+                    47.8425
+                ]
+            },
+            "properties": {
+                "name": "Rădăuți",
+                "article": "https://en.wikipedia.org/wiki/R%C4%83d%C4%83u%C8%9Bi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.916666666,
+                    45.516666666
+                ]
+            },
+            "properties": {
+                "name": "Ciucaș Mountains",
+                "article": "https://en.wikipedia.org/wiki/Ciuca%C8%99_Mountains"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.9264,
+                    45.5217
+                ]
+            },
+            "properties": {
+                "name": "Ciucaș Mountains",
+                "article": "https://en.wikipedia.org/wiki/Ciuca%C8%99_Mountains"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.8,
+                    46.75
+                ]
+            },
+            "properties": {
+                "name": "Vlădeasa Mountains",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.22361,
+                    47.18056
+                ]
+            },
+            "properties": {
+                "name": "Porolissum",
+                "article": "https://en.wikipedia.org/wiki/Porolissum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.4564,
+                    45.4458
+                ]
+            },
+            "properties": {
+                "name": "Omu Peak",
+                "article": "https://en.wikipedia.org/wiki/Omu_Peak"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.733333333,
+                    45.430555555
+                ]
+            },
+            "properties": {
+                "name": "Vidra Lake",
+                "article": "https://en.wikipedia.org/wiki/Vidra_Lake"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.3233,
+                    46.2567
+                ]
+            },
+            "properties": {
+                "name": "Nemira",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.323628,
+                    46.256092
+                ]
+            },
+            "properties": {
+                "name": "Nemira",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.06,
+                    45.38
+                ]
+            },
+            "properties": {
+                "name": "Râmnicu Sărat",
+                "article": "https://en.wikipedia.org/wiki/R%C3%A2mnicu_S%C4%83rat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0836,
+                    44.45261
+                ]
+            },
+            "properties": {
+                "name": "BRD Tower Bucharest",
+                "article": "https://en.wikipedia.org/wiki/BRD_Tower_Bucharest"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0976,
+                    44.43981
+                ]
+            },
+            "properties": {
+                "name": "Central University Library of Bucharest",
+                "article": "https://en.wikipedia.org/wiki/Central_University_Library,_Bucharest"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.833333333,
+                    44.583333333
+                ]
+            },
+            "properties": {
+                "name": "Lake Sinoe",
+                "article": "https://en.wikipedia.org/wiki/Lake_Sinoe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.883333333,
+                    44.633333333
+                ]
+            },
+            "properties": {
+                "name": "Lake Sinoe",
+                "article": "https://en.wikipedia.org/wiki/Lake_Sinoe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.1406,
+                    44.4486
+                ]
+            },
+            "properties": {
+                "name": "Bucharest Obor",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.6,
+                    44.246388888
+                ]
+            },
+            "properties": {
+                "name": "Lake Siutghiol",
+                "article": "https://en.wikipedia.org/wiki/Lake_Siutghiol"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.09221,
+                    44.41567
+                ]
+            },
+            "properties": {
+                "name": "Filaret Station",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.074208,
+                    44.446367
+                ]
+            },
+            "properties": {
+                "name": "Bucharest North railway station",
+                "article": "https://en.wikipedia.org/wiki/Bucharest_North_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.59291,
+                    45.6341687
+                ]
+            },
+            "properties": {
+                "name": "Tâmpa, Brașov",
+                "article": "https://en.wikipedia.org/wiki/T%C3%A2mpa_(Bra%C8%99ov)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.581111111,
+                    45.604166666
+                ]
+            },
+            "properties": {
+                "name": "Vânătoarea lui Buteanu",
+                "article": "https://en.wikipedia.org/wiki/V%C3%A2n%C4%83tarea_lui_Buteanu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.31027778,
+                    45.62277778
+                ]
+            },
+            "properties": {
+                "name": "Sarmizegetusa Regia",
+                "article": "https://en.wikipedia.org/wiki/Sarmizegetusa_Regia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.373333333,
+                    45.412222222
+                ]
+            },
+            "properties": {
+                "name": "Petroșani",
+                "article": "https://en.wikipedia.org/wiki/Petro%C8%99ani"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.736211111,
+                    45.599438888
+                ]
+            },
+            "properties": {
+                "name": "Moldoveanu Peak",
+                "article": "https://en.wikipedia.org/wiki/Moldoveanu_Peak"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.59,
+                    46.72
+                ]
+            },
+            "properties": {
+                "name": "Gheorgheni",
+                "article": "https://en.wikipedia.org/wiki/Gheorgheni"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.3525,
+                    44.030833333
+                ]
+            },
+            "properties": {
+                "name": "Băilești",
+                "article": "https://en.wikipedia.org/wiki/B%C4%83ile%C8%99ti"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.9211,
+                    47.1185
+                ]
+            },
+            "properties": {
+                "name": "Kornis Castle",
+                "article": "https://en.wikipedia.org/wiki/Kornis_Castle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5727,
+                    46.0679
+                ]
+            },
+            "properties": {
+                "name": "Castrum Apulum",
+                "article": "https://en.wikipedia.org/wiki/Apulum_(castra)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.5820219,
+                    46.4530719
+                ]
+            },
+            "properties": {
+                "name": "Harghita Mădăraș",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.58178,
+                    46.45338
+                ]
+            },
+            "properties": {
+                "name": "Harghita Mădăraș",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.593458831,
+                    46.768695292
+                ]
+            },
+            "properties": {
+                "name": "Toldalagi-Korda Palace, Cluj-Napoca",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.960278,
+                    46.613611
+                ]
+            },
+            "properties": {
+                "name": "Becheci",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0,
+                    46.033333333
+                ]
+            },
+            "properties": {
+                "name": "Bodoc Mountains",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.96666667,
+                    45.71666667
+                ]
+            },
+            "properties": {
+                "name": "Q833152",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.13869444,
+                    45.37916667
+                ]
+            },
+            "properties": {
+                "name": "Dinogetia",
+                "article": "https://en.wikipedia.org/wiki/Dinogetia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.45027778,
+                    46.03916667
+                ]
+            },
+            "properties": {
+                "name": "Cerbia",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.875,
+                    45.358333333
+                ]
+            },
+            "properties": {
+                "name": "Bucura Lake",
+                "article": "https://en.wikipedia.org/wiki/Bucura_Lake"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.590178,
+                    46.767387
+                ]
+            },
+            "properties": {
+                "name": "Clădire monument, str. Universității 10",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.87833,
+                    46.4175
+                ]
+            },
+            "properties": {
+                "name": "Bözödi Lake",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.4977,
+                    45.406169444
+                ]
+            },
+            "properties": {
+                "name": "Caraiman Peak",
+                "article": "https://en.wikipedia.org/wiki/Caraiman_Peak"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.870083333,
+                    47.759194444
+                ]
+            },
+            "properties": {
+                "name": "Palenica58",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.857555555,
+                    47.766444444
+                ]
+            },
+            "properties": {
+                "name": "Komanova",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.881583333,
+                    47.746194444
+                ]
+            },
+            "properties": {
+                "name": "Mount Hnatasya",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.822777777,
+                    47.807138888
+                ]
+            },
+            "properties": {
+                "name": "Koman",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.822777777,
+                    47.807138888
+                ]
+            },
+            "properties": {
+                "name": "Purulia",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.85805556,
+                    45.69083333
+                ]
+            },
+            "properties": {
+                "name": "Cinciș Lake",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.88,
+                    46.13
+                ]
+            },
+            "properties": {
+                "name": "Ciomadul",
+                "article": "https://en.wikipedia.org/wiki/Ciomadul"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.900928,
+                    46.966971
+                ]
+            },
+            "properties": {
+                "name": "Lacul Știucilor",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.49055556,
+                    46.37777778
+                ]
+            },
+            "properties": {
+                "name": "Q876112",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.540833333,
+                    45.340277777
+                ]
+            },
+            "properties": {
+                "name": "Parângu Mare",
+                "article": "https://en.wikipedia.org/wiki/Par%C3%A2ngu_Mare"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.3708558,
+                    46.9918309
+                ]
+            },
+            "properties": {
+                "name": "Toplița",
+                "article": "https://en.wikipedia.org/wiki/Topli%C8%9Ba"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.833347,
+                    45.016731
+                ]
+            },
+            "properties": {
+                "name": "Peștera cu Oase",
+                "article": "https://en.wikipedia.org/wiki/Pe%C8%99tera_cu_Oase"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.473472222,
+                    47.9635
+                ]
+            },
+            "properties": {
+                "name": "Neniska Velyka",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.2075,
+                    45.751111111
+                ]
+            },
+            "properties": {
+                "name": "Timișoara Nord railway station",
+                "article": "https://en.wikipedia.org/wiki/Timi%C8%99oara_North_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5925,
+                    46.7677
+                ]
+            },
+            "properties": {
+                "name": "Academic College",
+                "article": "https://en.wikipedia.org/wiki/Academic_College_(Cluj-Napoca)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.59583333,
+                    46.76805556
+                ]
+            },
+            "properties": {
+                "name": "Strada Mihail Kogălniceanu",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.3,
+                    46.5
+                ]
+            },
+            "properties": {
+                "name": "Q1029107",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.7869,
+                    46.78931
+                ]
+            },
+            "properties": {
+                "name": "Red Lake",
+                "article": "https://en.wikipedia.org/wiki/Red_Lake_(Romania)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.587005372,
+                    46.780432003
+                ]
+            },
+            "properties": {
+                "name": "Horea Street Reformed Church",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.736111111,
+                    45.602777777
+                ]
+            },
+            "properties": {
+                "name": "Vistea Mare",
+                "article": "https://en.wikipedia.org/wiki/Vi%C8%99tea_Mare"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.5583064,
+                    45.5849453
+                ]
+            },
+            "properties": {
+                "name": "Negoiu Peak",
+                "article": "https://en.wikipedia.org/wiki/Negoiu_Peak"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.95414,
+                    45.4762
+                ]
+            },
+            "properties": {
+                "name": "Iezer Mountains",
+                "article": "https://en.wikipedia.org/wiki/Iezer_Mountains"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.287222222,
+                    47.133055555
+                ]
+            },
+            "properties": {
+                "name": "Izvorul Călimanului",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.56527778,
+                    46.54222222
+                ]
+            },
+            "properties": {
+                "name": "Kendeffy Palace",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.93527778,
+                    46.08333333
+                ]
+            },
+            "properties": {
+                "name": "Kő möge",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.774722,
+                    44.5475
+                ]
+            },
+            "properties": {
+                "name": "Histria",
+                "article": "https://en.wikipedia.org/wiki/Histria_(ancient_city)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.77472222,
+                    44.5475
+                ]
+            },
+            "properties": {
+                "name": "Histria",
+                "article": "https://en.wikipedia.org/wiki/Histria_(ancient_city)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.8066839,
+                    46.7040719
+                ]
+            },
+            "properties": {
+                "name": "Q1213906",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.80081,
+                    46.07731
+                ]
+            },
+            "properties": {
+                "name": "Murgul Mare",
+                "article": "https://en.wikipedia.org/wiki/Murgul_Mare"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.8006,
+                    46.0786
+                ]
+            },
+            "properties": {
+                "name": "Murgul Mare",
+                "article": "https://en.wikipedia.org/wiki/Murgul_Mare"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.51667,
+                    45.03333
+                ]
+            },
+            "properties": {
+                "name": "Q1226034",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.591069,
+                    46.7694246
+                ]
+            },
+            "properties": {
+                "name": "Pataki-Teleki House",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.894444444,
+                    45.366111111
+                ]
+            },
+            "properties": {
+                "name": "Peleaga",
+                "article": "https://en.wikipedia.org/wiki/Peleaga"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5885558,
+                    46.7729702
+                ]
+            },
+            "properties": {
+                "name": "Q1239706",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5893953,
+                    46.7625459
+                ]
+            },
+            "properties": {
+                "name": "Historical building in 41 Republicii street, Cluj-Napoca",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.95871667,
+                    45.83092778
+                ]
+            },
+            "properties": {
+                "name": "Q1253091",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5900122,
+                    46.7686732
+                ]
+            },
+            "properties": {
+                "name": "Sebestyén Palace, Cluj-Napoca",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5904226,
+                    46.7701191
+                ]
+            },
+            "properties": {
+                "name": "Palatele Status-ului romano-catolic",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.58772,
+                    46.44643
+                ]
+            },
+            "properties": {
+                "name": "Piatra Secuiului",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.587719444,
+                    46.446430555
+                ]
+            },
+            "properties": {
+                "name": "Piatra Secuiului",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.29559,
+                    46.30173
+                ]
+            },
+            "properties": {
+                "name": "Liceul Teoretic „Tamási Áron”",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5875714,
+                    46.7700676
+                ]
+            },
+            "properties": {
+                "name": "Q1317734",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.561583,
+                    46.545359
+                ]
+            },
+            "properties": {
+                "name": "Toldalagi Palace, Târgu Mureș",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.58666667,
+                    46.76944444
+                ]
+            },
+            "properties": {
+                "name": "Strada Memorandumului",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.14389,
+                    46.8697
+                ]
+            },
+            "properties": {
+                "name": "Varjúvár",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.25,
+                    46.16667
+                ]
+            },
+            "properties": {
+                "name": "Q1466800",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.633333333,
+                    44.041666666
+                ]
+            },
+            "properties": {
+                "name": "Lake Techirghiol",
+                "article": "https://en.wikipedia.org/wiki/Lake_Techirghiol"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.228444,
+                    45.758554
+                ]
+            },
+            "properties": {
+                "name": "House with Lions, Timișoara",
+                "article": "https://en.wikipedia.org/wiki/House_with_Lions"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.4,
+                    44.16667
+                ]
+            },
+            "properties": {
+                "name": "Romula",
+                "article": "https://en.wikipedia.org/wiki/Romula"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.097143,
+                    44.435082
+                ]
+            },
+            "properties": {
+                "name": "National Military Club",
+                "article": "https://en.wikipedia.org/wiki/Palace_of_the_National_Military_Circle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.087302777,
+                    44.452897222
+                ]
+            },
+            "properties": {
+                "name": "Victoria Palace",
+                "article": "https://en.wikipedia.org/wiki/Victoria_Palace"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.40472222,
+                    45.71083333
+                ]
+            },
+            "properties": {
+                "name": "Măgura Codlei",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.41667,
+                    45.71667
+                ]
+            },
+            "properties": {
+                "name": "Măgura Codlei",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.09034111,
+                    44.43791694
+                ]
+            },
+            "properties": {
+                "name": "Lake Cișmigiu",
+                "article": "https://en.wikipedia.org/wiki/Lake_Ci%C8%99migiu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.221944444,
+                    45.421388888
+                ]
+            },
+            "properties": {
+                "name": "Battle of Karánsebes",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Kar%C3%A1nsebes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.564972222,
+                    47.969222222
+                ]
+            },
+            "properties": {
+                "name": "Hora Stih",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.583333,
+                    46.6
+                ]
+            },
+            "properties": {
+                "name": "Romanian Army offensive in Transylvania in 1916",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Transylvania"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.7881,
+                    45.5158
+                ]
+            },
+            "properties": {
+                "name": "Ulpia Traiana Sarmizegetusa",
+                "article": "https://en.wikipedia.org/wiki/Ulpia_Traiana_Sarmizegetusa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.08207,
+                    44.47532
+                ]
+            },
+            "properties": {
+                "name": "Lake Herăstrău",
+                "article": "https://en.wikipedia.org/wiki/Lake_Her%C4%83str%C4%83u"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.098075,
+                    44.43552778
+                ]
+            },
+            "properties": {
+                "name": "Casa Capșa",
+                "article": "https://en.wikipedia.org/wiki/Casa_Cap%C8%99a"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.236856,
+                    45.320711
+                ]
+            },
+            "properties": {
+                "name": "Straja",
+                "article": "https://en.wikipedia.org/wiki/Straja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.65,
+                    45.3
+                ]
+            },
+            "properties": {
+                "name": "Popina Island",
+                "article": "https://en.wikipedia.org/wiki/Popina_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.95,
+                    44.083333
+                ]
+            },
+            "properties": {
+                "name": "Battle of Adamclisi",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Adamclisi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.1348,
+                    45.88
+                ]
+            },
+            "properties": {
+                "name": "Battle of Mărăşeşti",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_M%C4%83r%C4%83%C8%99e%C8%99ti"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.589948,
+                    46.771203
+                ]
+            },
+            "properties": {
+                "name": "Strada Regele Ferdinand",
+                "article": "https://en.wikipedia.org/wiki/Regele_Ferdinand_Avenue,_Cluj-Napoca"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.18,
+                    44.73
+                ]
+            },
+            "properties": {
+                "name": "Lake Snagov",
+                "article": "https://en.wikipedia.org/wiki/Lake_Snagov"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.006849,
+                    44.458321
+                ]
+            },
+            "properties": {
+                "name": "Lake Dâmbovița",
+                "article": "https://en.wikipedia.org/wiki/Lake_D%C3%A2mbovi%C8%9Ba"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.10158,
+                    44.47008
+                ]
+            },
+            "properties": {
+                "name": "Lake Floreasca",
+                "article": "https://en.wikipedia.org/wiki/Lake_Floreasca"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.161194,
+                    44.451122
+                ]
+            },
+            "properties": {
+                "name": "Lake Fundeni",
+                "article": "https://en.wikipedia.org/wiki/Lake_Fundeni"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.474,
+                    45.373
+                ]
+            },
+            "properties": {
+                "name": "Q3327950",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.587184,
+                    46.774432
+                ]
+            },
+            "properties": {
+                "name": "Bak Palace, Cluj-Napoca",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.48333333,
+                    45.26666667
+                ]
+            },
+            "properties": {
+                "name": "Castrum Noviodunum",
+                "article": "https://en.wikipedia.org/wiki/Noviodunum_ad_Istrum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.1977,
+                    45.0249
+                ]
+            },
+            "properties": {
+                "name": "Halmyris",
+                "article": "https://en.wikipedia.org/wiki/Halmyris"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.907777777,
+                    45.37
+                ]
+            },
+            "properties": {
+                "name": "Păpușa Peak",
+                "article": "https://en.wikipedia.org/wiki/P%C4%83pu%C8%99a"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.75,
+                    45.066666666
+                ]
+            },
+            "properties": {
+                "name": "Peuce Island",
+                "article": "https://en.wikipedia.org/wiki/Peuce_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.615,
+                    45.43305556
+                ]
+            },
+            "properties": {
+                "name": "Castrum Bersobis",
+                "article": "https://en.wikipedia.org/wiki/Bersobis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0914,
+                    44.3656
+                ]
+            },
+            "properties": {
+                "name": "Gara București Progresul",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.07527778,
+                    44.48527778
+                ]
+            },
+            "properties": {
+                "name": "Bucharest Băneasa",
+                "article": "https://en.wikipedia.org/wiki/B%C4%83neasa_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.1826327,
+                    44.4344923
+                ]
+            },
+            "properties": {
+                "name": "Titan Sud train station",
+                "article": "https://en.wikipedia.org/wiki/Titan_Sud"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.441027777,
+                    46.209141666
+                ]
+            },
+            "properties": {
+                "name": "Second Battle of Oituz",
+                "article": "https://en.wikipedia.org/wiki/Third_Battle_of_Oituz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.6678,
+                    47.8728
+                ]
+            },
+            "properties": {
+                "name": "Hora Velyka Budyyovs'ka",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.668833333,
+                    47.872111111
+                ]
+            },
+            "properties": {
+                "name": "Hora Velyka Budyyovs'ka",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.62689,
+                    47.94743
+                ]
+            },
+            "properties": {
+                "name": "Hora Kernychnyy",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.602916666,
+                    47.945722222
+                ]
+            },
+            "properties": {
+                "name": "Q4232329",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.321666666,
+                    45.662777777
+                ]
+            },
+            "properties": {
+                "name": "Q4342069",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.32528,
+                    47.92556
+                ]
+            },
+            "properties": {
+                "name": "Pip Ivan",
+                "article": "https://en.wikipedia.org/wiki/Pip_Ivan_(Maramure%C8%99)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.000555555,
+                    47.231111111
+                ]
+            },
+            "properties": {
+                "name": "First Battle of Târgu Frumos",
+                "article": "https://en.wikipedia.org/wiki/First_Battle_of_T%C3%A2rgu_Frumos"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.715083333,
+                    47.840388888
+                ]
+            },
+            "properties": {
+                "name": "Gora Shuligul",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.613506,
+                    45.661161
+                ]
+            },
+            "properties": {
+                "name": "Brașov railway station",
+                "article": "https://en.wikipedia.org/wiki/Bra%C8%99ov_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.8498,
+                    45.4877
+                ]
+            },
+            "properties": {
+                "name": "Aizis",
+                "article": "https://en.wikipedia.org/wiki/Aizis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.324871,
+                    46.189591
+                ]
+            },
+            "properties": {
+                "name": "Arad",
+                "article": "https://en.wikipedia.org/wiki/Arad_Central_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.481992,
+                    45.578495
+                ]
+            },
+            "properties": {
+                "name": "Avrig Lake",
+                "article": "https://en.wikipedia.org/wiki/Avrig_Lake"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.0,
+                    46.0
+                ]
+            },
+            "properties": {
+                "name": "Battle of Romania",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Romania"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.05,
+                    44.266667
+                ]
+            },
+            "properties": {
+                "name": "Battle of the Argeş",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_the_Arge%C8%99"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0967,
+                    44.4327
+                ]
+            },
+            "properties": {
+                "name": "Bucharest Financial Plaza",
+                "article": "https://en.wikipedia.org/wiki/Bucharest_Financial_Plaza"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.09756667,
+                    44.43629444
+                ]
+            },
+            "properties": {
+                "name": "Telephones Company Building",
+                "article": "https://en.wikipedia.org/wiki/Telephones_Company_Building"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.110428,
+                    44.423805
+                ]
+            },
+            "properties": {
+                "name": "Chamber of Commerce and Industry of Romania building",
+                "article": "https://en.wikipedia.org/wiki/Chamber_of_Commerce_and_Industry_of_Romania_building"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.07117,
+                    44.47778
+                ]
+            },
+            "properties": {
+                "name": "City Gate Towers",
+                "article": "https://en.wikipedia.org/wiki/City_Gate_Towers"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.923611111,
+                    45.522777777
+                ]
+            },
+            "properties": {
+                "name": "Ciucaș Peak",
+                "article": "https://en.wikipedia.org/wiki/Ciuca%C8%99_Peak"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.9264,
+                    45.52166
+                ]
+            },
+            "properties": {
+                "name": "Ciucaș Peak",
+                "article": "https://en.wikipedia.org/wiki/Ciuca%C8%99_Peak"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.154285,
+                    45.680189
+                ]
+            },
+            "properties": {
+                "name": "Costești-Cetățuie Dacian fortress",
+                "article": "https://en.wikipedia.org/wiki/Coste%C8%99ti-Cet%C4%83%C8%9Buie_Dacian_fortress"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.162786,
+                    45.667785
+                ]
+            },
+            "properties": {
+                "name": "Costești-Blidaru Dacian fortress",
+                "article": "https://en.wikipedia.org/wiki/Coste%C8%99ti-Blidaru_Dacian_fortress"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.8007,
+                    47.2365
+                ]
+            },
+            "properties": {
+                "name": "Dacidava",
+                "article": "https://en.wikipedia.org/wiki/Dacidava"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.880833333,
+                    47.791111111
+                ]
+            },
+            "properties": {
+                "name": "Dormition of the Theotokos Cathedral, Satu Mare",
+                "article": "https://en.wikipedia.org/wiki/Dormition_of_the_Theotokos_Cathedral,_Satu_Mare"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.061944,
+                    45.445556
+                ]
+            },
+            "properties": {
+                "name": "Galați railway station",
+                "article": "https://en.wikipedia.org/wiki/Gala%C8%9Bi_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.08541111,
+                    44.45485278
+                ]
+            },
+            "properties": {
+                "name": "National Geological Museum",
+                "article": "https://en.wikipedia.org/wiki/National_Geological_Museum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.613333333,
+                    44.35
+                ]
+            },
+            "properties": {
+                "name": "Lake Tașaul",
+                "article": "https://en.wikipedia.org/wiki/Lake_Ta%C8%99aul"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.961389,
+                    43.895556
+                ]
+            },
+            "properties": {
+                "name": "Giurgiu railway station",
+                "article": "https://en.wikipedia.org/wiki/Giurgiu_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.569863,
+                    47.16576
+                ]
+            },
+            "properties": {
+                "name": "Iași railway station",
+                "article": "https://en.wikipedia.org/wiki/Ia%C8%99i_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.235764,
+                    47.676228
+                ]
+            },
+            "properties": {
+                "name": "Suceava Nord",
+                "article": "https://en.wikipedia.org/wiki/Suceava_North_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.135555555,
+                    45.508611111
+                ]
+            },
+            "properties": {
+                "name": "Lacul Vulturilor",
+                "article": "https://en.wikipedia.org/wiki/Lacul_Vulturilor"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.5774,
+                    46.1517
+                ]
+            },
+            "properties": {
+                "name": "Lake Ghioroc",
+                "article": "https://en.wikipedia.org/wiki/Lake_Ghioroc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.91555556,
+                    47.18027778
+                ]
+            },
+            "properties": {
+                "name": "Lake Vârșolț",
+                "article": "https://en.wikipedia.org/wiki/Lake_V%C3%A2r%C8%99ol%C8%9B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.567476111,
+                    44.879176944
+                ]
+            },
+            "properties": {
+                "name": "Libida",
+                "article": "https://en.wikipedia.org/wiki/Libida"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.768338888,
+                    45.447211111
+                ]
+            },
+            "properties": {
+                "name": "Lotru-Ciunget Hydroelectric Power Station",
+                "article": "https://en.wikipedia.org/wiki/Lotru-Ciunget_Hydroelectric_Power_Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.550079,
+                    45.367704
+                ]
+            },
+            "properties": {
+                "name": "Luminiş",
+                "article": "https://en.wikipedia.org/wiki/Lumini%C8%99"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.8983,
+                    45.8859
+                ]
+            },
+            "properties": {
+                "name": "Magna Curia",
+                "article": "https://en.wikipedia.org/wiki/Bethlen_Castle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.11013,
+                    44.43733
+                ]
+            },
+            "properties": {
+                "name": "Millennium Business Center",
+                "article": "https://en.wikipedia.org/wiki/Millennium_Business_Center"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.541388888,
+                    44.7875
+                ]
+            },
+            "properties": {
+                "name": "Sacalin Island",
+                "article": "https://en.wikipedia.org/wiki/Sacalin_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.1208,
+                    44.4228
+                ]
+            },
+            "properties": {
+                "name": "Phoenix Tower",
+                "article": "https://en.wikipedia.org/wiki/Phoenix_Tower,_Bucharest"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0786,
+                    44.4519
+                ]
+            },
+            "properties": {
+                "name": "Premium Plaza",
+                "article": "https://en.wikipedia.org/wiki/Premium_Plaza"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.683916666,
+                    46.830833333
+                ]
+            },
+            "properties": {
+                "name": "Remeți Hydroelectric Power Station",
+                "article": "https://en.wikipedia.org/wiki/Reme%C8%9Bi_Hydroelectric_Power_Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.346444444,
+                    45.409472222
+                ]
+            },
+            "properties": {
+                "name": "Ruieni Hydroelectric Power Station",
+                "article": "https://en.wikipedia.org/wiki/Ruieni_Hydroelectric_Power_Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.721438888,
+                    45.338930555
+                ]
+            },
+            "properties": {
+                "name": "Râul Mare Hydroelectric Power Station",
+                "article": "https://en.wikipedia.org/wiki/R%C3%A2ul_Mare_Hydroelectric_Power_Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.350805555,
+                    46.732166666
+                ]
+            },
+            "properties": {
+                "name": "Mărișelu Hydroelectric Power Station",
+                "article": "https://en.wikipedia.org/wiki/M%C4%83ri%C8%99elu_Hydroelectric_Power_Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.14532,
+                    44.45182
+                ]
+            },
+            "properties": {
+                "name": "Romfelt Plaza",
+                "article": "https://en.wikipedia.org/wiki/Doamna_Ghica_Plaza"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.4503,
+                    44.9311
+                ]
+            },
+            "properties": {
+                "name": "Lake Prisaca",
+                "article": "https://en.wikipedia.org/wiki/Lake_Prisaca"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.89341111,
+                    47.79541111
+                ]
+            },
+            "properties": {
+                "name": "Satu Mare railway station",
+                "article": "https://en.wikipedia.org/wiki/Satu_Mare_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.298611,
+                    45.661944
+                ]
+            },
+            "properties": {
+                "name": "Podu Olt",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.1617734,
+                    45.8000582
+                ]
+            },
+            "properties": {
+                "name": "Sibiu railway station",
+                "article": "https://en.wikipedia.org/wiki/Sibiu_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.111502,
+                    44.436423
+                ]
+            },
+            "properties": {
+                "name": "Solacoglu Inn",
+                "article": "https://en.wikipedia.org/wiki/Solacoglu_Inn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.08916,
+                    44.46331
+                ]
+            },
+            "properties": {
+                "name": "TVR Tower",
+                "article": "https://en.wikipedia.org/wiki/TVR_Tower"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.87277778,
+                    44.74388889
+                ]
+            },
+            "properties": {
+                "name": "Q9009519",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.88925,
+                    44.8585
+                ]
+            },
+            "properties": {
+                "name": "Q9009651",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5761,
+                    46.0563
+                ]
+            },
+            "properties": {
+                "name": "Alba Iulia Railway Station",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.1717,
+                    45.7258
+                ]
+            },
+            "properties": {
+                "name": "Timișoara Vest railway station",
+                "article": "https://en.wikipedia.org/wiki/Timi%C8%99oara_West_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.79076667,
+                    45.18181111
+                ]
+            },
+            "properties": {
+                "name": "Tulcea Oraș railway station",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.7908,
+                    45.1819
+                ]
+            },
+            "properties": {
+                "name": "Tulcea Oraș railway station",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.549,
+                    46.5335
+                ]
+            },
+            "properties": {
+                "name": "Târgu Mureș Railway Station",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.45488,
+                    44.91611
+                ]
+            },
+            "properties": {
+                "name": "Târgoviște railway station",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.6122383,
+                    45.3504253
+                ]
+            },
+            "properties": {
+                "name": "Q10998051",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.0,
+                    45.2416667
+                ]
+            },
+            "properties": {
+                "name": "Q10999323",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.66384,
+                    45.39453
+                ]
+            },
+            "properties": {
+                "name": "Latorița Mountains",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0296,
+                    44.9254
+                ]
+            },
+            "properties": {
+                "name": "Ploiești Sud railway station",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.21087,
+                    45.52663
+                ]
+            },
+            "properties": {
+                "name": "La Om",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.08673611,
+                    44.45643694
+                ]
+            },
+            "properties": {
+                "name": "Modrogan alley",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.72417,
+                    46.10306
+                ]
+            },
+            "properties": {
+                "name": "Q12721459",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.375833333,
+                    46.330833333
+                ]
+            },
+            "properties": {
+                "name": "Poiana Uzului Reservoir",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.98959923,
+                    45.4048996
+                ]
+            },
+            "properties": {
+                "name": "Barboși",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.07901,
+                    44.47143
+                ]
+            },
+            "properties": {
+                "name": "Wooden church from Dragomirești, Maramureș in Village Museum, Bucharest",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5929465,
+                    46.7668305
+                ]
+            },
+            "properties": {
+                "name": "Q12723522",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.929701,
+                    47.054313
+                ]
+            },
+            "properties": {
+                "name": "Deutsch House, Oradea",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.932584,
+                    47.05604
+                ]
+            },
+            "properties": {
+                "name": "Darvas-La Roche House",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.587023,
+                    46.771825
+                ]
+            },
+            "properties": {
+                "name": "Mikes House",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.08961,
+                    44.44726
+                ]
+            },
+            "properties": {
+                "name": "Vernescu House",
+                "article": null
+            }
+        }
+    ]
+}

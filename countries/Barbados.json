@@ -1,0 +1,593 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -59.443333333,
+                    13.165833333
+                ]
+            },
+            "properties": {
+                "name": "Culpepper Island",
+                "article": "https://en.wikipedia.org/wiki/Culpepper_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -59.583333333,
+                    13.211111111
+                ]
+            },
+            "properties": {
+                "name": "Mount Hillaby",
+                "article": "https://en.wikipedia.org/wiki/Mount_Hillaby"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -59.523611111,
+                    13.214166666
+                ]
+            },
+            "properties": {
+                "name": "Bathsheba",
+                "article": "https://en.wikipedia.org/wiki/Bathsheba,_Barbados"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -59.63805556,
+                    13.18666667
+                ]
+            },
+            "properties": {
+                "name": "Holetown",
+                "article": "https://en.wikipedia.org/wiki/Holetown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -59.640833333,
+                    13.254444444
+                ]
+            },
+            "properties": {
+                "name": "Speightstown",
+                "article": "https://en.wikipedia.org/wiki/Speightstown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -59.5508,
+                    13.2175
+                ]
+            },
+            "properties": {
+                "name": "Chalky Mount",
+                "article": "https://en.wikipedia.org/wiki/Chalky_Mount"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -59.56549167,
+                    13.14430278
+                ]
+            },
+            "properties": {
+                "name": "Francia Great House",
+                "article": "https://en.wikipedia.org/wiki/Francia_Great_House"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -59.576111111,
+                    13.090833333
+                ]
+            },
+            "properties": {
+                "name": "Garfield Sobers Gymnasium",
+                "article": "https://en.wikipedia.org/wiki/Garfield_Sobers_Gymnasium"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -59.577777777,
+                    13.071944444
+                ]
+            },
+            "properties": {
+                "name": "Graeme Hall Nature Sanctuary",
+                "article": "https://en.wikipedia.org/wiki/Graeme_Hall_Nature_Sanctuary"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -59.6027,
+                    13.11
+                ]
+            },
+            "properties": {
+                "name": "HM Glendairy Prison",
+                "article": "https://en.wikipedia.org/wiki/HM_Glendairy_Prison"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -59.5858,
+                    13.1036
+                ]
+            },
+            "properties": {
+                "name": "Ilaro Court",
+                "article": "https://en.wikipedia.org/wiki/Ilaro_Court"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -59.6,
+                    13.15
+                ]
+            },
+            "properties": {
+                "name": "Warrens",
+                "article": "https://en.wikipedia.org/wiki/Warrens,_Barbados"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -59.583333333,
+                    13.216666666
+                ]
+            },
+            "properties": {
+                "name": "Hillaby, Saint Andrew, Barbados",
+                "article": "https://en.wikipedia.org/wiki/Hillaby,_Barbados"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -59.58333,
+                    13.21667
+                ]
+            },
+            "properties": {
+                "name": "Hillaby, Saint Andrew, Barbados",
+                "article": "https://en.wikipedia.org/wiki/Hillaby,_Barbados"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -59.56667,
+                    13.25
+                ]
+            },
+            "properties": {
+                "name": "Q21746074",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -59.53333,
+                    13.05
+                ]
+            },
+            "properties": {
+                "name": "Below Rock",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -59.65,
+                    13.28333
+                ]
+            },
+            "properties": {
+                "name": "Black Bird Rock",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -59.53333,
+                    13.08333
+                ]
+            },
+            "properties": {
+                "name": "Christ Church Ridge",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -59.58333,
+                    13.26667
+                ]
+            },
+            "properties": {
+                "name": "Q21746088",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -59.48333,
+                    13.18333
+                ]
+            },
+            "properties": {
+                "name": "Congor Rocks",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -59.43333,
+                    13.08333
+                ]
+            },
+            "properties": {
+                "name": "Q21746092",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -59.63333,
+                    13.31667
+                ]
+            },
+            "properties": {
+                "name": "Cowpen Rock",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -59.65,
+                    13.28333
+                ]
+            },
+            "properties": {
+                "name": "Cookram Rock",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -59.5875,
+                    13.27
+                ]
+            },
+            "properties": {
+                "name": "Farley Hill",
+                "article": "https://en.wikipedia.org/wiki/Farley_Hill,_Saint_Peter,_Barbados"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -59.61667,
+                    13.28333
+                ]
+            },
+            "properties": {
+                "name": "Q21746109",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -59.55,
+                    13.13333
+                ]
+            },
+            "properties": {
+                "name": "Q21746117",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -59.52521,
+                    13.20164
+                ]
+            },
+            "properties": {
+                "name": "Hackletons Cliff",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -59.6025,
+                    13.235
+                ]
+            },
+            "properties": {
+                "name": "Q21746125",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -59.53333,
+                    13.2
+                ]
+            },
+            "properties": {
+                "name": "Q21746128",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -59.58333,
+                    13.2
+                ]
+            },
+            "properties": {
+                "name": "Q21746141",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -59.45,
+                    13.08333
+                ]
+            },
+            "properties": {
+                "name": "New Fall Cliff",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -59.46667,
+                    13.08333
+                ]
+            },
+            "properties": {
+                "name": "Pennyhole Rock",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -59.56667,
+                    13.26667
+                ]
+            },
+            "properties": {
+                "name": "Q21746155",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -59.6,
+                    13.31667
+                ]
+            },
+            "properties": {
+                "name": "Q21746160",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -59.5,
+                    13.2
+                ]
+            },
+            "properties": {
+                "name": "Q21746171",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -59.56667,
+                    13.28333
+                ]
+            },
+            "properties": {
+                "name": "Pico Teneriffe",
+                "article": "https://en.wikipedia.org/wiki/Pico_Teneriffe_(Barbados)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -59.572791,
+                    13.294425
+                ]
+            },
+            "properties": {
+                "name": "Pico Teneriffe",
+                "article": "https://en.wikipedia.org/wiki/Pico_Teneriffe_(Barbados)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -59.616666666,
+                    13.1
+                ]
+            },
+            "properties": {
+                "name": "Barbados",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -59.615277777,
+                    13.326666666
+                ]
+            },
+            "properties": {
+                "name": "Connell Town",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -59.48267,
+                    13.12608
+                ]
+            },
+            "properties": {
+                "name": "Q124808581",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -59.52908,
+                    13.21007
+                ]
+            },
+            "properties": {
+                "name": "Q124812088",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -59.616666666,
+                    13.0975
+                ]
+            },
+            "properties": {
+                "name": "Bridgetown",
+                "article": "https://en.wikipedia.org/wiki/Bridgetown"
+            }
+        }
+    ]
+}

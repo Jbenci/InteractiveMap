@@ -1,0 +1,691 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.780833333,
+                    37.911944444
+                ]
+            },
+            "properties": {
+                "name": "Kulob",
+                "article": "https://en.wikipedia.org/wiki/Kulob"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.725128,
+                    37.450332
+                ]
+            },
+            "properties": {
+                "name": "Zorkul",
+                "article": "https://en.wikipedia.org/wiki/Zorkul"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.616666666,
+                    40.283333333
+                ]
+            },
+            "properties": {
+                "name": "Khujand",
+                "article": "https://en.wikipedia.org/wiki/Khujand"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    67.566666666,
+                    39.516666666
+                ]
+            },
+            "properties": {
+                "name": "Sarazm",
+                "article": "https://en.wikipedia.org/wiki/Sarazm"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.5575,
+                    37.491666666
+                ]
+            },
+            "properties": {
+                "name": "Khorugh",
+                "article": "https://en.wikipedia.org/wiki/Khorog"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.172222222,
+                    38.948333333
+                ]
+            },
+            "properties": {
+                "name": "Khazret Sultan",
+                "article": "https://en.wikipedia.org/wiki/Khazret_Sultan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.011744,
+                    39.055855
+                ]
+            },
+            "properties": {
+                "name": "Peak Ozodi",
+                "article": "https://en.wikipedia.org/wiki/Peak_Ozodi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.071559,
+                    38.810852
+                ]
+            },
+            "properties": {
+                "name": "Pik Garmo",
+                "article": "https://en.wikipedia.org/wiki/Mount_Garmo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    67.615,
+                    39.503055555
+                ]
+            },
+            "properties": {
+                "name": "Panjakent",
+                "article": "https://en.wikipedia.org/wiki/Panjakent"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.780277777,
+                    37.836388888
+                ]
+            },
+            "properties": {
+                "name": "Bokhtar",
+                "article": "https://en.wikipedia.org/wiki/Bokhtar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.230277777,
+                    38.510833333
+                ]
+            },
+            "properties": {
+                "name": "Tursunzoda",
+                "article": "https://en.wikipedia.org/wiki/Tursunzoda"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.23327,
+                    38.51437
+                ]
+            },
+            "properties": {
+                "name": "Tursunzoda",
+                "article": "https://en.wikipedia.org/wiki/Tursunzoda"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.538055555,
+                    38.526388888
+                ]
+            },
+            "properties": {
+                "name": "Hisar",
+                "article": "https://en.wikipedia.org/wiki/Hisar_(Tajikistan)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.633333333,
+                    40.116666666
+                ]
+            },
+            "properties": {
+                "name": "Isfara",
+                "article": "https://en.wikipedia.org/wiki/Isfara"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    74.25179,
+                    38.47832
+                ]
+            },
+            "properties": {
+                "name": "Rangkul",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.42,
+                    39.04
+                ]
+            },
+            "properties": {
+                "name": "Karakul",
+                "article": "https://en.wikipedia.org/wiki/Karakul_(Tajikistan)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.877897,
+                    39.343677
+                ]
+            },
+            "properties": {
+                "name": "Lenin Peak",
+                "article": "https://en.wikipedia.org/wiki/Lenin_Peak"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.006388888,
+                    39.910833333
+                ]
+            },
+            "properties": {
+                "name": "Istaravshan",
+                "article": "https://en.wikipedia.org/wiki/Istaravshan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.416666666,
+                    40.283333333
+                ]
+            },
+            "properties": {
+                "name": "Konibodom",
+                "article": "https://en.wikipedia.org/wiki/Konibodom"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.325,
+                    38.388333333
+                ]
+            },
+            "properties": {
+                "name": "Norak",
+                "article": "https://en.wikipedia.org/wiki/Norak"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.616666666,
+                    38.25
+                ]
+            },
+            "properties": {
+                "name": "Sarez Lake",
+                "article": "https://en.wikipedia.org/wiki/Sarez_Lake"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.481666666,
+                    37.1625
+                ]
+            },
+            "properties": {
+                "name": "Karl Marx Peak",
+                "article": "https://en.wikipedia.org/wiki/Karl_Marx_Peak"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    66.8736,
+                    36.7731
+                ]
+            },
+            "properties": {
+                "name": "Cyropolis",
+                "article": "https://en.wikipedia.org/wiki/Cyropolis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.519408,
+                    37.171811
+                ]
+            },
+            "properties": {
+                "name": "Engels Peak",
+                "article": "https://en.wikipedia.org/wiki/Engels_Peak"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.354166666,
+                    38.511111111
+                ]
+            },
+            "properties": {
+                "name": "Independence Peak",
+                "article": "https://en.wikipedia.org/wiki/Independence_Peak"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.715277777,
+                    37.020833333
+                ]
+            },
+            "properties": {
+                "name": "Mayakovskiy Peak",
+                "article": "https://en.wikipedia.org/wiki/Mayakovsky_Peak"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.368333333,
+                    39.074444444
+                ]
+            },
+            "properties": {
+                "name": "Iskanderkul",
+                "article": "https://en.wikipedia.org/wiki/Iskanderkul"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.883333333,
+                    37.75
+                ]
+            },
+            "properties": {
+                "name": "Yashikul",
+                "article": "https://en.wikipedia.org/wiki/Yashilkul"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.696666666,
+                    40.238611111
+                ]
+            },
+            "properties": {
+                "name": "Buston, Ghafurov",
+                "article": "https://en.wikipedia.org/wiki/Buston,_Sughd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.6292,
+                    37.6567
+                ]
+            },
+            "properties": {
+                "name": "Moskovskiy",
+                "article": "https://en.wikipedia.org/wiki/Moskovskiy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.6567,
+                    37.6567
+                ]
+            },
+            "properties": {
+                "name": "Moskovskiy",
+                "article": "https://en.wikipedia.org/wiki/Moskovskiy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.522537,
+                    38.565347
+                ]
+            },
+            "properties": {
+                "name": "Arnavad Peak",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.8435,
+                    37.4006
+                ]
+            },
+            "properties": {
+                "name": "Pik Kysyldangi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.834,
+                    38.9478
+                ]
+            },
+            "properties": {
+                "name": "Moscow Peak",
+                "article": "https://en.wikipedia.org/wiki/Moscow_Peak"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.187736,
+                    37.888386
+                ]
+            },
+            "properties": {
+                "name": "Patkhor Peak",
+                "article": "https://en.wikipedia.org/wiki/Patkhor_Peak"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.029593,
+                    38.896161
+                ]
+            },
+            "properties": {
+                "name": "Pik Russia",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.227381944,
+                    37.600368055
+                ]
+            },
+            "properties": {
+                "name": "Pik Skalisty",
+                "article": "https://en.wikipedia.org/wiki/Pik_Skalisty"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.301571,
+                    38.423899
+                ]
+            },
+            "properties": {
+                "name": "Pik Sovetskikh Ofitserov",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.85436111,
+                    37.79802778
+                ]
+            },
+            "properties": {
+                "name": "Buddhistic cloister of Ajina-Tepa",
+                "article": "https://en.wikipedia.org/wiki/Ajina_Tepe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.19975,
+                    37.646166666
+                ]
+            },
+            "properties": {
+                "name": "Battle at the 12th outpost of the Moscow border detachment",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.195,
+                    39.197777777
+                ]
+            },
+            "properties": {
+                "name": "Pik Chimtarga",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.819465,
+                    39.045269
+                ]
+            },
+            "properties": {
+                "name": "Pik Frunze",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.1481,
+                    37.2204
+                ]
+            },
+            "properties": {
+                "name": "Khoja Mashkhad Mausoleum",
+                "article": "https://en.wikipedia.org/wiki/Khoja_Mashkhad_Mausoleum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.766,
+                    37.333
+                ]
+            },
+            "properties": {
+                "name": "Concord Peak",
+                "article": "https://en.wikipedia.org/wiki/Concord_Peak"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.566734,
+                    39.455933
+                ]
+            },
+            "properties": {
+                "name": "Gora Kurumdy",
+                "article": "https://en.wikipedia.org/wiki/Kurumdy_Mountain"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.75,
+                    37.85
+                ]
+            },
+            "properties": {
+                "name": "Avangard",
+                "article": "https://en.wikipedia.org/wiki/Oriyon,_Khatlon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.285,
+                    37.0989
+                ]
+            },
+            "properties": {
+                "name": "Takhti-Sangin",
+                "article": "https://en.wikipedia.org/wiki/Takht-i_Sangin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.08333333,
+                    39.44833333
+                ]
+            },
+            "properties": {
+                "name": "Pik Tandykul",
+                "article": "https://en.wikipedia.org/wiki/Pik_Tandykul"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.64644444,
+                    37.58886111
+                ]
+            },
+            "properties": {
+                "name": "Kafirkala",
+                "article": "https://en.wikipedia.org/wiki/Kafir-kala_(Tajikistan)"
+            }
+        }
+    ]
+}

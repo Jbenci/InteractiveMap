@@ -1,0 +1,3435 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.135277777,
+                    -1.853055555
+                ]
+            },
+            "properties": {
+                "name": "Lake Kivu",
+                "article": "https://en.wikipedia.org/wiki/Lake_Kivu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.437777777,
+                    -1.9525
+                ]
+            },
+            "properties": {
+                "name": "Rwamagana",
+                "article": "https://en.wikipedia.org/wiki/Rwamagana"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.641666666,
+                    -1.494444444
+                ]
+            },
+            "properties": {
+                "name": "Ruhengeri",
+                "article": "https://en.wikipedia.org/wiki/Ruhengeri"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.069444444,
+                    -1.579444444
+                ]
+            },
+            "properties": {
+                "name": "Byumba",
+                "article": "https://en.wikipedia.org/wiki/Byumba"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.75,
+                    -2.6
+                ]
+            },
+            "properties": {
+                "name": "Butare",
+                "article": "https://en.wikipedia.org/wiki/Butare"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.6,
+                    -1.4
+                ]
+            },
+            "properties": {
+                "name": "Mount Sabyinyo",
+                "article": "https://en.wikipedia.org/wiki/Mount_Sabyinyo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.750833333,
+                    -2.351666666
+                ]
+            },
+            "properties": {
+                "name": "Nyanza",
+                "article": "https://en.wikipedia.org/wiki/Nyanza,_Rwanda"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.666666666,
+                    -1.383333333
+                ]
+            },
+            "properties": {
+                "name": "Mount Muhabura",
+                "article": "https://en.wikipedia.org/wiki/Mount_Muhabura"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.348055555,
+                    -2.059444444
+                ]
+            },
+            "properties": {
+                "name": "Kibuye",
+                "article": "https://en.wikipedia.org/wiki/Kibuye,_Rwanda"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.758055555,
+                    -2.078333333
+                ]
+            },
+            "properties": {
+                "name": "Muhanga",
+                "article": "https://en.wikipedia.org/wiki/Muhanga"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.45,
+                    -1.5
+                ]
+            },
+            "properties": {
+                "name": "Mount Karisimbi",
+                "article": "https://en.wikipedia.org/wiki/Mount_Karisimbi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.896666666,
+                    -2.483333333
+                ]
+            },
+            "properties": {
+                "name": "Cyangugu",
+                "article": "https://en.wikipedia.org/wiki/Cyangugu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.25,
+                    -1.692777777
+                ]
+            },
+            "properties": {
+                "name": "Gisenyi",
+                "article": "https://en.wikipedia.org/wiki/Gisenyi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.6435,
+                    -1.3873
+                ]
+            },
+            "properties": {
+                "name": "Mount Gahinga",
+                "article": "https://en.wikipedia.org/wiki/Mount_Gahinga"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.544166666,
+                    -2.160833333
+                ]
+            },
+            "properties": {
+                "name": "Kibungo",
+                "article": "https://en.wikipedia.org/wiki/Kibungo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.764444444,
+                    -2.039722222
+                ]
+            },
+            "properties": {
+                "name": "Lac Cyambwe",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.581388888,
+                    -2.469722222
+                ]
+            },
+            "properties": {
+                "name": "Gikongoro",
+                "article": "https://en.wikipedia.org/wiki/Gikongoro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.65,
+                    -2.566666666
+                ]
+            },
+            "properties": {
+                "name": "Mount Huye",
+                "article": "https://en.wikipedia.org/wiki/Mount_Huye"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.766666666,
+                    -1.883333333
+                ]
+            },
+            "properties": {
+                "name": "Lac Ihema",
+                "article": "https://en.wikipedia.org/wiki/Lake_Ihema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.040563,
+                    -1.906966
+                ]
+            },
+            "properties": {
+                "name": "Q1679749",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.556666666,
+                    -2.650277777
+                ]
+            },
+            "properties": {
+                "name": "Kibeho",
+                "article": "https://en.wikipedia.org/wiki/Kibeho"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.06666667,
+                    -1.95
+                ]
+            },
+            "properties": {
+                "name": "Mount Kigali",
+                "article": "https://en.wikipedia.org/wiki/Mount_Kigali"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.323611111,
+                    -2.377777777
+                ]
+            },
+            "properties": {
+                "name": "Lake Rweru",
+                "article": "https://en.wikipedia.org/wiki/Lake_Rweru"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.740277777,
+                    -2.043888888
+                ]
+            },
+            "properties": {
+                "name": "Lac Nasho",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.2247,
+                    -1.97649
+                ]
+            },
+            "properties": {
+                "name": "Kabuga",
+                "article": "https://en.wikipedia.org/wiki/Kabuga"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.103569444,
+                    -2.430338888
+                ]
+            },
+            "properties": {
+                "name": "Lake Cohoha",
+                "article": "https://en.wikipedia.org/wiki/Lake_Cohoha"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.4,
+                    -1.85
+                ]
+            },
+            "properties": {
+                "name": "Lake Muhazi",
+                "article": "https://en.wikipedia.org/wiki/Lake_Muhazi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.3693,
+                    -2.23772
+                ]
+            },
+            "properties": {
+                "name": "Lac Sake",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.327222222,
+                    -1.294722222
+                ]
+            },
+            "properties": {
+                "name": "Nyagatare",
+                "article": "https://en.wikipedia.org/wiki/Nyagatare"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.520277777,
+                    -1.945555555
+                ]
+            },
+            "properties": {
+                "name": "Kayonza",
+                "article": "https://en.wikipedia.org/wiki/Kayonza"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.384166666,
+                    -1.9575
+                ]
+            },
+            "properties": {
+                "name": "Q12374357",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.0907,
+                    -2.3411
+                ]
+            },
+            "properties": {
+                "name": "Nyamasheke",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.780277777,
+                    -2.2325
+                ]
+            },
+            "properties": {
+                "name": "Ruhango",
+                "article": "https://en.wikipedia.org/wiki/Ruhango"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.315,
+                    -2.108
+                ]
+            },
+            "properties": {
+                "name": "Lake Mugesera",
+                "article": "https://en.wikipedia.org/wiki/Lake_Mugesera"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.78,
+                    -1.45
+                ]
+            },
+            "properties": {
+                "name": "Lake Burera",
+                "article": "https://en.wikipedia.org/wiki/Lake_Burera"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.748888888,
+                    -1.486388888
+                ]
+            },
+            "properties": {
+                "name": "Lake Ruhondo",
+                "article": "https://en.wikipedia.org/wiki/Lake_Ruhondo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.257222222,
+                    -1.973888888
+                ]
+            },
+            "properties": {
+                "name": "Muyumbu",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.72112,
+                    -1.84122
+                ]
+            },
+            "properties": {
+                "name": "Muyumbu",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.295,
+                    -2.175555555
+                ]
+            },
+            "properties": {
+                "name": "Q25436284",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.250555555,
+                    -2.193611111
+                ]
+            },
+            "properties": {
+                "name": "Q25436341",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.25,
+                    -2.166388888
+                ]
+            },
+            "properties": {
+                "name": "Q25436364",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.242222222,
+                    -2.229444444
+                ]
+            },
+            "properties": {
+                "name": "Q25436389",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.3628,
+                    -1.5112
+                ]
+            },
+            "properties": {
+                "name": "Mont Hehu",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.466666666,
+                    -1.6
+                ]
+            },
+            "properties": {
+                "name": "Rubare",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.565277777,
+                    -1.715555555
+                ]
+            },
+            "properties": {
+                "name": "Mont Nyamidjima",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.466666666,
+                    -1.6
+                ]
+            },
+            "properties": {
+                "name": "Nyamateke",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.435,
+                    -1.681944444
+                ]
+            },
+            "properties": {
+                "name": "Mont Muwogo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.382777777,
+                    -1.675555555
+                ]
+            },
+            "properties": {
+                "name": "Muhungwe",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.565,
+                    -1.583888888
+                ]
+            },
+            "properties": {
+                "name": "Mugogo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.421666666,
+                    -1.908611111
+                ]
+            },
+            "properties": {
+                "name": "Mont Kwiruhelo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.493333333,
+                    -1.974722222
+                ]
+            },
+            "properties": {
+                "name": "Karbona",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.5,
+                    -1.935833333
+                ]
+            },
+            "properties": {
+                "name": "Gihinga",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.450277777,
+                    -1.783888888
+                ]
+            },
+            "properties": {
+                "name": "Butimba",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.463333333,
+                    -1.815277777
+                ]
+            },
+            "properties": {
+                "name": "Mugano",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.487777777,
+                    -1.863888888
+                ]
+            },
+            "properties": {
+                "name": "Mutake",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.446111111,
+                    -1.900833333
+                ]
+            },
+            "properties": {
+                "name": "Remera",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.370833333,
+                    -1.685833333
+                ]
+            },
+            "properties": {
+                "name": "Kamirantama",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.604722222,
+                    -1.622222222
+                ]
+            },
+            "properties": {
+                "name": "Ninda",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.2075,
+                    -2.4875
+                ]
+            },
+            "properties": {
+                "name": "Kuwinka",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.3283,
+                    -2.68
+                ]
+            },
+            "properties": {
+                "name": "Twinyoni",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.91667,
+                    -1.48333
+                ]
+            },
+            "properties": {
+                "name": "Sanja",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.471111111,
+                    -2.132222222
+                ]
+            },
+            "properties": {
+                "name": "Rusengesi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.2888,
+                    -2.3343
+                ]
+            },
+            "properties": {
+                "name": "Muzimu",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.4002,
+                    -1.2694
+                ]
+            },
+            "properties": {
+                "name": "Nyarubanga",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.659166666,
+                    -1.523888888
+                ]
+            },
+            "properties": {
+                "name": "Karehe",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.8133,
+                    -1.608
+                ]
+            },
+            "properties": {
+                "name": "Kabuye",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.2208,
+                    -2.5879
+                ]
+            },
+            "properties": {
+                "name": "Kihunde",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.7153,
+                    -2.3208
+                ]
+            },
+            "properties": {
+                "name": "Gacu",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.466111111,
+                    -1.511388888
+                ]
+            },
+            "properties": {
+                "name": "Gabiro",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.951666666,
+                    -2.675277777
+                ]
+            },
+            "properties": {
+                "name": "Ruhoko",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.4393,
+                    -1.3896
+                ]
+            },
+            "properties": {
+                "name": "Ndama",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.234722222,
+                    -2.331388888
+                ]
+            },
+            "properties": {
+                "name": "Mont Nemba",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.273611111,
+                    -2.062777777
+                ]
+            },
+            "properties": {
+                "name": "Ryamugabo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.661388888,
+                    -2.13
+                ]
+            },
+            "properties": {
+                "name": "Cyamigurwa",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.783333333,
+                    -2.155555555
+                ]
+            },
+            "properties": {
+                "name": "Remera",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.641388888,
+                    -1.589444444
+                ]
+            },
+            "properties": {
+                "name": "Mutumba",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.717777777,
+                    -1.769722222
+                ]
+            },
+            "properties": {
+                "name": "Rwisirabo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.3378,
+                    -1.9295
+                ]
+            },
+            "properties": {
+                "name": "Kamabuye",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.6487,
+                    -2.5557
+                ]
+            },
+            "properties": {
+                "name": "Mukingo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.5875,
+                    -2.551666666
+                ]
+            },
+            "properties": {
+                "name": "Rutuna",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.575277777,
+                    -2.545833333
+                ]
+            },
+            "properties": {
+                "name": "Nyarure",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.601388888,
+                    -2.553611111
+                ]
+            },
+            "properties": {
+                "name": "Rubona",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.204722222,
+                    -2.508333333
+                ]
+            },
+            "properties": {
+                "name": "Busozo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.1741,
+                    -2.5174
+                ]
+            },
+            "properties": {
+                "name": "Rugazi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.155833333,
+                    -2.555
+                ]
+            },
+            "properties": {
+                "name": "Rwamubature",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.126666666,
+                    -2.3825
+                ]
+            },
+            "properties": {
+                "name": "Gako",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.3552,
+                    -2.6006
+                ]
+            },
+            "properties": {
+                "name": "Nyabihu",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.985277777,
+                    -2.540555555
+                ]
+            },
+            "properties": {
+                "name": "Karambi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.976944444,
+                    -2.554166666
+                ]
+            },
+            "properties": {
+                "name": "Gatare",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.282222222,
+                    -2.27
+                ]
+            },
+            "properties": {
+                "name": "Murarambwe",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.529444444,
+                    -2.256111111
+                ]
+            },
+            "properties": {
+                "name": "Suti",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.545555555,
+                    -2.323611111
+                ]
+            },
+            "properties": {
+                "name": "Nyarutovu",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.649166666,
+                    -2.375
+                ]
+            },
+            "properties": {
+                "name": "Gashyenzi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.6888,
+                    -2.3818
+                ]
+            },
+            "properties": {
+                "name": "Rugarama",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.6715,
+                    -2.3205
+                ]
+            },
+            "properties": {
+                "name": "Nyabinyenga",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.6475,
+                    -1.553055555
+                ]
+            },
+            "properties": {
+                "name": "Kandaro",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.689444444,
+                    -1.595555555
+                ]
+            },
+            "properties": {
+                "name": "Burengo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.569722222,
+                    -1.744722222
+                ]
+            },
+            "properties": {
+                "name": "Buhagwa",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.269722222,
+                    -1.871666666
+                ]
+            },
+            "properties": {
+                "name": "Kibaza",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.5058,
+                    -2.7539
+                ]
+            },
+            "properties": {
+                "name": "Kigarama",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.6408,
+                    -1.5993
+                ]
+            },
+            "properties": {
+                "name": "Bumonyo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.499166666,
+                    -1.2875
+                ]
+            },
+            "properties": {
+                "name": "Bugarama",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.984166666,
+                    -1.475
+                ]
+            },
+            "properties": {
+                "name": "Ruhorwa",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.179722222,
+                    -1.291666666
+                ]
+            },
+            "properties": {
+                "name": "Gishuro",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.088888888,
+                    -1.376666666
+                ]
+            },
+            "properties": {
+                "name": "Kanyantanga",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.081944444,
+                    -1.399444444
+                ]
+            },
+            "properties": {
+                "name": "Gataba",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.066944444,
+                    -1.416111111
+                ]
+            },
+            "properties": {
+                "name": "Nyakibande",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.093888888,
+                    -1.430277777
+                ]
+            },
+            "properties": {
+                "name": "Mbuga",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.0337,
+                    -1.4381
+                ]
+            },
+            "properties": {
+                "name": "Gitovu",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.0684,
+                    -1.4516
+                ]
+            },
+            "properties": {
+                "name": "Karurama",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.031388888,
+                    -1.452222222
+                ]
+            },
+            "properties": {
+                "name": "Muyange",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.0119,
+                    -1.462
+                ]
+            },
+            "properties": {
+                "name": "Bushenyi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.005,
+                    -1.463055555
+                ]
+            },
+            "properties": {
+                "name": "Mugote",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.066388888,
+                    -1.461388888
+                ]
+            },
+            "properties": {
+                "name": "Kiruhura",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.0041,
+                    -1.4825
+                ]
+            },
+            "properties": {
+                "name": "Rugerero",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.1713,
+                    -1.4921
+                ]
+            },
+            "properties": {
+                "name": "Kazinga",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.526944444,
+                    -1.273333333
+                ]
+            },
+            "properties": {
+                "name": "Nyampiri",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.3783,
+                    -1.6696
+                ]
+            },
+            "properties": {
+                "name": "Matare",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.169722222,
+                    -1.553611111
+                ]
+            },
+            "properties": {
+                "name": "Ngoma",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.119722222,
+                    -1.596388888
+                ]
+            },
+            "properties": {
+                "name": "Bisika",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.8139,
+                    -1.8893
+                ]
+            },
+            "properties": {
+                "name": "Bushara",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.897,
+                    -1.9593
+                ]
+            },
+            "properties": {
+                "name": "Kanyinya",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.654444444,
+                    -2.153611111
+                ]
+            },
+            "properties": {
+                "name": "Tomi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.440833333,
+                    -2.094444444
+                ]
+            },
+            "properties": {
+                "name": "Bugobera",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.3564,
+                    -2.1125
+                ]
+            },
+            "properties": {
+                "name": "Gasengesi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.875277777,
+                    -2.5575
+                ]
+            },
+            "properties": {
+                "name": "Gishya",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.891666666,
+                    -2.559722222
+                ]
+            },
+            "properties": {
+                "name": "Kagoma",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.784166666,
+                    -2.131666666
+                ]
+            },
+            "properties": {
+                "name": "Nyagatovu",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.771666666,
+                    -2.138055555
+                ]
+            },
+            "properties": {
+                "name": "Murugongo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.0426,
+                    -1.4626
+                ]
+            },
+            "properties": {
+                "name": "Butozo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.0924,
+                    -1.4886
+                ]
+            },
+            "properties": {
+                "name": "Rugarama",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.2926,
+                    -2.1224
+                ]
+            },
+            "properties": {
+                "name": "Karora",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.704722222,
+                    -1.777222222
+                ]
+            },
+            "properties": {
+                "name": "Nyakagunga",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.767777777,
+                    -1.468333333
+                ]
+            },
+            "properties": {
+                "name": "Île Batutsi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.793888888,
+                    -1.390555555
+                ]
+            },
+            "properties": {
+                "name": "Île Bihaho",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.181111111,
+                    -2.200833333
+                ]
+            },
+            "properties": {
+                "name": "Île Biti",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.192777777,
+                    -2.198333333
+                ]
+            },
+            "properties": {
+                "name": "Île Bukwi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.764722222,
+                    -1.448611111
+                ]
+            },
+            "properties": {
+                "name": "Île Bushongo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.892777777,
+                    -2.423611111
+                ]
+            },
+            "properties": {
+                "name": "Île Bweramata",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.759444444,
+                    -1.434722222
+                ]
+            },
+            "properties": {
+                "name": "Île Cyuzo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.284166666,
+                    -1.853055555
+                ]
+            },
+            "properties": {
+                "name": "Île Gakoyi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.258611111,
+                    -2.09
+                ]
+            },
+            "properties": {
+                "name": "Île Gashwira",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.152777777,
+                    -2.265833333
+                ]
+            },
+            "properties": {
+                "name": "Île Gibeye",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.888055555,
+                    -2.440833333
+                ]
+            },
+            "properties": {
+                "name": "Île Gihaya",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.282777777,
+                    -1.845833333
+                ]
+            },
+            "properties": {
+                "name": "Île Gishamwana",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.893611111,
+                    -2.426111111
+                ]
+            },
+            "properties": {
+                "name": "Île Gisimba",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.7325,
+                    -1.505555555
+                ]
+            },
+            "properties": {
+                "name": "Île Icyabalihira",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.305555555,
+                    -1.985833333
+                ]
+            },
+            "properties": {
+                "name": "Île Ikibiti",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.896111111,
+                    -2.439166666
+                ]
+            },
+            "properties": {
+                "name": "Île Ireba",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.932777777,
+                    -2.384722222
+                ]
+            },
+            "properties": {
+                "name": "Île Ishwa",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.285555555,
+                    -1.867777777
+                ]
+            },
+            "properties": {
+                "name": "Île Kabuhongo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.263888888,
+                    -1.740277777
+                ]
+            },
+            "properties": {
+                "name": "Île Kilwa",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.146111111,
+                    -2.284444444
+                ]
+            },
+            "properties": {
+                "name": "Île Kirehe",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.318888888,
+                    -1.959166666
+                ]
+            },
+            "properties": {
+                "name": "Île Kishayu",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.964722222,
+                    -2.356944444
+                ]
+            },
+            "properties": {
+                "name": "Île Kumenie",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.7505,
+                    -2.0818
+                ]
+            },
+            "properties": {
+                "name": "Île Marenga",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.339166666,
+                    -2.039444444
+                ]
+            },
+            "properties": {
+                "name": "Île Mbabara",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.185277777,
+                    -2.219722222
+                ]
+            },
+            "properties": {
+                "name": "Île Mirambo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.322777777,
+                    -2.050833333
+                ]
+            },
+            "properties": {
+                "name": "Île Mpangara",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.766666666,
+                    -1.433333333
+                ]
+            },
+            "properties": {
+                "name": "Île Mudimba",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.319166666,
+                    -1.953611111
+                ]
+            },
+            "properties": {
+                "name": "Île Mukanzeingoro",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.333888888,
+                    -2.044444444
+                ]
+            },
+            "properties": {
+                "name": "Île Mukundo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.787222222,
+                    -1.438611111
+                ]
+            },
+            "properties": {
+                "name": "Île Munanira",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.18,
+                    -2.225833333
+                ]
+            },
+            "properties": {
+                "name": "Île Murumbi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.066666666,
+                    -2.333333333
+                ]
+            },
+            "properties": {
+                "name": "Île Murwa",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.136388888,
+                    -2.269166666
+                ]
+            },
+            "properties": {
+                "name": "Île Mushaya",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.316666666,
+                    -1.941944444
+                ]
+            },
+            "properties": {
+                "name": "Île Mushinye",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.178333333,
+                    -2.232222222
+                ]
+            },
+            "properties": {
+                "name": "Île Mushungwe",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.185555555,
+                    -2.246666666
+                ]
+            },
+            "properties": {
+                "name": "Île Muzira",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.279166666,
+                    -1.823055555
+                ]
+            },
+            "properties": {
+                "name": "Île Ngarwa",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.905833333,
+                    -2.397222222
+                ]
+            },
+            "properties": {
+                "name": "Île Nkombo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.268611111,
+                    -1.823333333
+                ]
+            },
+            "properties": {
+                "name": "Île Ntumba",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.286666666,
+                    -1.828333333
+                ]
+            },
+            "properties": {
+                "name": "Île Nyamirundi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.264722222,
+                    -2.087222222
+                ]
+            },
+            "properties": {
+                "name": "Île Nyankira",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.287222222,
+                    -1.824444444
+                ]
+            },
+            "properties": {
+                "name": "Île Nyantima",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.268611111,
+                    -2.085277777
+                ]
+            },
+            "properties": {
+                "name": "Île Nyarugaba",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.278888888,
+                    -1.818611111
+                ]
+            },
+            "properties": {
+                "name": "Île Nyarugwa",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.136388888,
+                    -2.281388888
+                ]
+            },
+            "properties": {
+                "name": "Île Ruzi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.006111111,
+                    -2.329166666
+                ]
+            },
+            "properties": {
+                "name": "Île Sasa",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.351666666,
+                    -2.037777777
+                ]
+            },
+            "properties": {
+                "name": "Île Sejema",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.281388888,
+                    -1.909166666
+                ]
+            },
+            "properties": {
+                "name": "Île Senyamakoma",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.783333333,
+                    -1.85
+                ]
+            },
+            "properties": {
+                "name": "Île Shabalole",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.795833333,
+                    -1.658055555
+                ]
+            },
+            "properties": {
+                "name": "Île Shango",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.301944444,
+                    -2.074444444
+                ]
+            },
+            "properties": {
+                "name": "Île Shangwe",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.060555555,
+                    -2.381111111
+                ]
+            },
+            "properties": {
+                "name": "Île Shangwe",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.210555555,
+                    -2.155277777
+                ]
+            },
+            "properties": {
+                "name": "Île Shyute",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.162222222,
+                    -2.257222222
+                ]
+            },
+            "properties": {
+                "name": "Île Tarera",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.3075,
+                    -2.013888888
+                ]
+            },
+            "properties": {
+                "name": "Île Tembabagoye",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.318888888,
+                    -1.937777777
+                ]
+            },
+            "properties": {
+                "name": "Île Ubushinya",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.266666666,
+                    -2.083333333
+                ]
+            },
+            "properties": {
+                "name": "Île Udushivire",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.264722222,
+                    -2.087777777
+                ]
+            },
+            "properties": {
+                "name": "Île Uwinyange",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.146388888,
+                    -1.929444444
+                ]
+            },
+            "properties": {
+                "name": "Île Wahu",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.551666666,
+                    -1.666666666
+                ]
+            },
+            "properties": {
+                "name": "Tuntu",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.2425,
+                    -2.5825
+                ]
+            },
+            "properties": {
+                "name": "Bivumu",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.986666666,
+                    -2.559722222
+                ]
+            },
+            "properties": {
+                "name": "Kabacuku",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.015277777,
+                    -2.293611111
+                ]
+            },
+            "properties": {
+                "name": "Mont Murugandu",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.655277777,
+                    -2.383611111
+                ]
+            },
+            "properties": {
+                "name": "Murukundu",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.608611111,
+                    -1.533611111
+                ]
+            },
+            "properties": {
+                "name": "Mushushu",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.6142,
+                    -1.8459
+                ]
+            },
+            "properties": {
+                "name": "Mutisimu",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.006666666,
+                    -1.831666666
+                ]
+            },
+            "properties": {
+                "name": "Nyiraruvumu",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.177777777,
+                    -2.566666666
+                ]
+            },
+            "properties": {
+                "name": "Gakungu",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.295,
+                    -2.173055555
+                ]
+            },
+            "properties": {
+                "name": "Lac Bilira",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.775277777,
+                    -1.433888888
+                ]
+            },
+            "properties": {
+                "name": "Lac Bulera",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.13333,
+                    -2.25
+                ]
+            },
+            "properties": {
+                "name": "Lac Cyohoha Nord",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.280555555,
+                    -2.266944444
+                ]
+            },
+            "properties": {
+                "name": "Lac Gaharwa",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.541666666,
+                    -1.928888888
+                ]
+            },
+            "properties": {
+                "name": "Lac Gashaka",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.238888888,
+                    -2.143333333
+                ]
+            },
+            "properties": {
+                "name": "Lac Gashanga",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.658888888,
+                    -1.970277777
+                ]
+            },
+            "properties": {
+                "name": "Lac Gishanda",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.718333333,
+                    -1.671111111
+                ]
+            },
+            "properties": {
+                "name": "Lac Hago",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.364444444,
+                    -2.278333333
+                ]
+            },
+            "properties": {
+                "name": "Lac Karaba",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.513333333,
+                    -1.627222222
+                ]
+            },
+            "properties": {
+                "name": "Lac Karago",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.22674,
+                    -2.16842
+                ]
+            },
+            "properties": {
+                "name": "Lac Kidogo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.272777777,
+                    -2.254166666
+                ]
+            },
+            "properties": {
+                "name": "Lac Kilimbi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.756666666,
+                    -1.714166666
+                ]
+            },
+            "properties": {
+                "name": "Lac Kivumba",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.719166666,
+                    -1.519444444
+                ]
+            },
+            "properties": {
+                "name": "Lac Mihindi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.786666666,
+                    -1.664722222
+                ]
+            },
+            "properties": {
+                "name": "Lac Muhari",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.484722222,
+                    -2.301666666
+                ]
+            },
+            "properties": {
+                "name": "Lac Nyabugongwe",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.833611111,
+                    -2.023333333
+                ]
+            },
+            "properties": {
+                "name": "Lac Nyanjogaruke",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.236111111,
+                    -2.185
+                ]
+            },
+            "properties": {
+                "name": "Lac Rumira",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.780555555,
+                    -1.957777777
+                ]
+            },
+            "properties": {
+                "name": "Lac Rwakibali",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.808611111,
+                    -2.044722222
+                ]
+            },
+            "properties": {
+                "name": "Lac Rwampanga",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.667222222,
+                    -1.466666666
+                ]
+            },
+            "properties": {
+                "name": "Lac Rwanyakizinga",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.395,
+                    -1.650833333
+                ]
+            },
+            "properties": {
+                "name": "Ibere rya Bigogwe",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.266666666,
+                    -1.910833333
+                ]
+            },
+            "properties": {
+                "name": "Bugarura Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.6575,
+                    -1.415277777
+                ]
+            },
+            "properties": {
+                "name": "Q49641925",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.839166666,
+                    -2.263888888
+                ]
+            },
+            "properties": {
+                "name": "Q49644153",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.617777777,
+                    -2.392777777
+                ]
+            },
+            "properties": {
+                "name": "Q49644158",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.634722222,
+                    -2.390555555
+                ]
+            },
+            "properties": {
+                "name": "Q49644159",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.781388888,
+                    -1.649444444
+                ]
+            },
+            "properties": {
+                "name": "Q49646111",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.430555555,
+                    -1.228611111
+                ]
+            },
+            "properties": {
+                "name": "Rwimiyaga",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.2947,
+                    -2.175
+                ]
+            },
+            "properties": {
+                "name": "Lake Birira",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.525,
+                    -2.144444444
+                ]
+            },
+            "properties": {
+                "name": "Birambo",
+                "article": "https://en.wikipedia.org/wiki/Birambo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.34,
+                    -2.0415
+                ]
+            },
+            "properties": {
+                "name": "Amahoro Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.8579322,
+                    -1.73274
+                ]
+            },
+            "properties": {
+                "name": "Rushashi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.8494886,
+                    -1.8283361
+                ]
+            },
+            "properties": {
+                "name": "Musasa",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.8943192,
+                    -1.8025081
+                ]
+            },
+            "properties": {
+                "name": "Ruganda",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.2503,
+                    -2.2277
+                ]
+            },
+            "properties": {
+                "name": "Lake Mirayi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.812,
+                    -2.046
+                ]
+            },
+            "properties": {
+                "name": "Lac Mpanga",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.715,
+                    -1.6136
+                ]
+            },
+            "properties": {
+                "name": "Q124536155",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.6661,
+                    -1.462
+                ]
+            },
+            "properties": {
+                "name": "Q124536733",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.7492,
+                    -1.8126
+                ]
+            },
+            "properties": {
+                "name": "Lake Birengero",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.7452,
+                    -1.864
+                ]
+            },
+            "properties": {
+                "name": "Lake Shakani",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.7658,
+                    -1.7909
+                ]
+            },
+            "properties": {
+                "name": "Lake Murambi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.7698,
+                    -1.7744
+                ]
+            },
+            "properties": {
+                "name": "Lake Murambya",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.058611111,
+                    -1.966111111
+                ]
+            },
+            "properties": {
+                "name": "Kwa Mutwe",
+                "article": null
+            }
+        }
+    ]
+}

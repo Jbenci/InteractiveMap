@@ -1,0 +1,1671 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    178.0,
+                    -17.8
+                ]
+            },
+            "properties": {
+                "name": "Viti Levu",
+                "article": "https://en.wikipedia.org/wiki/Viti_Levu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    179.183333333,
+                    -16.583333333
+                ]
+            },
+            "properties": {
+                "name": "Vanua Levu",
+                "article": "https://en.wikipedia.org/wiki/Vanua_Levu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    179.1,
+                    -17.11
+                ]
+            },
+            "properties": {
+                "name": "Namena Lala",
+                "article": "https://en.wikipedia.org/wiki/Namena_Lala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    179.366666666,
+                    -16.433333333
+                ]
+            },
+            "properties": {
+                "name": "Labasa",
+                "article": "https://en.wikipedia.org/wiki/Labasa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    177.383333333,
+                    -16.966666666
+                ]
+            },
+            "properties": {
+                "name": "Nanuya Levu",
+                "article": "https://en.wikipedia.org/wiki/Nanuya_Levu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    177.416666666,
+                    -17.8
+                ]
+            },
+            "properties": {
+                "name": "Nadi",
+                "article": "https://en.wikipedia.org/wiki/Nadi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    179.358333333,
+                    -16.746666666
+                ]
+            },
+            "properties": {
+                "name": "Savusavu",
+                "article": "https://en.wikipedia.org/wiki/Savusavu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -178.63527778,
+                    -18.84777778
+                ]
+            },
+            "properties": {
+                "name": "Namuka-i-Lau",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    179.866666666,
+                    -18.6
+                ]
+            },
+            "properties": {
+                "name": "Moala Island",
+                "article": "https://en.wikipedia.org/wiki/Moala_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -180.0,
+                    -16.5
+                ]
+            },
+            "properties": {
+                "name": "Rabi Island",
+                "article": "https://en.wikipedia.org/wiki/Rabi_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    177.2549985,
+                    -17.65444323
+                ]
+            },
+            "properties": {
+                "name": "Beachcomber Island",
+                "article": "https://en.wikipedia.org/wiki/Beachcomber_(island)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    177.452777777,
+                    -17.624166666
+                ]
+            },
+            "properties": {
+                "name": "Lautoka",
+                "article": "https://en.wikipedia.org/wiki/Lautoka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    178.25,
+                    -19.05
+                ]
+            },
+            "properties": {
+                "name": "Kadavu Island",
+                "article": "https://en.wikipedia.org/wiki/Kadavu_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.64,
+                    -21.738333333
+                ]
+            },
+            "properties": {
+                "name": "Conway Reef",
+                "article": "https://en.wikipedia.org/wiki/Conway_Reef"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    179.966666666,
+                    -16.816666666
+                ]
+            },
+            "properties": {
+                "name": "Taveuni",
+                "article": "https://en.wikipedia.org/wiki/Taveuni"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    178.790555555,
+                    -17.688055555
+                ]
+            },
+            "properties": {
+                "name": "Ovalau",
+                "article": "https://en.wikipedia.org/wiki/Ovalau"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -178.816666666,
+                    -17.666666666
+                ]
+            },
+            "properties": {
+                "name": "Tuvuca",
+                "article": "https://en.wikipedia.org/wiki/Tuvuca"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -179.5225,
+                    -17.25777778
+                ]
+            },
+            "properties": {
+                "name": "Yacata",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -179.15,
+                    -17.266666666
+                ]
+            },
+            "properties": {
+                "name": "Kanacea",
+                "article": "https://en.wikipedia.org/wiki/Kanacea"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -178.95,
+                    -18.95
+                ]
+            },
+            "properties": {
+                "name": "Kabara",
+                "article": "https://en.wikipedia.org/wiki/Kabara_(Fiji)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    179.4,
+                    -16.616666666
+                ]
+            },
+            "properties": {
+                "name": "Mount Nasorolevu",
+                "article": "https://en.wikipedia.org/wiki/Mount_Nasorolevu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    178.016666666,
+                    -17.633055555
+                ]
+            },
+            "properties": {
+                "name": "Mount Tomanivi",
+                "article": "https://en.wikipedia.org/wiki/Mount_Tomanivi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    178.966666666,
+                    -17.433333333
+                ]
+            },
+            "properties": {
+                "name": "Makogai",
+                "article": "https://en.wikipedia.org/wiki/Makogai"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -178.84833333,
+                    -21.03916667
+                ]
+            },
+            "properties": {
+                "name": "Tuvana-i-Ra",
+                "article": "https://en.wikipedia.org/wiki/Tuvana-i-Ra"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -178.783333333,
+                    -18.216666666
+                ]
+            },
+            "properties": {
+                "name": "Lakeba",
+                "article": "https://en.wikipedia.org/wiki/Lakeba"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    177.98,
+                    -19.13
+                ]
+            },
+            "properties": {
+                "name": "Mount Buke Levu",
+                "article": "https://en.wikipedia.org/wiki/Mount_Buke_Levu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    178.233333333,
+                    -17.316666666
+                ]
+            },
+            "properties": {
+                "name": "Nananu-i-Cake",
+                "article": "https://en.wikipedia.org/wiki/Nananu-i-Cake"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    177.513888888,
+                    -16.775833333
+                ]
+            },
+            "properties": {
+                "name": "Yasawa",
+                "article": "https://en.wikipedia.org/wiki/Yasawa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    177.13333,
+                    -17.36667
+                ]
+            },
+            "properties": {
+                "name": "Kuata",
+                "article": "https://en.wikipedia.org/wiki/Kuata"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    177.13759,
+                    -17.37058
+                ]
+            },
+            "properties": {
+                "name": "Kuata",
+                "article": "https://en.wikipedia.org/wiki/Kuata"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -179.483333333,
+                    -17.25
+                ]
+            },
+            "properties": {
+                "name": "Kaibu",
+                "article": "https://en.wikipedia.org/wiki/Kaibu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    178.146194444,
+                    -17.320361111
+                ]
+            },
+            "properties": {
+                "name": "Malake",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    177.28694444,
+                    -18.05611111
+                ]
+            },
+            "properties": {
+                "name": "Robinson Crusoe Island",
+                "article": "https://en.wikipedia.org/wiki/Robinson_Crusoe_Island_(Fiji)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -179.283333333,
+                    -17.016666666
+                ]
+            },
+            "properties": {
+                "name": "Naitaba",
+                "article": "https://en.wikipedia.org/wiki/Naitaba"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    178.516666666,
+                    -18.166666666
+                ]
+            },
+            "properties": {
+                "name": "Nukulau",
+                "article": "https://en.wikipedia.org/wiki/Nukulau"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    177.117222222,
+                    -12.524166666
+                ]
+            },
+            "properties": {
+                "name": "Solkope",
+                "article": "https://en.wikipedia.org/wiki/Solkope"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -179.175,
+                    -16.09167
+                ]
+            },
+            "properties": {
+                "name": "Qelelevu",
+                "article": "https://en.wikipedia.org/wiki/Qelelevu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -179.15,
+                    -16.06667
+                ]
+            },
+            "properties": {
+                "name": "Taininbeka",
+                "article": "https://en.wikipedia.org/wiki/Taininbeka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    178.783333333,
+                    -17.766666666
+                ]
+            },
+            "properties": {
+                "name": "Yanuca Levu",
+                "article": "https://en.wikipedia.org/wiki/Yanuca_Levu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    178.683166666,
+                    -17.583166666
+                ]
+            },
+            "properties": {
+                "name": "Naigani",
+                "article": "https://en.wikipedia.org/wiki/Naigani"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    177.127,
+                    -17.2867
+                ]
+            },
+            "properties": {
+                "name": "Waya Island",
+                "article": "https://en.wikipedia.org/wiki/Waya_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    177.0322222,
+                    -17.62555556
+                ]
+            },
+            "properties": {
+                "name": "Matamanoa",
+                "article": "https://en.wikipedia.org/wiki/Matamanoa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    177.19665,
+                    -17.77827
+                ]
+            },
+            "properties": {
+                "name": "Malolo Lailai",
+                "article": "https://en.wikipedia.org/wiki/Malolo_Lailai"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    177.945277777,
+                    -19.1275
+                ]
+            },
+            "properties": {
+                "name": "Nagigia Island",
+                "article": "https://en.wikipedia.org/wiki/Nagigia_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    177.583,
+                    -17.65
+                ]
+            },
+            "properties": {
+                "name": "Mount Koroyanitu",
+                "article": "https://en.wikipedia.org/wiki/Mount_Koroyanitu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    177.3723,
+                    -17.777
+                ]
+            },
+            "properties": {
+                "name": "Denarau",
+                "article": "https://en.wikipedia.org/wiki/Denarau_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    177.8625,
+                    -17.441388888
+                ]
+            },
+            "properties": {
+                "name": "Tavua",
+                "article": "https://en.wikipedia.org/wiki/Tavua,_Fiji"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    178.840127777,
+                    -17.684013888
+                ]
+            },
+            "properties": {
+                "name": "Levuka",
+                "article": "https://en.wikipedia.org/wiki/Levuka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    178.416666666,
+                    -18.116666666
+                ]
+            },
+            "properties": {
+                "name": "Lami",
+                "article": "https://en.wikipedia.org/wiki/Lami,_Fiji"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    178.545427777,
+                    -18.024444444
+                ]
+            },
+            "properties": {
+                "name": "Nausori",
+                "article": "https://en.wikipedia.org/wiki/Nausori"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    178.5,
+                    -18.066666666
+                ]
+            },
+            "properties": {
+                "name": "Nasinu",
+                "article": "https://en.wikipedia.org/wiki/Nasinu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    177.683333333,
+                    -17.533333333
+                ]
+            },
+            "properties": {
+                "name": "Ba",
+                "article": "https://en.wikipedia.org/wiki/Ba_(town)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    177.5,
+                    -18.15
+                ]
+            },
+            "properties": {
+                "name": "Sigatoka",
+                "article": "https://en.wikipedia.org/wiki/Sigatoka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    178.433333333,
+                    -18.133333333
+                ]
+            },
+            "properties": {
+                "name": "Suva",
+                "article": "https://en.wikipedia.org/wiki/Suva"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    177.1339,
+                    -17.7336
+                ]
+            },
+            "properties": {
+                "name": "Castaway Island",
+                "article": "https://en.wikipedia.org/wiki/Castaway_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    178.18333333,
+                    -19.07777778
+                ]
+            },
+            "properties": {
+                "name": "Galoa Island",
+                "article": "https://en.wikipedia.org/wiki/Galoa_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    176.96169,
+                    -12.48008
+                ]
+            },
+            "properties": {
+                "name": "Hatana",
+                "article": "https://en.wikipedia.org/wiki/Hatana"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -178.566666666,
+                    -19.133333333
+                ]
+            },
+            "properties": {
+                "name": "Fulaga",
+                "article": "https://en.wikipedia.org/wiki/Fulaga"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    178.533333333,
+                    -18.766666666
+                ]
+            },
+            "properties": {
+                "name": "Dravuni",
+                "article": "https://en.wikipedia.org/wiki/Dravuni"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -179.3,
+                    -17.75
+                ]
+            },
+            "properties": {
+                "name": "Cicia",
+                "article": "https://en.wikipedia.org/wiki/Cicia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    178.133333333,
+                    -18.4
+                ]
+            },
+            "properties": {
+                "name": "Beqa",
+                "article": "https://en.wikipedia.org/wiki/Beqa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    179.316666666,
+                    -18.066666666
+                ]
+            },
+            "properties": {
+                "name": "Gau Island",
+                "article": "https://en.wikipedia.org/wiki/Gau_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -179.15,
+                    -17.783333333
+                ]
+            },
+            "properties": {
+                "name": "Batiki",
+                "article": "https://en.wikipedia.org/wiki/Batiki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -178.62777778,
+                    -18.68333333
+                ]
+            },
+            "properties": {
+                "name": "Q1780663",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    177.033888888,
+                    -17.608888888
+                ]
+            },
+            "properties": {
+                "name": "Monuriki",
+                "article": "https://en.wikipedia.org/wiki/Monuriki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -179.766666666,
+                    -16.766666666
+                ]
+            },
+            "properties": {
+                "name": "Qamea",
+                "article": "https://en.wikipedia.org/wiki/Qamea"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -179.15,
+                    -17.45
+                ]
+            },
+            "properties": {
+                "name": "Mago Island",
+                "article": "https://en.wikipedia.org/wiki/Mago_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -178.9,
+                    -18.866666666
+                ]
+            },
+            "properties": {
+                "name": "Vuaqava",
+                "article": "https://en.wikipedia.org/wiki/Vuaqava"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    179.766666666,
+                    -19.166666666
+                ]
+            },
+            "properties": {
+                "name": "Matuku Island",
+                "article": "https://en.wikipedia.org/wiki/Matuku_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -178.50555556,
+                    -18.65
+                ]
+            },
+            "properties": {
+                "name": "Q1941635",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    179.416944444,
+                    -17.803333333
+                ]
+            },
+            "properties": {
+                "name": "Nairai",
+                "article": "https://en.wikipedia.org/wiki/Nairai"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    179.416667,
+                    -17.8
+                ]
+            },
+            "properties": {
+                "name": "Nairai",
+                "article": "https://en.wikipedia.org/wiki/Nairai"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    177.616666666,
+                    -18.533333333
+                ]
+            },
+            "properties": {
+                "name": "Vatulele",
+                "article": "https://en.wikipedia.org/wiki/Vatulele"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -178.47583333,
+                    -18.44
+                ]
+            },
+            "properties": {
+                "name": "Q2024128",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    178.783166666,
+                    -17.75
+                ]
+            },
+            "properties": {
+                "name": "Yanuca Lailai",
+                "article": "https://en.wikipedia.org/wiki/Yanuca_Lailai"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    178.216666666,
+                    -17.3
+                ]
+            },
+            "properties": {
+                "name": "Nananu-i-Ra",
+                "article": "https://en.wikipedia.org/wiki/Nananu-i-Ra"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    177.246083,
+                    -17.114472
+                ]
+            },
+            "properties": {
+                "name": "Naviti",
+                "article": "https://en.wikipedia.org/wiki/Naviti"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -179.533333333,
+                    -17.433333333
+                ]
+            },
+            "properties": {
+                "name": "Vatu Vara",
+                "article": "https://en.wikipedia.org/wiki/Vatu_Vara"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    177.8525,
+                    -12.511667
+                ]
+            },
+            "properties": {
+                "name": "Rotuma Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    178.746111111,
+                    -17.764444444
+                ]
+            },
+            "properties": {
+                "name": "Moturiki",
+                "article": "https://en.wikipedia.org/wiki/Moturiki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    178.75,
+                    -17.75
+                ]
+            },
+            "properties": {
+                "name": "Moturiki",
+                "article": "https://en.wikipedia.org/wiki/Moturiki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -178.25,
+                    -19.816666666
+                ]
+            },
+            "properties": {
+                "name": "Vatoa",
+                "article": "https://en.wikipedia.org/wiki/Vatoa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -178.933333333,
+                    -17.216666666
+                ]
+            },
+            "properties": {
+                "name": "Vanua Balavu",
+                "article": "https://en.wikipedia.org/wiki/Vanua_Balavu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -179.833,
+                    -18.95
+                ]
+            },
+            "properties": {
+                "name": "Totoya",
+                "article": "https://en.wikipedia.org/wiki/Totoya"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    178.61544,
+                    -17.97241
+                ]
+            },
+            "properties": {
+                "name": "Bau",
+                "article": "https://en.wikipedia.org/wiki/Bau_(island)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -179.75,
+                    -16.733333333
+                ]
+            },
+            "properties": {
+                "name": "Matagi Island",
+                "article": "https://en.wikipedia.org/wiki/Matagi_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    178.279166666,
+                    -16.833333333
+                ]
+            },
+            "properties": {
+                "name": "Yadua Tabu",
+                "article": "https://en.wikipedia.org/wiki/Yadua_Tabu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    179.916666666,
+                    -16.65
+                ]
+            },
+            "properties": {
+                "name": "Kioa",
+                "article": "https://en.wikipedia.org/wiki/Kioa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    177.166666666,
+                    -17.75
+                ]
+            },
+            "properties": {
+                "name": "Malolo",
+                "article": "https://en.wikipedia.org/wiki/Malolo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -178.73805556,
+                    -20.99666667
+                ]
+            },
+            "properties": {
+                "name": "Tuvana-i-Colo",
+                "article": "https://en.wikipedia.org/wiki/Tuvana-i-Colo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -179.271388888,
+                    -18.372222222
+                ]
+            },
+            "properties": {
+                "name": "Vanua Vatu",
+                "article": "https://en.wikipedia.org/wiki/Vanua_Vatu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -179.2711111,
+                    -18.37083333
+                ]
+            },
+            "properties": {
+                "name": "Vanua Vatu",
+                "article": "https://en.wikipedia.org/wiki/Vanua_Vatu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -179.683333333,
+                    -16.75
+                ]
+            },
+            "properties": {
+                "name": "Laucala",
+                "article": "https://en.wikipedia.org/wiki/Laucala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    178.48333,
+                    -18.9
+                ]
+            },
+            "properties": {
+                "name": "Ono Island",
+                "article": "https://en.wikipedia.org/wiki/Ono_Island_(Fiji)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    178.721944444,
+                    -17.808611111
+                ]
+            },
+            "properties": {
+                "name": "Leleuvia",
+                "article": "https://en.wikipedia.org/wiki/Leleuvia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -179.05,
+                    -17.98333333
+                ]
+            },
+            "properties": {
+                "name": "Nayau",
+                "article": "https://en.wikipedia.org/wiki/Nayau"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -179.05194444,
+                    -17.97861111
+                ]
+            },
+            "properties": {
+                "name": "Nayau",
+                "article": "https://en.wikipedia.org/wiki/Nayau"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -179.083333333,
+                    -16.75
+                ]
+            },
+            "properties": {
+                "name": "Wailagi Lala",
+                "article": "https://en.wikipedia.org/wiki/Wailagi_Lala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    177.416666666,
+                    -16.883333333
+                ]
+            },
+            "properties": {
+                "name": "Nacula",
+                "article": "https://en.wikipedia.org/wiki/Nacula"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    177.201791,
+                    -17.857702
+                ]
+            },
+            "properties": {
+                "name": "Tavarua",
+                "article": "https://en.wikipedia.org/wiki/Tavarua"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    179.967,
+                    -16.8167
+                ]
+            },
+            "properties": {
+                "name": "Mount Uluigalau",
+                "article": "https://en.wikipedia.org/wiki/Mount_Uluigalau"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    177.1,
+                    -17.68333333
+                ]
+            },
+            "properties": {
+                "name": "Mana Island",
+                "article": "https://en.wikipedia.org/wiki/Mana_Island_(Fiji)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    178.448677777,
+                    -18.090411111
+                ]
+            },
+            "properties": {
+                "name": "Mataika House",
+                "article": "https://en.wikipedia.org/wiki/Mataika_House"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    177.05,
+                    -17.6
+                ]
+            },
+            "properties": {
+                "name": "Monu Island",
+                "article": "https://en.wikipedia.org/wiki/Monu_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    177.61,
+                    -17.56
+                ]
+            },
+            "properties": {
+                "name": "Nanuya Lailai",
+                "article": "https://en.wikipedia.org/wiki/Nanuya_Lailai"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -178.416666666,
+                    -19.2
+                ]
+            },
+            "properties": {
+                "name": "Ogea Driki",
+                "article": "https://en.wikipedia.org/wiki/Ogea_Driki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    178.723,
+                    -16.627
+                ]
+            },
+            "properties": {
+                "name": "Tavewa",
+                "article": "https://en.wikipedia.org/wiki/Tavewa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -179.967,
+                    -16.8167
+                ]
+            },
+            "properties": {
+                "name": "Taveuni",
+                "article": "https://en.wikipedia.org/wiki/Mount_Taveuni"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    177.1,
+                    -17.6167
+                ]
+            },
+            "properties": {
+                "name": "Tavua Island",
+                "article": "https://en.wikipedia.org/wiki/Tavua_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    177.1,
+                    -17.583333333
+                ]
+            },
+            "properties": {
+                "name": "Tokoriki",
+                "article": "https://en.wikipedia.org/wiki/Tokoriki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    179.310277777,
+                    -16.341388888
+                ]
+            },
+            "properties": {
+                "name": "Vorovoro",
+                "article": "https://en.wikipedia.org/wiki/Vorovoro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -178.683333333,
+                    -20.6
+                ]
+            },
+            "properties": {
+                "name": "Yanuca",
+                "article": "https://en.wikipedia.org/wiki/Yanuca"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    178.119657,
+                    -17.993521
+                ]
+            },
+            "properties": {
+                "name": "Mount Voma",
+                "article": "https://en.wikipedia.org/wiki/Mount_Voma"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    179.14,
+                    -16.54
+                ]
+            },
+            "properties": {
+                "name": "Seaqaqa",
+                "article": "https://en.wikipedia.org/wiki/Seaqaqa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    176.99144444,
+                    -12.46576389
+                ]
+            },
+            "properties": {
+                "name": "Uea",
+                "article": "https://en.wikipedia.org/wiki/Uea"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    177.126716666,
+                    -17.628172222
+                ]
+            },
+            "properties": {
+                "name": "Nautanivono",
+                "article": "https://en.wikipedia.org/wiki/Nautanivono"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    177.147777777,
+                    -12.5225
+                ]
+            },
+            "properties": {
+                "name": "Afgaha",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    179.316666666,
+                    -18.066666666
+                ]
+            },
+            "properties": {
+                "name": "Gau Island",
+                "article": "https://en.wikipedia.org/wiki/Gau_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -179.15,
+                    -17.783333333
+                ]
+            },
+            "properties": {
+                "name": "Batiki",
+                "article": "https://en.wikipedia.org/wiki/Batiki"
+            }
+        }
+    ]
+}

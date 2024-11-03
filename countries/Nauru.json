@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.9111111,
+                    -0.53611111
+                ]
+            },
+            "properties": {
+                "name": "Aiue Boulevard",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.922288888,
+                    -0.535063888
+                ]
+            },
+            "properties": {
+                "name": "Buada Lagoon",
+                "article": "https://en.wikipedia.org/wiki/Buada_Lagoon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.916924,
+                    -0.530552
+                ]
+            },
+            "properties": {
+                "name": "Command Ridge",
+                "article": "https://en.wikipedia.org/wiki/Command_Ridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.955555555,
+                    -0.512222222
+                ]
+            },
+            "properties": {
+                "name": "Q4064690",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.933333333,
+                    -0.533333333
+                ]
+            },
+            "properties": {
+                "name": "Nauru",
+                "article": "https://en.wikipedia.org/wiki/Nauru_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.920867,
+                    -0.5477
+                ]
+            },
+            "properties": {
+                "name": "Yaren District",
+                "article": "https://en.wikipedia.org/wiki/Yaren_District"
+            }
+        }
+    ]
+}

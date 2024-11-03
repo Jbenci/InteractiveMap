@@ -1,0 +1,831 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.6,
+                    -0.333333333
+                ]
+            },
+            "properties": {
+                "name": "Lake Edward",
+                "article": "https://en.wikipedia.org/wiki/Lake_Edward"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.916666666,
+                    1.683333333
+                ]
+            },
+            "properties": {
+                "name": "Lake Albert",
+                "article": "https://en.wikipedia.org/wiki/Lake_Albert_(Africa)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.46,
+                    0.05
+                ]
+            },
+            "properties": {
+                "name": "Entebbe",
+                "article": "https://en.wikipedia.org/wiki/Entebbe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.9,
+                    0.36666667
+                ]
+            },
+            "properties": {
+                "name": "Mount Baker",
+                "article": "https://en.wikipedia.org/wiki/Mount_Baker_(Uganda)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.116666666,
+                    0.25
+                ]
+            },
+            "properties": {
+                "name": "Bunyaruguru",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.5,
+                    2.45
+                ]
+            },
+            "properties": {
+                "name": "Pakwach",
+                "article": "https://en.wikipedia.org/wiki/Pakwach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.7,
+                    1.716666666
+                ]
+            },
+            "properties": {
+                "name": "Lake Kwania",
+                "article": "https://en.wikipedia.org/wiki/Lake_Kwania"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.91,
+                    3.03
+                ]
+            },
+            "properties": {
+                "name": "Arua",
+                "article": "https://en.wikipedia.org/wiki/Arua"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.6,
+                    -1.4
+                ]
+            },
+            "properties": {
+                "name": "Mount Sabyinyo",
+                "article": "https://en.wikipedia.org/wiki/Mount_Sabyinyo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.305555555,
+                    2.766666666
+                ]
+            },
+            "properties": {
+                "name": "Gulu",
+                "article": "https://en.wikipedia.org/wiki/Gulu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.5265,
+                    1.1185
+                ]
+            },
+            "properties": {
+                "name": "Mount Elgon",
+                "article": "https://en.wikipedia.org/wiki/Mount_Elgon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.892222222,
+                    0.398055555
+                ]
+            },
+            "properties": {
+                "name": "Mount Speke",
+                "article": "https://en.wikipedia.org/wiki/Mount_Speke"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.25,
+                    0.15
+                ]
+            },
+            "properties": {
+                "name": "Bigo Bya Mugenyi",
+                "article": "https://en.wikipedia.org/wiki/Bigo_bya_Mugenyi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.6435,
+                    -1.3873
+                ]
+            },
+            "properties": {
+                "name": "Mount Gahinga",
+                "article": "https://en.wikipedia.org/wiki/Mount_Gahinga"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.31195,
+                    -0.638611111
+                ]
+            },
+            "properties": {
+                "name": "Bugala Island",
+                "article": "https://en.wikipedia.org/wiki/Bugala_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.63888889,
+                    0.39722222
+                ]
+            },
+            "properties": {
+                "name": "Kira Town",
+                "article": "https://en.wikipedia.org/wiki/Kira_Town"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.916666666,
+                    -1.283333333
+                ]
+            },
+            "properties": {
+                "name": "Lake Bunyonyi",
+                "article": "https://en.wikipedia.org/wiki/Lake_Bunyonyi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.917,
+                    -1.283
+                ]
+            },
+            "properties": {
+                "name": "Lake Bunyonyi",
+                "article": "https://en.wikipedia.org/wiki/Lake_Bunyonyi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.9,
+                    2.248888888
+                ]
+            },
+            "properties": {
+                "name": "Lira",
+                "article": "https://en.wikipedia.org/wiki/Lira,_Uganda"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.1749506,
+                    1.0711896
+                ]
+            },
+            "properties": {
+                "name": "Mbale",
+                "article": "https://en.wikipedia.org/wiki/Mbale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.180833333,
+                    0.692777777
+                ]
+            },
+            "properties": {
+                "name": "Tororo",
+                "article": "https://en.wikipedia.org/wiki/Tororo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.988333333,
+                    0.23
+                ]
+            },
+            "properties": {
+                "name": "Kasese",
+                "article": "https://en.wikipedia.org/wiki/Kasese"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.08333333,
+                    -0.66666667
+                ]
+            },
+            "properties": {
+                "name": "Koki Lakes",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.7725,
+                    2.525
+                ]
+            },
+            "properties": {
+                "name": "Mount Moroto",
+                "article": "https://en.wikipedia.org/wiki/Mount_Moroto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.2,
+                    0.0
+                ]
+            },
+            "properties": {
+                "name": "Lake George",
+                "article": "https://en.wikipedia.org/wiki/Lake_George_(Uganda)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.47222222,
+                    1.235
+                ]
+            },
+            "properties": {
+                "name": "Rukwanzi Island",
+                "article": "https://en.wikipedia.org/wiki/Rukwanzi_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.9,
+                    -0.37
+                ]
+            },
+            "properties": {
+                "name": "Lake Nabugabo",
+                "article": "https://en.wikipedia.org/wiki/Lake_Nabugabo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.616666666,
+                    1.683333333
+                ]
+            },
+            "properties": {
+                "name": "Soroti",
+                "article": "https://en.wikipedia.org/wiki/Soroti"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.24805556,
+                    1.22944444
+                ]
+            },
+            "properties": {
+                "name": "Sironko",
+                "article": "https://en.wikipedia.org/wiki/Sironko"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.840555555,
+                    0.328333333
+                ]
+            },
+            "properties": {
+                "name": "Lake Wamala",
+                "article": "https://en.wikipedia.org/wiki/Lake_Wamala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.716666666,
+                    -1.3
+                ]
+            },
+            "properties": {
+                "name": "Bufumbira",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.25,
+                    0.7
+                ]
+            },
+            "properties": {
+                "name": "Fort Portal",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.191,
+                    -0.471
+                ]
+            },
+            "properties": {
+                "name": "Katunga",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.92,
+                    -0.08
+                ]
+            },
+            "properties": {
+                "name": "Katwe-Kikorongo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.25,
+                    0.45
+                ]
+            },
+            "properties": {
+                "name": "Kyatwa",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.709166666,
+                    1.763055555
+                ]
+            },
+            "properties": {
+                "name": "Mount Kadam",
+                "article": "https://en.wikipedia.org/wiki/Mount_Kadam"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.56611111,
+                    0.30166667
+                ]
+            },
+            "properties": {
+                "name": "Battle of Mengo Hill",
+                "article": "https://en.wikipedia.org/wiki/Mengo_Crisis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.3,
+                    -0.416666666
+                ]
+            },
+            "properties": {
+                "name": "Bubembe Island",
+                "article": "https://en.wikipedia.org/wiki/Bubembe_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.25,
+                    0.033333333
+                ]
+            },
+            "properties": {
+                "name": "Bugaia Island",
+                "article": "https://en.wikipedia.org/wiki/Bugaia_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.75,
+                    1.3
+                ]
+            },
+            "properties": {
+                "name": "Bukwa",
+                "article": "https://en.wikipedia.org/wiki/Bukwo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.55833333,
+                    0.30972222
+                ]
+            },
+            "properties": {
+                "name": "Bulange",
+                "article": "https://en.wikipedia.org/wiki/Bulange"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.76511,
+                    0.74157
+                ]
+            },
+            "properties": {
+                "name": "Bulange",
+                "article": "https://en.wikipedia.org/wiki/Bulange"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.63,
+                    0.22361111
+                ]
+            },
+            "properties": {
+                "name": "Bulingugwe Island",
+                "article": "https://en.wikipedia.org/wiki/Bulingugwe_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.2667,
+                    0.216667
+                ]
+            },
+            "properties": {
+                "name": "Buvuma Island",
+                "article": "https://en.wikipedia.org/wiki/Buvuma_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.273333333,
+                    0.224444444
+                ]
+            },
+            "properties": {
+                "name": "Buvuma Island",
+                "article": "https://en.wikipedia.org/wiki/Buvuma_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.276953737,
+                    0.2419937
+                ]
+            },
+            "properties": {
+                "name": "Buvuma Island",
+                "article": "https://en.wikipedia.org/wiki/Buvuma_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.916666666,
+                    0.45
+                ]
+            },
+            "properties": {
+                "name": "Q5858254",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.370323261,
+                    2.214068954
+                ]
+            },
+            "properties": {
+                "name": "Oyam",
+                "article": "https://en.wikipedia.org/wiki/Oyam,_Uganda"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.734166666,
+                    -0.061388888
+                ]
+            },
+            "properties": {
+                "name": "Koome Island",
+                "article": "https://en.wikipedia.org/wiki/Koome_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.75,
+                    -0.085
+                ]
+            },
+            "properties": {
+                "name": "Koome Island",
+                "article": "https://en.wikipedia.org/wiki/Koome_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.96194444,
+                    1.60777778
+                ]
+            },
+            "properties": {
+                "name": "Lake Bisina",
+                "article": "https://en.wikipedia.org/wiki/Lake_Bisina"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.67,
+                    -1.235
+                ]
+            },
+            "properties": {
+                "name": "Lake Mutanda",
+                "article": "https://en.wikipedia.org/wiki/Lake_Mutanda"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.23333333,
+                    1.7
+                ]
+            },
+            "properties": {
+                "name": "Lake Opeta",
+                "article": "https://en.wikipedia.org/wiki/Lake_Opeta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.64055556,
+                    0.29972222
+                ]
+            },
+            "properties": {
+                "name": "Luzira Maximum Security Prison",
+                "article": "https://en.wikipedia.org/wiki/Luzira_Maximum_Security_Prison"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.033333333,
+                    3.816666666
+                ]
+            },
+            "properties": {
+                "name": "Mount Morungole",
+                "article": "https://en.wikipedia.org/wiki/Mount_Morungole"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.03138889,
+                    3.21472222
+                ]
+            },
+            "properties": {
+                "name": "Mount Wati",
+                "article": "https://en.wikipedia.org/wiki/Mount_Wati"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.986944,
+                    4.125
+                ]
+            },
+            "properties": {
+                "name": "Mount Zulia",
+                "article": "https://en.wikipedia.org/wiki/Mount_Zulia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.581111111,
+                    0.313611111
+                ]
+            },
+            "properties": {
+                "name": "Kampala",
+                "article": "https://en.wikipedia.org/wiki/Kampala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.0,
+                    -1.0
+                ]
+            },
+            "properties": {
+                "name": "Lake Victoria",
+                "article": "https://en.wikipedia.org/wiki/Lake_Victoria"
+            }
+        }
+    ]
+}

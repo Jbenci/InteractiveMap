@@ -1,0 +1,1125 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.23,
+                    13.015
+                ]
+            },
+            "properties": {
+                "name": "Bequia",
+                "article": "https://en.wikipedia.org/wiki/Bequia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.2,
+                    13.25
+                ]
+            },
+            "properties": {
+                "name": "Saint Vincent",
+                "article": "https://en.wikipedia.org/wiki/Saint_Vincent_(Saint_Vincent_and_the_Grenadines)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.433333333,
+                    12.6
+                ]
+            },
+            "properties": {
+                "name": "Union Island",
+                "article": "https://en.wikipedia.org/wiki/Union_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.183333333,
+                    12.866666666
+                ]
+            },
+            "properties": {
+                "name": "Mustique",
+                "article": "https://en.wikipedia.org/wiki/Mustique"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.333333333,
+                    12.716666666
+                ]
+            },
+            "properties": {
+                "name": "Canouan",
+                "article": "https://en.wikipedia.org/wiki/Canouan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.383333333,
+                    12.533333333
+                ]
+            },
+            "properties": {
+                "name": "Petit Saint Vincent",
+                "article": "https://en.wikipedia.org/wiki/Petit_Saint_Vincent"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.396388888,
+                    12.586388888
+                ]
+            },
+            "properties": {
+                "name": "Palm Island",
+                "article": "https://en.wikipedia.org/wiki/Palm_Island,_Grenadines"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.133333333,
+                    12.95
+                ]
+            },
+            "properties": {
+                "name": "Baliceaux",
+                "article": "https://en.wikipedia.org/wiki/Baliceaux"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.1309,
+                    12.9613
+                ]
+            },
+            "properties": {
+                "name": "Bettowia",
+                "article": "https://en.wikipedia.org/wiki/Battowia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.2025,
+                    13.13055556
+                ]
+            },
+            "properties": {
+                "name": "Young Island",
+                "article": "https://en.wikipedia.org/wiki/Young_Island_(Grenadines)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.383333333,
+                    12.65
+                ]
+            },
+            "properties": {
+                "name": "Mayreau",
+                "article": "https://en.wikipedia.org/wiki/Mayreau"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.35,
+                    12.633333333
+                ]
+            },
+            "properties": {
+                "name": "Tobago Cays",
+                "article": "https://en.wikipedia.org/wiki/Tobago_Cays"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.268611111,
+                    13.203333333
+                ]
+            },
+            "properties": {
+                "name": "Layou",
+                "article": "https://en.wikipedia.org/wiki/Layou"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.271944444,
+                    13.235833333
+                ]
+            },
+            "properties": {
+                "name": "Barrouallie",
+                "article": "https://en.wikipedia.org/wiki/Barrouallie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.234444444,
+                    13.011111111
+                ]
+            },
+            "properties": {
+                "name": "Port Elizabeth",
+                "article": "https://en.wikipedia.org/wiki/Port_Elizabeth,_Saint_Vincent_and_the_Grenadines"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.209444444,
+                    13.1425
+                ]
+            },
+            "properties": {
+                "name": "Arnos Vale",
+                "article": "https://en.wikipedia.org/wiki/Arnos_Vale,_Saint_Vincent_and_the_Grenadines"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.233333333,
+                    13.233333333
+                ]
+            },
+            "properties": {
+                "name": "Grand Bonhomme",
+                "article": "https://en.wikipedia.org/wiki/Grand_Bonhomme"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.323333333,
+                    12.721666666
+                ]
+            },
+            "properties": {
+                "name": "Petite Canouan",
+                "article": "https://en.wikipedia.org/wiki/Petit_Canouan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.27961,
+                    12.79224
+                ]
+            },
+            "properties": {
+                "name": "Petite Canouan",
+                "article": "https://en.wikipedia.org/wiki/Petit_Canouan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.194755555,
+                    12.839102777
+                ]
+            },
+            "properties": {
+                "name": "Petite Mustique",
+                "article": "https://en.wikipedia.org/wiki/Petite_Mustique"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.2526,
+                    12.9542
+                ]
+            },
+            "properties": {
+                "name": "Quatre",
+                "article": "https://en.wikipedia.org/wiki/Quatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.211,
+                    12.8072
+                ]
+            },
+            "properties": {
+                "name": "Savan Island",
+                "article": "https://en.wikipedia.org/wiki/Savan_(island)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.201111666,
+                    13.139438333
+                ]
+            },
+            "properties": {
+                "name": "Villa",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.39967,
+                    12.51477
+                ]
+            },
+            "properties": {
+                "name": "Fota, Grenadines",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.4,
+                    12.51667
+                ]
+            },
+            "properties": {
+                "name": "Fota, Grenadines",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.23827,
+                    12.98449
+                ]
+            },
+            "properties": {
+                "name": "Samples Cay",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.24116,
+                    12.98051
+                ]
+            },
+            "properties": {
+                "name": "Saint Elairs Cay",
+                "article": "https://en.wikipedia.org/wiki/Saint_Elairs_Cay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.276835,
+                    12.947437
+                ]
+            },
+            "properties": {
+                "name": "Pigeon Island",
+                "article": "https://en.wikipedia.org/wiki/Pigeon_Island_(Grenadines)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.274722,
+                    12.947222
+                ]
+            },
+            "properties": {
+                "name": "Pigeon Island",
+                "article": "https://en.wikipedia.org/wiki/Pigeon_Island_(Grenadines)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.274577,
+                    12.947298
+                ]
+            },
+            "properties": {
+                "name": "Pigeon Island",
+                "article": "https://en.wikipedia.org/wiki/Pigeon_Island_(Grenadines)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.25,
+                    13.15
+                ]
+            },
+            "properties": {
+                "name": "Edinboro",
+                "article": "https://en.wikipedia.org/wiki/Edinboro,_Saint_Vincent_and_the_Grenadines"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.24444,
+                    13.1575
+                ]
+            },
+            "properties": {
+                "name": "Edinboro",
+                "article": "https://en.wikipedia.org/wiki/Edinboro,_Saint_Vincent_and_the_Grenadines"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.1401,
+                    12.91847
+                ]
+            },
+            "properties": {
+                "name": "All Awash Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.216666666,
+                    13.183333333
+                ]
+            },
+            "properties": {
+                "name": "Mount Saint Andrew",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.2017,
+                    13.1967
+                ]
+            },
+            "properties": {
+                "name": "Petit Bonhomme, St Vincent",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.2327,
+                    13.284
+                ]
+            },
+            "properties": {
+                "name": "Kukunjare",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.18775,
+                    13.28648
+                ]
+            },
+            "properties": {
+                "name": "Mount Brisbane, St Vincent",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.44271,
+                    12.59603
+                ]
+            },
+            "properties": {
+                "name": "Mount Taboi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.18123,
+                    12.90891
+                ]
+            },
+            "properties": {
+                "name": "Little Pillory",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.17278,
+                    12.91213
+                ]
+            },
+            "properties": {
+                "name": "Big Pillory",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.17767,
+                    12.90949
+                ]
+            },
+            "properties": {
+                "name": "Middle Pillory",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.35512,
+                    12.63454
+                ]
+            },
+            "properties": {
+                "name": "Baradal",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.40147,
+                    12.66073
+                ]
+            },
+            "properties": {
+                "name": "Catholic Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.24685,
+                    13.29801
+                ]
+            },
+            "properties": {
+                "name": "Chateaubelair Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.13445,
+                    12.95451
+                ]
+            },
+            "properties": {
+                "name": "Church Cay",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.215,
+                    13.133333333
+                ]
+            },
+            "properties": {
+                "name": "Dike Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.35094,
+                    12.68965
+                ]
+            },
+            "properties": {
+                "name": "Dove Cay",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.20576,
+                    13.13473
+                ]
+            },
+            "properties": {
+                "name": "Dove Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.216666666,
+                    13.133333333
+                ]
+            },
+            "properties": {
+                "name": "Duvernette Islet",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.43666,
+                    12.58011
+                ]
+            },
+            "properties": {
+                "name": "Frigate Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.14725,
+                    12.96121
+                ]
+            },
+            "properties": {
+                "name": "Garlin Cay",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.4085,
+                    12.60159
+                ]
+            },
+            "properties": {
+                "name": "Red Island, Grenadines",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.21736,
+                    12.79793
+                ]
+            },
+            "properties": {
+                "name": "Savan Rock",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.21762,
+                    13.02119
+                ]
+            },
+            "properties": {
+                "name": "Spring Cay",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.2027,
+                    13.13051
+                ]
+            },
+            "properties": {
+                "name": "Young Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.39431,
+                    12.63854
+                ]
+            },
+            "properties": {
+                "name": "Q32322858",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.36096,
+                    12.63351
+                ]
+            },
+            "properties": {
+                "name": "Petit Bateau",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.35916,
+                    12.63783
+                ]
+            },
+            "properties": {
+                "name": "Petit Rameau",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.1608,
+                    12.8854
+                ]
+            },
+            "properties": {
+                "name": "Brooks Rock",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.183333333,
+                    13.333333333
+                ]
+            },
+            "properties": {
+                "name": "La Soufrière",
+                "article": "https://en.wikipedia.org/wiki/La_Soufri%C3%A8re_(Saint_Vincent)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.22742,
+                    13.15527
+                ]
+            },
+            "properties": {
+                "name": "Kingstown",
+                "article": "https://en.wikipedia.org/wiki/Kingstown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.233333333,
+                    13.166666666
+                ]
+            },
+            "properties": {
+                "name": "Kingstown",
+                "article": "https://en.wikipedia.org/wiki/Kingstown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.36064,
+                    12.62859
+                ]
+            },
+            "properties": {
+                "name": "Jamesby",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.39566,
+                    12.65912
+                ]
+            },
+            "properties": {
+                "name": "Jondell",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.34884,
+                    12.69268
+                ]
+            },
+            "properties": {
+                "name": "L’Islot",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.21595,
+                    12.80318
+                ]
+            },
+            "properties": {
+                "name": "Little Savan",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.16445,
+                    13.12567
+                ]
+            },
+            "properties": {
+                "name": "Milligan Cay",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.19453,
+                    12.83887
+                ]
+            },
+            "properties": {
+                "name": "Mustique Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.19777,
+                    12.84716
+                ]
+            },
+            "properties": {
+                "name": "Petit Cay, Grenadines",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.39109,
+                    12.58371
+                ]
+            },
+            "properties": {
+                "name": "Petit Prune",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.34869,
+                    12.62283
+                ]
+            },
+            "properties": {
+                "name": "Petit Tobac",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.2747,
+                    12.94731
+                ]
+            },
+            "properties": {
+                "name": "Pigeon Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.17505,
+                    12.86667
+                ]
+            },
+            "properties": {
+                "name": "Rabbit Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.12756,
+                    12.96671
+                ]
+            },
+            "properties": {
+                "name": "Bullet",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.41166,
+                    12.65554
+                ]
+            },
+            "properties": {
+                "name": "Pelican Rock",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.41001,
+                    12.65784
+                ]
+            },
+            "properties": {
+                "name": "Ellen Rock",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.31667,
+                    12.72621
+                ]
+            },
+            "properties": {
+                "name": "Mount Royal",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.40982,
+                    12.59683
+                ]
+            },
+            "properties": {
+                "name": "Thompson Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.4099,
+                    12.59365
+                ]
+            },
+            "properties": {
+                "name": "Happy Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.1981,
+                    13.29107
+                ]
+            },
+            "properties": {
+                "name": "Richmond Peak",
+                "article": null
+            }
+        }
+    ]
+}

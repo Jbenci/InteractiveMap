@@ -1,0 +1,1699 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.525,
+                    41.637222222
+                ]
+            },
+            "properties": {
+                "name": "Deshat",
+                "article": "https://en.wikipedia.org/wiki/Deshat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.191388888,
+                    41.735833333
+                ]
+            },
+            "properties": {
+                "name": "Štip",
+                "article": "https://en.wikipedia.org/wiki/%C5%A0tip"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.391944444,
+                    42.016666666
+                ]
+            },
+            "properties": {
+                "name": "Scupi",
+                "article": "https://en.wikipedia.org/wiki/Scupi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.716666666,
+                    41.033333333
+                ]
+            },
+            "properties": {
+                "name": "Lake Ohrid",
+                "article": "https://en.wikipedia.org/wiki/Lake_Ohrid"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.678888888,
+                    41.1775
+                ]
+            },
+            "properties": {
+                "name": "Struga",
+                "article": "https://en.wikipedia.org/wiki/Struga"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.971388888,
+                    42.010277777
+                ]
+            },
+            "properties": {
+                "name": "Tetovo",
+                "article": "https://en.wikipedia.org/wiki/Tetovo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.248333333,
+                    41.37
+                ]
+            },
+            "properties": {
+                "name": "Kruševo",
+                "article": "https://en.wikipedia.org/wiki/Kru%C5%A1evo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.554166666,
+                    41.346388888
+                ]
+            },
+            "properties": {
+                "name": "Prilep",
+                "article": "https://en.wikipedia.org/wiki/Prilep"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.775277777,
+                    41.715277777
+                ]
+            },
+            "properties": {
+                "name": "Veles",
+                "article": "https://en.wikipedia.org/wiki/Veles,_North_Macedonia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.916666666,
+                    41.8
+                ]
+            },
+            "properties": {
+                "name": "Gostivar",
+                "article": "https://en.wikipedia.org/wiki/Gostivar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.5025,
+                    41.139166666
+                ]
+            },
+            "properties": {
+                "name": "Gevgelija",
+                "article": "https://en.wikipedia.org/wiki/Gevgelija"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.334722222,
+                    41.031944444
+                ]
+            },
+            "properties": {
+                "name": "Bitola",
+                "article": "https://en.wikipedia.org/wiki/Bitola"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.774722222,
+                    41.966111111
+                ]
+            },
+            "properties": {
+                "name": "Delčevo",
+                "article": "https://en.wikipedia.org/wiki/Del%C4%8Devo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.963055555,
+                    41.514166666
+                ]
+            },
+            "properties": {
+                "name": "Kičevo",
+                "article": "https://en.wikipedia.org/wiki/Ki%C4%8Devo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.75,
+                    41.216666666
+                ]
+            },
+            "properties": {
+                "name": "Dojran Lake",
+                "article": "https://en.wikipedia.org/wiki/Doiran_Lake"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.011666666,
+                    41.432777777
+                ]
+            },
+            "properties": {
+                "name": "Kavadarci",
+                "article": "https://en.wikipedia.org/wiki/Kavadarci"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.011666666,
+                    41.432777777
+                ]
+            },
+            "properties": {
+                "name": "Kavadarci",
+                "article": "https://en.wikipedia.org/wiki/Kavadarci"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.215277777,
+                    41.513333333
+                ]
+            },
+            "properties": {
+                "name": "Makedonski Brod",
+                "article": "https://en.wikipedia.org/wiki/Makedonski_Brod"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.890555555,
+                    41.759166666
+                ]
+            },
+            "properties": {
+                "name": "Pehčevo",
+                "article": "https://en.wikipedia.org/wiki/Peh%C4%8Devo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.089166666,
+                    41.483888888
+                ]
+            },
+            "properties": {
+                "name": "Negotino",
+                "article": "https://en.wikipedia.org/wiki/Negotino"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.05,
+                    40.9
+                ]
+            },
+            "properties": {
+                "name": "Lake Prespa",
+                "article": "https://en.wikipedia.org/wiki/Lake_Prespa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.4125,
+                    41.916666666
+                ]
+            },
+            "properties": {
+                "name": "Kočani",
+                "article": "https://en.wikipedia.org/wiki/Ko%C4%8Dani"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.9425,
+                    41.865
+                ]
+            },
+            "properties": {
+                "name": "Sveti Nikole",
+                "article": "https://en.wikipedia.org/wiki/Sveti_Nikole"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.885,
+                    41.035
+                ]
+            },
+            "properties": {
+                "name": "Battle of Dobro Pole",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Dobro_Pole"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.5,
+                    41.25
+                ]
+            },
+            "properties": {
+                "name": "Jablanica Mountains",
+                "article": "https://en.wikipedia.org/wiki/Jabllanica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.331666666,
+                    42.201666666
+                ]
+            },
+            "properties": {
+                "name": "Kriva Palanka",
+                "article": "https://en.wikipedia.org/wiki/Kriva_Palanka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.9859,
+                    42.0838
+                ]
+            },
+            "properties": {
+                "name": "Cocev Kamen",
+                "article": "https://en.wikipedia.org/wiki/Cocev_Kamen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.527222222,
+                    41.525
+                ]
+            },
+            "properties": {
+                "name": "Debar",
+                "article": "https://en.wikipedia.org/wiki/Debar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.572777777,
+                    41.203055555
+                ]
+            },
+            "properties": {
+                "name": "Bogdanci",
+                "article": "https://en.wikipedia.org/wiki/Bogdanci"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.561111111,
+                    41.316944444
+                ]
+            },
+            "properties": {
+                "name": "Valandovo",
+                "article": "https://en.wikipedia.org/wiki/Valandovo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.85639,
+                    41.707835
+                ]
+            },
+            "properties": {
+                "name": "Berovo",
+                "article": "https://en.wikipedia.org/wiki/Berovo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.418611111,
+                    42.023611111
+                ]
+            },
+            "properties": {
+                "name": "Skopje Aqueduct",
+                "article": "https://en.wikipedia.org/wiki/Skopje_Aqueduct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.5467,
+                    41.7903
+                ]
+            },
+            "properties": {
+                "name": "Korab",
+                "article": "https://en.wikipedia.org/wiki/Korab_(mountain)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.509166666,
+                    41.882777777
+                ]
+            },
+            "properties": {
+                "name": "Vinica",
+                "article": "https://en.wikipedia.org/wiki/Vinica,_North_Macedonia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0492,
+                    42.1661
+                ]
+            },
+            "properties": {
+                "name": "Piribeg",
+                "article": "https://en.wikipedia.org/wiki/Piribeg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.464444444,
+                    41.638055555
+                ]
+            },
+            "properties": {
+                "name": "Radoviš",
+                "article": "https://en.wikipedia.org/wiki/Radovi%C5%A1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.242222222,
+                    41.411388888
+                ]
+            },
+            "properties": {
+                "name": "Demir Kapija",
+                "article": "https://en.wikipedia.org/wiki/Demir_Kapija"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.39444444,
+                    41.96527778
+                ]
+            },
+            "properties": {
+                "name": "Vodno",
+                "article": "https://en.wikipedia.org/wiki/Vodno"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.92009,
+                    42.12866
+                ]
+            },
+            "properties": {
+                "name": "Crn Vrv",
+                "article": "https://en.wikipedia.org/wiki/Maja_e_zez%C3%AB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.3425,
+                    41.01083333
+                ]
+            },
+            "properties": {
+                "name": "Heraclea Lyncestis",
+                "article": "https://en.wikipedia.org/wiki/Heraclea_Lyncestis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.801944444,
+                    41.116944444
+                ]
+            },
+            "properties": {
+                "name": "Ohrid",
+                "article": "https://en.wikipedia.org/wiki/Ohrid"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.434444444,
+                    42.0
+                ]
+            },
+            "properties": {
+                "name": "Skopje Fortress",
+                "article": "https://en.wikipedia.org/wiki/Skopje_Fortress"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.163888888,
+                    41.809444444
+                ]
+            },
+            "properties": {
+                "name": "Kozjak Lake",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.538475,
+                    41.3616
+                ]
+            },
+            "properties": {
+                "name": "Markovi Kuli",
+                "article": "https://en.wikipedia.org/wiki/Markovi_Kuli"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.791,
+                    41.115
+                ]
+            },
+            "properties": {
+                "name": "Samuil's Fortress",
+                "article": "https://en.wikipedia.org/wiki/Samuel%27s_Fortress,_Ohrid"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.95361111,
+                    42.26361111
+                ]
+            },
+            "properties": {
+                "name": "Kokino",
+                "article": "https://en.wikipedia.org/wiki/Kokino"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.97497222,
+                    41.55173889
+                ]
+            },
+            "properties": {
+                "name": "Stobi",
+                "article": "https://en.wikipedia.org/wiki/Stobi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.34265,
+                    41.0197
+                ]
+            },
+            "properties": {
+                "name": "Bitola railway station",
+                "article": "https://en.wikipedia.org/wiki/Bitola_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.8,
+                    41.11666667
+                ]
+            },
+            "properties": {
+                "name": "Lychnidos",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.63416667,
+                    41.33694444
+                ]
+            },
+            "properties": {
+                "name": "Lake Globočica",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.798055555,
+                    41.991944444
+                ]
+            },
+            "properties": {
+                "name": "Titov Vrv",
+                "article": "https://en.wikipedia.org/wiki/Titov_Vrv"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.16972,
+                    41.13722
+                ]
+            },
+            "properties": {
+                "name": "Lake Streževo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.19833333,
+                    41.145
+                ]
+            },
+            "properties": {
+                "name": "Lake Streževo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.405277777,
+                    41.704166666
+                ]
+            },
+            "properties": {
+                "name": "Jakupica",
+                "article": "https://en.wikipedia.org/wiki/Jakupica_range"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.175,
+                    42.078333333
+                ]
+            },
+            "properties": {
+                "name": "Kratovo",
+                "article": "https://en.wikipedia.org/wiki/Kratovo,_North_Macedonia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.176666666,
+                    41.993611111
+                ]
+            },
+            "properties": {
+                "name": "Probištip",
+                "article": "https://en.wikipedia.org/wiki/Probi%C5%A1tip"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.203055555,
+                    41.220833333
+                ]
+            },
+            "properties": {
+                "name": "Demir Hisar",
+                "article": "https://en.wikipedia.org/wiki/Demir_Hisar_(town)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.51632222,
+                    42.15798056
+                ]
+            },
+            "properties": {
+                "name": "Ruen",
+                "article": "https://en.wikipedia.org/wiki/Ruen_(mountain)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.643055555,
+                    41.4375
+                ]
+            },
+            "properties": {
+                "name": "Strumica",
+                "article": "https://en.wikipedia.org/wiki/Strumica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.714444444,
+                    42.132222222
+                ]
+            },
+            "properties": {
+                "name": "Kumanovo",
+                "article": "https://en.wikipedia.org/wiki/Kumanovo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.1844,
+                    41.0033
+                ]
+            },
+            "properties": {
+                "name": "Pelister",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.6134,
+                    41.9001
+                ]
+            },
+            "properties": {
+                "name": "Gradište",
+                "article": "https://en.wikipedia.org/wiki/Tauresium"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.416666666,
+                    42.166666666
+                ]
+            },
+            "properties": {
+                "name": "Skopska Crna Gora",
+                "article": "https://en.wikipedia.org/wiki/Skopska_Crna_Gora"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.0,
+                    41.666666666
+                ]
+            },
+            "properties": {
+                "name": "Maleshevo",
+                "article": "https://en.wikipedia.org/wiki/Maleshevo_Mountain"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.780555555,
+                    41.614722222
+                ]
+            },
+            "properties": {
+                "name": "Mount Bistra",
+                "article": "https://en.wikipedia.org/wiki/Bistra_(mountain)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.877777777,
+                    41.520833333
+                ]
+            },
+            "properties": {
+                "name": "Ograzhden",
+                "article": "https://en.wikipedia.org/wiki/Ograzhden_(mountain)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.928888888,
+                    41.856944444
+                ]
+            },
+            "properties": {
+                "name": "Vlahina",
+                "article": "https://en.wikipedia.org/wiki/Vlahina"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.68333333,
+                    41.38333333
+                ]
+            },
+            "properties": {
+                "name": "Babuna",
+                "article": "https://en.wikipedia.org/wiki/Babuna_(mountain)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.755,
+                    41.2064
+                ]
+            },
+            "properties": {
+                "name": "Trebeništa",
+                "article": "https://en.wikipedia.org/wiki/Trebeni%C5%A1ta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.92833333,
+                    42.31027778
+                ]
+            },
+            "properties": {
+                "name": "Kozjak",
+                "article": "https://en.wikipedia.org/wiki/Kozjak_(mountain_near_P%C4%8Dinja)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.166666666,
+                    41.15
+                ]
+            },
+            "properties": {
+                "name": "Kožuf",
+                "article": "https://en.wikipedia.org/wiki/Ko%C5%BEuf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.65,
+                    41.4833
+                ]
+            },
+            "properties": {
+                "name": "Stogovo",
+                "article": "https://en.wikipedia.org/wiki/Stogovo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.29,
+                    41.798888888
+                ]
+            },
+            "properties": {
+                "name": "Bargala",
+                "article": "https://en.wikipedia.org/wiki/Bargala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.912222222,
+                    41.846944444
+                ]
+            },
+            "properties": {
+                "name": "Bylazora",
+                "article": "https://en.wikipedia.org/wiki/Bylazora"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.216666666,
+                    41.55
+                ]
+            },
+            "properties": {
+                "name": "Karaorman",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.35005,
+                    42.43356
+                ]
+            },
+            "properties": {
+                "name": "Dukat",
+                "article": "https://en.wikipedia.org/wiki/Dukat_(mountain)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.39055556,
+                    42.42527778
+                ]
+            },
+            "properties": {
+                "name": "Dukat",
+                "article": "https://en.wikipedia.org/wiki/Dukat_(mountain)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.533333333,
+                    41.766666666
+                ]
+            },
+            "properties": {
+                "name": "Plačkovica",
+                "article": "https://en.wikipedia.org/wiki/Pla%C4%8Dkovica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.7334,
+                    41.9071
+                ]
+            },
+            "properties": {
+                "name": "Q3072662",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.964444444,
+                    41.694722222
+                ]
+            },
+            "properties": {
+                "name": "Q3078409",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.5021,
+                    41.8777
+                ]
+            },
+            "properties": {
+                "name": "Viničko Kale",
+                "article": "https://en.wikipedia.org/wiki/Vini%C4%8Dko_Kale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.4459,
+                    41.9912
+                ]
+            },
+            "properties": {
+                "name": "Skopje Train Station",
+                "article": "https://en.wikipedia.org/wiki/Transportation_Center_Skopje"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.3475,
+                    44.3639
+                ]
+            },
+            "properties": {
+                "name": "Lopušnik",
+                "article": "https://en.wikipedia.org/wiki/Lopu%C5%A1nik"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.88,
+                    42.01416667
+                ]
+            },
+            "properties": {
+                "name": "Popova Šapka",
+                "article": "https://en.wikipedia.org/wiki/Popova_%C5%A0apka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.016111111,
+                    41.088333333
+                ]
+            },
+            "properties": {
+                "name": "Saraj Resen",
+                "article": "https://en.wikipedia.org/wiki/Saraj_(Resen)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.5704,
+                    42.1704
+                ]
+            },
+            "properties": {
+                "name": "Q3134325",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.793806,
+                    41.114594
+                ]
+            },
+            "properties": {
+                "name": "Ancient Theatre of Ohrid",
+                "article": "https://en.wikipedia.org/wiki/Ancient_Theatre_of_Ohrid"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.05516,
+                    42.10529
+                ]
+            },
+            "properties": {
+                "name": "Stone town of Kuklica",
+                "article": "https://en.wikipedia.org/wiki/Stone_town_of_Kuklica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.0503,
+                    42.124336
+                ]
+            },
+            "properties": {
+                "name": "Stone town of Kuklica",
+                "article": "https://en.wikipedia.org/wiki/Stone_town_of_Kuklica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.3128,
+                    41.9836
+                ]
+            },
+            "properties": {
+                "name": "Lake Treska",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.5457,
+                    42.1965
+                ]
+            },
+            "properties": {
+                "name": "Q3215447",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.843333333,
+                    42.098611111
+                ]
+            },
+            "properties": {
+                "name": "Kobilica",
+                "article": "https://en.wikipedia.org/wiki/Kobilica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.9635,
+                    41.3434
+                ]
+            },
+            "properties": {
+                "name": "Pološko Monastery",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.78528,
+                    42.14944
+                ]
+            },
+            "properties": {
+                "name": "Zebrnjak",
+                "article": "https://en.wikipedia.org/wiki/Zebrnjak"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.676025,
+                    41.295349
+                ]
+            },
+            "properties": {
+                "name": "Dren",
+                "article": "https://en.wikipedia.org/wiki/Dren_(mountain)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.430833333,
+                    41.995555555
+                ]
+            },
+            "properties": {
+                "name": "Ristiḱ Palace",
+                "article": "https://en.wikipedia.org/wiki/Risti%C4%87_Palace"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.070833333,
+                    41.843611111
+                ]
+            },
+            "properties": {
+                "name": "Q3407018",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0761,
+                    41.7912
+                ]
+            },
+            "properties": {
+                "name": "Q3407018",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.505666666,
+                    42.001444444
+                ]
+            },
+            "properties": {
+                "name": "Tumba Madžari",
+                "article": "https://en.wikipedia.org/wiki/Tumba_Mad%C5%BEari"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.413957,
+                    41.985651
+                ]
+            },
+            "properties": {
+                "name": "Villa Vodno",
+                "article": "https://en.wikipedia.org/wiki/Villa_Vodno"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.639833333,
+                    41.832
+                ]
+            },
+            "properties": {
+                "name": "Q4163839",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.193558,
+                    41.737503
+                ]
+            },
+            "properties": {
+                "name": "Astibo",
+                "article": "https://en.wikipedia.org/wiki/Astibo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.966666666,
+                    42.0
+                ]
+            },
+            "properties": {
+                "name": "Battle of Tetovo",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Tetovo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.75160027,
+                    41.89657974
+                ]
+            },
+            "properties": {
+                "name": "Big Vraca",
+                "article": "https://en.wikipedia.org/wiki/Golema_Vraca"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.7513267,
+                    41.8976878
+                ]
+            },
+            "properties": {
+                "name": "Big Vraca",
+                "article": "https://en.wikipedia.org/wiki/Golema_Vraca"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.52197,
+                    41.24631
+                ]
+            },
+            "properties": {
+                "name": "Black Stone, Jablanica",
+                "article": "https://en.wikipedia.org/wiki/Black_Stone_(Jabllanica)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.5221,
+                    41.2464
+                ]
+            },
+            "properties": {
+                "name": "Black Stone, Jablanica",
+                "article": "https://en.wikipedia.org/wiki/Black_Stone_(Jabllanica)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9,
+                    41.683333333
+                ]
+            },
+            "properties": {
+                "name": "Buković",
+                "article": "https://en.wikipedia.org/wiki/Bukovi%E1%B8%B1_(mountain)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.16611111,
+                    40.91555556
+                ]
+            },
+            "properties": {
+                "name": "Dobra Voda",
+                "article": "https://en.wikipedia.org/wiki/Dobra_Voda_(mountain)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.40555556,
+                    41.96638889
+                ]
+            },
+            "properties": {
+                "name": "Dolno Gradište",
+                "article": "https://en.wikipedia.org/wiki/Dolno_Gradi%C5%A1te"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.766391666,
+                    42.044130555
+                ]
+            },
+            "properties": {
+                "name": "Džini Beg",
+                "article": "https://en.wikipedia.org/wiki/D%C5%BEini_Beg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9956,
+                    42.1487
+                ]
+            },
+            "properties": {
+                "name": "Maja Livadh",
+                "article": "https://en.wikipedia.org/wiki/Maja_Livadh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9797,
+                    42.1394
+                ]
+            },
+            "properties": {
+                "name": "Peskovi",
+                "article": "https://en.wikipedia.org/wiki/Peskovi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.79124444,
+                    41.11273611
+                ]
+            },
+            "properties": {
+                "name": "Plaošnik",
+                "article": "https://en.wikipedia.org/wiki/Plao%C5%A1nik"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.762963888,
+                    41.1407
+                ]
+            },
+            "properties": {
+                "name": "Saint Erasmus, Ohrid",
+                "article": "https://en.wikipedia.org/wiki/Saint_Erasmus,_Ohrid"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.7375,
+                    41.886111111
+                ]
+            },
+            "properties": {
+                "name": "Small Vraca",
+                "article": "https://en.wikipedia.org/wiki/Mala_Vraca"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.630083333,
+                    41.4325
+                ]
+            },
+            "properties": {
+                "name": "Strumica Fortress",
+                "article": "https://en.wikipedia.org/wiki/Strumica_Fortress"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.498333333,
+                    41.438055555
+                ]
+            },
+            "properties": {
+                "name": "Vardarski Rid",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.78173,
+                    41.93331
+                ]
+            },
+            "properties": {
+                "name": "Borislavec",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.8,
+                    41.9339
+                ]
+            },
+            "properties": {
+                "name": "Borislavec",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.6975,
+                    42.22666667
+                ]
+            },
+            "properties": {
+                "name": "Tabanovce railway station",
+                "article": null
+            }
+        }
+    ]
+}

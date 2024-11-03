@@ -1,0 +1,453 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.066666666,
+                    29.993888888
+                ]
+            },
+            "properties": {
+                "name": "Warbah Island",
+                "article": "https://en.wikipedia.org/wiki/Warbah_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.183333333,
+                    29.783333333
+                ]
+            },
+            "properties": {
+                "name": "Bubiyan Island",
+                "article": "https://en.wikipedia.org/wiki/Bubiyan_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.486111,
+                    29.068333
+                ]
+            },
+            "properties": {
+                "name": "Kubbar Island",
+                "article": "https://en.wikipedia.org/wiki/Kubbar_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.333333333,
+                    29.433333333
+                ]
+            },
+            "properties": {
+                "name": "Failaka Island",
+                "article": "https://en.wikipedia.org/wiki/Failaka_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.433333333,
+                    29.383333333
+                ]
+            },
+            "properties": {
+                "name": "Auhah Island",
+                "article": "https://en.wikipedia.org/wiki/Auhah_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.784722222,
+                    28.822777777
+                ]
+            },
+            "properties": {
+                "name": "Qaruh Island",
+                "article": "https://en.wikipedia.org/wiki/Qaruh_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.9806,
+                    29.3779
+                ]
+            },
+            "properties": {
+                "name": "Q3153122",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.083333333,
+                    29.333333333
+                ]
+            },
+            "properties": {
+                "name": "Salmiya",
+                "article": "https://en.wikipedia.org/wiki/Salmiya"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.03194444,
+                    29.30055556
+                ]
+            },
+            "properties": {
+                "name": "Bayan Palace",
+                "article": "https://en.wikipedia.org/wiki/Bayan_Palace"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.652777777,
+                    28.678333333
+                ]
+            },
+            "properties": {
+                "name": "Umm al Maradim Island",
+                "article": "https://en.wikipedia.org/wiki/Umm_al_Maradim_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.909722222,
+                    29.354444444
+                ]
+            },
+            "properties": {
+                "name": "Shuwaikh Island",
+                "article": "https://en.wikipedia.org/wiki/Shuwaikh_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.866944444,
+                    29.381666666
+                ]
+            },
+            "properties": {
+                "name": "Umm an Namil Island",
+                "article": "https://en.wikipedia.org/wiki/Umm_an_Namil_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.251388888,
+                    29.485833333
+                ]
+            },
+            "properties": {
+                "name": "Miskan Island",
+                "article": "https://en.wikipedia.org/wiki/Miskan_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.99738056,
+                    29.38693333
+                ]
+            },
+            "properties": {
+                "name": "Battle of Dasman Palace",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Dasman_Palace"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.997381,
+                    29.386933
+                ]
+            },
+            "properties": {
+                "name": "Battle of Failaka",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Failaka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.615,
+                    29.33972222
+                ]
+            },
+            "properties": {
+                "name": "Battle of the Bridges",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_the_Bridges"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.615,
+                    29.339722222
+                ]
+            },
+            "properties": {
+                "name": "Battle of the Bridges",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_the_Bridges"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.98694444,
+                    29.38166667
+                ]
+            },
+            "properties": {
+                "name": "Dar Al Awadi Tower",
+                "article": "https://en.wikipedia.org/wiki/Dar_Al_Awadi_Tower"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.0,
+                    29.0
+                ]
+            },
+            "properties": {
+                "name": "sabaah al'naasir",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.984444444,
+                    29.329444444
+                ]
+            },
+            "properties": {
+                "name": "Kuwait Water Towers",
+                "article": "https://en.wikipedia.org/wiki/Kuwait_Water_Towers"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.1603,
+                    29.0169
+                ]
+            },
+            "properties": {
+                "name": "Mina Abd Allah",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.9932,
+                    29.379
+                ]
+            },
+            "properties": {
+                "name": "Al Tijaria Tower",
+                "article": "https://en.wikipedia.org/wiki/Al_Tijaria_Tower"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.72064,
+                    29.311319
+                ]
+            },
+            "properties": {
+                "name": "Q12215911",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.996,
+                    29.278
+                ]
+            },
+            "properties": {
+                "name": "Al Zahra",
+                "article": "https://en.wikipedia.org/wiki/Zahra_(Kuwait)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.35083,
+                    29.74472
+                ]
+            },
+            "properties": {
+                "name": "Q27346998",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.08167,
+                    30.00167
+                ]
+            },
+            "properties": {
+                "name": "Q27347002",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.493333333,
+                    29.072222222
+                ]
+            },
+            "properties": {
+                "name": "Q27347154",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.774166666,
+                    28.82
+                ]
+            },
+            "properties": {
+                "name": "Q27347185",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.95294444,
+                    29.35769444
+                ]
+            },
+            "properties": {
+                "name": "Al Salam Palace",
+                "article": "https://en.wikipedia.org/wiki/Al_Salam_Palace_(Kuwait)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.95612,
+                    29.63585
+                ]
+            },
+            "properties": {
+                "name": "Bahra 1",
+                "article": "https://en.wikipedia.org/wiki/Bahra_1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.150556,
+                    29.641667
+                ]
+            },
+            "properties": {
+                "name": "H3",
+                "article": "https://en.wikipedia.org/wiki/H3_(Kuwait)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.98,
+                    29.375
+                ]
+            },
+            "properties": {
+                "name": "Kuwait City",
+                "article": "https://en.wikipedia.org/wiki/Kuwait_City"
+            }
+        }
+    ]
+}

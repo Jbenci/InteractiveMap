@@ -1,0 +1,5605 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.785,
+                    62.030277777
+                ]
+            },
+            "properties": {
+                "name": "Bellingmo Station",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.8339,
+                    61.7323
+                ]
+            },
+            "properties": {
+                "name": "Atna Station",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.885833333,
+                    61.992222222
+                ]
+            },
+            "properties": {
+                "name": "Barkald Station",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.8789,
+                    61.838
+                ]
+            },
+            "properties": {
+                "name": "Hanestad Station",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.55,
+                    69.616666666
+                ]
+            },
+            "properties": {
+                "name": "Kvaløya, Troms",
+                "article": "https://en.wikipedia.org/wiki/Kval%C3%B8ya_(Troms%C3%B8)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.783333333,
+                    59.783333333
+                ]
+            },
+            "properties": {
+                "name": "Gjersjøen",
+                "article": "https://en.wikipedia.org/wiki/Gjersj%C3%B8en"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.87694444,
+                    59.87527778
+                ]
+            },
+            "properties": {
+                "name": "Nøklevann",
+                "article": "https://en.wikipedia.org/wiki/N%C3%B8klevann"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.058333333,
+                    61.494166666
+                ]
+            },
+            "properties": {
+                "name": "Stai Station",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.044,
+                    61.5729
+                ]
+            },
+            "properties": {
+                "name": "Koppang Station",
+                "article": "https://en.wikipedia.org/wiki/Koppang_Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.0998,
+                    61.4233
+                ]
+            },
+            "properties": {
+                "name": "Evenstad Station",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.145218,
+                    61.398859
+                ]
+            },
+            "properties": {
+                "name": "Rasta Station",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.323611111,
+                    61.251388888
+                ]
+            },
+            "properties": {
+                "name": "Steinvik Station",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.54676111,
+                    60.88254167
+                ]
+            },
+            "properties": {
+                "name": "Elverum station",
+                "article": "https://en.wikipedia.org/wiki/Elverum_Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.076365,
+                    60.791615
+                ]
+            },
+            "properties": {
+                "name": "Hamar Station",
+                "article": "https://en.wikipedia.org/wiki/Hamar_Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.369166666,
+                    61.134444444
+                ]
+            },
+            "properties": {
+                "name": "Rena Station",
+                "article": "https://en.wikipedia.org/wiki/Rena_Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.2607,
+                    61.3318
+                ]
+            },
+            "properties": {
+                "name": "Opphus Station",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.2225,
+                    60.7767
+                ]
+            },
+            "properties": {
+                "name": "Ilseng Station",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.46130278,
+                    61.11436944
+                ]
+            },
+            "properties": {
+                "name": "Lillehammer Station",
+                "article": "https://en.wikipedia.org/wiki/Lillehammer_Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.34055111,
+                    60.817594
+                ]
+            },
+            "properties": {
+                "name": "Løten Station",
+                "article": "https://en.wikipedia.org/wiki/L%C3%B8ten_Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.248055555,
+                    60.023611111
+                ]
+            },
+            "properties": {
+                "name": "Utøya",
+                "article": "https://en.wikipedia.org/wiki/Ut%C3%B8ya"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.667222,
+                    60.025833
+                ]
+            },
+            "properties": {
+                "name": "Odda Municipality",
+                "article": "https://en.wikipedia.org/wiki/Odda"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.85,
+                    70.15
+                ]
+            },
+            "properties": {
+                "name": "Vanna",
+                "article": "https://en.wikipedia.org/wiki/Vanna_(Troms)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.879166666,
+                    59.161666666
+                ]
+            },
+            "properties": {
+                "name": "Stora Le",
+                "article": "https://en.wikipedia.org/wiki/Stora_Le"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.759822222,
+                    59.937772222
+                ]
+            },
+            "properties": {
+                "name": "Bentse Brug",
+                "article": "https://en.wikipedia.org/wiki/Bentse_Brug"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.43,
+                    69.1447
+                ]
+            },
+            "properties": {
+                "name": "Tranøya",
+                "article": "https://en.wikipedia.org/wiki/Tran%C3%B8ya_(Troms)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.04444444,
+                    59.95305556
+                ]
+            },
+            "properties": {
+                "name": "Lillestrøm station",
+                "article": "https://en.wikipedia.org/wiki/Lillestr%C3%B8m_Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.333333333,
+                    59.3
+                ]
+            },
+            "properties": {
+                "name": "Norsjø",
+                "article": "https://en.wikipedia.org/wiki/Norsj%C3%B8"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.336388888,
+                    58.316944444
+                ]
+            },
+            "properties": {
+                "name": "Altmark Incident",
+                "article": "https://en.wikipedia.org/wiki/Altmark_incident"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.016666666,
+                    78.55
+                ]
+            },
+            "properties": {
+                "name": "Prins Karls Forland",
+                "article": "https://en.wikipedia.org/wiki/Prins_Karls_Forland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.775555555,
+                    61.523055555
+                ]
+            },
+            "properties": {
+                "name": "Bessvatnet",
+                "article": "https://en.wikipedia.org/wiki/Bessvatnet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0475,
+                    74.44
+                ]
+            },
+            "properties": {
+                "name": "Bear Island",
+                "article": "https://en.wikipedia.org/wiki/Bear_Island_(Svalbard)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.770008,
+                    58.46493
+                ]
+            },
+            "properties": {
+                "name": "Arendal Station",
+                "article": "https://en.wikipedia.org/wiki/Arendal_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.24708333,
+                    60.32945556
+                ]
+            },
+            "properties": {
+                "name": "Eidsvoll station",
+                "article": "https://en.wikipedia.org/wiki/Eidsvoll_Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.20444444,
+                    59.74
+                ]
+            },
+            "properties": {
+                "name": "Drammen station",
+                "article": "https://en.wikipedia.org/wiki/Drammen_Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.35,
+                    61.933333333
+                ]
+            },
+            "properties": {
+                "name": "Hornindalsvatnet",
+                "article": "https://en.wikipedia.org/wiki/Hornindalsvatnet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.3,
+                    61.633333333
+                ]
+            },
+            "properties": {
+                "name": "Galdhøpiggen",
+                "article": "https://en.wikipedia.org/wiki/Galdh%C3%B8piggen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.4,
+                    79.8
+                ]
+            },
+            "properties": {
+                "name": "Nordaustlandet",
+                "article": "https://en.wikipedia.org/wiki/Nordaustlandet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.04511,
+                    69.72708
+                ]
+            },
+            "properties": {
+                "name": "Kirkenes",
+                "article": "https://en.wikipedia.org/wiki/Kirkenes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.694246,
+                    60.797154
+                ]
+            },
+            "properties": {
+                "name": "Gjøvik Station",
+                "article": "https://en.wikipedia.org/wiki/Gj%C3%B8vik_Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.0,
+                    60.666666666
+                ]
+            },
+            "properties": {
+                "name": "Mjøsa",
+                "article": "https://en.wikipedia.org/wiki/Mj%C3%B8sa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7119,
+                    59.8906
+                ]
+            },
+            "properties": {
+                "name": "Lindøya",
+                "article": "https://en.wikipedia.org/wiki/Lind%C3%B8ya"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.9659,
+                    68.3977
+                ]
+            },
+            "properties": {
+                "name": "Katterat station",
+                "article": "https://en.wikipedia.org/wiki/Katterat_Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.7034,
+                    58.576
+                ]
+            },
+            "properties": {
+                "name": "Bøylestad Station",
+                "article": "https://en.wikipedia.org/wiki/B%C3%B8ylestad_Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.68122,
+                    58.6394
+                ]
+            },
+            "properties": {
+                "name": "Flaten Station",
+                "article": "https://en.wikipedia.org/wiki/Flaten_Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0712,
+                    68.4323
+                ]
+            },
+            "properties": {
+                "name": "Bjørnfjell station",
+                "article": "https://en.wikipedia.org/wiki/Bj%C3%B8rnfjell_Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.648694444,
+                    58.507444444
+                ]
+            },
+            "properties": {
+                "name": "Blakstad Station",
+                "article": "https://en.wikipedia.org/wiki/Blakstad_Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.6231,
+                    58.4684
+                ]
+            },
+            "properties": {
+                "name": "Rise Station",
+                "article": "https://en.wikipedia.org/wiki/Rise_Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.68981,
+                    58.46278
+                ]
+            },
+            "properties": {
+                "name": "Bråstad Station",
+                "article": "https://en.wikipedia.org/wiki/Br%C3%A5stad_Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.269611111,
+                    60.615913888
+                ]
+            },
+            "properties": {
+                "name": "Tangen Station",
+                "article": "https://en.wikipedia.org/wiki/Tangen_Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.15582,
+                    58.9711
+                ]
+            },
+            "properties": {
+                "name": "Neslandsvatn station",
+                "article": "https://en.wikipedia.org/wiki/Neslandsvatn_Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.58102,
+                    61.76202
+                ]
+            },
+            "properties": {
+                "name": "Syrtbyttnosi",
+                "article": "https://en.wikipedia.org/wiki/Syrtbyttnosi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.738888888,
+                    59.913333333
+                ]
+            },
+            "properties": {
+                "name": "Oslo",
+                "article": "https://en.wikipedia.org/wiki/Oslo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.6875,
+                    59.058888888
+                ]
+            },
+            "properties": {
+                "name": "Brevik",
+                "article": "https://en.wikipedia.org/wiki/Brevik,_Norway"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.5336,
+                    70.983
+                ]
+            },
+            "properties": {
+                "name": "Jan Mayen",
+                "article": "https://en.wikipedia.org/wiki/Jan_Mayen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0,
+                    78.75
+                ]
+            },
+            "properties": {
+                "name": "Spitsbergen",
+                "article": "https://en.wikipedia.org/wiki/Spitsbergen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.36,
+                    -54.42
+                ]
+            },
+            "properties": {
+                "name": "Bouvet Island",
+                "article": "https://en.wikipedia.org/wiki/Bouvet_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.4,
+                    63.44
+                ]
+            },
+            "properties": {
+                "name": "Trondheim",
+                "article": "https://en.wikipedia.org/wiki/Trondheim"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.633333333,
+                    78.216666666
+                ]
+            },
+            "properties": {
+                "name": "Longyearbyen",
+                "article": "https://en.wikipedia.org/wiki/Longyearbyen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.323333333,
+                    60.3925
+                ]
+            },
+            "properties": {
+                "name": "Bergen",
+                "article": "https://en.wikipedia.org/wiki/Bergen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.37513,
+                    67.28267
+                ]
+            },
+            "properties": {
+                "name": "Bodø",
+                "article": "https://en.wikipedia.org/wiki/Bod%C3%B8_(town)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.709166666,
+                    58.466111111
+                ]
+            },
+            "properties": {
+                "name": "Stoa Station",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.933333333,
+                    78.916666666
+                ]
+            },
+            "properties": {
+                "name": "Ny-Ålesund",
+                "article": "https://en.wikipedia.org/wiki/Ny-%C3%85lesund"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.42777,
+                    68.43828
+                ]
+            },
+            "properties": {
+                "name": "Narvik",
+                "article": "https://en.wikipedia.org/wiki/Narvik_(town)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.166666666,
+                    66.316666666
+                ]
+            },
+            "properties": {
+                "name": "Mo i Rana",
+                "article": "https://en.wikipedia.org/wiki/Mo_i_Rana"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.72883611,
+                    62.956355
+                ]
+            },
+            "properties": {
+                "name": "Singsås Station",
+                "article": "https://en.wikipedia.org/wiki/Sings%C3%A5s_Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.379166666,
+                    62.8075
+                ]
+            },
+            "properties": {
+                "name": "Reitan Station",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.4166,
+                    62.6745
+                ]
+            },
+            "properties": {
+                "name": "Glåmos Station",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.3116,
+                    62.8468
+                ]
+            },
+            "properties": {
+                "name": "Ålen Station",
+                "article": "https://en.wikipedia.org/wiki/%C3%85len_Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.3791,
+                    62.574
+                ]
+            },
+            "properties": {
+                "name": "Røros Station",
+                "article": "https://en.wikipedia.org/wiki/R%C3%B8ros_Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.2271,
+                    62.4975
+                ]
+            },
+            "properties": {
+                "name": "Os Station",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0,
+                    80.166666666
+                ]
+            },
+            "properties": {
+                "name": "Lågøya",
+                "article": "https://en.wikipedia.org/wiki/L%C3%A5g%C3%B8ya"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.66944444,
+                    59.43944444
+                ]
+            },
+            "properties": {
+                "name": "Konvensjonsgården",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.566666666,
+                    68.233333333
+                ]
+            },
+            "properties": {
+                "name": "Svolvær",
+                "article": "https://en.wikipedia.org/wiki/Svolv%C3%A6r"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.833333333,
+                    68.533333333
+                ]
+            },
+            "properties": {
+                "name": "Hinnøya",
+                "article": "https://en.wikipedia.org/wiki/Hinn%C3%B8ya"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.02111111,
+                    59.38611111
+                ]
+            },
+            "properties": {
+                "name": "Åmlivatn",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.686944444,
+                    62.567222222
+                ]
+            },
+            "properties": {
+                "name": "Åndalsnes",
+                "article": "https://en.wikipedia.org/wiki/%C3%85ndalsnes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.266666666,
+                    69.2
+                ]
+            },
+            "properties": {
+                "name": "Ånderdalen National Park",
+                "article": "https://en.wikipedia.org/wiki/%C3%85nderdalen_National_Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.160833,
+                    62.673056
+                ]
+            },
+            "properties": {
+                "name": "Ångardsvatnet",
+                "article": "https://en.wikipedia.org/wiki/%C3%85ngardsvatnet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.15277778,
+                    63.21472222
+                ]
+            },
+            "properties": {
+                "name": "Ånøya",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.03666667,
+                    68.28666667
+                ]
+            },
+            "properties": {
+                "name": "Årsteinen",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.4675,
+                    59.348888888
+                ]
+            },
+            "properties": {
+                "name": "Åsgårdstrand",
+                "article": "https://en.wikipedia.org/wiki/%C3%85sg%C3%A5rdstrand"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.216666666,
+                    66.233333333
+                ]
+            },
+            "properties": {
+                "name": "Åsvær",
+                "article": "https://en.wikipedia.org/wiki/%C3%85sv%C3%A6r"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.65371,
+                    58.5295
+                ]
+            },
+            "properties": {
+                "name": "Froland Station",
+                "article": "https://en.wikipedia.org/wiki/Froland_Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.94993,
+                    59.04772
+                ]
+            },
+            "properties": {
+                "name": "Birtevatn",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.905833333,
+                    68.565555555
+                ]
+            },
+            "properties": {
+                "name": "Stokmarknes",
+                "article": "https://en.wikipedia.org/wiki/Stokmarknes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.75111111,
+                    59.91083333
+                ]
+            },
+            "properties": {
+                "name": "Oslo East Station",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.34049444,
+                    59.74559722
+                ]
+            },
+            "properties": {
+                "name": "Spikkestad station",
+                "article": "https://en.wikipedia.org/wiki/Spikkestad_Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.163333333,
+                    59.857222222
+                ]
+            },
+            "properties": {
+                "name": "Øyeren",
+                "article": "https://en.wikipedia.org/wiki/%C3%98yeren"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.205555555,
+                    78.988888888
+                ]
+            },
+            "properties": {
+                "name": "Abeløya",
+                "article": "https://en.wikipedia.org/wiki/Abel_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.747105555,
+                    61.595211111
+                ]
+            },
+            "properties": {
+                "name": "Vinstra Station",
+                "article": "https://en.wikipedia.org/wiki/Vinstra_Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.70144167,
+                    61.66493056
+                ]
+            },
+            "properties": {
+                "name": "Kvam Station",
+                "article": "https://en.wikipedia.org/wiki/Kvam_Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.45297222,
+                    59.30972222
+                ]
+            },
+            "properties": {
+                "name": "Oseberg tumulus",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.45,
+                    78.416666666
+                ]
+            },
+            "properties": {
+                "name": "Barentsøya",
+                "article": "https://en.wikipedia.org/wiki/Barents%C3%B8ya"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.078333333,
+                    62.557777777
+                ]
+            },
+            "properties": {
+                "name": "Vigra",
+                "article": "https://en.wikipedia.org/wiki/Vigra_(island)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.495,
+                    62.329722222
+                ]
+            },
+            "properties": {
+                "name": "Skorpa",
+                "article": "https://en.wikipedia.org/wiki/Skorpa,_M%C3%B8re_og_Romsdal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.29673,
+                    68.18853
+                ]
+            },
+            "properties": {
+                "name": "Vågakallen",
+                "article": "https://en.wikipedia.org/wiki/V%C3%A5gakallen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.3869,
+                    60.3775
+                ]
+            },
+            "properties": {
+                "name": "Ulriken",
+                "article": "https://en.wikipedia.org/wiki/Ulriken"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.53852222,
+                    62.19218056
+                ]
+            },
+            "properties": {
+                "name": "Lesjaverk Station",
+                "article": "https://en.wikipedia.org/wiki/Lesjaverk_Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.554444444,
+                    61.651944444
+                ]
+            },
+            "properties": {
+                "name": "Glittertind",
+                "article": "https://en.wikipedia.org/wiki/Glittertind"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.853699,
+                    62.118672
+                ]
+            },
+            "properties": {
+                "name": "Lesja Station",
+                "article": "https://en.wikipedia.org/wiki/Lesja_Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.495,
+                    62.329722222
+                ]
+            },
+            "properties": {
+                "name": "Skorpa",
+                "article": "https://en.wikipedia.org/wiki/Skorpa,_M%C3%B8re_og_Romsdal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.29673,
+                    68.18853
+                ]
+            },
+            "properties": {
+                "name": "Vågakallen",
+                "article": "https://en.wikipedia.org/wiki/V%C3%A5gakallen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.3869,
+                    60.3775
+                ]
+            },
+            "properties": {
+                "name": "Ulriken",
+                "article": "https://en.wikipedia.org/wiki/Ulriken"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.53852222,
+                    62.19218056
+                ]
+            },
+            "properties": {
+                "name": "Lesjaverk Station",
+                "article": "https://en.wikipedia.org/wiki/Lesjaverk_Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.301944444,
+                    61.615277777
+                ]
+            },
+            "properties": {
+                "name": "Store Tverråtinden",
+                "article": "https://en.wikipedia.org/wiki/Store_Tverr%C3%A5tinden"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.016666666,
+                    59.266666666
+                ]
+            },
+            "properties": {
+                "name": "Ombo",
+                "article": "https://en.wikipedia.org/wiki/Ombo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.733333333,
+                    62.233333333
+                ]
+            },
+            "properties": {
+                "name": "Gurskøya",
+                "article": "https://en.wikipedia.org/wiki/Gursk%C3%B8ya"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.552777777,
+                    62.350833333
+                ]
+            },
+            "properties": {
+                "name": "Nerlandsøya",
+                "article": "https://en.wikipedia.org/wiki/Nerlands%C3%B8ya"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.709166666,
+                    62.346111111
+                ]
+            },
+            "properties": {
+                "name": "Leinøya",
+                "article": "https://en.wikipedia.org/wiki/Lein%C3%B8ya"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.63305556,
+                    62.34138889
+                ]
+            },
+            "properties": {
+                "name": "Bergsøya",
+                "article": "https://en.wikipedia.org/wiki/Bergs%C3%B8ya,_Her%C3%B8y"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.83333,
+                    79.75
+                ]
+            },
+            "properties": {
+                "name": "Amsterdamøya",
+                "article": "https://en.wikipedia.org/wiki/Amsterdam_Island_(Spitsbergen)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.983055555,
+                    70.975833333
+                ]
+            },
+            "properties": {
+                "name": "Honningsvåg",
+                "article": "https://en.wikipedia.org/wiki/Honningsv%C3%A5g"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.60555556,
+                    62.30722222
+                ]
+            },
+            "properties": {
+                "name": "Kongsvoll Station",
+                "article": "https://en.wikipedia.org/wiki/Kongsvoll_Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.541111,
+                    62.22
+                ]
+            },
+            "properties": {
+                "name": "Hjerkinn Station",
+                "article": "https://en.wikipedia.org/wiki/Hjerkinn_Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.764364,
+                    59.926363
+                ]
+            },
+            "properties": {
+                "name": "Dælenenga idrettspark",
+                "article": "https://en.wikipedia.org/wiki/D%C3%A6lenenga_idrettspark"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.716666666,
+                    69.1
+                ]
+            },
+            "properties": {
+                "name": "Andøya",
+                "article": "https://en.wikipedia.org/wiki/And%C3%B8ya"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.298885,
+                    59.375933
+                ]
+            },
+            "properties": {
+                "name": "Q537676",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.5375,
+                    59.344444444
+                ]
+            },
+            "properties": {
+                "name": "Store Bjørnevatn",
+                "article": "https://en.wikipedia.org/wiki/Store_Bj%C3%B8rnevatn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.779722222,
+                    79.153611111
+                ]
+            },
+            "properties": {
+                "name": "Perriertoppen",
+                "article": "https://en.wikipedia.org/wiki/Perriertoppen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.85,
+                    59.96666667
+                ]
+            },
+            "properties": {
+                "name": "Alnsjøen",
+                "article": "https://en.wikipedia.org/wiki/Alnsj%C3%B8en"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.394166666,
+                    60.390277777
+                ]
+            },
+            "properties": {
+                "name": "Randsfjorden",
+                "article": "https://en.wikipedia.org/wiki/Randsfjorden"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.5927,
+                    59.7009
+                ]
+            },
+            "properties": {
+                "name": "Battle of Drøbak Sound",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Dr%C3%B8bak_Sound"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.73197,
+                    62.68586
+                ]
+            },
+            "properties": {
+                "name": "Trolla",
+                "article": "https://en.wikipedia.org/wiki/Trolla_(mountain)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.68,
+                    61.489444444
+                ]
+            },
+            "properties": {
+                "name": "Gjende",
+                "article": "https://en.wikipedia.org/wiki/Gjende"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.868888888,
+                    61.468055555
+                ]
+            },
+            "properties": {
+                "name": "Midtre Skagastølstind",
+                "article": "https://en.wikipedia.org/wiki/Midtre_Skagast%C3%B8lstind"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.51215833,
+                    58.21255
+                ]
+            },
+            "properties": {
+                "name": "Marnardal station",
+                "article": "https://en.wikipedia.org/wiki/Marnardal_Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.998888888,
+                    62.468888888
+                ]
+            },
+            "properties": {
+                "name": "Godøya",
+                "article": "https://en.wikipedia.org/wiki/God%C3%B8ya"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.37777778,
+                    63.39194444
+                ]
+            },
+            "properties": {
+                "name": "Selsbakk station",
+                "article": "https://en.wikipedia.org/wiki/Selsbakk_Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.200555555,
+                    63.403333333
+                ]
+            },
+            "properties": {
+                "name": "Storheia",
+                "article": "https://en.wikipedia.org/wiki/Storheia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.78388889,
+                    59.96583333
+                ]
+            },
+            "properties": {
+                "name": "Kjelsås Station",
+                "article": "https://en.wikipedia.org/wiki/Kjels%C3%A5s_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.69333333,
+                    62.59277778
+                ]
+            },
+            "properties": {
+                "name": "Oppdal Station",
+                "article": "https://en.wikipedia.org/wiki/Oppdal_Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.33454,
+                    79.0228
+                ]
+            },
+            "properties": {
+                "name": "Bastianøyane",
+                "article": "https://en.wikipedia.org/wiki/Bastian_Islands"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.3411,
+                    78.9903
+                ]
+            },
+            "properties": {
+                "name": "Bastianøyane",
+                "article": "https://en.wikipedia.org/wiki/Bastian_Islands"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.34166667,
+                    79.0
+                ]
+            },
+            "properties": {
+                "name": "Bastianøyane",
+                "article": "https://en.wikipedia.org/wiki/Bastian_Islands"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.350194444,
+                    -54.404555555
+                ]
+            },
+            "properties": {
+                "name": "Olavtoppen",
+                "article": "https://en.wikipedia.org/wiki/Olavtoppen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.8825,
+                    61.463611111
+                ]
+            },
+            "properties": {
+                "name": "Sentraltind",
+                "article": "https://en.wikipedia.org/wiki/Sentraltind"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.693797222,
+                    62.174741666
+                ]
+            },
+            "properties": {
+                "name": "Tronfjell",
+                "article": "https://en.wikipedia.org/wiki/Tronfjell"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.864722222,
+                    59.519166666
+                ]
+            },
+            "properties": {
+                "name": "Snønuten",
+                "article": "https://en.wikipedia.org/wiki/Sn%C3%B8nuten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.51416667,
+                    59.85138889
+                ]
+            },
+            "properties": {
+                "name": "Songavatnet",
+                "article": "https://en.wikipedia.org/wiki/Songavatnet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.54083333,
+                    59.84833333
+                ]
+            },
+            "properties": {
+                "name": "Songavatnet",
+                "article": "https://en.wikipedia.org/wiki/Songavatnet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.913611111,
+                    63.470277777
+                ]
+            },
+            "properties": {
+                "name": "Stjørdal station",
+                "article": "https://en.wikipedia.org/wiki/Stj%C3%B8rdal_Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.69457222,
+                    59.88897222
+                ]
+            },
+            "properties": {
+                "name": "Nakholmen",
+                "article": "https://en.wikipedia.org/wiki/Nakholmen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.720277777,
+                    59.884444444
+                ]
+            },
+            "properties": {
+                "name": "Gressholmen",
+                "article": "https://en.wikipedia.org/wiki/Gressholmen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.2135,
+                    69.74101
+                ]
+            },
+            "properties": {
+                "name": "Sæsøya",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.92760889,
+                    59.94810694
+                ]
+            },
+            "properties": {
+                "name": "Høybråten Station",
+                "article": "https://en.wikipedia.org/wiki/H%C3%B8ybr%C3%A5ten_Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.17665833,
+                    60.14173889
+                ]
+            },
+            "properties": {
+                "name": "Jessheim Station",
+                "article": "https://en.wikipedia.org/wiki/Jessheim_Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.14988,
+                    80.45036
+                ]
+            },
+            "properties": {
+                "name": "Foynøya",
+                "article": "https://en.wikipedia.org/wiki/Foyn%C3%B8ya"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.155,
+                    80.44833333
+                ]
+            },
+            "properties": {
+                "name": "Foynøya",
+                "article": "https://en.wikipedia.org/wiki/Foyn%C3%B8ya"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.268333333,
+                    62.32
+                ]
+            },
+            "properties": {
+                "name": "Snøhetta",
+                "article": "https://en.wikipedia.org/wiki/Sn%C3%B8hetta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.116666666,
+                    61.933333333
+                ]
+            },
+            "properties": {
+                "name": "Måløy",
+                "article": "https://en.wikipedia.org/wiki/M%C3%A5l%C3%B8y"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.65,
+                    62.4
+                ]
+            },
+            "properties": {
+                "name": "Runde",
+                "article": "https://en.wikipedia.org/wiki/Runde"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.54138889,
+                    61.77055556
+                ]
+            },
+            "properties": {
+                "name": "Otta",
+                "article": "https://en.wikipedia.org/wiki/Otta,_Norway"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.175277777,
+                    60.14
+                ]
+            },
+            "properties": {
+                "name": "Jessheim",
+                "article": "https://en.wikipedia.org/wiki/Jessheim"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.583055555,
+                    59.881111111
+                ]
+            },
+            "properties": {
+                "name": "Rjukan",
+                "article": "https://en.wikipedia.org/wiki/Rjukan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.95,
+                    60.56666667
+                ]
+            },
+            "properties": {
+                "name": "Herdla",
+                "article": "https://en.wikipedia.org/wiki/Herdla_(island)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.62975,
+                    59.66333
+                ]
+            },
+            "properties": {
+                "name": "Drøbak",
+                "article": "https://en.wikipedia.org/wiki/Dr%C3%B8bak"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.633333333,
+                    59.666666666
+                ]
+            },
+            "properties": {
+                "name": "Drøbak",
+                "article": "https://en.wikipedia.org/wiki/Dr%C3%B8bak"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.21196,
+                    65.4749
+                ]
+            },
+            "properties": {
+                "name": "Brønnøysund",
+                "article": "https://en.wikipedia.org/wiki/Br%C3%B8nn%C3%B8ysund"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.6,
+                    58.866666666
+                ]
+            },
+            "properties": {
+                "name": "Jomfruland",
+                "article": "https://en.wikipedia.org/wiki/Jomfruland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.633333333,
+                    66.016666666
+                ]
+            },
+            "properties": {
+                "name": "Sandnessjøen",
+                "article": "https://en.wikipedia.org/wiki/Sandnessj%C3%B8en"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.75134,
+                    61.59496
+                ]
+            },
+            "properties": {
+                "name": "Vinstra",
+                "article": "https://en.wikipedia.org/wiki/Vinstra"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.75,
+                    61.6
+                ]
+            },
+            "properties": {
+                "name": "Vinstra",
+                "article": "https://en.wikipedia.org/wiki/Vinstra"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.518661,
+                    61.348475
+                ]
+            },
+            "properties": {
+                "name": "Bygdin",
+                "article": "https://en.wikipedia.org/wiki/Bygdin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.017222222,
+                    61.598611111
+                ]
+            },
+            "properties": {
+                "name": "Florø",
+                "article": "https://en.wikipedia.org/wiki/Flor%C3%B8"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.006666666,
+                    58.45
+                ]
+            },
+            "properties": {
+                "name": "Egersund",
+                "article": "https://en.wikipedia.org/wiki/Egersund"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.203583333,
+                    61.791861111
+                ]
+            },
+            "properties": {
+                "name": "Lodalskåpa",
+                "article": "https://en.wikipedia.org/wiki/Lodalsk%C3%A5pa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.53138889,
+                    68.79888889
+                ]
+            },
+            "properties": {
+                "name": "Harstad",
+                "article": "https://en.wikipedia.org/wiki/Harstad_(town)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.4681,
+                    60.8767
+                ]
+            },
+            "properties": {
+                "name": "Battle of Midtskogen",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Midtskogen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.871388888,
+                    61.461388888
+                ]
+            },
+            "properties": {
+                "name": "Store Skagastølstind",
+                "article": "https://en.wikipedia.org/wiki/Store_Skagast%C3%B8lstind"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.4,
+                    61.5333
+                ]
+            },
+            "properties": {
+                "name": "Inste Håsteinen",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.91022,
+                    61.46457
+                ]
+            },
+            "properties": {
+                "name": "Jervvasstind",
+                "article": "https://en.wikipedia.org/wiki/Jervvasstind"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.911111111,
+                    61.464722222
+                ]
+            },
+            "properties": {
+                "name": "Jervvasstind",
+                "article": "https://en.wikipedia.org/wiki/Jervvasstind"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.483889,
+                    59.875
+                ]
+            },
+            "properties": {
+                "name": "Billingstad station",
+                "article": "https://en.wikipedia.org/wiki/Billingstad_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.583333333,
+                    78.933333333
+                ]
+            },
+            "properties": {
+                "name": "Kongsøya",
+                "article": "https://en.wikipedia.org/wiki/Kongs%C3%B8ya"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.5,
+                    78.75
+                ]
+            },
+            "properties": {
+                "name": "Kong Karls Land",
+                "article": "https://en.wikipedia.org/wiki/Kong_Karls_Land"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.919444444,
+                    66.186666666
+                ]
+            },
+            "properties": {
+                "name": "Hugla",
+                "article": "https://en.wikipedia.org/wiki/Hugla"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.739166666,
+                    66.158888888
+                ]
+            },
+            "properties": {
+                "name": "Løkta",
+                "article": "https://en.wikipedia.org/wiki/L%C3%B8kta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5,
+                    68.75
+                ]
+            },
+            "properties": {
+                "name": "Njunis",
+                "article": "https://en.wikipedia.org/wiki/Njunis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.7157,
+                    66.2465
+                ]
+            },
+            "properties": {
+                "name": "Tomma",
+                "article": "https://en.wikipedia.org/wiki/Tomma"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.433433333,
+                    61.633305555
+                ]
+            },
+            "properties": {
+                "name": "Saukampen i Lom",
+                "article": "https://en.wikipedia.org/wiki/Saukampen_(Lom)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.633333333,
+                    78.716666666
+                ]
+            },
+            "properties": {
+                "name": "Svenskøya",
+                "article": "https://en.wikipedia.org/wiki/Svensk%C3%B8ya"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.845833333,
+                    61.252777777
+                ]
+            },
+            "properties": {
+                "name": "Osensjøen",
+                "article": "https://en.wikipedia.org/wiki/Osensj%C3%B8en"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.91222222,
+                    59.66638889
+                ]
+            },
+            "properties": {
+                "name": "Eikeren",
+                "article": "https://en.wikipedia.org/wiki/Eikeren"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.64,
+                    78.76
+                ]
+            },
+            "properties": {
+                "name": "Tirpitzøya",
+                "article": "https://en.wikipedia.org/wiki/Tirpitz%C3%B8ya"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.269166666,
+                    62.048611111
+                ]
+            },
+            "properties": {
+                "name": "Dalsnibba",
+                "article": "https://en.wikipedia.org/wiki/Dalsnibba"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.9,
+                    79.666666666
+                ]
+            },
+            "properties": {
+                "name": "Danes Island",
+                "article": "https://en.wikipedia.org/wiki/Danes_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.9484,
+                    63.2312
+                ]
+            },
+            "properties": {
+                "name": "Selbusjø",
+                "article": "https://en.wikipedia.org/wiki/Selbusj%C3%B8"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.95,
+                    69.666666666
+                ]
+            },
+            "properties": {
+                "name": "Tromsøya",
+                "article": "https://en.wikipedia.org/wiki/Troms%C3%B8ya"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.9498,
+                    69.69272
+                ]
+            },
+            "properties": {
+                "name": "Tromsøya",
+                "article": "https://en.wikipedia.org/wiki/Troms%C3%B8ya"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.118425,
+                    61.92865
+                ]
+            },
+            "properties": {
+                "name": "Moldøen",
+                "article": "https://en.wikipedia.org/wiki/Mold%C3%B8en"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.119166666,
+                    61.929444444
+                ]
+            },
+            "properties": {
+                "name": "Moldøen",
+                "article": "https://en.wikipedia.org/wiki/Mold%C3%B8en"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.526388888,
+                    59.89
+                ]
+            },
+            "properties": {
+                "name": "Sandvika",
+                "article": "https://en.wikipedia.org/wiki/Sandvika"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.29888889,
+                    63.19805556
+                ]
+            },
+            "properties": {
+                "name": "Ler Station",
+                "article": "https://en.wikipedia.org/wiki/Ler_Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.22972222,
+                    63.10027778
+                ]
+            },
+            "properties": {
+                "name": "Hovin Station",
+                "article": "https://en.wikipedia.org/wiki/Hovin_Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.28083333,
+                    63.15194444
+                ]
+            },
+            "properties": {
+                "name": "Lundamo Station",
+                "article": "https://en.wikipedia.org/wiki/Lundamo_Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.98059167,
+                    61.15560556
+                ]
+            },
+            "properties": {
+                "name": "Fimreite",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Fimreite"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.12191,
+                    59.11709
+                ]
+            },
+            "properties": {
+                "name": "Fyresvatnet",
+                "article": "https://en.wikipedia.org/wiki/Fyresvatnet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.607222222,
+                    58.401666666
+                ]
+            },
+            "properties": {
+                "name": "Lundevatnet",
+                "article": "https://en.wikipedia.org/wiki/Lundevatn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.794166666,
+                    61.431388888
+                ]
+            },
+            "properties": {
+                "name": "Store Austanbottstind",
+                "article": "https://en.wikipedia.org/wiki/Store_Austanbotntind"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.79545,
+                    61.43186
+                ]
+            },
+            "properties": {
+                "name": "Store Austanbottstind",
+                "article": "https://en.wikipedia.org/wiki/Store_Austanbotntind"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.116666666,
+                    76.55
+                ]
+            },
+            "properties": {
+                "name": "Hopen",
+                "article": "https://en.wikipedia.org/wiki/Hopen_(Svalbard)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.29,
+                    61.542777777
+                ]
+            },
+            "properties": {
+                "name": "Kyrkja",
+                "article": "https://en.wikipedia.org/wiki/Kyrkja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.593611111,
+                    80.151388888
+                ]
+            },
+            "properties": {
+                "name": "Kvitøya",
+                "article": "https://en.wikipedia.org/wiki/Kvit%C3%B8ya"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.591666666,
+                    69.735
+                ]
+            },
+            "properties": {
+                "name": "Store Blåmann",
+                "article": "https://en.wikipedia.org/wiki/Store_Bl%C3%A5mannen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.096944444,
+                    61.384444444
+                ]
+            },
+            "properties": {
+                "name": "Falketind",
+                "article": "https://en.wikipedia.org/wiki/Falketind"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.40139,
+                    -54.39722
+                ]
+            },
+            "properties": {
+                "name": "Victoria Terrace",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.2878372,
+                    -54.4067993
+                ]
+            },
+            "properties": {
+                "name": "Nyrøysa",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.315,
+                    -54.4531
+                ]
+            },
+            "properties": {
+                "name": "Larsøya",
+                "article": "https://en.wikipedia.org/wiki/Lars%C3%B8ya"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.916666666,
+                    59.9
+                ]
+            },
+            "properties": {
+                "name": "Tinnsjå",
+                "article": "https://en.wikipedia.org/wiki/Tinnsj%C3%A5"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.3,
+                    60.166666666
+                ]
+            },
+            "properties": {
+                "name": "Hønefoss",
+                "article": "https://en.wikipedia.org/wiki/H%C3%B8nefoss"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.10361111,
+                    60.02305556
+                ]
+            },
+            "properties": {
+                "name": "Frogner Station",
+                "article": "https://en.wikipedia.org/wiki/Frogner_Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.139278,
+                    60.074775
+                ]
+            },
+            "properties": {
+                "name": "Kløfta Station",
+                "article": "https://en.wikipedia.org/wiki/Kl%C3%B8fta_Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.798611111,
+                    61.295277777
+                ]
+            },
+            "properties": {
+                "name": "Bitihorn",
+                "article": "https://en.wikipedia.org/wiki/Bitihorn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.086930555,
+                    68.449238888
+                ]
+            },
+            "properties": {
+                "name": "Bjørnfjell",
+                "article": "https://en.wikipedia.org/wiki/Bj%C3%B8rnfjell,_Nordland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.08891,
+                    68.44907
+                ]
+            },
+            "properties": {
+                "name": "Bjørnfjell",
+                "article": "https://en.wikipedia.org/wiki/Bj%C3%B8rnfjell,_Nordland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.98162222,
+                    59.94071389
+                ]
+            },
+            "properties": {
+                "name": "Fjellhamar Station",
+                "article": "https://en.wikipedia.org/wiki/Fjellhamar_Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.08638889,
+                    59.99972222
+                ]
+            },
+            "properties": {
+                "name": "Leirsund Station",
+                "article": "https://en.wikipedia.org/wiki/Leirsund_Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.96604722,
+                    59.93890833
+                ]
+            },
+            "properties": {
+                "name": "Hanaborg Station",
+                "article": "https://en.wikipedia.org/wiki/Hanaborg_Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.835278,
+                    59.9325
+                ]
+            },
+            "properties": {
+                "name": "Alna Station",
+                "article": "https://en.wikipedia.org/wiki/Alna_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.002436111,
+                    59.950188888
+                ]
+            },
+            "properties": {
+                "name": "Strømmen Station",
+                "article": "https://en.wikipedia.org/wiki/Str%C3%B8mmen_Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.88762222,
+                    59.94984444
+                ]
+            },
+            "properties": {
+                "name": "Grorud Station",
+                "article": "https://en.wikipedia.org/wiki/Grorud_Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.01674444,
+                    59.95604167
+                ]
+            },
+            "properties": {
+                "name": "Sagdalen Station",
+                "article": "https://en.wikipedia.org/wiki/Sagdalen_Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.8708,
+                    59.9437
+                ]
+            },
+            "properties": {
+                "name": "Nyland Station",
+                "article": "https://en.wikipedia.org/wiki/Nyland_Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.77194444,
+                    59.3875
+                ]
+            },
+            "properties": {
+                "name": "Borsæ",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.35805556,
+                    59.11333333
+                ]
+            },
+            "properties": {
+                "name": "Brattøya",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.383333333,
+                    61.683333333
+                ]
+            },
+            "properties": {
+                "name": "Breimsvatnet",
+                "article": "https://en.wikipedia.org/wiki/Breimsvatn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.118888888,
+                    62.497222222
+                ]
+            },
+            "properties": {
+                "name": "Valderøya",
+                "article": "https://en.wikipedia.org/wiki/Valder%C3%B8ya"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.77055556,
+                    62.01777778
+                ]
+            },
+            "properties": {
+                "name": "Isteren",
+                "article": "https://en.wikipedia.org/wiki/Isteren"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.83027778,
+                    68.82111111
+                ]
+            },
+            "properties": {
+                "name": "Dyrøya",
+                "article": "https://en.wikipedia.org/wiki/Dyr%C3%B8ya,_%C3%98ksnes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.915,
+                    68.87638889
+                ]
+            },
+            "properties": {
+                "name": "Skogsøya",
+                "article": "https://en.wikipedia.org/wiki/Skogs%C3%B8ya"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.901388888,
+                    61.464444444
+                ]
+            },
+            "properties": {
+                "name": "Store Styggedalstinden",
+                "article": "https://en.wikipedia.org/wiki/Store_Styggedalstinden"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.5,
+                    69.333333333
+                ]
+            },
+            "properties": {
+                "name": "Senja",
+                "article": "https://en.wikipedia.org/wiki/Senja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.191666666,
+                    74.423333333
+                ]
+            },
+            "properties": {
+                "name": "Miseryfjellet",
+                "article": "https://en.wikipedia.org/wiki/Miseryfjellet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.19638889,
+                    61.55
+                ]
+            },
+            "properties": {
+                "name": "Stetinden",
+                "article": "https://en.wikipedia.org/wiki/Stetinden_(Lom)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.84888889,
+                    59.43611111
+                ]
+            },
+            "properties": {
+                "name": "Seljordsvatn",
+                "article": "https://en.wikipedia.org/wiki/Seljordsvatnet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.30972222,
+                    61.45222222
+                ]
+            },
+            "properties": {
+                "name": "Storsjøen",
+                "article": "https://en.wikipedia.org/wiki/Storsj%C3%B8en_(Rendalen)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.72361111,
+                    59.91805556
+                ]
+            },
+            "properties": {
+                "name": "Inkognitogata 18",
+                "article": "https://en.wikipedia.org/wiki/Inkognitogata_18"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.104444444,
+                    60.31
+                ]
+            },
+            "properties": {
+                "name": "Hurdalssjøen",
+                "article": "https://en.wikipedia.org/wiki/Hurdalsj%C3%B8en"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.068361111,
+                    60.195402777
+                ]
+            },
+            "properties": {
+                "name": "Hårteigen",
+                "article": "https://en.wikipedia.org/wiki/H%C3%A5rteigen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.35825,
+                    62.15927
+                ]
+            },
+            "properties": {
+                "name": "Elgpiggen",
+                "article": "https://en.wikipedia.org/wiki/Elgspiggen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.913611111,
+                    63.470277777
+                ]
+            },
+            "properties": {
+                "name": "Stjørdal station",
+                "article": "https://en.wikipedia.org/wiki/Stj%C3%B8rdal_Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.53138889,
+                    68.79888889
+                ]
+            },
+            "properties": {
+                "name": "Harstad",
+                "article": "https://en.wikipedia.org/wiki/Harstad_(town)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.4681,
+                    60.8767
+                ]
+            },
+            "properties": {
+                "name": "Battle of Midtskogen",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Midtskogen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.871388888,
+                    61.461388888
+                ]
+            },
+            "properties": {
+                "name": "Store Skagastølstind",
+                "article": "https://en.wikipedia.org/wiki/Store_Skagast%C3%B8lstind"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.4,
+                    61.5333
+                ]
+            },
+            "properties": {
+                "name": "Inste Håsteinen",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.91022,
+                    61.46457
+                ]
+            },
+            "properties": {
+                "name": "Jervvasstind",
+                "article": "https://en.wikipedia.org/wiki/Jervvasstind"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.911111111,
+                    61.464722222
+                ]
+            },
+            "properties": {
+                "name": "Jervvasstind",
+                "article": "https://en.wikipedia.org/wiki/Jervvasstind"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.483889,
+                    59.875
+                ]
+            },
+            "properties": {
+                "name": "Billingstad station",
+                "article": "https://en.wikipedia.org/wiki/Billingstad_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.583333333,
+                    78.933333333
+                ]
+            },
+            "properties": {
+                "name": "Kongsøya",
+                "article": "https://en.wikipedia.org/wiki/Kongs%C3%B8ya"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.5,
+                    78.75
+                ]
+            },
+            "properties": {
+                "name": "Kong Karls Land",
+                "article": "https://en.wikipedia.org/wiki/Kong_Karls_Land"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.919444444,
+                    66.186666666
+                ]
+            },
+            "properties": {
+                "name": "Hugla",
+                "article": "https://en.wikipedia.org/wiki/Hugla"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.739166666,
+                    66.158888888
+                ]
+            },
+            "properties": {
+                "name": "Løkta",
+                "article": "https://en.wikipedia.org/wiki/L%C3%B8kta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5,
+                    68.75
+                ]
+            },
+            "properties": {
+                "name": "Njunis",
+                "article": "https://en.wikipedia.org/wiki/Njunis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.7157,
+                    66.2465
+                ]
+            },
+            "properties": {
+                "name": "Tomma",
+                "article": "https://en.wikipedia.org/wiki/Tomma"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.433433333,
+                    61.633305555
+                ]
+            },
+            "properties": {
+                "name": "Saukampen i Lom",
+                "article": "https://en.wikipedia.org/wiki/Saukampen_(Lom)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.633333333,
+                    78.716666666
+                ]
+            },
+            "properties": {
+                "name": "Svenskøya",
+                "article": "https://en.wikipedia.org/wiki/Svensk%C3%B8ya"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.845833333,
+                    61.252777777
+                ]
+            },
+            "properties": {
+                "name": "Osensjøen",
+                "article": "https://en.wikipedia.org/wiki/Osensj%C3%B8en"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.91222222,
+                    59.66638889
+                ]
+            },
+            "properties": {
+                "name": "Eikeren",
+                "article": "https://en.wikipedia.org/wiki/Eikeren"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.64,
+                    78.76
+                ]
+            },
+            "properties": {
+                "name": "Tirpitzøya",
+                "article": "https://en.wikipedia.org/wiki/Tirpitz%C3%B8ya"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.269166666,
+                    62.048611111
+                ]
+            },
+            "properties": {
+                "name": "Dalsnibba",
+                "article": "https://en.wikipedia.org/wiki/Dalsnibba"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.9,
+                    79.666666666
+                ]
+            },
+            "properties": {
+                "name": "Danes Island",
+                "article": "https://en.wikipedia.org/wiki/Danes_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.9484,
+                    63.2312
+                ]
+            },
+            "properties": {
+                "name": "Selbusjø",
+                "article": "https://en.wikipedia.org/wiki/Selbusj%C3%B8"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.95,
+                    69.666666666
+                ]
+            },
+            "properties": {
+                "name": "Tromsøya",
+                "article": "https://en.wikipedia.org/wiki/Troms%C3%B8ya"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.9498,
+                    69.69272
+                ]
+            },
+            "properties": {
+                "name": "Tromsøya",
+                "article": "https://en.wikipedia.org/wiki/Troms%C3%B8ya"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.118425,
+                    61.92865
+                ]
+            },
+            "properties": {
+                "name": "Moldøen",
+                "article": "https://en.wikipedia.org/wiki/Mold%C3%B8en"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.119166666,
+                    61.929444444
+                ]
+            },
+            "properties": {
+                "name": "Moldøen",
+                "article": "https://en.wikipedia.org/wiki/Mold%C3%B8en"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.084722222,
+                    61.041666666
+                ]
+            },
+            "properties": {
+                "name": "Dingevatn",
+                "article": "https://en.wikipedia.org/wiki/Dingevatn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.38349444,
+                    63.45102778
+                ]
+            },
+            "properties": {
+                "name": "Munkholmen",
+                "article": "https://en.wikipedia.org/wiki/Munkholmen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.19499,
+                    64.66584
+                ]
+            },
+            "properties": {
+                "name": "Tunnsjøen",
+                "article": "https://en.wikipedia.org/wiki/Tunnsj%C3%B8en"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.383333333,
+                    64.716666666
+                ]
+            },
+            "properties": {
+                "name": "Tunnsjøen",
+                "article": "https://en.wikipedia.org/wiki/Tunnsj%C3%B8en"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.77833333,
+                    59.98444444
+                ]
+            },
+            "properties": {
+                "name": "Maridalsvannet",
+                "article": "https://en.wikipedia.org/wiki/Maridalsvannet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.41472222,
+                    59.55527778
+                ]
+            },
+            "properties": {
+                "name": "Sundsbarmvatn",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.404166666,
+                    66.745277777
+                ]
+            },
+            "properties": {
+                "name": "Kjemåvatnet",
+                "article": "https://en.wikipedia.org/wiki/Kjem%C3%A5vatnet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.40239,
+                    66.74688
+                ]
+            },
+            "properties": {
+                "name": "Kjemåvatnet",
+                "article": "https://en.wikipedia.org/wiki/Kjem%C3%A5vatnet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.04284,
+                    66.82682
+                ]
+            },
+            "properties": {
+                "name": "Nordre Bjøllåvatnet",
+                "article": "https://en.wikipedia.org/wiki/Nordre_Bj%C3%B8ll%C3%A5vatnet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.043333333,
+                    66.825833333
+                ]
+            },
+            "properties": {
+                "name": "Nordre Bjøllåvatnet",
+                "article": "https://en.wikipedia.org/wiki/Nordre_Bj%C3%B8ll%C3%A5vatnet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.251111111,
+                    66.788888888
+                ]
+            },
+            "properties": {
+                "name": "Ølfjellet",
+                "article": "https://en.wikipedia.org/wiki/%C3%98rfjellet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8602,
+                    61.6789
+                ]
+            },
+            "properties": {
+                "name": "Hovden",
+                "article": "https://en.wikipedia.org/wiki/Hovden,_Kinn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.69394,
+                    58.941385
+                ]
+            },
+            "properties": {
+                "name": "Jernaldergarden Stavanger",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.129,
+                    59.609
+                ]
+            },
+            "properties": {
+                "name": "Battle of Langnes",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Langnes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.52555556,
+                    59.89277778
+                ]
+            },
+            "properties": {
+                "name": "Sandvika station",
+                "article": "https://en.wikipedia.org/wiki/Sandvika_Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.555,
+                    59.897222
+                ]
+            },
+            "properties": {
+                "name": "Blommenholm station",
+                "article": "https://en.wikipedia.org/wiki/Blommenholm_Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.170277777,
+                    62.543055555
+                ]
+            },
+            "properties": {
+                "name": "Eikesdalsvatnet",
+                "article": "https://en.wikipedia.org/wiki/Eikesdalsvatnet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.83,
+                    61.459166666
+                ]
+            },
+            "properties": {
+                "name": "Dyrhaugstindane",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.9098667,
+                    59.7707667
+                ]
+            },
+            "properties": {
+                "name": "Hokksund",
+                "article": "https://en.wikipedia.org/wiki/Hokksund"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.89996,
+                    61.99591
+                ]
+            },
+            "properties": {
+                "name": "Femund",
+                "article": "https://en.wikipedia.org/wiki/Femund"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.9,
+                    62.183333333
+                ]
+            },
+            "properties": {
+                "name": "Femund",
+                "article": "https://en.wikipedia.org/wiki/Femund"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.098,
+                    61.3682
+                ]
+            },
+            "properties": {
+                "name": "Hjelledalstind",
+                "article": "https://en.wikipedia.org/wiki/Hjelledalstind"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.3992,
+                    62.0922
+                ]
+            },
+            "properties": {
+                "name": "Fokstuguhøi",
+                "article": "https://en.wikipedia.org/wiki/Fokstuguh%C3%B8i"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.47416667,
+                    62.10222222
+                ]
+            },
+            "properties": {
+                "name": "Halvfarhøe",
+                "article": "https://en.wikipedia.org/wiki/Halvfarh%C3%B8e"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.4471,
+                    62.131
+                ]
+            },
+            "properties": {
+                "name": "Falketind",
+                "article": "https://en.wikipedia.org/wiki/Falketind_(Dovre)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.44833333,
+                    62.13027778
+                ]
+            },
+            "properties": {
+                "name": "Falketind",
+                "article": "https://en.wikipedia.org/wiki/Falketind_(Dovre)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.69237,
+                    68.2094
+                ]
+            },
+            "properties": {
+                "name": "Lossivatnet",
+                "article": "https://en.wikipedia.org/wiki/Lossivatnet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.6924,
+                    68.2094
+                ]
+            },
+            "properties": {
+                "name": "Lossivatnet",
+                "article": "https://en.wikipedia.org/wiki/Lossivatnet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.44,
+                    79.06
+                ]
+            },
+            "properties": {
+                "name": "Wilhelmøya",
+                "article": "https://en.wikipedia.org/wiki/Wilhelm_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.00832,
+                    65.78406
+                ]
+            },
+            "properties": {
+                "name": "Røssvatnet",
+                "article": "https://en.wikipedia.org/wiki/R%C3%B8ssvatnet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.598933,
+                    70.686969
+                ]
+            },
+            "properties": {
+                "name": "Melkøya",
+                "article": "https://en.wikipedia.org/wiki/Melk%C3%B8ya"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.59899,
+                    70.68997
+                ]
+            },
+            "properties": {
+                "name": "Melkøya",
+                "article": "https://en.wikipedia.org/wiki/Melk%C3%B8ya"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.9382,
+                    64.1459
+                ]
+            },
+            "properties": {
+                "name": "Bølareinen rock carvings of Steinkjer",
+                "article": "https://en.wikipedia.org/wiki/B%C3%B8lareinen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.198611111,
+                    63.02
+                ]
+            },
+            "properties": {
+                "name": "Storsylen",
+                "article": "https://en.wikipedia.org/wiki/Storsylen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.63916667,
+                    62.36944444
+                ]
+            },
+            "properties": {
+                "name": "Remøya",
+                "article": "https://en.wikipedia.org/wiki/Rem%C3%B8ya"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.798256,
+                    59.305006
+                ]
+            },
+            "properties": {
+                "name": "Flåvatn",
+                "article": "https://en.wikipedia.org/wiki/Fl%C3%A5vatn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.722694444,
+                    60.609905555
+                ]
+            },
+            "properties": {
+                "name": "Folarskardnuten",
+                "article": "https://en.wikipedia.org/wiki/Folarskardnuten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.64972222,
+                    59.39722222
+                ]
+            },
+            "properties": {
+                "name": "Folurdvatn",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.792222222,
+                    62.678888888
+                ]
+            },
+            "properties": {
+                "name": "Forollhogna",
+                "article": "https://en.wikipedia.org/wiki/Forollhogna"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.633888888,
+                    62.341666666
+                ]
+            },
+            "properties": {
+                "name": "Fosnavåg",
+                "article": "https://en.wikipedia.org/wiki/Fosnav%C3%A5g"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.054166666,
+                    63.781944444
+                ]
+            },
+            "properties": {
+                "name": "Ytterøya",
+                "article": "https://en.wikipedia.org/wiki/Ytter%C3%B8ya"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.066,
+                    66.4262
+                ]
+            },
+            "properties": {
+                "name": "Aldra",
+                "article": "https://en.wikipedia.org/wiki/Aldra"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.089722222,
+                    65.398333333
+                ]
+            },
+            "properties": {
+                "name": "Torghatten",
+                "article": "https://en.wikipedia.org/wiki/Torghatten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.595833333,
+                    59.033055555
+                ]
+            },
+            "properties": {
+                "name": "Kjerag",
+                "article": "https://en.wikipedia.org/wiki/Kjerag"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.966666666,
+                    61.316666666
+                ]
+            },
+            "properties": {
+                "name": "Vinstre",
+                "article": "https://en.wikipedia.org/wiki/Vinstre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.922222,
+                    61.935
+                ]
+            },
+            "properties": {
+                "name": "Oppstrynsvatn",
+                "article": "https://en.wikipedia.org/wiki/Oppstrynsvatn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.858055555,
+                    58.8075
+                ]
+            },
+            "properties": {
+                "name": "Vegår",
+                "article": "https://en.wikipedia.org/wiki/Veg%C3%A5r"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.10833333,
+                    63.15694444
+                ]
+            },
+            "properties": {
+                "name": "Gaustadvatnet",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.650333333,
+                    59.854138888
+                ]
+            },
+            "properties": {
+                "name": "Gaustatoppen",
+                "article": "https://en.wikipedia.org/wiki/Gaustatoppen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.317222222,
+                    60.397777777
+                ]
+            },
+            "properties": {
+                "name": "Battle of Vågen",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_V%C3%A5gen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.482222222,
+                    62.241111111
+                ]
+            },
+            "properties": {
+                "name": "Savalen",
+                "article": "https://en.wikipedia.org/wiki/Savalen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5,
+                    80.025
+                ]
+            },
+            "properties": {
+                "name": "Moffen",
+                "article": "https://en.wikipedia.org/wiki/Moffen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.775277777,
+                    59.795
+                ]
+            },
+            "properties": {
+                "name": "Røldalsvatnet",
+                "article": "https://en.wikipedia.org/wiki/R%C3%B8ldalsvatnet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.2175,
+                    59.55805556
+                ]
+            },
+            "properties": {
+                "name": "Heddalsvatnet",
+                "article": "https://en.wikipedia.org/wiki/Heddalsvatnet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.165,
+                    59.096669444
+                ]
+            },
+            "properties": {
+                "name": "Rosskreppfjorden",
+                "article": "https://en.wikipedia.org/wiki/Rosskreppfjorden"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.034166666,
+                    66.261111111
+                ]
+            },
+            "properties": {
+                "name": "Handnesøya",
+                "article": "https://en.wikipedia.org/wiki/Handnes%C3%B8ya"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2075,
+                    68.300555555
+                ]
+            },
+            "properties": {
+                "name": "Gimsøya",
+                "article": "https://en.wikipedia.org/wiki/Gims%C3%B8ya"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.607222222,
+                    59.908055555
+                ]
+            },
+            "properties": {
+                "name": "Stabekk station",
+                "article": "https://en.wikipedia.org/wiki/Stabekk_Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.8784,
+                    68.2623
+                ]
+            },
+            "properties": {
+                "name": "Stormolla",
+                "article": "https://en.wikipedia.org/wiki/Stormolla"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.033333333,
+                    59.0
+                ]
+            },
+            "properties": {
+                "name": "Stavern",
+                "article": "https://en.wikipedia.org/wiki/Stavern"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.75472222,
+                    61.51666667
+                ]
+            },
+            "properties": {
+                "name": "Gålåvatnet",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.783333333,
+                    68.533333333
+                ]
+            },
+            "properties": {
+                "name": "Hadseløya",
+                "article": "https://en.wikipedia.org/wiki/Hadsel%C3%B8ya"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.82644,
+                    68.52764
+                ]
+            },
+            "properties": {
+                "name": "Hadseløya",
+                "article": "https://en.wikipedia.org/wiki/Hadsel%C3%B8ya"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.9389,
+                    62.4076
+                ]
+            },
+            "properties": {
+                "name": "Hareidlandet",
+                "article": "https://en.wikipedia.org/wiki/Hareidlandet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9546,
+                    70.0234
+                ]
+            },
+            "properties": {
+                "name": "Skjervøya",
+                "article": "https://en.wikipedia.org/wiki/Skjerv%C3%B8ya"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.84391,
+                    70.08662
+                ]
+            },
+            "properties": {
+                "name": "Laukøya",
+                "article": "https://en.wikipedia.org/wiki/Lauk%C3%B8ya"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.8417,
+                    70.1061
+                ]
+            },
+            "properties": {
+                "name": "Laukøya",
+                "article": "https://en.wikipedia.org/wiki/Lauk%C3%B8ya"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.58468,
+                    70.13103
+                ]
+            },
+            "properties": {
+                "name": "Arnøya",
+                "article": "https://en.wikipedia.org/wiki/Arn%C3%B8ya"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.583333333,
+                    70.133333333
+                ]
+            },
+            "properties": {
+                "name": "Arnøya",
+                "article": "https://en.wikipedia.org/wiki/Arn%C3%B8ya"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.676886111,
+                    62.314347222
+                ]
+            },
+            "properties": {
+                "name": "Herøya",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.99621,
+                    64.31881
+                ]
+            },
+            "properties": {
+                "name": "Hartkjølen",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9955,
+                    64.3193
+                ]
+            },
+            "properties": {
+                "name": "Hartkjølen",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.7484,
+                    68.1985
+                ]
+            },
+            "properties": {
+                "name": "Litlmolla",
+                "article": "https://en.wikipedia.org/wiki/Litlmolla"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.1092,
+                    63.1617
+                ]
+            },
+            "properties": {
+                "name": "Tustna",
+                "article": "https://en.wikipedia.org/wiki/Tustna_(island)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.45612,
+                    59.84372111
+                ]
+            },
+            "properties": {
+                "name": "Høn station",
+                "article": "https://en.wikipedia.org/wiki/H%C3%B8n_Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.876666666,
+                    69.469166666
+                ]
+            },
+            "properties": {
+                "name": "Jiehkkevárri",
+                "article": "https://en.wikipedia.org/wiki/Jiehkkev%C3%A1rri"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8791,
+                    69.46929
+                ]
+            },
+            "properties": {
+                "name": "Jiehkkevárri",
+                "article": "https://en.wikipedia.org/wiki/Jiehkkev%C3%A1rri"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.36871,
+                    60.211
+                ]
+            },
+            "properties": {
+                "name": "Lysøen",
+                "article": "https://en.wikipedia.org/wiki/Lys%C3%B8en"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.05,
+                    60.466666666
+                ]
+            },
+            "properties": {
+                "name": "Sperillen",
+                "article": "https://en.wikipedia.org/wiki/Sperillen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.131666666,
+                    61.495833333
+                ]
+            },
+            "properties": {
+                "name": "Jølstravatn",
+                "article": "https://en.wikipedia.org/wiki/J%C3%B8lstravatn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.85,
+                    58.466666666
+                ]
+            },
+            "properties": {
+                "name": "Tromøya",
+                "article": "https://en.wikipedia.org/wiki/Trom%C3%B8ya"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.85,
+                    70.6
+                ]
+            },
+            "properties": {
+                "name": "Kvaløya, Finnmark",
+                "article": "https://en.wikipedia.org/wiki/Kval%C3%B8ya,_Finnmark"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.46194444,
+                    59.85888889
+                ]
+            },
+            "properties": {
+                "name": "Hvalstad station",
+                "article": "https://en.wikipedia.org/wiki/Hvalstad_Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.77222222,
+                    68.83833333
+                ]
+            },
+            "properties": {
+                "name": "Tindsøya",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.731388888,
+                    58.997222222
+                ]
+            },
+            "properties": {
+                "name": "Hundvåg",
+                "article": "https://en.wikipedia.org/wiki/Hundv%C3%A5g_(island)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.087,
+                    59.438
+                ]
+            },
+            "properties": {
+                "name": "Røvær",
+                "article": "https://en.wikipedia.org/wiki/R%C3%B8v%C3%A6r"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.743611111,
+                    58.428888888
+                ]
+            },
+            "properties": {
+                "name": "Hisøy",
+                "article": "https://en.wikipedia.org/wiki/His%C3%B8ya"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.516666666,
+                    61.884722222
+                ]
+            },
+            "properties": {
+                "name": "Sølen",
+                "article": "https://en.wikipedia.org/wiki/S%C3%B8len"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.96,
+                    60.449
+                ]
+            },
+            "properties": {
+                "name": "Misje",
+                "article": "https://en.wikipedia.org/wiki/Misje"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.2074,
+                    63.1959
+                ]
+            },
+            "properties": {
+                "name": "Stabblandet",
+                "article": "https://en.wikipedia.org/wiki/Stabblandet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.2897,
+                    62.6598
+                ]
+            },
+            "properties": {
+                "name": "Sekken",
+                "article": "https://en.wikipedia.org/wiki/Sekken"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.338611111,
+                    66.012222222
+                ]
+            },
+            "properties": {
+                "name": "Oksskolten",
+                "article": "https://en.wikipedia.org/wiki/Oksskolten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.14444444,
+                    60.12
+                ]
+            },
+            "properties": {
+                "name": "Hundvåkøy",
+                "article": "https://en.wikipedia.org/wiki/Hundv%C3%A5k%C3%B8y"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.35,
+                    59.15
+                ]
+            },
+            "properties": {
+                "name": "Veierland",
+                "article": "https://en.wikipedia.org/wiki/Veierland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.94,
+                    60.459722222
+                ]
+            },
+            "properties": {
+                "name": "Fjellsjøkampen",
+                "article": "https://en.wikipedia.org/wiki/Fjellsj%C3%B8kampen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.938902777,
+                    60.461016666
+                ]
+            },
+            "properties": {
+                "name": "Fjellsjøkampen",
+                "article": "https://en.wikipedia.org/wiki/Fjellsj%C3%B8kampen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.326183333,
+                    61.634883333
+                ]
+            },
+            "properties": {
+                "name": "Keilhaus topp",
+                "article": "https://en.wikipedia.org/wiki/Keilhaus_topp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.730277777,
+                    59.683611111
+                ]
+            },
+            "properties": {
+                "name": "Slavasshøgda",
+                "article": "https://en.wikipedia.org/wiki/Slavassh%C3%B8gda"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.695,
+                    60.8815
+                ]
+            },
+            "properties": {
+                "name": "Skogshorn",
+                "article": "https://en.wikipedia.org/wiki/Skogshorn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.686594444,
+                    61.744433333
+                ]
+            },
+            "properties": {
+                "name": "Tverrådalskyrkja",
+                "article": "https://en.wikipedia.org/wiki/Tverr%C3%A5dalskyrkja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.241866666,
+                    60.374708333
+                ]
+            },
+            "properties": {
+                "name": "Lyderhorn",
+                "article": "https://en.wikipedia.org/wiki/Lyderhorn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.4248,
+                    62.6706
+                ]
+            },
+            "properties": {
+                "name": "Veøya",
+                "article": "https://en.wikipedia.org/wiki/Ve%C3%B8ya"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.62,
+                    59.97
+                ]
+            },
+            "properties": {
+                "name": "Bogstadvannet",
+                "article": "https://en.wikipedia.org/wiki/Bogstadvannet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.366666666,
+                    60.416666666
+                ]
+            },
+            "properties": {
+                "name": "Rundemanen",
+                "article": "https://en.wikipedia.org/wiki/Rundemanen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.9798,
+                    60.7363
+                ]
+            },
+            "properties": {
+                "name": "Helgøya",
+                "article": "https://en.wikipedia.org/wiki/Helg%C3%B8ya,_Innlandet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1891,
+                    62.0127
+                ]
+            },
+            "properties": {
+                "name": "Silda",
+                "article": "https://en.wikipedia.org/wiki/Silda,_Kinn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.076,
+                    67.1035
+                ]
+            },
+            "properties": {
+                "name": "Sandhornøya",
+                "article": "https://en.wikipedia.org/wiki/Sandhorn%C3%B8ya"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.405833333,
+                    60.270555555
+                ]
+            },
+            "properties": {
+                "name": "Kalandsvatnet",
+                "article": "https://en.wikipedia.org/wiki/Kalandsvatnet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.88276,
+                    66.94472
+                ]
+            },
+            "properties": {
+                "name": "Balvatnet",
+                "article": "https://en.wikipedia.org/wiki/Balvatnet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.900555555,
+                    66.943888888
+                ]
+            },
+            "properties": {
+                "name": "Balvatnet",
+                "article": "https://en.wikipedia.org/wiki/Balvatnet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.0,
+                    80.1167
+                ]
+            },
+            "properties": {
+                "name": "Storøya",
+                "article": "https://en.wikipedia.org/wiki/Stor%C3%B8ya"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7126,
+                    59.9323
+                ]
+            },
+            "properties": {
+                "name": "Chateau Neuf",
+                "article": "https://en.wikipedia.org/wiki/Chateau_Neuf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.74513889,
+                    59.91588889
+                ]
+            },
+            "properties": {
+                "name": "Akersgata",
+                "article": "https://en.wikipedia.org/wiki/Akersgata"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.340041666,
+                    60.409663888
+                ]
+            },
+            "properties": {
+                "name": "Sandviksfjellet",
+                "article": "https://en.wikipedia.org/wiki/Sandviksfjellet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.3403,
+                    60.40953
+                ]
+            },
+            "properties": {
+                "name": "Sandviksfjellet",
+                "article": "https://en.wikipedia.org/wiki/Sandviksfjellet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.88141,
+                    66.23511
+                ]
+            },
+            "properties": {
+                "name": "Kallvatnet",
+                "article": "https://en.wikipedia.org/wiki/Kallvatnet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.68333,
+                    61.7
+                ]
+            },
+            "properties": {
+                "name": "Snønipa",
+                "article": "https://en.wikipedia.org/wiki/Sn%C3%B8nipa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.8833,
+                    59.9781
+                ]
+            },
+            "properties": {
+                "name": "Steinbruvannet",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.7443,
+                    67.4742
+                ]
+            },
+            "properties": {
+                "name": "Faulvatnet",
+                "article": "https://en.wikipedia.org/wiki/Faulvatnet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.4075,
+                    61.784722222
+                ]
+            },
+            "properties": {
+                "name": "Austdalsvatnet",
+                "article": "https://en.wikipedia.org/wiki/Austdalsvatnet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.273888888,
+                    61.939722222
+                ]
+            },
+            "properties": {
+                "name": "Aursjoen",
+                "article": "https://en.wikipedia.org/wiki/Aursjoen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.7118,
+                    63.5253
+                ]
+            },
+            "properties": {
+                "name": "Funnsjøen",
+                "article": "https://en.wikipedia.org/wiki/Funnsj%C3%B8en"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.414722222,
+                    60.423333333
+                ]
+            },
+            "properties": {
+                "name": "Sysenvatnet",
+                "article": "https://en.wikipedia.org/wiki/Sysenvatnet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.659722222,
+                    59.372222222
+                ]
+            },
+            "properties": {
+                "name": "Øymarksjøen",
+                "article": "https://en.wikipedia.org/wiki/%C3%98ymarksj%C3%B8en"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.370833333,
+                    59.496666666
+                ]
+            },
+            "properties": {
+                "name": "Vigdarvatnet",
+                "article": "https://en.wikipedia.org/wiki/Vigdarvatnet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7676,
+                    68.4623
+                ]
+            },
+            "properties": {
+                "name": "Leinavatn",
+                "article": "https://en.wikipedia.org/wiki/Leinavatnet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.119444444,
+                    59.3775
+                ]
+            },
+            "properties": {
+                "name": "Mingevannet",
+                "article": "https://en.wikipedia.org/wiki/Mingevannet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.0159,
+                    64.3127
+                ]
+            },
+            "properties": {
+                "name": "Bangsjøan",
+                "article": "https://en.wikipedia.org/wiki/Bangsj%C3%B8an"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.8818,
+                    62.4907
+                ]
+            },
+            "properties": {
+                "name": "Feragen",
+                "article": "https://en.wikipedia.org/wiki/Feragen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.961111111,
+                    65.946111111
+                ]
+            },
+            "properties": {
+                "name": "Bleikvatnet",
+                "article": "https://en.wikipedia.org/wiki/Bleikvatnet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.8322,
+                    63.5689
+                ]
+            },
+            "properties": {
+                "name": "Feren",
+                "article": "https://en.wikipedia.org/wiki/Feren"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.654722222,
+                    60.17
+                ]
+            },
+            "properties": {
+                "name": "Bjornesfjorden",
+                "article": "https://en.wikipedia.org/wiki/Bjornesfjorden"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.972,
+                    61.136
+                ]
+            },
+            "properties": {
+                "name": "Dokkfløyvatn",
+                "article": "https://en.wikipedia.org/wiki/Dokkfl%C3%B8yvatn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.951111111,
+                    61.156666666
+                ]
+            },
+            "properties": {
+                "name": "Dokkfløyvatn",
+                "article": "https://en.wikipedia.org/wiki/Dokkfl%C3%B8yvatn"
+            }
+        }
+    ]
+}

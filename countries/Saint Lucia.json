@@ -1,0 +1,1237 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.0566,
+                    13.85616
+                ]
+            },
+            "properties": {
+                "name": "Soufrière",
+                "article": "https://en.wikipedia.org/wiki/Soufri%C3%A8re,_Saint_Lucia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.0425,
+                    13.94
+                ]
+            },
+            "properties": {
+                "name": "Anse La Raye",
+                "article": "https://en.wikipedia.org/wiki/Anse_La_Raye"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.070361111,
+                    13.807083333
+                ]
+            },
+            "properties": {
+                "name": "Pitons",
+                "article": "https://en.wikipedia.org/wiki/Pitons_(Saint_Lucia)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.8889,
+                    13.9106
+                ]
+            },
+            "properties": {
+                "name": "Dennery",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.0668,
+                    13.9041
+                ]
+            },
+            "properties": {
+                "name": "Canaries",
+                "article": "https://en.wikipedia.org/wiki/Canaries,_Saint_Lucia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.03815,
+                    13.951561111
+                ]
+            },
+            "properties": {
+                "name": "Roseau",
+                "article": "https://en.wikipedia.org/wiki/Roseau,_Saint_Lucia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.066666666,
+                    13.8
+                ]
+            },
+            "properties": {
+                "name": "Gros Piton",
+                "article": "https://en.wikipedia.org/wiki/Gros_Piton"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.011666666,
+                    13.863611111
+                ]
+            },
+            "properties": {
+                "name": "Mount Gimie",
+                "article": "https://en.wikipedia.org/wiki/Mount_Gimie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.066666666,
+                    13.833333333
+                ]
+            },
+            "properties": {
+                "name": "Petit Piton",
+                "article": "https://en.wikipedia.org/wiki/Petit_Piton"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.05,
+                    13.83
+                ]
+            },
+            "properties": {
+                "name": "Qualibou",
+                "article": "https://en.wikipedia.org/wiki/Qualibou"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.046,
+                    13.838
+                ]
+            },
+            "properties": {
+                "name": "Qualibou",
+                "article": "https://en.wikipedia.org/wiki/Qualibou"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.0505,
+                    13.7744
+                ]
+            },
+            "properties": {
+                "name": "Choiseul",
+                "article": "https://en.wikipedia.org/wiki/Choiseul,_Saint_Lucia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.033333333,
+                    13.933333333
+                ]
+            },
+            "properties": {
+                "name": "Au Tabor",
+                "article": "https://en.wikipedia.org/wiki/Au_Tabor"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.016666666,
+                    13.75
+                ]
+            },
+            "properties": {
+                "name": "Balembouche",
+                "article": "https://en.wikipedia.org/wiki/Balembouche"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.99473,
+                    13.97034
+                ]
+            },
+            "properties": {
+                "name": "Barre Denis",
+                "article": "https://en.wikipedia.org/wiki/Barre_Denis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.016666666,
+                    13.75
+                ]
+            },
+            "properties": {
+                "name": "Bongalo",
+                "article": "https://en.wikipedia.org/wiki/Bongalo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.9372,
+                    14.0826
+                ]
+            },
+            "properties": {
+                "name": "Cas-en-Bas",
+                "article": "https://en.wikipedia.org/wiki/Cas-en-Bas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.983333333,
+                    13.916666666
+                ]
+            },
+            "properties": {
+                "name": "Dame de Traversay",
+                "article": "https://en.wikipedia.org/wiki/Dame_de_Traversay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.9757,
+                    13.9761
+                ]
+            },
+            "properties": {
+                "name": "Deglos",
+                "article": "https://en.wikipedia.org/wiki/Deglos"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.9566,
+                    13.7378
+                ]
+            },
+            "properties": {
+                "name": "La Tourney",
+                "article": "https://en.wikipedia.org/wiki/La_Tourney"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.9,
+                    13.866666666
+                ]
+            },
+            "properties": {
+                "name": "Mamiku",
+                "article": "https://en.wikipedia.org/wiki/Mamiku"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.966666666,
+                    13.95
+                ]
+            },
+            "properties": {
+                "name": "Marc Marc",
+                "article": "https://en.wikipedia.org/wiki/Marc_Marc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.883333333,
+                    13.85
+                ]
+            },
+            "properties": {
+                "name": "Mon Repos",
+                "article": "https://en.wikipedia.org/wiki/Mon_Repos,_Saint_Lucia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.929722222,
+                    14.052777777
+                ]
+            },
+            "properties": {
+                "name": "Monchy",
+                "article": "https://en.wikipedia.org/wiki/Monchy,_Saint_Lucia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.016666666,
+                    13.75
+                ]
+            },
+            "properties": {
+                "name": "Piaye",
+                "article": "https://en.wikipedia.org/wiki/Piaye"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.964702496,
+                    14.093482316
+                ]
+            },
+            "properties": {
+                "name": "Pigeon Island",
+                "article": "https://en.wikipedia.org/wiki/Pigeon_Island_(Saint_Lucia)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.973333333,
+                    13.930833333
+                ]
+            },
+            "properties": {
+                "name": "Ravine Poisson",
+                "article": "https://en.wikipedia.org/wiki/Ravine_Poisson"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.0,
+                    13.983333333
+                ]
+            },
+            "properties": {
+                "name": "Soucis",
+                "article": "https://en.wikipedia.org/wiki/Soucis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.983333333,
+                    13.933333333
+                ]
+            },
+            "properties": {
+                "name": "Sarrot",
+                "article": "https://en.wikipedia.org/wiki/Sarrot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.9,
+                    13.819
+                ]
+            },
+            "properties": {
+                "name": "Micoud",
+                "article": "https://en.wikipedia.org/wiki/Micoud,_Saint_Lucia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.995119444,
+                    13.751486111
+                ]
+            },
+            "properties": {
+                "name": "Laborie",
+                "article": "https://en.wikipedia.org/wiki/Laborie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.026388888,
+                    13.964444444
+                ]
+            },
+            "properties": {
+                "name": "Marigot",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.908333333,
+                    14.071111111
+                ]
+            },
+            "properties": {
+                "name": "Lapins Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.061944444,
+                    13.866666666
+                ]
+            },
+            "properties": {
+                "name": "Mount Lastic",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.9123,
+                    13.9785
+                ]
+            },
+            "properties": {
+                "name": "Q27437653",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.933888888,
+                    14.061944444
+                ]
+            },
+            "properties": {
+                "name": "Mount Layau",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.048333333,
+                    13.872777777
+                ]
+            },
+            "properties": {
+                "name": "Q27437673",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.03333,
+                    13.9
+                ]
+            },
+            "properties": {
+                "name": "Q27437681",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.028888888,
+                    13.890277777
+                ]
+            },
+            "properties": {
+                "name": "Q27437695",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.932222222,
+                    14.024722222
+                ]
+            },
+            "properties": {
+                "name": "Mount Monier",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.03333,
+                    13.9
+                ]
+            },
+            "properties": {
+                "name": "Mount Parasol",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.963055555,
+                    14.069166666
+                ]
+            },
+            "properties": {
+                "name": "Mount Pimard",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.8897,
+                    13.87519
+                ]
+            },
+            "properties": {
+                "name": "Praslin Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.875,
+                    13.959444444
+                ]
+            },
+            "properties": {
+                "name": "L'Islet à Ramier",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.98155,
+                    14.03372
+                ]
+            },
+            "properties": {
+                "name": "Rat Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.05,
+                    13.83333
+                ]
+            },
+            "properties": {
+                "name": "Q27437716",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.050833333,
+                    13.905
+                ]
+            },
+            "properties": {
+                "name": "Mount Regnier",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.920277777,
+                    14.048333333
+                ]
+            },
+            "properties": {
+                "name": "Mount Reddie",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.874166666,
+                    13.953055555
+                ]
+            },
+            "properties": {
+                "name": "Rouche Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.979444444,
+                    13.849166666
+                ]
+            },
+            "properties": {
+                "name": "Piton Saint Esprit",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.056666666,
+                    13.888611111
+                ]
+            },
+            "properties": {
+                "name": "Mount Siquot",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.983333333,
+                    14.016666666
+                ]
+            },
+            "properties": {
+                "name": "Castries",
+                "article": "https://en.wikipedia.org/wiki/Castries"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.983333333,
+                    14.016666666
+                ]
+            },
+            "properties": {
+                "name": "Castries",
+                "article": "https://en.wikipedia.org/wiki/Castries"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.04,
+                    13.87
+                ]
+            },
+            "properties": {
+                "name": "Mount Tabac",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.008888888,
+                    13.962222222
+                ]
+            },
+            "properties": {
+                "name": "Mount Terr Fallée",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.965555555,
+                    13.7425
+                ]
+            },
+            "properties": {
+                "name": "Mount Tourney",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.9362,
+                    13.9081
+                ]
+            },
+            "properties": {
+                "name": "Mount Beaujolais",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.024166666,
+                    13.971944444
+                ]
+            },
+            "properties": {
+                "name": "Mount Bellevue",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.004444444,
+                    13.826111111
+                ]
+            },
+            "properties": {
+                "name": "Mount Belvidere",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.894166666,
+                    14.045833333
+                ]
+            },
+            "properties": {
+                "name": "Mount des Bottes",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.033333333,
+                    13.983333333
+                ]
+            },
+            "properties": {
+                "name": "Mount Cabrite",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.949722222,
+                    13.776666666
+                ]
+            },
+            "properties": {
+                "name": "Morne Caillandre",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.939166666,
+                    14.105
+                ]
+            },
+            "properties": {
+                "name": "Mount du Cap",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.01687,
+                    13.85524
+                ]
+            },
+            "properties": {
+                "name": "Piton Canarie",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.018888888,
+                    13.850555555
+                ]
+            },
+            "properties": {
+                "name": "Mount Casteau",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.943,
+                    14.021
+                ]
+            },
+            "properties": {
+                "name": "Mount Chaubourg",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.972222222,
+                    13.992777777
+                ]
+            },
+            "properties": {
+                "name": "Mount du Chazeau",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.998611111,
+                    13.861388888
+                ]
+            },
+            "properties": {
+                "name": "Mount Cochon",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.88467,
+                    13.90939
+                ]
+            },
+            "properties": {
+                "name": "Dennery Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.876388888,
+                    13.916666666
+                ]
+            },
+            "properties": {
+                "name": "Des Bateaux Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.966666666,
+                    14.0
+                ]
+            },
+            "properties": {
+                "name": "Mount Doudon",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.924722222,
+                    13.863055555
+                ]
+            },
+            "properties": {
+                "name": "Mount Durocher",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.944722222,
+                    13.964444444
+                ]
+            },
+            "properties": {
+                "name": "Piton Flore",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.9784,
+                    14.07098
+                ]
+            },
+            "properties": {
+                "name": "Barrel O'Beef",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.99438,
+                    13.99754
+                ]
+            },
+            "properties": {
+                "name": "Q27439177",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.905,
+                    14.050833333
+                ]
+            },
+            "properties": {
+                "name": "Mount Gaiac",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.906944444,
+                    14.081944444
+                ]
+            },
+            "properties": {
+                "name": "Fous Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.883333333,
+                    13.879444444
+                ]
+            },
+            "properties": {
+                "name": "Frigate",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.0013,
+                    13.7694
+                ]
+            },
+            "properties": {
+                "name": "Mount Gomier",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.999444444,
+                    13.825833333
+                ]
+            },
+            "properties": {
+                "name": "Mount Grand Magazin",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.033333333,
+                    13.933333333
+                ]
+            },
+            "properties": {
+                "name": "Q27439193",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.957222222,
+                    14.050277777
+                ]
+            },
+            "properties": {
+                "name": "Mount Grenier",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.974722222,
+                    13.995277777
+                ]
+            },
+            "properties": {
+                "name": "Gros Morne, St Lucia",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.01667,
+                    13.88333
+                ]
+            },
+            "properties": {
+                "name": "Mount Houelmon",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.946388888,
+                    14.042222222
+                ]
+            },
+            "properties": {
+                "name": "Mount Jambe",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.95841,
+                    13.91411
+                ]
+            },
+            "properties": {
+                "name": "Mount Lacombe",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.0,
+                    13.883333333
+                ]
+            },
+            "properties": {
+                "name": "Saint Lucia",
+                "article": "https://en.wikipedia.org/wiki/St._Lucia_(island)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.983333333,
+                    13.916666666
+                ]
+            },
+            "properties": {
+                "name": "Saint Lucia",
+                "article": "https://en.wikipedia.org/wiki/St._Lucia_(island)"
+            }
+        }
+    ]
+}

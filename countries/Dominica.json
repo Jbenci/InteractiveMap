@@ -1,0 +1,607 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.32066667,
+                    15.35204167
+                ]
+            },
+            "properties": {
+                "name": "Boeri Lake",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.459722222,
+                    15.573611111
+                ]
+            },
+            "properties": {
+                "name": "Portsmouth",
+                "article": "https://en.wikipedia.org/wiki/Portsmouth,_Dominica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.256944444,
+                    15.441666666
+                ]
+            },
+            "properties": {
+                "name": "Castle Bruce",
+                "article": "https://en.wikipedia.org/wiki/Castle_Bruce"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.30832778,
+                    15.34298889
+                ]
+            },
+            "properties": {
+                "name": "Q1455684",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.305,
+                    15.307
+                ]
+            },
+            "properties": {
+                "name": "Morne Watt",
+                "article": "https://en.wikipedia.org/wiki/Morne_Watt"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.397222222,
+                    15.503333333
+                ]
+            },
+            "properties": {
+                "name": "Morne Diablotins",
+                "article": "https://en.wikipedia.org/wiki/Morne_Diablotins"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.3,
+                    15.533333333
+                ]
+            },
+            "properties": {
+                "name": "Marigot",
+                "article": "https://en.wikipedia.org/wiki/Marigot,_Dominica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.3308,
+                    15.3692
+                ]
+            },
+            "properties": {
+                "name": "Morne Trois Pitons",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.327,
+                    15.371
+                ]
+            },
+            "properties": {
+                "name": "Morne Trois Pitons",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.333333333,
+                    15.416666666
+                ]
+            },
+            "properties": {
+                "name": "Dominica",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.45,
+                    15.61667
+                ]
+            },
+            "properties": {
+                "name": "Morne aux Diables",
+                "article": "https://en.wikipedia.org/wiki/Morne_aux_Diables"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.436,
+                    15.6125
+                ]
+            },
+            "properties": {
+                "name": "Morne aux Diables",
+                "article": "https://en.wikipedia.org/wiki/Morne_aux_Diables"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.366666666,
+                    15.25
+                ]
+            },
+            "properties": {
+                "name": "Morne Plat Pays",
+                "article": "https://en.wikipedia.org/wiki/Morne_Plat_Pays"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.3465,
+                    15.2495
+                ]
+            },
+            "properties": {
+                "name": "Morne Plat Pays",
+                "article": "https://en.wikipedia.org/wiki/Morne_Plat_Pays"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.38722222,
+                    15.29666667
+                ]
+            },
+            "properties": {
+                "name": "Old Market of Roseau",
+                "article": "https://en.wikipedia.org/wiki/Old_Market_of_Roseau"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.43333333,
+                    15.61666667
+                ]
+            },
+            "properties": {
+                "name": "Bellevue Mountain",
+                "article": "https://en.wikipedia.org/wiki/Bellevue_Mountain"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.416666666,
+                    15.483333333
+                ]
+            },
+            "properties": {
+                "name": "Morne Les Resources",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.3217,
+                    15.3417
+                ]
+            },
+            "properties": {
+                "name": "Morne Macaque",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.4,
+                    15.483333333
+                ]
+            },
+            "properties": {
+                "name": "Mosquito Mountain",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.333333333,
+                    15.4
+                ]
+            },
+            "properties": {
+                "name": "Morne Negres Marrons",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.266666666,
+                    15.25
+                ]
+            },
+            "properties": {
+                "name": "Morne Paix Bouche",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.366666666,
+                    15.216666666
+                ]
+            },
+            "properties": {
+                "name": "Morne Patates",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.25,
+                    15.5
+                ]
+            },
+            "properties": {
+                "name": "Petit L'Ilet",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.4133,
+                    15.5375
+                ]
+            },
+            "properties": {
+                "name": "Morne Turner",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.45,
+                    15.55
+                ]
+            },
+            "properties": {
+                "name": "Morne Balvine",
+                "article": "https://en.wikipedia.org/wiki/Morne_Balvine"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.333333333,
+                    15.233333333
+                ]
+            },
+            "properties": {
+                "name": "Bois d'Inde",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.4317,
+                    15.615
+                ]
+            },
+            "properties": {
+                "name": "Bellevue Mountain",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.433333333,
+                    15.6
+                ]
+            },
+            "properties": {
+                "name": "Morne Brulés",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.3675,
+                    15.3567
+                ]
+            },
+            "properties": {
+                "name": "Morne Cola Anglais",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.3717,
+                    15.3942
+                ]
+            },
+            "properties": {
+                "name": "Morne Couronne",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.3,
+                    15.5108
+                ]
+            },
+            "properties": {
+                "name": "Morne Concorde",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.265,
+                    15.3875
+                ]
+            },
+            "properties": {
+                "name": "Morne aux Delices",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.433333333,
+                    15.583333333
+                ]
+            },
+            "properties": {
+                "name": "Morne Destinée",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.416666666,
+                    15.383333333
+                ]
+            },
+            "properties": {
+                "name": "Deux Jardins",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.483333333,
+                    15.516666666
+                ]
+            },
+            "properties": {
+                "name": "Morne Espagnol",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.2808,
+                    15.2675
+                ]
+            },
+            "properties": {
+                "name": "Foundland",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.2783,
+                    15.4533
+                ]
+            },
+            "properties": {
+                "name": "Morne Fraser",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.283333333,
+                    15.316666666
+                ]
+            },
+            "properties": {
+                "name": "Morne Gouverneur",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.25,
+                    15.483333333
+                ]
+            },
+            "properties": {
+                "name": "Gros L'Ilet",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.4383,
+                    15.48
+                ]
+            },
+            "properties": {
+                "name": "Morne Jalousie",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.336666944,
+                    15.214138888
+                ]
+            },
+            "properties": {
+                "name": "Morne Rouge",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.41406,
+                    15.49594
+                ]
+            },
+            "properties": {
+                "name": "Kachibona Lake",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.383333333,
+                    15.3
+                ]
+            },
+            "properties": {
+                "name": "Roseau",
+                "article": "https://en.wikipedia.org/wiki/Roseau"
+            }
+        }
+    ]
+}

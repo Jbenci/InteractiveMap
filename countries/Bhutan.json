@@ -1,0 +1,607 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    90.455,
+                    28.046944444
+                ]
+            },
+            "properties": {
+                "name": "Gangkhar Puensum",
+                "article": "https://en.wikipedia.org/wiki/Gangkhar_Puensum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    89.866666666,
+                    27.616666666
+                ]
+            },
+            "properties": {
+                "name": "Punakha",
+                "article": "https://en.wikipedia.org/wiki/Punakha"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    89.383333333,
+                    26.85
+                ]
+            },
+            "properties": {
+                "name": "Phuntsholing",
+                "article": "https://en.wikipedia.org/wiki/Phuntsholing"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    89.416666666,
+                    27.433333333
+                ]
+            },
+            "properties": {
+                "name": "Paro",
+                "article": "https://en.wikipedia.org/wiki/Paro,_Bhutan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    90.616388888,
+                    28.226666666
+                ]
+            },
+            "properties": {
+                "name": "Kula Kangri",
+                "article": "https://en.wikipedia.org/wiki/Kula_Kangri"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    90.5,
+                    27.516805555
+                ]
+            },
+            "properties": {
+                "name": "Trongsa",
+                "article": "https://en.wikipedia.org/wiki/Trongsa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    89.27,
+                    27.824166666
+                ]
+            },
+            "properties": {
+                "name": "Chomolhari",
+                "article": "https://en.wikipedia.org/wiki/Jomolhari"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    91.552777777,
+                    27.333333333
+                ]
+            },
+            "properties": {
+                "name": "Trashigang",
+                "article": "https://en.wikipedia.org/wiki/Trashigang"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    91.24,
+                    27.275
+                ]
+            },
+            "properties": {
+                "name": "Mongar",
+                "article": "https://en.wikipedia.org/wiki/Mongar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    90.073333333,
+                    28.155833333
+                ]
+            },
+            "properties": {
+                "name": "Kangphu Kang",
+                "article": "https://en.wikipedia.org/wiki/Kangphu_Kang"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    90.533333333,
+                    27.0
+                ]
+            },
+            "properties": {
+                "name": "Galechugaon",
+                "article": "https://en.wikipedia.org/wiki/Galechugaon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    89.966666666,
+                    27.366666666
+                ]
+            },
+            "properties": {
+                "name": "Shelay",
+                "article": "https://en.wikipedia.org/wiki/Shaley"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    89.83333333,
+                    28.08333333
+                ]
+            },
+            "properties": {
+                "name": "Mount Jitchu Drake",
+                "article": "https://en.wikipedia.org/wiki/Mount_Jitchu_Drake"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    90.247,
+                    28.106
+                ]
+            },
+            "properties": {
+                "name": "Q12162087",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    90.9047,
+                    27.4775
+                ]
+            },
+            "properties": {
+                "name": "Ura",
+                "article": "https://en.wikipedia.org/wiki/Ura,_Bhutan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    89.53604,
+                    27.0989
+                ]
+            },
+            "properties": {
+                "name": "Tsimasham",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    90.44345856,
+                    28.06399155
+                ]
+            },
+            "properties": {
+                "name": "Liankang Kangri",
+                "article": "https://en.wikipedia.org/wiki/Liankang_Kangri"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    90.367606,
+                    28.080804
+                ]
+            },
+            "properties": {
+                "name": "Q20190819",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    89.549482,
+                    28.10389
+                ]
+            },
+            "properties": {
+                "name": "Q20190845",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    90.023287,
+                    28.145209
+                ]
+            },
+            "properties": {
+                "name": "Q20190912",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    89.767166,
+                    28.170953
+                ]
+            },
+            "properties": {
+                "name": "Masang Kang",
+                "article": "https://en.wikipedia.org/wiki/Masang_Kang"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    90.507596,
+                    28.067447
+                ]
+            },
+            "properties": {
+                "name": "Q20191057",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    90.182575,
+                    28.165983
+                ]
+            },
+            "properties": {
+                "name": "Zongophu Kang",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    89.942222,
+                    28.171884
+                ]
+            },
+            "properties": {
+                "name": "Teri Kang",
+                "article": "https://en.wikipedia.org/wiki/Teri_Kang"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    89.942222222,
+                    28.171944444
+                ]
+            },
+            "properties": {
+                "name": "Teri Kang",
+                "article": "https://en.wikipedia.org/wiki/Teri_Kang"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    89.858875,
+                    28.107889
+                ]
+            },
+            "properties": {
+                "name": "Tsenda Kang",
+                "article": "https://en.wikipedia.org/wiki/Tsenda_Kang"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    89.860698,
+                    28.108321
+                ]
+            },
+            "properties": {
+                "name": "Tsenda Kang",
+                "article": "https://en.wikipedia.org/wiki/Tsenda_Kang"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    89.369798,
+                    27.872448
+                ]
+            },
+            "properties": {
+                "name": "Q20850797",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    90.18256,
+                    28.16619
+                ]
+            },
+            "properties": {
+                "name": "Chomolhari Kang",
+                "article": "https://en.wikipedia.org/wiki/Chomolhari_Kang"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    90.383333333,
+                    27.283333333
+                ]
+            },
+            "properties": {
+                "name": "Q20923053",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.95,
+                    27.26667
+                ]
+            },
+            "properties": {
+                "name": "Q20925991",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    89.566666666,
+                    27.45
+                ]
+            },
+            "properties": {
+                "name": "Q20926017",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.9000613,
+                    27.2739637
+                ]
+            },
+            "properties": {
+                "name": "Gipmochi",
+                "article": "https://en.wikipedia.org/wiki/Gipmochi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    89.38333333,
+                    26.85
+                ]
+            },
+            "properties": {
+                "name": "Pasakha",
+                "article": "https://en.wikipedia.org/wiki/Pasakha"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    90.81234444,
+                    27.53950556
+                ]
+            },
+            "properties": {
+                "name": "Membartsho",
+                "article": "https://en.wikipedia.org/wiki/Membartsho"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    89.898611111,
+                    28.106111111
+                ]
+            },
+            "properties": {
+                "name": "Tarina Tsho",
+                "article": "https://en.wikipedia.org/wiki/Tarina_Tsho"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    91.466101,
+                    28.006502
+                ]
+            },
+            "properties": {
+                "name": "Q101245836",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    90.751212,
+                    28.050771
+                ]
+            },
+            "properties": {
+                "name": "Chura Kang",
+                "article": "https://en.wikipedia.org/wiki/Chura_Kang"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    90.809277777,
+                    27.153972222
+                ]
+            },
+            "properties": {
+                "name": "Buli Tsho",
+                "article": "https://en.wikipedia.org/wiki/Buli_Tsho"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    89.505777777,
+                    27.547138888
+                ]
+            },
+            "properties": {
+                "name": "Jimilang Tsho",
+                "article": "https://en.wikipedia.org/wiki/Jimilang_Tsho"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    90.109025,
+                    27.29247778
+                ]
+            },
+            "properties": {
+                "name": "Adha Tsho",
+                "article": "https://en.wikipedia.org/wiki/Adha_Tsho"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    89.9,
+                    27.4833
+                ]
+            },
+            "properties": {
+                "name": "Bajothang",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    89.63367,
+                    27.47135
+                ]
+            },
+            "properties": {
+                "name": "Thimphu",
+                "article": "https://en.wikipedia.org/wiki/Thimphu"
+            }
+        }
+    ]
+}

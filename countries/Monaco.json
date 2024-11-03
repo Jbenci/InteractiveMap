@@ -1,0 +1,495 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.4125,
+                    43.732777777
+                ]
+            },
+            "properties": {
+                "name": "Chemin des Révoires",
+                "article": "https://en.wikipedia.org/wiki/Chemin_des_R%C3%A9voires"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.426388888,
+                    43.775277777
+                ]
+            },
+            "properties": {
+                "name": "Mont Agel",
+                "article": "https://en.wikipedia.org/wiki/Mont_Agel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.4252,
+                    43.7313
+                ]
+            },
+            "properties": {
+                "name": "Albert I Lycée",
+                "article": "https://en.wikipedia.org/wiki/Lyc%C3%A9e_Albert_Premier"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.4382,
+                    43.7472
+                ]
+            },
+            "properties": {
+                "name": "Monte-Carlo Sporting",
+                "article": "https://en.wikipedia.org/wiki/Monte-Carlo_Sporting"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.43023,
+                    43.742033
+                ]
+            },
+            "properties": {
+                "name": "Émilie Palace",
+                "article": "https://en.wikipedia.org/wiki/%C3%89milie_Palace"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.414689,
+                    43.729498
+                ]
+            },
+            "properties": {
+                "name": "Gildo Pastor Center",
+                "article": "https://en.wikipedia.org/wiki/Gildo_Pastor_Center"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.43426,
+                    43.74763
+                ]
+            },
+            "properties": {
+                "name": "Le Bahia",
+                "article": "https://en.wikipedia.org/wiki/Le_Bahia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.4291364,
+                    43.7414293
+                ]
+            },
+            "properties": {
+                "name": "Le Mirabeau",
+                "article": "https://en.wikipedia.org/wiki/Le_Mirabeau"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.42283,
+                    43.73806
+                ]
+            },
+            "properties": {
+                "name": "Le Schuylkill",
+                "article": "https://en.wikipedia.org/wiki/Le_Schuylkill"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.431502,
+                    43.745449
+                ]
+            },
+            "properties": {
+                "name": "Le Formentor",
+                "article": "https://en.wikipedia.org/wiki/Le_Formentor"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.42636,
+                    43.73927
+                ]
+            },
+            "properties": {
+                "name": "Sporting d'Hiver",
+                "article": "https://en.wikipedia.org/wiki/Sporting_d%27Hiver"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.41477,
+                    43.73039
+                ]
+            },
+            "properties": {
+                "name": "Îlot Pasteur",
+                "article": "https://en.wikipedia.org/wiki/%C3%8Elot_Pasteur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.415185,
+                    43.734167
+                ]
+            },
+            "properties": {
+                "name": "Le Simona",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.436762,
+                    43.748558
+                ]
+            },
+            "properties": {
+                "name": "Le Roccabella",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.432969,
+                    43.749004
+                ]
+            },
+            "properties": {
+                "name": "L'Annonciade",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.437299,
+                    43.751474
+                ]
+            },
+            "properties": {
+                "name": "Parc Saint-Roman",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.430417,
+                    43.743767
+                ]
+            },
+            "properties": {
+                "name": "Columbia Palace",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.432244444,
+                    43.748269444
+                ]
+            },
+            "properties": {
+                "name": "Périgord I",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.432931,
+                    43.748968
+                ]
+            },
+            "properties": {
+                "name": "Périgord II",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.438202,
+                    43.750093
+                ]
+            },
+            "properties": {
+                "name": "Le Monte-Carlo Sun",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.425238,
+                    43.738824
+                ]
+            },
+            "properties": {
+                "name": "Sun Tower",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.42864,
+                    43.745224
+                ]
+            },
+            "properties": {
+                "name": "Europa Résidence",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.416666666,
+                    43.733333333
+                ]
+            },
+            "properties": {
+                "name": "Q49755141",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.430538888,
+                    43.746852777
+                ]
+            },
+            "properties": {
+                "name": "Les Abeilles",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.413483,
+                    43.734987
+                ]
+            },
+            "properties": {
+                "name": "L'Escorial",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.414101,
+                    43.735543
+                ]
+            },
+            "properties": {
+                "name": "Les Ligures",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.416084,
+                    43.735639
+                ]
+            },
+            "properties": {
+                "name": "Villa Ispahan",
+                "article": "https://en.wikipedia.org/wiki/Villa_Ispahan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.426388888,
+                    43.741111111
+                ]
+            },
+            "properties": {
+                "name": "Q86665099",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.41947,
+                    43.73529
+                ]
+            },
+            "properties": {
+                "name": "Rue Grimaldi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.42211,
+                    43.73066
+                ]
+            },
+            "properties": {
+                "name": "Rue des Carmes",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.420549794,
+                    43.734791645
+                ]
+            },
+            "properties": {
+                "name": "Rue Louis Notari",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.413888888,
+                    43.731388888
+                ]
+            },
+            "properties": {
+                "name": "Observatory Cave",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.423373,
+                    43.730893
+                ]
+            },
+            "properties": {
+                "name": "post office of Monaco",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.425237,
+                    43.738942
+                ]
+            },
+            "properties": {
+                "name": "Monte Carlo",
+                "article": "https://en.wikipedia.org/wiki/Monte_Carlo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.42792,
+                    43.73749
+                ]
+            },
+            "properties": {
+                "name": "Yacht Club de Monaco",
+                "article": "https://en.wikipedia.org/wiki/Yacht_Club_de_Monaco"
+            }
+        }
+    ]
+}

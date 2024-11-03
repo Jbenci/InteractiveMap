@@ -1,0 +1,1475 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -57.140833,
+                    -25.386111
+                ]
+            },
+            "properties": {
+                "name": "Caacupé",
+                "article": "https://en.wikipedia.org/wiki/Caacup%C3%A9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.303888888,
+                    -26.856944444
+                ]
+            },
+            "properties": {
+                "name": "Pilar",
+                "article": "https://en.wikipedia.org/wiki/Pilar,_Paraguay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -57.416944,
+                    -25.3
+                ]
+            },
+            "properties": {
+                "name": "Areguá",
+                "article": "https://en.wikipedia.org/wiki/Aregu%C3%A1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -54.34,
+                    -24.02
+                ]
+            },
+            "properties": {
+                "name": "Saltos del Guairá",
+                "article": "https://en.wikipedia.org/wiki/Salto_del_Guair%C3%A1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -57.083333333,
+                    -24.1
+                ]
+            },
+            "properties": {
+                "name": "San Pedro de Ycuamandiyú",
+                "article": "https://en.wikipedia.org/wiki/San_Pedro_de_Ycuamandiy%C3%BA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -54.616666666,
+                    -25.516666666
+                ]
+            },
+            "properties": {
+                "name": "Ciudad del Este",
+                "article": "https://en.wikipedia.org/wiki/Ciudad_del_Este"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -55.753,
+                    -27.056
+                ]
+            },
+            "properties": {
+                "name": "Jesús de Tavarangüé",
+                "article": "https://en.wikipedia.org/wiki/Ruins_of_Jes%C3%BAs_de_Tavarangue"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -59.72222222,
+                    -23.45833333
+                ]
+            },
+            "properties": {
+                "name": "First Battle of Nanawa",
+                "article": "https://en.wikipedia.org/wiki/First_Battle_of_Nanawa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -57.296111111,
+                    -25.310555555
+                ]
+            },
+            "properties": {
+                "name": "San Bernardino",
+                "article": "https://en.wikipedia.org/wiki/San_Bernardino,_Paraguay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -57.128888888,
+                    -26.4075
+                ]
+            },
+            "properties": {
+                "name": "Villa Florida",
+                "article": "https://en.wikipedia.org/wiki/Villa_Florida"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.016666666,
+                    -22.333333333
+                ]
+            },
+            "properties": {
+                "name": "Filadelfia",
+                "article": "https://en.wikipedia.org/wiki/Filadelfia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -56.32,
+                    -25.05
+                ]
+            },
+            "properties": {
+                "name": "Doctor Cecilio Báez",
+                "article": "https://en.wikipedia.org/wiki/Doctor_Cecilio_B%C3%A1ez"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -57.441388888,
+                    -23.4025
+                ]
+            },
+            "properties": {
+                "name": "Concepción",
+                "article": "https://en.wikipedia.org/wiki/Concepci%C3%B3n,_Paraguay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -55.716666666,
+                    -22.566666666
+                ]
+            },
+            "properties": {
+                "name": "Pedro Juan Caballero",
+                "article": "https://en.wikipedia.org/wiki/Pedro_Juan_Caballero,_Paraguay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -56.02,
+                    -25.46
+                ]
+            },
+            "properties": {
+                "name": "Caaguazú District",
+                "article": "https://en.wikipedia.org/wiki/Caaguaz%C3%BA_district"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -57.509444444,
+                    -25.343055555
+                ]
+            },
+            "properties": {
+                "name": "San Lorenzo",
+                "article": "https://en.wikipedia.org/wiki/San_Lorenzo,_Paraguay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -56.16,
+                    -25.901666666
+                ]
+            },
+            "properties": {
+                "name": "Cerro Tres Kandú",
+                "article": "https://en.wikipedia.org/wiki/Cerro_Tres_Kand%C3%BA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -57.35,
+                    -25.483333333
+                ]
+            },
+            "properties": {
+                "name": "Itá",
+                "article": "https://en.wikipedia.org/wiki/It%C3%A1,_Paraguay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -57.609722222,
+                    -25.379722222
+                ]
+            },
+            "properties": {
+                "name": "San Antonio",
+                "article": "https://en.wikipedia.org/wiki/San_Antonio,_Paraguay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -59.940861111,
+                    -22.773638888
+                ]
+            },
+            "properties": {
+                "name": "Battle of Boquerón",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Boquer%C3%B3n_(1932)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.55,
+                    -27.25
+                ]
+            },
+            "properties": {
+                "name": "Paso de Patria",
+                "article": "https://en.wikipedia.org/wiki/Paso_de_Patria"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -55.702,
+                    -27.132
+                ]
+            },
+            "properties": {
+                "name": "La Santísima Trinidad del Paraná",
+                "article": "https://en.wikipedia.org/wiki/La_Sant%C3%ADsima_Trinidad_de_Paran%C3%A1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -57.23,
+                    -25.48
+                ]
+            },
+            "properties": {
+                "name": "Pirayú",
+                "article": "https://en.wikipedia.org/wiki/Piray%C3%BA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -56.8,
+                    -25.4
+                ]
+            },
+            "properties": {
+                "name": "Santa Elena",
+                "article": "https://en.wikipedia.org/wiki/Santa_Elena,_Paraguay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.57444444,
+                    -27.11305556
+                ]
+            },
+            "properties": {
+                "name": "Battle of Curupaity",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Curupayty"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -56.91667,
+                    -25.15
+                ]
+            },
+            "properties": {
+                "name": "Primero de Marzo",
+                "article": "https://en.wikipedia.org/wiki/Primero_de_Marzo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -56.25,
+                    -26.62
+                ]
+            },
+            "properties": {
+                "name": "Yuty",
+                "article": "https://en.wikipedia.org/wiki/Yuty"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -56.25,
+                    -26.6
+                ]
+            },
+            "properties": {
+                "name": "Yuty",
+                "article": "https://en.wikipedia.org/wiki/Yuty"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -57.35,
+                    -25.3
+                ]
+            },
+            "properties": {
+                "name": "Ypacaraí Lake",
+                "article": "https://en.wikipedia.org/wiki/Ypacara%C3%AD_Lake"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -57.028333333,
+                    -26.886666666
+                ]
+            },
+            "properties": {
+                "name": "San Ignacio",
+                "article": "https://en.wikipedia.org/wiki/San_Ignacio,_Paraguay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -57.284015,
+                    -25.5620692
+                ]
+            },
+            "properties": {
+                "name": "Yaguarón",
+                "article": "https://en.wikipedia.org/wiki/Yaguar%C3%B3n"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -57.53,
+                    -25.45
+                ]
+            },
+            "properties": {
+                "name": "Ypané",
+                "article": "https://en.wikipedia.org/wiki/Ypan%C3%A9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -56.295,
+                    -23.813333333
+                ]
+            },
+            "properties": {
+                "name": "Laguna Blanca",
+                "article": "https://en.wikipedia.org/wiki/Laguna_Blanca_(Paraguay)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -56.02527778,
+                    -22.65222222
+                ]
+            },
+            "properties": {
+                "name": "Battle of Cerro Corá",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Cerro_Cor%C3%A1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -57.8833,
+                    -27.1833
+                ]
+            },
+            "properties": {
+                "name": "Battle of Estero Bellaco",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Estero_Bellaco"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.16666667,
+                    -23.03333333
+                ]
+            },
+            "properties": {
+                "name": "Battle of Campo Grande",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Campo_Grande"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -59.90694444,
+                    -23.3375
+                ]
+            },
+            "properties": {
+                "name": "Battle of Gondra",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Gondra"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.01388889,
+                    -23.41944444
+                ]
+            },
+            "properties": {
+                "name": "Battle of Kilometer 7",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Kilometer_7"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -62.26944444,
+                    -21.64111111
+                ]
+            },
+            "properties": {
+                "name": "Battle of El Carmen",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -57.517777777,
+                    -25.591666666
+                ]
+            },
+            "properties": {
+                "name": "Battle of Lomas Valentinas",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Lomas_Valentinas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.78333333,
+                    -19.91666667
+                ]
+            },
+            "properties": {
+                "name": "Battle of Pozo del Tigre-Ingavi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -62.99398,
+                    -21.54175
+                ]
+            },
+            "properties": {
+                "name": "Battle of Ybybobó",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -62.2033,
+                    -20.5203
+                ]
+            },
+            "properties": {
+                "name": "Battle of Yrendagüé",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -57.642464,
+                    -25.277658
+                ]
+            },
+            "properties": {
+                "name": "Calle Palma",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -57.13194444,
+                    -25.42194444
+                ]
+            },
+            "properties": {
+                "name": "Cerro Aquino",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -57.1083,
+                    -25.4125
+                ]
+            },
+            "properties": {
+                "name": "Cerro Aquino",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.7352,
+                    -19.6342
+                ]
+            },
+            "properties": {
+                "name": "Q5762898",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -57.829722222,
+                    -25.909166666
+                ]
+            },
+            "properties": {
+                "name": "Q5814372",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -57.636630555,
+                    -25.2821
+                ]
+            },
+            "properties": {
+                "name": "Q5818410",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -59.72222222,
+                    -23.45833333
+                ]
+            },
+            "properties": {
+                "name": "Second Battle of Nanawa",
+                "article": "https://en.wikipedia.org/wiki/Second_Battle_of_Nanawa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -57.633333333,
+                    -25.3
+                ]
+            },
+            "properties": {
+                "name": "Asunción",
+                "article": "https://en.wikipedia.org/wiki/Asunci%C3%B3n"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -55.866666666,
+                    -27.333333333
+                ]
+            },
+            "properties": {
+                "name": "Encarnación",
+                "article": "https://en.wikipedia.org/wiki/Encarnaci%C3%B3n,_Paraguay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -57.532222222,
+                    -25.174166666
+                ]
+            },
+            "properties": {
+                "name": "Isla San Francisco",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -57.6174,
+                    -25.2843
+                ]
+            },
+            "properties": {
+                "name": "Icono Tower",
+                "article": "https://en.wikipedia.org/wiki/Icono_Tower"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -57.567308333,
+                    -25.284563888
+                ]
+            },
+            "properties": {
+                "name": "World Trade Center Asuncion",
+                "article": "https://en.wikipedia.org/wiki/World_Trade_Center_Asuncion"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -57.623472,
+                    -25.287778
+                ]
+            },
+            "properties": {
+                "name": "Wilson Tower",
+                "article": "https://en.wikipedia.org/wiki/Wilson_Tower"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -57.635477777,
+                    -25.284133333
+                ]
+            },
+            "properties": {
+                "name": "Q9004994",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -57.46811,
+                    -26.14434
+                ]
+            },
+            "properties": {
+                "name": "Laguna Verá",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -54.45,
+                    -25.04
+                ]
+            },
+            "properties": {
+                "name": "Itaipu Reservoir",
+                "article": "https://en.wikipedia.org/wiki/Itaipu_Lake"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -54.33611,
+                    -24.73333
+                ]
+            },
+            "properties": {
+                "name": "Itaipu Reservoir",
+                "article": "https://en.wikipedia.org/wiki/Itaipu_Lake"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -57.916666666,
+                    -21.3
+                ]
+            },
+            "properties": {
+                "name": "Puerto Guaraní",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.3156,
+                    -20.3435
+                ]
+            },
+            "properties": {
+                "name": "Q16490751",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -55.84843,
+                    -27.360714
+                ]
+            },
+            "properties": {
+                "name": "Q18605908",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -55.849031,
+                    -27.361172
+                ]
+            },
+            "properties": {
+                "name": "Encarnación railway station",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -57.560955,
+                    -25.320683
+                ]
+            },
+            "properties": {
+                "name": "Q25414933",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -55.874972222,
+                    -27.329055555
+                ]
+            },
+            "properties": {
+                "name": "Q30224286",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -55.8783,
+                    -26.6683
+                ]
+            },
+            "properties": {
+                "name": "Cerro Yaguacua",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -57.0975,
+                    -25.3825
+                ]
+            },
+            "properties": {
+                "name": "Cerro Vera",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -56.2308,
+                    -25.8508
+                ]
+            },
+            "properties": {
+                "name": "Cerro Tatuy",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -55.6667,
+                    -26.3125
+                ]
+            },
+            "properties": {
+                "name": "Cerro Pacuti",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -55.8117,
+                    -26.7042
+                ]
+            },
+            "properties": {
+                "name": "Cerro Pabla",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -57.095,
+                    -25.4908
+                ]
+            },
+            "properties": {
+                "name": "Cerro Naranjo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -57.1517,
+                    -25.4183
+                ]
+            },
+            "properties": {
+                "name": "Cerro Itall",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -55.8325,
+                    -26.7658
+                ]
+            },
+            "properties": {
+                "name": "Cerro Tacuapí",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -55.5075,
+                    -26.3008
+                ]
+            },
+            "properties": {
+                "name": "Cerro Ñú Cañy",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -56.83333,
+                    -25.76667
+                ]
+            },
+            "properties": {
+                "name": "Serranía Ybytymí",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -56.25,
+                    -25.825
+                ]
+            },
+            "properties": {
+                "name": "Sierra de Ybyturuzú",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -57.42485,
+                    -25.90617
+                ]
+            },
+            "properties": {
+                "name": "Lago Ypoa",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -57.51667,
+                    -25.95
+                ]
+            },
+            "properties": {
+                "name": "Laguna Cabral",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -56.95,
+                    -27.283333333
+                ]
+            },
+            "properties": {
+                "name": "Laguna Guazú",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -59.4,
+                    -21.133333333
+                ]
+            },
+            "properties": {
+                "name": "Laguna Placenta",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -56.95,
+                    -25.91667
+                ]
+            },
+            "properties": {
+                "name": "Q49173959",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -56.91667,
+                    -25.66667
+                ]
+            },
+            "properties": {
+                "name": "Sapucaí",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -57.679166666,
+                    -25.285555555
+                ]
+            },
+            "properties": {
+                "name": "Q49642644",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.393888888,
+                    -27.260833333
+                ]
+            },
+            "properties": {
+                "name": "Q49642671",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -56.598333333,
+                    -27.386111111
+                ]
+            },
+            "properties": {
+                "name": "Q49642802",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -56.841944444,
+                    -27.420555555
+                ]
+            },
+            "properties": {
+                "name": "Q49643300",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -56.461666666,
+                    -27.359722222
+                ]
+            },
+            "properties": {
+                "name": "Q49643313",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -56.483333333,
+                    -27.533333333
+                ]
+            },
+            "properties": {
+                "name": "Q49643362",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -56.425833333,
+                    -27.347222222
+                ]
+            },
+            "properties": {
+                "name": "Q49643390",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -56.390277777,
+                    -27.455833333
+                ]
+            },
+            "properties": {
+                "name": "Q49643389",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -56.855277777,
+                    -27.4175
+                ]
+            },
+            "properties": {
+                "name": "Q49643398",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -57.7925,
+                    -25.830277777
+                ]
+            },
+            "properties": {
+                "name": "Q49643402",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -56.249722222,
+                    -27.368055555
+                ]
+            },
+            "properties": {
+                "name": "Q49643458",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -56.828055555,
+                    -27.405
+                ]
+            },
+            "properties": {
+                "name": "Q49643457",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -57.983333333,
+                    -21.883333333
+                ]
+            },
+            "properties": {
+                "name": "Q49643497",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -56.383333333,
+                    -27.383333333
+                ]
+            },
+            "properties": {
+                "name": "Q49643515",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -57.983333333,
+                    -20.833333333
+                ]
+            },
+            "properties": {
+                "name": "Q49643533",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -56.380277777,
+                    -27.498888888
+                ]
+            },
+            "properties": {
+                "name": "Q49643571",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -57.316666666,
+                    -25.0
+                ]
+            },
+            "properties": {
+                "name": "Q49643663",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -56.134166666,
+                    -27.286388888
+                ]
+            },
+            "properties": {
+                "name": "Q49643660",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -54.620166666,
+                    -25.515416666
+                ]
+            },
+            "properties": {
+                "name": "Lago de la República",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -55.236944444,
+                    -26.939444444
+                ]
+            },
+            "properties": {
+                "name": "Capitán Meza Puerto",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -57.129575189,
+                    -25.606938595
+                ]
+            },
+            "properties": {
+                "name": "Cerro Hú",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -57.646465308,
+                    -25.246635973
+                ]
+            },
+            "properties": {
+                "name": "Nueva Asunción",
+                "article": "https://en.wikipedia.org/wiki/Nueva_Asunci%C3%B3n"
+            }
+        }
+    ]
+}

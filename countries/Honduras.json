@@ -1,0 +1,621 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.142441666,
+                    14.837963888
+                ]
+            },
+            "properties": {
+                "name": "Cairo",
+                "article": "https://en.wikipedia.org/wiki/Cop%C3%A1n"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.024897222,
+                    15.506186111
+                ]
+            },
+            "properties": {
+                "name": "San Pedro Sula",
+                "article": "https://en.wikipedia.org/wiki/San_Pedro_Sula"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.488141666,
+                    13.532519444
+                ]
+            },
+            "properties": {
+                "name": "Nacaome",
+                "article": "https://en.wikipedia.org/wiki/Nacaome"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.887019444,
+                    16.442091666
+                ]
+            },
+            "properties": {
+                "name": "Bonacca",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.637925,
+                    14.452766666
+                ]
+            },
+            "properties": {
+                "name": "Comayagua",
+                "article": "https://en.wikipedia.org/wiki/Comayagua"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.219583333,
+                    14.667172222
+                ]
+            },
+            "properties": {
+                "name": "Juticalpa",
+                "article": "https://en.wikipedia.org/wiki/Juticalpa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.791777777,
+                    15.783344444
+                ]
+            },
+            "properties": {
+                "name": "La Ceiba",
+                "article": "https://en.wikipedia.org/wiki/La_Ceiba"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.7781,
+                    14.767525
+                ]
+            },
+            "properties": {
+                "name": "Santa Rosa de Copán",
+                "article": "https://en.wikipedia.org/wiki/Santa_Rosa_de_Cop%C3%A1n"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.952958333,
+                    15.917936111
+                ]
+            },
+            "properties": {
+                "name": "Trujillo",
+                "article": "https://en.wikipedia.org/wiki/Trujillo,_Honduras"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.5,
+                    15.06666667
+                ]
+            },
+            "properties": {
+                "name": "Cayo Sur",
+                "article": "https://en.wikipedia.org/wiki/Cayo_Sur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.68,
+                    14.534166666
+                ]
+            },
+            "properties": {
+                "name": "Cerro Las Minas",
+                "article": "https://en.wikipedia.org/wiki/Cerro_Las_Minas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.980556,
+                    14.877222
+                ]
+            },
+            "properties": {
+                "name": "Lake Yojoa",
+                "article": "https://en.wikipedia.org/wiki/Lake_Yojoa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.980556,
+                    14.877222
+                ]
+            },
+            "properties": {
+                "name": "Lake Yojoa",
+                "article": "https://en.wikipedia.org/wiki/Lake_Yojoa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.637777777,
+                    13.265555555
+                ]
+            },
+            "properties": {
+                "name": "Tiger Island",
+                "article": "https://en.wikipedia.org/wiki/Tiger_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.637777777,
+                    13.265555555
+                ]
+            },
+            "properties": {
+                "name": "Tiger Island",
+                "article": "https://en.wikipedia.org/wiki/Tiger_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.42807,
+                    16.37219
+                ]
+            },
+            "properties": {
+                "name": "Roatán",
+                "article": "https://en.wikipedia.org/wiki/Roat%C3%A1n"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.417833,
+                    16.383417
+                ]
+            },
+            "properties": {
+                "name": "Roatán",
+                "article": "https://en.wikipedia.org/wiki/Roat%C3%A1n"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.937222222,
+                    16.097222222
+                ]
+            },
+            "properties": {
+                "name": "Utila",
+                "article": "https://en.wikipedia.org/wiki/Utila"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.894988888,
+                    16.100480555
+                ]
+            },
+            "properties": {
+                "name": "Utila",
+                "article": "https://en.wikipedia.org/wiki/Utila"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.852216666,
+                    13.941275
+                ]
+            },
+            "properties": {
+                "name": "Yuscarán",
+                "article": "https://en.wikipedia.org/wiki/Yuscar%C3%A1n"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.184236111,
+                    13.301377777
+                ]
+            },
+            "properties": {
+                "name": "Choluteca",
+                "article": "https://en.wikipedia.org/wiki/Choluteca,_Choluteca"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.772530555,
+                    15.266408333
+                ]
+            },
+            "properties": {
+                "name": "Puerto Lempira",
+                "article": "https://en.wikipedia.org/wiki/Puerto_Lempira"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.3986118,
+                    13.7630361
+                ]
+            },
+            "properties": {
+                "name": "Cerro Mogotón",
+                "article": "https://en.wikipedia.org/wiki/Mogot%C3%B3n"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.184483333,
+                    14.435483333
+                ]
+            },
+            "properties": {
+                "name": "Ocotepeque",
+                "article": "https://en.wikipedia.org/wiki/Ocotepeque"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.909444,
+                    15.505556
+                ]
+            },
+            "properties": {
+                "name": "Ticamaya lake",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.236447222,
+                    14.921644444
+                ]
+            },
+            "properties": {
+                "name": "Santa Bárbara",
+                "article": "https://en.wikipedia.org/wiki/Santa_B%C3%A1rbara,_Honduras"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.683202777,
+                    14.323358333
+                ]
+            },
+            "properties": {
+                "name": "La Paz",
+                "article": "https://en.wikipedia.org/wiki/La_Paz,_Honduras"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.537480555,
+                    16.316705555
+                ]
+            },
+            "properties": {
+                "name": "Coxen Hole",
+                "article": "https://en.wikipedia.org/wiki/Coxen_Hole"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.12495,
+                    15.137913888
+                ]
+            },
+            "properties": {
+                "name": "Yoro",
+                "article": "https://en.wikipedia.org/wiki/Yoro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.176786111,
+                    14.308102777
+                ]
+            },
+            "properties": {
+                "name": "La Esperanza",
+                "article": "https://en.wikipedia.org/wiki/La_Esperanza,_Honduras"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.581355555,
+                    14.588955555
+                ]
+            },
+            "properties": {
+                "name": "Gracias",
+                "article": "https://en.wikipedia.org/wiki/Gracias"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.5833,
+                    14.7167
+                ]
+            },
+            "properties": {
+                "name": "Battle of La Arada",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_La_Arada"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.15,
+                    15.4
+                ]
+            },
+            "properties": {
+                "name": "Cofradia",
+                "article": "https://en.wikipedia.org/wiki/Cofrad%C3%ADa,_Cort%C3%A9s"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.160305555,
+                    15.416777777
+                ]
+            },
+            "properties": {
+                "name": "Cofradia",
+                "article": "https://en.wikipedia.org/wiki/Cofrad%C3%ADa,_Cort%C3%A9s"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.03638889,
+                    15.77388889
+                ]
+            },
+            "properties": {
+                "name": "Battle of San Fernando de Omoa",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_San_Fernando_de_Omoa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.41783333,
+                    16.38343056
+                ]
+            },
+            "properties": {
+                "name": "Battle of Roatán",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Roat%C3%A1n"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.4,
+                    15.85
+                ]
+            },
+            "properties": {
+                "name": "Cayo Gorda",
+                "article": "https://en.wikipedia.org/wiki/Cayo_Gorda"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.742777777,
+                    13.347777777
+                ]
+            },
+            "properties": {
+                "name": "Conejo Island",
+                "article": "https://en.wikipedia.org/wiki/Conejo_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.55777778,
+                    13.365
+                ]
+            },
+            "properties": {
+                "name": "Isla del Toro",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.557777777,
+                    13.365
+                ]
+            },
+            "properties": {
+                "name": "Isla del Toro",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.168175,
+                    14.365944444
+                ]
+            },
+            "properties": {
+                "name": "Pierdra de Cayaguanca",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.209188888,
+                    14.106383333
+                ]
+            },
+            "properties": {
+                "name": "Manuel Bonilla National Theater",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.02273,
+                    14.94155
+                ]
+            },
+            "properties": {
+                "name": "Los Naranjos",
+                "article": "https://en.wikipedia.org/wiki/Los_Naranjos,_Honduras"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.647633333,
+                    14.363705555
+                ]
+            },
+            "properties": {
+                "name": "Yarumela",
+                "article": "https://en.wikipedia.org/wiki/Yarumela"
+            }
+        }
+    ]
+}

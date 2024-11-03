@@ -1,0 +1,5367 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.066666666,
+                    0.016666666
+                ]
+            },
+            "properties": {
+                "name": "Nanyuki",
+                "article": "https://en.wikipedia.org/wiki/Nanyuki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.2,
+                    -0.1
+                ]
+            },
+            "properties": {
+                "name": "Mount Kenya",
+                "article": "https://en.wikipedia.org/wiki/Mount_Kenya"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.45,
+                    -0.533333333
+                ]
+            },
+            "properties": {
+                "name": "Embu",
+                "article": "https://en.wikipedia.org/wiki/Embu,_Kenya"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.75,
+                    -0.1
+                ]
+            },
+            "properties": {
+                "name": "Kisumu",
+                "article": "https://en.wikipedia.org/wiki/Kisumu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.666666666,
+                    -4.05
+                ]
+            },
+            "properties": {
+                "name": "Mombasa",
+                "article": "https://en.wikipedia.org/wiki/Mombasa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.066666666,
+                    -0.283333333
+                ]
+            },
+            "properties": {
+                "name": "Nakuru",
+                "article": "https://en.wikipedia.org/wiki/Nakuru"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.900277777,
+                    -2.268611111
+                ]
+            },
+            "properties": {
+                "name": "Lamu old town",
+                "article": "https://en.wikipedia.org/wiki/Lamu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.75,
+                    0.283333333
+                ]
+            },
+            "properties": {
+                "name": "Kakamega",
+                "article": "https://en.wikipedia.org/wiki/Kakamega"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.283333333,
+                    0.516666666
+                ]
+            },
+            "properties": {
+                "name": "Eldoret",
+                "article": "https://en.wikipedia.org/wiki/Eldoret"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.95,
+                    -0.416666666
+                ]
+            },
+            "properties": {
+                "name": "Nyeri",
+                "article": "https://en.wikipedia.org/wiki/Nyeri"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.5,
+                    -0.216666666
+                ]
+            },
+            "properties": {
+                "name": "Ndere Island",
+                "article": "https://en.wikipedia.org/wiki/Ndere_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.016666666,
+                    -3.309166666
+                ]
+            },
+            "properties": {
+                "name": "Ruins of Gedi",
+                "article": "https://en.wikipedia.org/wiki/Ruins_of_Gedi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.244,
+                    -0.446
+                ]
+            },
+            "properties": {
+                "name": "Lake Elmenteita",
+                "article": "https://en.wikipedia.org/wiki/Lake_Elmenteita"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.0,
+                    1.016666666
+                ]
+            },
+            "properties": {
+                "name": "Kitale",
+                "article": "https://en.wikipedia.org/wiki/Kitale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    41.05,
+                    -2.1
+                ]
+            },
+            "properties": {
+                "name": "Pate Island",
+                "article": "https://en.wikipedia.org/wiki/Pate_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    41.276097222,
+                    -2.005780555
+                ]
+            },
+            "properties": {
+                "name": "Kiwayu",
+                "article": "https://en.wikipedia.org/wiki/Kiwayu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.851666666,
+                    4.686666666
+                ]
+            },
+            "properties": {
+                "name": "Lake Chew Bahir",
+                "article": "https://en.wikipedia.org/wiki/Lake_Chew_Bahir"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.266666666,
+                    -1.516666666
+                ]
+            },
+            "properties": {
+                "name": "Machakos",
+                "article": "https://en.wikipedia.org/wiki/Machakos"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.057222222,
+                    1.747222222
+                ]
+            },
+            "properties": {
+                "name": "Wajir",
+                "article": "https://en.wikipedia.org/wiki/Wajir"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.5265,
+                    1.1185
+                ]
+            },
+            "properties": {
+                "name": "Mount Elgon",
+                "article": "https://en.wikipedia.org/wiki/Mount_Elgon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.866666666,
+                    -2.283333333
+                ]
+            },
+            "properties": {
+                "name": "Lamu Island",
+                "article": "https://en.wikipedia.org/wiki/Lamu_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.083333333,
+                    0.633333333
+                ]
+            },
+            "properties": {
+                "name": "Lake Baringo",
+                "article": "https://en.wikipedia.org/wiki/Lake_Baringo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.56666667,
+                    2.31666667
+                ]
+            },
+            "properties": {
+                "name": "Barrier",
+                "article": "https://en.wikipedia.org/wiki/The_Barrier_(Kenya)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.560833333,
+                    2.325
+                ]
+            },
+            "properties": {
+                "name": "Barrier",
+                "article": "https://en.wikipedia.org/wiki/The_Barrier_(Kenya)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.305,
+                    -0.15166667
+                ]
+            },
+            "properties": {
+                "name": "Batian",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.658333333,
+                    -0.456944444
+                ]
+            },
+            "properties": {
+                "name": "Garissa",
+                "article": "https://en.wikipedia.org/wiki/Garissa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.1,
+                    0.25
+                ]
+            },
+            "properties": {
+                "name": "Lake Bogoria",
+                "article": "https://en.wikipedia.org/wiki/Lake_Bogoria"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.10178,
+                    0.25886
+                ]
+            },
+            "properties": {
+                "name": "Lake Bogoria",
+                "article": "https://en.wikipedia.org/wiki/Lake_Bogoria"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.65,
+                    0.05
+                ]
+            },
+            "properties": {
+                "name": "Meru",
+                "article": "https://en.wikipedia.org/wiki/Meru,_Kenya"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.5,
+                    -0.38
+                ]
+            },
+            "properties": {
+                "name": "Mount Homa",
+                "article": "https://en.wikipedia.org/wiki/Mount_Homa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.6,
+                    3.116666666
+                ]
+            },
+            "properties": {
+                "name": "Lodwar",
+                "article": "https://en.wikipedia.org/wiki/Lodwar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.283888888,
+                    -0.369166666
+                ]
+            },
+            "properties": {
+                "name": "Kericho",
+                "article": "https://en.wikipedia.org/wiki/Kericho"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.5666,
+                    0.5666
+                ]
+            },
+            "properties": {
+                "name": "Bungoma",
+                "article": "https://en.wikipedia.org/wiki/Bungoma"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.866666666,
+                    -1.083333333
+                ]
+            },
+            "properties": {
+                "name": "Narok",
+                "article": "https://en.wikipedia.org/wiki/Narok"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.433333333,
+                    -0.716666666
+                ]
+            },
+            "properties": {
+                "name": "Naivasha",
+                "article": "https://en.wikipedia.org/wiki/Naivasha"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.43591,
+                    -0.71667
+                ]
+            },
+            "properties": {
+                "name": "Naivasha",
+                "article": "https://en.wikipedia.org/wiki/Naivasha"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.7675,
+                    -0.6698
+                ]
+            },
+            "properties": {
+                "name": "Kisii",
+                "article": "https://en.wikipedia.org/wiki/Kisii,_Kenya"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.45,
+                    -0.51666667
+                ]
+            },
+            "properties": {
+                "name": "Homa Bay",
+                "article": "https://en.wikipedia.org/wiki/Homa_Bay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.056,
+                    3.527
+                ]
+            },
+            "properties": {
+                "name": "Moyale",
+                "article": "https://en.wikipedia.org/wiki/Moyale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.85,
+                    -3.633333333
+                ]
+            },
+            "properties": {
+                "name": "Kilifi",
+                "article": "https://en.wikipedia.org/wiki/Kilifi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.5,
+                    0.216666666
+                ]
+            },
+            "properties": {
+                "name": "Butere",
+                "article": "https://en.wikipedia.org/wiki/Butere"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.483333333,
+                    0.333333333
+                ]
+            },
+            "properties": {
+                "name": "Mumias",
+                "article": "https://en.wikipedia.org/wiki/Mumias"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.583333333,
+                    0.35
+                ]
+            },
+            "properties": {
+                "name": "Isiolo",
+                "article": "https://en.wikipedia.org/wiki/Isiolo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.456944444,
+                    -0.915277777
+                ]
+            },
+            "properties": {
+                "name": "Mount Longonot",
+                "article": "https://en.wikipedia.org/wiki/Mount_Longonot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.938055555,
+                    -0.882777777
+                ]
+            },
+            "properties": {
+                "name": "Migingo Island",
+                "article": "https://en.wikipedia.org/wiki/Migingo_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.666666666,
+                    -4.05
+                ]
+            },
+            "properties": {
+                "name": "Mombasa Island",
+                "article": "https://en.wikipedia.org/wiki/Mombasa_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.066666666,
+                    -0.2
+                ]
+            },
+            "properties": {
+                "name": "Menengai",
+                "article": "https://en.wikipedia.org/wiki/Menengai"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.983333333,
+                    2.333333333
+                ]
+            },
+            "properties": {
+                "name": "Marsabit",
+                "article": "https://en.wikipedia.org/wiki/Marsabit"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.53333333,
+                    -2.53333333
+                ]
+            },
+            "properties": {
+                "name": "Ungwana",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.219364,
+                    -4.660672
+                ]
+            },
+            "properties": {
+                "name": "Vanga",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.716666666,
+                    -0.8
+                ]
+            },
+            "properties": {
+                "name": "Ogembo",
+                "article": "https://en.wikipedia.org/wiki/Ogembo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.7146,
+                    2.74439
+                ]
+            },
+            "properties": {
+                "name": "Loiyangalani",
+                "article": "https://en.wikipedia.org/wiki/Loiyangalani"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.9,
+                    -2.28333333
+                ]
+            },
+            "properties": {
+                "name": "Shanga",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.03,
+                    -1.5
+                ]
+            },
+            "properties": {
+                "name": "Hola",
+                "article": "https://en.wikipedia.org/wiki/Hola,_Kenya"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.0,
+                    -1.0
+                ]
+            },
+            "properties": {
+                "name": "Lake Victoria",
+                "article": "https://en.wikipedia.org/wiki/Lake_Victoria"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.761666666,
+                    -3.606944444
+                ]
+            },
+            "properties": {
+                "name": "Lake Jipe",
+                "article": "https://en.wikipedia.org/wiki/Lake_Jipe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.916666666,
+                    2.733333333
+                ]
+            },
+            "properties": {
+                "name": "Mount Kulal",
+                "article": "https://en.wikipedia.org/wiki/Mount_Kulal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.966666666,
+                    2.316666666
+                ]
+            },
+            "properties": {
+                "name": "Mount Marsabit",
+                "article": "https://en.wikipedia.org/wiki/Mount_Marsabit"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.110833333,
+                    0.460833333
+                ]
+            },
+            "properties": {
+                "name": "Busia",
+                "article": "https://en.wikipedia.org/wiki/Busia,_Kenya"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.266666666,
+                    -1.866666666
+                ]
+            },
+            "properties": {
+                "name": "Lake Magadi",
+                "article": "https://en.wikipedia.org/wiki/Lake_Magadi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.802778,
+                    3.422778
+                ]
+            },
+            "properties": {
+                "name": "Namoratunga",
+                "article": "https://en.wikipedia.org/wiki/Kalokol_Pillar_Site"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.63333333,
+                    -1.36666667
+                ]
+            },
+            "properties": {
+                "name": "Ngong",
+                "article": "https://en.wikipedia.org/wiki/Ngong,_Kenya"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.1,
+                    0.2
+                ]
+            },
+            "properties": {
+                "name": "Kapsabet",
+                "article": "https://en.wikipedia.org/wiki/Kapsabet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.350644444,
+                    -0.768527777
+                ]
+            },
+            "properties": {
+                "name": "Lake Naivasha",
+                "article": "https://en.wikipedia.org/wiki/Lake_Naivasha"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.35,
+                    4.2
+                ]
+            },
+            "properties": {
+                "name": "Lokichogio",
+                "article": "https://en.wikipedia.org/wiki/Lokichogio"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.966666666,
+                    -2.266666666
+                ]
+            },
+            "properties": {
+                "name": "Manda Island",
+                "article": "https://en.wikipedia.org/wiki/Manda_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.466666666,
+                    -4.466666666
+                ]
+            },
+            "properties": {
+                "name": "Msambweni",
+                "article": "https://en.wikipedia.org/wiki/Msambweni"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.18722222,
+                    3.94777778
+                ]
+            },
+            "properties": {
+                "name": "Koobi Fora",
+                "article": "https://en.wikipedia.org/wiki/Koobi_Fora"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.939444444,
+                    -0.901944444
+                ]
+            },
+            "properties": {
+                "name": "Pyramid Island",
+                "article": "https://en.wikipedia.org/wiki/Pyramid_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.783333333,
+                    -1.85
+                ]
+            },
+            "properties": {
+                "name": "Kajiado",
+                "article": "https://en.wikipedia.org/wiki/Kajiado"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.166666666,
+                    -0.4
+                ]
+            },
+            "properties": {
+                "name": "Rusinga Island",
+                "article": "https://en.wikipedia.org/wiki/Rusinga_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.191454,
+                    0.919465
+                ]
+            },
+            "properties": {
+                "name": "Paka",
+                "article": "https://en.wikipedia.org/wiki/Paka_(volcano)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.416667,
+                    4.083333
+                ]
+            },
+            "properties": {
+                "name": "Mega Basalt Field",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.41666667,
+                    4.08333333
+                ]
+            },
+            "properties": {
+                "name": "Mega Basalt Field",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.016666666,
+                    -0.466666666
+                ]
+            },
+            "properties": {
+                "name": "Mfangano Island",
+                "article": "https://en.wikipedia.org/wiki/Mfangano_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.378,
+                    -4.664
+                ]
+            },
+            "properties": {
+                "name": "Wasini Island",
+                "article": "https://en.wikipedia.org/wiki/Wasini_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.609722222,
+                    -0.163333333
+                ]
+            },
+            "properties": {
+                "name": "Maboko Island",
+                "article": "https://en.wikipedia.org/wiki/Maboko_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.1636,
+                    0.05972
+                ]
+            },
+            "properties": {
+                "name": "Lake Kanyaboli",
+                "article": "https://en.wikipedia.org/wiki/Lake_Kanyaboli"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.783333333,
+                    -2.55
+                ]
+            },
+            "properties": {
+                "name": "Namanga",
+                "article": "https://en.wikipedia.org/wiki/Namanga"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.8,
+                    -1.282777777
+                ]
+            },
+            "properties": {
+                "name": "State House",
+                "article": "https://en.wikipedia.org/wiki/State_House,_Nairobi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.326106944,
+                    -0.891338055
+                ]
+            },
+            "properties": {
+                "name": "Thimlich Ohinga",
+                "article": "https://en.wikipedia.org/wiki/Thimlich_Ohinga"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.33759,
+                    -0.04743
+                ]
+            },
+            "properties": {
+                "name": "Urewe",
+                "article": "https://en.wikipedia.org/wiki/Urewe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.566666666,
+                    2.233333333
+                ]
+            },
+            "properties": {
+                "name": "Lake Logipi",
+                "article": "https://en.wikipedia.org/wiki/Lake_Logipi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.45,
+                    -1.58
+                ]
+            },
+            "properties": {
+                "name": "Olorgesailie",
+                "article": "https://en.wikipedia.org/wiki/Olorgesailie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.77,
+                    -1.4
+                ]
+            },
+            "properties": {
+                "name": "Ongata Rongai",
+                "article": "https://en.wikipedia.org/wiki/Ongata_Rongai"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.269989,
+                    -0.885737
+                ]
+            },
+            "properties": {
+                "name": "Olkaria",
+                "article": "https://en.wikipedia.org/wiki/Olkaria"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.187248,
+                    -0.648866
+                ]
+            },
+            "properties": {
+                "name": "Ol Doinyo Eburru",
+                "article": "https://en.wikipedia.org/wiki/Ol_Doinyo_Eburru"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.05416667,
+                    0.64638889
+                ]
+            },
+            "properties": {
+                "name": "Enkapune Ya Muto",
+                "article": "https://en.wikipedia.org/wiki/Enkapune_Ya_Muto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.98333333,
+                    -1.45
+                ]
+            },
+            "properties": {
+                "name": "Athi River",
+                "article": "https://en.wikipedia.org/wiki/Athi_River_(town)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.82,
+                    -1.284723
+                ]
+            },
+            "properties": {
+                "name": "I&M Bank Tower",
+                "article": "https://en.wikipedia.org/wiki/I%26M_Bank_Tower"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.972469444,
+                    0.552958333
+                ]
+            },
+            "properties": {
+                "name": "Kapthurin",
+                "article": "https://en.wikipedia.org/wiki/Kapthurin_Formation"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.07,
+                    -2.9
+                ]
+            },
+            "properties": {
+                "name": "Kilaguni",
+                "article": "https://en.wikipedia.org/wiki/Kilaguni"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.554947,
+                    -0.549995
+                ]
+            },
+            "properties": {
+                "name": "Kinangop Plateau",
+                "article": "https://en.wikipedia.org/wiki/Kinangop_Plateau"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.3683,
+                    -1.8383
+                ]
+            },
+            "properties": {
+                "name": "Kitaingo",
+                "article": "https://en.wikipedia.org/wiki/Kitaingo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.616666666,
+                    0.633333333
+                ]
+            },
+            "properties": {
+                "name": "Lake Kamnarok",
+                "article": "https://en.wikipedia.org/wiki/Lake_Kamnarok"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.521473,
+                    1.209265
+                ]
+            },
+            "properties": {
+                "name": "Losiolo Escarpment",
+                "article": "https://en.wikipedia.org/wiki/Losiolo_Escarpment"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.74,
+                    0.61
+                ]
+            },
+            "properties": {
+                "name": "Mau Escarpment",
+                "article": "https://en.wikipedia.org/wiki/Mau_Escarpment"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.66805556,
+                    -4.06166667
+                ]
+            },
+            "properties": {
+                "name": "Moi Avenue",
+                "article": "https://en.wikipedia.org/wiki/Moi_Avenue_(Mombasa)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.70832,
+                    -0.62765
+                ]
+            },
+            "properties": {
+                "name": "Mount Kinangop",
+                "article": "https://en.wikipedia.org/wiki/Mount_Kinangop"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.542673,
+                    -0.437432
+                ]
+            },
+            "properties": {
+                "name": "Mount Kipipiri",
+                "article": "https://en.wikipedia.org/wiki/Mount_Kipipiri"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.54733,
+                    -0.43832
+                ]
+            },
+            "properties": {
+                "name": "Mount Kipipiri",
+                "article": "https://en.wikipedia.org/wiki/Mount_Kipipiri"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.81583333,
+                    2.19166667
+                ]
+            },
+            "properties": {
+                "name": "Ng'iro",
+                "article": "https://en.wikipedia.org/wiki/Mount_Ng%27iro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.61666667,
+                    -0.34972222
+                ]
+            },
+            "properties": {
+                "name": "Mount Satima",
+                "article": "https://en.wikipedia.org/wiki/Mount_Satima"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.17506,
+                    1.169362
+                ]
+            },
+            "properties": {
+                "name": "Mount Silali",
+                "article": "https://en.wikipedia.org/wiki/Mount_Silali"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.02166667,
+                    -2.98333333
+                ]
+            },
+            "properties": {
+                "name": "Mzima Springs",
+                "article": "https://en.wikipedia.org/wiki/Mzima_Springs"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.75,
+                    -2.95
+                ]
+            },
+            "properties": {
+                "name": "Mzima Springs",
+                "article": "https://en.wikipedia.org/wiki/Mzima_Springs"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.828619,
+                    -1.291664
+                ]
+            },
+            "properties": {
+                "name": "Nairobi railway station",
+                "article": "https://en.wikipedia.org/wiki/Nairobi_railway_station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.025543,
+                    -1.761655
+                ]
+            },
+            "properties": {
+                "name": "Nguruman Escarpment",
+                "article": "https://en.wikipedia.org/wiki/Nguruman_Escarpment"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.66666667,
+                    -0.06666667
+                ]
+            },
+            "properties": {
+                "name": "Nkubu",
+                "article": "https://en.wikipedia.org/wiki/Nkubu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.75133,
+                    -2.4938
+                ]
+            },
+            "properties": {
+                "name": "Ol Doinyo Orok",
+                "article": "https://en.wikipedia.org/wiki/Ol_Doinyo_Orok"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.068027777,
+                    -0.362972222
+                ]
+            },
+            "properties": {
+                "name": "Sagana Lodge",
+                "article": "https://en.wikipedia.org/wiki/Sagana_Lodge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.12,
+                    0.77
+                ]
+            },
+            "properties": {
+                "name": "Korosi",
+                "article": "https://en.wikipedia.org/wiki/Korosi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.450478,
+                    1.251655
+                ]
+            },
+            "properties": {
+                "name": "Cherangany Hills",
+                "article": "https://en.wikipedia.org/wiki/Cherang%27any_Hills"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.26666667,
+                    -0.51666667
+                ]
+            },
+            "properties": {
+                "name": "Elmenteita Badlands",
+                "article": "https://en.wikipedia.org/wiki/Elmenteita_Badlands"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.82666667,
+                    -1.28916667
+                ]
+            },
+            "properties": {
+                "name": "Cooperative Bank House",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.6,
+                    2.63
+                ]
+            },
+            "properties": {
+                "name": "South Island",
+                "article": "https://en.wikipedia.org/wiki/South_Island_(Kenya)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.594444444,
+                    2.634722222
+                ]
+            },
+            "properties": {
+                "name": "South Island",
+                "article": "https://en.wikipedia.org/wiki/South_Island_(Kenya)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.38,
+                    1.66
+                ]
+            },
+            "properties": {
+                "name": "Mount Mtelo",
+                "article": "https://en.wikipedia.org/wiki/Mount_Mtelo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.5333,
+                    -4.45
+                ]
+            },
+            "properties": {
+                "name": "Chale Island",
+                "article": "https://en.wikipedia.org/wiki/Chale_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.3386,
+                    -2.59901
+                ]
+            },
+            "properties": {
+                "name": "Tana River Delta Ramsar Site",
+                "article": "https://en.wikipedia.org/wiki/Tana_River_Delta_Ramsar_Site"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.5,
+                    -0.7
+                ]
+            },
+            "properties": {
+                "name": "Kariandusi prehistoric site",
+                "article": "https://en.wikipedia.org/wiki/Kariandusi_prehistoric_site"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.8503,
+                    3.91083
+                ]
+            },
+            "properties": {
+                "name": "Lomekwi",
+                "article": "https://en.wikipedia.org/wiki/Lomekwi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.815795,
+                    -1.278295
+                ]
+            },
+            "properties": {
+                "name": "Fairmont The Norfolk Hotel",
+                "article": "https://en.wikipedia.org/wiki/Fairmont_The_Norfolk_Hotel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.15,
+                    0.06
+                ]
+            },
+            "properties": {
+                "name": "Lake Solai",
+                "article": "https://en.wikipedia.org/wiki/Lake_Solai"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.98,
+                    -1.55
+                ]
+            },
+            "properties": {
+                "name": "Mwe",
+                "article": "https://en.wikipedia.org/wiki/Mwe_(town)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.815562,
+                    -1.282491
+                ]
+            },
+            "properties": {
+                "name": "Hazina Towers",
+                "article": "https://en.wikipedia.org/wiki/Hazina_Towers"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    41.22027778,
+                    3.9375
+                ]
+            },
+            "properties": {
+                "name": "Rhamu",
+                "article": "https://en.wikipedia.org/wiki/Rhamu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    41.18638889,
+                    3.15083333
+                ]
+            },
+            "properties": {
+                "name": "Lafey",
+                "article": "https://en.wikipedia.org/wiki/Lafey"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.68138889,
+                    -2.4125
+                ]
+            },
+            "properties": {
+                "name": "Lake Kenyatta",
+                "article": "https://en.wikipedia.org/wiki/Lake_Kenyatta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.81527778,
+                    -1.29416667
+                ]
+            },
+            "properties": {
+                "name": "Abcon Complex & Towers",
+                "article": "https://en.wikipedia.org/wiki/Abcon_Complex_%26_Towers"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    41.75744,
+                    3.77299
+                ]
+            },
+            "properties": {
+                "name": "Bur Gause",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.8842,
+                    2.619
+                ]
+            },
+            "properties": {
+                "name": "Tukuyon",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.3983,
+                    -1.6183
+                ]
+            },
+            "properties": {
+                "name": "Tututha",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.116666666,
+                    -0.35
+                ]
+            },
+            "properties": {
+                "name": "Uware Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.7545,
+                    -1.6552
+                ]
+            },
+            "properties": {
+                "name": "Q27190762",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.3842,
+                    1.5942
+                ]
+            },
+            "properties": {
+                "name": "Wyisa",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.093333333,
+                    -0.085
+                ]
+            },
+            "properties": {
+                "name": "Yalombo Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.33114,
+                    -2.03456
+                ]
+            },
+            "properties": {
+                "name": "Yamalu",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.070555555,
+                    -0.981666666
+                ]
+            },
+            "properties": {
+                "name": "Yamburi Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.21184,
+                    -4.43559
+                ]
+            },
+            "properties": {
+                "name": "Q27190802",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.595,
+                    -2.61
+                ]
+            },
+            "properties": {
+                "name": "Ziwaiu Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.08866,
+                    -0.47576
+                ]
+            },
+            "properties": {
+                "name": "Takawiri Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.14444,
+                    2.00183
+                ]
+            },
+            "properties": {
+                "name": "Tarakit",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.11517,
+                    2.15614
+                ]
+            },
+            "properties": {
+                "name": "Tenus",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.5125,
+                    -1.8158
+                ]
+            },
+            "properties": {
+                "name": "Thikuni",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.358,
+                    -0.0777
+                ]
+            },
+            "properties": {
+                "name": "Tinderet",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.4858,
+                    3.4517
+                ]
+            },
+            "properties": {
+                "name": "Gara Robo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.943888888,
+                    -0.461111111
+                ]
+            },
+            "properties": {
+                "name": "Q27192017",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.79,
+                    -0.3808
+                ]
+            },
+            "properties": {
+                "name": "Rohuraini",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.78333,
+                    3.66667
+                ]
+            },
+            "properties": {
+                "name": "Saki Gamada",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.25708,
+                    -1.13958
+                ]
+            },
+            "properties": {
+                "name": "Oldoinyo Sapuk",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.7011,
+                    -3.6564
+                ]
+            },
+            "properties": {
+                "name": "Sasenyi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.275277777,
+                    -0.4
+                ]
+            },
+            "properties": {
+                "name": "Q27192124",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    41.473055555,
+                    -1.786111111
+                ]
+            },
+            "properties": {
+                "name": "Q27192139",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.976666666,
+                    -2.193333333
+                ]
+            },
+            "properties": {
+                "name": "Shaka la Mzungu Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.278055555,
+                    -4.663611111
+                ]
+            },
+            "properties": {
+                "name": "Sii Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    41.413611111,
+                    -1.861111111
+                ]
+            },
+            "properties": {
+                "name": "Simambaya Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.3602,
+                    3.6763
+                ]
+            },
+            "properties": {
+                "name": "Nakapelikuruk",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.3135,
+                    3.5254
+                ]
+            },
+            "properties": {
+                "name": "Q27192931",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.14492,
+                    3.75729
+                ]
+            },
+            "properties": {
+                "name": "Nakororoi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.943055555,
+                    2.4275
+                ]
+            },
+            "properties": {
+                "name": "Q27192933",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.933333333,
+                    0.116666666
+                ]
+            },
+            "properties": {
+                "name": "Namulamia Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.589722222,
+                    2.702777777
+                ]
+            },
+            "properties": {
+                "name": "Nanet Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.96223,
+                    3.63741
+                ]
+            },
+            "properties": {
+                "name": "Nangulechom",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.5525,
+                    -0.8608
+                ]
+            },
+            "properties": {
+                "name": "Sisiun",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.38475,
+                    0.96422
+                ]
+            },
+            "properties": {
+                "name": "Sogotio",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.401,
+                    1.3943
+                ]
+            },
+            "properties": {
+                "name": "Sondhang",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.55,
+                    -2.033333333
+                ]
+            },
+            "properties": {
+                "name": "Mwingati",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.95598,
+                    -0.43754
+                ]
+            },
+            "properties": {
+                "name": "Mzenzi Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.85019,
+                    -1.51772
+                ]
+            },
+            "properties": {
+                "name": "Q27193010",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.7,
+                    -1.58333
+                ]
+            },
+            "properties": {
+                "name": "Ndithini",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.085277777,
+                    0.362222222
+                ]
+            },
+            "properties": {
+                "name": "Ndoleli",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.88782,
+                    -1.37471
+                ]
+            },
+            "properties": {
+                "name": "Ndumoni",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.9608,
+                    2.4577
+                ]
+            },
+            "properties": {
+                "name": "Morua Ngijam",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.190555555,
+                    -0.355555555
+                ]
+            },
+            "properties": {
+                "name": "Ngodhe Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.1535,
+                    -3.0062
+                ]
+            },
+            "properties": {
+                "name": "Q27193114",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.866111111,
+                    -1.6775
+                ]
+            },
+            "properties": {
+                "name": "Ngumoni",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.4308,
+                    -1.6808
+                ]
+            },
+            "properties": {
+                "name": "Q27193121",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.6819,
+                    -1.0621
+                ]
+            },
+            "properties": {
+                "name": "Nguungi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.471666666,
+                    -1.82
+                ]
+            },
+            "properties": {
+                "name": "Nguuta",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.48333,
+                    -1.68333
+                ]
+            },
+            "properties": {
+                "name": "Nthumbini",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.525,
+                    -0.187
+                ]
+            },
+            "properties": {
+                "name": "Ntua",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.541388888,
+                    -0.175555555
+                ]
+            },
+            "properties": {
+                "name": "Nyakagera Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.8339,
+                    -1.5669
+                ]
+            },
+            "properties": {
+                "name": "Nwangi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.73319,
+                    -3.62628
+                ]
+            },
+            "properties": {
+                "name": "Q27193200",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.35,
+                    -1.15
+                ]
+            },
+            "properties": {
+                "name": "Oldoinyo Nyukie",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.0601,
+                    -0.19197
+                ]
+            },
+            "properties": {
+                "name": "Magogo Islands",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.010555555,
+                    -0.133611111
+                ]
+            },
+            "properties": {
+                "name": "Mageta Island",
+                "article": "https://en.wikipedia.org/wiki/Mageta_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.065555555,
+                    -0.800833333
+                ]
+            },
+            "properties": {
+                "name": "Maiunya Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.383333333,
+                    0.983333333
+                ]
+            },
+            "properties": {
+                "name": "Q27193934",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.483333333,
+                    -1.833333333
+                ]
+            },
+            "properties": {
+                "name": "Makuli",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.574444444,
+                    -1.805555555
+                ]
+            },
+            "properties": {
+                "name": "Malibani",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.985555555,
+                    -2.229722222
+                ]
+            },
+            "properties": {
+                "name": "Manda Toto Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.933333333,
+                    -2.033333333
+                ]
+            },
+            "properties": {
+                "name": "Q27193973",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.73333,
+                    -3.61667
+                ]
+            },
+            "properties": {
+                "name": "Q27194021",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.238055555,
+                    -3.409166666
+                ]
+            },
+            "properties": {
+                "name": "Mashile",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.4525,
+                    -2.0054
+                ]
+            },
+            "properties": {
+                "name": "Masue",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.431944444,
+                    -1.091111111
+                ]
+            },
+            "properties": {
+                "name": "Mavoloni",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.2446,
+                    -1.9066
+                ]
+            },
+            "properties": {
+                "name": "Q27194076",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.4,
+                    -1.61667
+                ]
+            },
+            "properties": {
+                "name": "Q27194086",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.068611111,
+                    -0.854444444
+                ]
+            },
+            "properties": {
+                "name": "Mbaiyu Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.13642,
+                    -0.47406
+                ]
+            },
+            "properties": {
+                "name": "Mbasa Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.201111111,
+                    -0.422222222
+                ]
+            },
+            "properties": {
+                "name": "Mbita Passage",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.427777777,
+                    -1.918888888
+                ]
+            },
+            "properties": {
+                "name": "Q27194097",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.59876,
+                    -1.71032
+                ]
+            },
+            "properties": {
+                "name": "Mituvu",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.233333333,
+                    -4.651666666
+                ]
+            },
+            "properties": {
+                "name": "Mkokoni Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.05,
+                    -0.13333
+                ]
+            },
+            "properties": {
+                "name": "Mogare Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.866666666,
+                    1.533333333
+                ]
+            },
+            "properties": {
+                "name": "Morukokoi Korenyang",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.413888888,
+                    -4.679444444
+                ]
+            },
+            "properties": {
+                "name": "Mpunguti Ya Chini",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.40739,
+                    -4.7038
+                ]
+            },
+            "properties": {
+                "name": "Mpunguti Ya Juu",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.3823,
+                    1.66
+                ]
+            },
+            "properties": {
+                "name": "Mtelo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.3,
+                    -1.83333
+                ]
+            },
+            "properties": {
+                "name": "Mukaa",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.021111111,
+                    -2.153333333
+                ]
+            },
+            "properties": {
+                "name": "Musuriambur Hills",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.15554,
+                    -1.23834
+                ]
+            },
+            "properties": {
+                "name": "Mutito",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.13984,
+                    -3.36715
+                ]
+            },
+            "properties": {
+                "name": "Mwakitau",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.14727,
+                    -0.23292
+                ]
+            },
+            "properties": {
+                "name": "Koyamo Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    41.44001,
+                    -1.82251
+                ]
+            },
+            "properties": {
+                "name": "Kui Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.5,
+                    -2.361944444
+                ]
+            },
+            "properties": {
+                "name": "Kukuo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.633333333,
+                    0.933333333
+                ]
+            },
+            "properties": {
+                "name": "Kuptokum",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.345833333,
+                    3.971388888
+                ]
+            },
+            "properties": {
+                "name": "Lokithigere",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.4133,
+                    3.7033
+                ]
+            },
+            "properties": {
+                "name": "Q27195451",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.536111111,
+                    3.205277777
+                ]
+            },
+            "properties": {
+                "name": "Lolingamoru",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.1117,
+                    -1.1571
+                ]
+            },
+            "properties": {
+                "name": "Kyamuthia",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.453055555,
+                    -1.883888888
+                ]
+            },
+            "properties": {
+                "name": "Kyanzue",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.15,
+                    -1.45
+                ]
+            },
+            "properties": {
+                "name": "Kyeengomo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.3367,
+                    -1.5
+                ]
+            },
+            "properties": {
+                "name": "Kyongombe",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.101111111,
+                    1.876111111
+                ]
+            },
+            "properties": {
+                "name": "Q27195322",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.546111111,
+                    -0.907777777
+                ]
+            },
+            "properties": {
+                "name": "Lengijabe",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.604722222,
+                    -0.320277777
+                ]
+            },
+            "properties": {
+                "name": "Oldoinyo Lesatima",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.081666666,
+                    0.591388888
+                ]
+            },
+            "properties": {
+                "name": "Lesukut",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.81667,
+                    -2.7
+                ]
+            },
+            "properties": {
+                "name": "Leyenkati",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.566666666,
+                    -0.166666666
+                ]
+            },
+            "properties": {
+                "name": "Liech Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.35,
+                    -2.08333
+                ]
+            },
+            "properties": {
+                "name": "Lingili",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.65,
+                    -2.366666666
+                ]
+            },
+            "properties": {
+                "name": "Linti",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.586944444,
+                    3.160277777
+                ]
+            },
+            "properties": {
+                "name": "Lodwar Cone",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.4766,
+                    -0.9117
+                ]
+            },
+            "properties": {
+                "name": "Lolmeraani",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.7273,
+                    -0.1123
+                ]
+            },
+            "properties": {
+                "name": "Q27195497",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.679444444,
+                    3.893888888
+                ]
+            },
+            "properties": {
+                "name": "Lone Peak",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.29491,
+                    -1.86588
+                ]
+            },
+            "properties": {
+                "name": "Q27195508",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.0875,
+                    2.269444444
+                ]
+            },
+            "properties": {
+                "name": "Lorosuk",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.416666666,
+                    -0.766666666
+                ]
+            },
+            "properties": {
+                "name": "Q27195578",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.6083,
+                    4.61
+                ]
+            },
+            "properties": {
+                "name": "Kamanang",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.351944444,
+                    3.710555555
+                ]
+            },
+            "properties": {
+                "name": "Kangamaliten",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.4208,
+                    0.9367
+                ]
+            },
+            "properties": {
+                "name": "Kapcho",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.159722222,
+                    2.120833333
+                ]
+            },
+            "properties": {
+                "name": "Kapcholio",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.056666666,
+                    3.015277777
+                ]
+            },
+            "properties": {
+                "name": "Kapokoringoton",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.3233,
+                    0.95
+                ]
+            },
+            "properties": {
+                "name": "Kapoiriwa",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.47229,
+                    0.84388
+                ]
+            },
+            "properties": {
+                "name": "Kapsiliat",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.8,
+                    0.15
+                ]
+            },
+            "properties": {
+                "name": "Kapteriti",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.6625,
+                    -3.826388888
+                ]
+            },
+            "properties": {
+                "name": "Mount Kasigau",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.4,
+                    -2.08333
+                ]
+            },
+            "properties": {
+                "name": "Keekorok",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.3286,
+                    -1.8737
+                ]
+            },
+            "properties": {
+                "name": "Q27196417",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.716388888,
+                    -2.302777777
+                ]
+            },
+            "properties": {
+                "name": "Kiambone Kwa Kibwana",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.434,
+                    -3.1554
+                ]
+            },
+            "properties": {
+                "name": "Kifaru",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.2742,
+                    -1.5458
+                ]
+            },
+            "properties": {
+                "name": "Q27196498",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.5392,
+                    -1.7608
+                ]
+            },
+            "properties": {
+                "name": "Q27196512",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.43,
+                    -1.8683
+                ]
+            },
+            "properties": {
+                "name": "Q27196517",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.433333333,
+                    -1.7
+                ]
+            },
+            "properties": {
+                "name": "Kilisa",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.09063,
+                    -0.52582
+                ]
+            },
+            "properties": {
+                "name": "Kimaboni Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.84152,
+                    -2.4298
+                ]
+            },
+            "properties": {
+                "name": "Kinyika Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.783333333,
+                    0.166666666
+                ]
+            },
+            "properties": {
+                "name": "Kipkomolo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.973611111,
+                    -3.348333333
+                ]
+            },
+            "properties": {
+                "name": "Kirepwe",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.566666666,
+                    -0.15
+                ]
+            },
+            "properties": {
+                "name": "Kirika Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.988888888,
+                    2.698611111
+                ]
+            },
+            "properties": {
+                "name": "Kirikinie",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.9324,
+                    -0.45692
+                ]
+            },
+            "properties": {
+                "name": "Kiringiti Island",
+                "article": "https://en.wikipedia.org/wiki/Kiringiti_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.37191,
+                    -4.71989
+                ]
+            },
+            "properties": {
+                "name": "Ksite Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.305555555,
+                    -4.580833333
+                ]
+            },
+            "properties": {
+                "name": "Q27196619",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.12228,
+                    -0.46312
+                ]
+            },
+            "properties": {
+                "name": "Kisingere Channel",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.44818,
+                    -0.34879
+                ]
+            },
+            "properties": {
+                "name": "Gengra Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.4,
+                    -0.783333333
+                ]
+            },
+            "properties": {
+                "name": "Q27197514",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.687222222,
+                    2.174722222
+                ]
+            },
+            "properties": {
+                "name": "Q27197517",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.572777777,
+                    -3.534166666
+                ]
+            },
+            "properties": {
+                "name": "Q27197526",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.95,
+                    0.1
+                ]
+            },
+            "properties": {
+                "name": "Q27197554",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.08,
+                    4.3508
+                ]
+            },
+            "properties": {
+                "name": "Hafari Dime",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.3,
+                    -1.816666666
+                ]
+            },
+            "properties": {
+                "name": "Kitumbuuni",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.466666666,
+                    -1.683333333
+                ]
+            },
+            "properties": {
+                "name": "Q27196653",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    41.497777777,
+                    -1.764166666
+                ]
+            },
+            "properties": {
+                "name": "Kiungamwina Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.03204,
+                    -0.75104
+                ]
+            },
+            "properties": {
+                "name": "Q27196656",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    41.27676,
+                    -2.00235
+                ]
+            },
+            "properties": {
+                "name": "Kiwaiyu Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.622777777,
+                    3.994722222
+                ]
+            },
+            "properties": {
+                "name": "Q27196671",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.030555555,
+                    3.301944444
+                ]
+            },
+            "properties": {
+                "name": "Q27196673",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.79401,
+                    0.17084
+                ]
+            },
+            "properties": {
+                "name": "Koike",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.260833333,
+                    3.226111111
+                ]
+            },
+            "properties": {
+                "name": "Kokem",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.644722222,
+                    3.013888888
+                ]
+            },
+            "properties": {
+                "name": "Kokal",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.5764,
+                    3.146
+                ]
+            },
+            "properties": {
+                "name": "Q27196716",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.516666666,
+                    -1.7
+                ]
+            },
+            "properties": {
+                "name": "Enguani",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.217,
+                    -0.3063
+                ]
+            },
+            "properties": {
+                "name": "Q27197392",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.62127,
+                    2.63678
+                ]
+            },
+            "properties": {
+                "name": "Enwoiti Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.15993,
+                    -2.96623
+                ]
+            },
+            "properties": {
+                "name": "Fundisa Kijandoni Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.4,
+                    1.65
+                ]
+            },
+            "properties": {
+                "name": "Q27197489",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.113888888,
+                    -0.990277777
+                ]
+            },
+            "properties": {
+                "name": "Hongwe Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.3658,
+                    -1.6825
+                ]
+            },
+            "properties": {
+                "name": "Q27197642",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.1042,
+                    0.195
+                ]
+            },
+            "properties": {
+                "name": "Ildoigan",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.9276,
+                    -0.56111
+                ]
+            },
+            "properties": {
+                "name": "Ilemba Island",
+                "article": "https://en.wikipedia.org/wiki/Ilemba_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.54118,
+                    -3.28377
+                ]
+            },
+            "properties": {
+                "name": "Q27197702",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.12956,
+                    -0.34232
+                ]
+            },
+            "properties": {
+                "name": "Isirkon",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.403055555,
+                    -2.207222222
+                ]
+            },
+            "properties": {
+                "name": "Q27197721",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.533333333,
+                    -1.733333333
+                ]
+            },
+            "properties": {
+                "name": "Q27197728",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.0525,
+                    2.313611111
+                ]
+            },
+            "properties": {
+                "name": "Kachagalau",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.654166666,
+                    2.135833333
+                ]
+            },
+            "properties": {
+                "name": "Kaimeruk",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.3546,
+                    -1.62763
+                ]
+            },
+            "properties": {
+                "name": "Q27197855",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.558055555,
+                    3.711388888
+                ]
+            },
+            "properties": {
+                "name": "Kamaret",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.0285,
+                    3.4336
+                ]
+            },
+            "properties": {
+                "name": "Kameriangore",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.46369,
+                    -0.21267
+                ]
+            },
+            "properties": {
+                "name": "Kamnara Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.049444444,
+                    -0.333611111
+                ]
+            },
+            "properties": {
+                "name": "Kamuwongu",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.665833333,
+                    -1.562777777
+                ]
+            },
+            "properties": {
+                "name": "Q27197931",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.829166666,
+                    -2.171944444
+                ]
+            },
+            "properties": {
+                "name": "Q27198466",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.032777777,
+                    -0.733888888
+                ]
+            },
+            "properties": {
+                "name": "Bihiri Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.93129,
+                    -2.22894
+                ]
+            },
+            "properties": {
+                "name": "Buruji",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.23283,
+                    -0.42648
+                ]
+            },
+            "properties": {
+                "name": "Chamarungo Islands",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.544166666,
+                    3.317777777
+                ]
+            },
+            "properties": {
+                "name": "Q27198595",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.4166,
+                    0.9686
+                ]
+            },
+            "properties": {
+                "name": "Chemurkoi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.85,
+                    -2.606388888
+                ]
+            },
+            "properties": {
+                "name": "Q27198654",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.39856,
+                    -0.76633
+                ]
+            },
+            "properties": {
+                "name": "Crescent Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.436111111,
+                    4.081111111
+                ]
+            },
+            "properties": {
+                "name": "Dabacha",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.587222222,
+                    2.698055555
+                ]
+            },
+            "properties": {
+                "name": "Ekinyang",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.30035,
+                    -2.61606
+                ]
+            },
+            "properties": {
+                "name": "Q27198822",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.4515,
+                    3.505
+                ]
+            },
+            "properties": {
+                "name": "Q27198929",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.1108,
+                    4.31
+                ]
+            },
+            "properties": {
+                "name": "Barchuma Hafari",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.88333,
+                    -2.0
+                ]
+            },
+            "properties": {
+                "name": "Ankishi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.94183,
+                    -0.88261
+                ]
+            },
+            "properties": {
+                "name": "Usingo Island",
+                "article": "https://en.wikipedia.org/wiki/Usingo_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.164166666,
+                    -2.9275
+                ]
+            },
+            "properties": {
+                "name": "Q27203438",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.16973,
+                    -2.87588
+                ]
+            },
+            "properties": {
+                "name": "Giriyama Village Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.429166666,
+                    -4.5675
+                ]
+            },
+            "properties": {
+                "name": "Mlimani Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.2875,
+                    -4.623611111
+                ]
+            },
+            "properties": {
+                "name": "Madyoka Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    41.66446,
+                    3.94807
+                ]
+            },
+            "properties": {
+                "name": "Mama Safara",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.66047,
+                    -4.03731
+                ]
+            },
+            "properties": {
+                "name": "Mombasa Noord",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    41.201111111,
+                    -2.008055555
+                ]
+            },
+            "properties": {
+                "name": "Kianoni Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.4475,
+                    -0.915
+                ]
+            },
+            "properties": {
+                "name": "Longonot",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.87744,
+                    2.92222
+                ]
+            },
+            "properties": {
+                "name": "Kachepekenya",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.16701,
+                    2.02258
+                ]
+            },
+            "properties": {
+                "name": "Sepich",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.68713,
+                    2.17467
+                ]
+            },
+            "properties": {
+                "name": "Kakurotom Peak",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.7983,
+                    2.02058
+                ]
+            },
+            "properties": {
+                "name": "Tekirit",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.46533,
+                    -0.07526
+                ]
+            },
+            "properties": {
+                "name": "Lake Alice",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.40123,
+                    -0.12392
+                ]
+            },
+            "properties": {
+                "name": "Lake Ellis",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.68103,
+                    -2.4096
+                ]
+            },
+            "properties": {
+                "name": "Lake Mukunguya",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.085833333,
+                    0.003888888
+                ]
+            },
+            "properties": {
+                "name": "Lake Namboyo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.44052,
+                    -0.15568
+                ]
+            },
+            "properties": {
+                "name": "Lake Ol Bolossat",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.41107,
+                    0.69654
+                ]
+            },
+            "properties": {
+                "name": "Lake Sergoi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.17755,
+                    -2.42538
+                ]
+            },
+            "properties": {
+                "name": "Lake Shaka Babo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.80861111,
+                    -1.29472222
+                ]
+            },
+            "properties": {
+                "name": "88 Nairobi Condominium Tower",
+                "article": "https://en.wikipedia.org/wiki/88_Nairobi_Condominium_Tower"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.27615,
+                    -1.75517
+                ]
+            },
+            "properties": {
+                "name": "Q49306766",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.63,
+                    -0.368333333
+                ]
+            },
+            "properties": {
+                "name": "Q49310575",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.735833,
+                    -3.678611
+                ]
+            },
+            "properties": {
+                "name": "Panga ya Saidi",
+                "article": "https://en.wikipedia.org/wiki/Panga_ya_Saidi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.0,
+                    1.16416667
+                ]
+            },
+            "properties": {
+                "name": "Kwanza",
+                "article": "https://en.wikipedia.org/wiki/Kwanza,_Kenya"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.883333333,
+                    -1.266666666
+                ]
+            },
+            "properties": {
+                "name": "Busara",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.57947,
+                    -4.02178
+                ]
+            },
+            "properties": {
+                "name": "Mombasa Terminus",
+                "article": "https://en.wikipedia.org/wiki/Mombasa_Terminus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.89843,
+                    -1.35456
+                ]
+            },
+            "properties": {
+                "name": "Nairobi Terminus",
+                "article": "https://en.wikipedia.org/wiki/Nairobi_Terminus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.4721841,
+                    -2.084257
+                ]
+            },
+            "properties": {
+                "name": "Emali railway station",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.82034,
+                    -1.29142
+                ]
+            },
+            "properties": {
+                "name": "Parliament Tower",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.133,
+                    -0.867
+                ]
+            },
+            "properties": {
+                "name": "Saba Saba",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.8591,
+                    -0.5685
+                ]
+            },
+            "properties": {
+                "name": "Ihithe",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.9069452,
+                    -1.3598093
+                ]
+            },
+            "properties": {
+                "name": "Syokimau railway station",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.681056,
+                    -1.3505597
+                ]
+            },
+            "properties": {
+                "name": "Ngong railway station",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.74332,
+                    -1.41342
+                ]
+            },
+            "properties": {
+                "name": "Ongata Rongai railway station",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.53665,
+                    -1.06025
+                ]
+            },
+            "properties": {
+                "name": "Maai Mahiu railway station",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.32077,
+                    -1.04515
+                ]
+            },
+            "properties": {
+                "name": "Suswa railway station",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.46072,
+                    -3.86032
+                ]
+            },
+            "properties": {
+                "name": "Mariakani railway station",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.92206,
+                    -3.6574
+                ]
+            },
+            "properties": {
+                "name": "Miasenyi railway station",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.57603,
+                    -3.40304
+                ]
+            },
+            "properties": {
+                "name": "Voi railway station",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.17071,
+                    -2.6904
+                ]
+            },
+            "properties": {
+                "name": "Mtito Andei railway station",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.93726,
+                    -2.40687
+                ]
+            },
+            "properties": {
+                "name": "Kibwezi railway station",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.99059,
+                    -1.46833
+                ]
+            },
+            "properties": {
+                "name": "Athi River railway station",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.874972,
+                    0.752917
+                ]
+            },
+            "properties": {
+                "name": "Q108936339",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.8224548,
+                    -1.2831698
+                ]
+            },
+            "properties": {
+                "name": "Nation Centre",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.80842,
+                    -1.2710817
+                ]
+            },
+            "properties": {
+                "name": "Nairobi GTC Office Tower",
+                "article": "https://en.wikipedia.org/wiki/Nairobi_GTC_Office_Tower"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.451916666,
+                    -0.398483333
+                ]
+            },
+            "properties": {
+                "name": "Q123510295",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.8769,
+                    -1.3177
+                ]
+            },
+            "properties": {
+                "name": "Q124523354",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.87109,
+                    -1.29813
+                ]
+            },
+            "properties": {
+                "name": "Makadara Station",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.69674,
+                    -1.29186
+                ]
+            },
+            "properties": {
+                "name": "Dagoreti Station",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.887,
+                    -1.30176
+                ]
+            },
+            "properties": {
+                "name": "Donholm Station",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.91938,
+                    -1.31462
+                ]
+            },
+            "properties": {
+                "name": "Embakasi Village Station",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.76971,
+                    -1.30575
+                ]
+            },
+            "properties": {
+                "name": "Kibera Station",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.89419,
+                    -1.31513
+                ]
+            },
+            "properties": {
+                "name": "Pipeline Station",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.66149,
+                    -1.24652
+                ]
+            },
+            "properties": {
+                "name": "Kikuyu Station",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.64281,
+                    -1.11499
+                ]
+            },
+            "properties": {
+                "name": "Limuru Station",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.97304,
+                    -1.48955
+                ]
+            },
+            "properties": {
+                "name": "Lukenya railway station",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.97543,
+                    -1.44909
+                ]
+            },
+            "properties": {
+                "name": "Athi River railway station",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.96094,
+                    -1.14995
+                ]
+            },
+            "properties": {
+                "name": "Ruiru railway station",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.89612,
+                    -1.25881
+                ]
+            },
+            "properties": {
+                "name": "Dandora Station",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.93709,
+                    -1.23487
+                ]
+            },
+            "properties": {
+                "name": "Mwiki Station",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.92351,
+                    -1.20941
+                ]
+            },
+            "properties": {
+                "name": "Githurai Station",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.91168,
+                    -1.18668
+                ]
+            },
+            "properties": {
+                "name": "Kahawa West Station",
+                "article": null
+            }
+        }
+    ]
+}

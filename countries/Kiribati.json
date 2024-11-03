@@ -1,0 +1,663 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.966666666,
+                    1.333333333
+                ]
+            },
+            "properties": {
+                "name": "South Tarawa",
+                "article": "https://en.wikipedia.org/wiki/South_Tarawa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -157.4,
+                    1.85
+                ]
+            },
+            "properties": {
+                "name": "Kiritimati",
+                "article": "https://en.wikipedia.org/wiki/Kiritimati"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.536944444,
+                    -0.859444444
+                ]
+            },
+            "properties": {
+                "name": "Banaba Island",
+                "article": "https://en.wikipedia.org/wiki/Banaba"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -154.933333333,
+                    -4.016666666
+                ]
+            },
+            "properties": {
+                "name": "Malden Island",
+                "article": "https://en.wikipedia.org/wiki/Malden_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    173.0,
+                    1.383333333
+                ]
+            },
+            "properties": {
+                "name": "Bikeman Island",
+                "article": "https://en.wikipedia.org/wiki/Bikeman_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    175.9775,
+                    -1.293611111
+                ]
+            },
+            "properties": {
+                "name": "Beru",
+                "article": "https://en.wikipedia.org/wiki/Beru_(atoll)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    173.633766666,
+                    0.191916666
+                ]
+            },
+            "properties": {
+                "name": "Aranuka",
+                "article": "https://en.wikipedia.org/wiki/Aranuka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    176.825833333,
+                    -2.639722222
+                ]
+            },
+            "properties": {
+                "name": "Arorae",
+                "article": "https://en.wikipedia.org/wiki/Arorae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -151.8192,
+                    -11.43
+                ]
+            },
+            "properties": {
+                "name": "Flint Island",
+                "article": "https://en.wikipedia.org/wiki/Flint_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.931607,
+                    1.356266
+                ]
+            },
+            "properties": {
+                "name": "Betio",
+                "article": "https://en.wikipedia.org/wiki/Betio"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.825833333,
+                    3.167777777
+                ]
+            },
+            "properties": {
+                "name": "Butaritari",
+                "article": "https://en.wikipedia.org/wiki/Butaritari"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    173.0,
+                    0.916666666
+                ]
+            },
+            "properties": {
+                "name": "Maiana",
+                "article": "https://en.wikipedia.org/wiki/Maiana"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    173.283333333,
+                    2.0
+                ]
+            },
+            "properties": {
+                "name": "Marakei",
+                "article": "https://en.wikipedia.org/wiki/Marakei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -160.377777777,
+                    4.683333333
+                ]
+            },
+            "properties": {
+                "name": "Teraina",
+                "article": "https://en.wikipedia.org/wiki/Teraina"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    175.983333333,
+                    -2.5
+                ]
+            },
+            "properties": {
+                "name": "Tamana",
+                "article": "https://en.wikipedia.org/wiki/Tamana,_Kiribati"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -152.383333333,
+                    -10.1
+                ]
+            },
+            "properties": {
+                "name": "Vostok Island",
+                "article": "https://en.wikipedia.org/wiki/Vostok_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    173.638,
+                    0.155
+                ]
+            },
+            "properties": {
+                "name": "Buariki",
+                "article": "https://en.wikipedia.org/wiki/Buariki_(Aranuka)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -172.166666666,
+                    -4.5
+                ]
+            },
+            "properties": {
+                "name": "Orona",
+                "article": "https://en.wikipedia.org/wiki/Orona"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -174.517,
+                    -4.68
+                ]
+            },
+            "properties": {
+                "name": "Nikumaroro",
+                "article": "https://en.wikipedia.org/wiki/Nikumaroro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -174.116666666,
+                    -3.6
+                ]
+            },
+            "properties": {
+                "name": "McKean Island",
+                "article": "https://en.wikipedia.org/wiki/McKean_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.333333333,
+                    -0.666666666
+                ]
+            },
+            "properties": {
+                "name": "Nonouti",
+                "article": "https://en.wikipedia.org/wiki/Nonouti"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    176.466666666,
+                    -1.35
+                ]
+            },
+            "properties": {
+                "name": "Nikunau",
+                "article": "https://en.wikipedia.org/wiki/Nikunau"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -170.716666666,
+                    -3.716666666
+                ]
+            },
+            "properties": {
+                "name": "Rawaki Island",
+                "article": "https://en.wikipedia.org/wiki/Rawaki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    173.4,
+                    0.216666666
+                ]
+            },
+            "properties": {
+                "name": "Kuria",
+                "article": "https://en.wikipedia.org/wiki/Kuria_(atoll)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    173.072605555,
+                    1.436055555
+                ]
+            },
+            "properties": {
+                "name": "Biketawa",
+                "article": "https://en.wikipedia.org/wiki/Biketawa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.98317,
+                    3.344466
+                ]
+            },
+            "properties": {
+                "name": "Aonbike",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.98364,
+                    3.34594
+                ]
+            },
+            "properties": {
+                "name": "Aonbike",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    173.57,
+                    0.17
+                ]
+            },
+            "properties": {
+                "name": "Takaeang",
+                "article": "https://en.wikipedia.org/wiki/Takaeang"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.975338,
+                    3.321042
+                ]
+            },
+            "properties": {
+                "name": "Kiebu",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    173.0,
+                    3.38333
+                ]
+            },
+            "properties": {
+                "name": "Q3280825",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.968235,
+                    3.294768
+                ]
+            },
+            "properties": {
+                "name": "Onne",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.981,
+                    3.33748
+                ]
+            },
+            "properties": {
+                "name": "Tebua Tarawa",
+                "article": "https://en.wikipedia.org/wiki/Tebua_Tarawa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.9813,
+                    3.33768
+                ]
+            },
+            "properties": {
+                "name": "Tebua Tarawa",
+                "article": "https://en.wikipedia.org/wiki/Tebua_Tarawa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    173.11818056,
+                    1.400575
+                ]
+            },
+            "properties": {
+                "name": "Abatao",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    173.11801,
+                    1.40534
+                ]
+            },
+            "properties": {
+                "name": "Abatao",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.8,
+                    1.35
+                ]
+            },
+            "properties": {
+                "name": "Battle of Drummond's Island",
+                "article": "https://en.wikipedia.org/wiki/Battle_of_Drummond%27s_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.4404,
+                    -0.64766
+                ]
+            },
+            "properties": {
+                "name": "Autukia, Nonouti",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.87634,
+                    -1.35643
+                ]
+            },
+            "properties": {
+                "name": "Bangai, Tabiteuea",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    173.8465,
+                    0.34332
+                ]
+            },
+            "properties": {
+                "name": "Bike",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.68409,
+                    3.26748
+                ]
+            },
+            "properties": {
+                "name": "Bikati",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.71489,
+                    -1.15366
+                ]
+            },
+            "properties": {
+                "name": "Aanikai",
+                "article": "https://en.wikipedia.org/wiki/Aanikai"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    173.08702,
+                    1.36398
+                ]
+            },
+            "properties": {
+                "name": "Eita, Tarawa",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.783333333,
+                    -1.333333333
+                ]
+            },
+            "properties": {
+                "name": "Kabuna",
+                "article": "https://en.wikipedia.org/wiki/Kabuna,_Kiribati"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    175.0719,
+                    -1.50182
+                ]
+            },
+            "properties": {
+                "name": "Katabanga",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.90296,
+                    1.9527
+                ]
+            },
+            "properties": {
+                "name": "Iaia",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.44984,
+                    -0.66483
+                ]
+            },
+            "properties": {
+                "name": "Q27221036",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    173.01119,
+                    1.51611
+                ]
+            },
+            "properties": {
+                "name": "Notoue",
+                "article": null
+            }
+        }
+    ]
+}

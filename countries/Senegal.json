@@ -1,0 +1,2357 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.27075,
+                    12.586111111
+                ]
+            },
+            "properties": {
+                "name": "Ziguinchor",
+                "article": "https://en.wikipedia.org/wiki/Ziguinchor"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -17.398333333,
+                    14.666944444
+                ]
+            },
+            "properties": {
+                "name": "Gorée",
+                "article": "https://en.wikipedia.org/wiki/Gor%C3%A9e"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.5,
+                    16.033333333
+                ]
+            },
+            "properties": {
+                "name": "Saint-Louis",
+                "article": "https://en.wikipedia.org/wiki/Saint-Louis,_Senegal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.216666666,
+                    15.616666666
+                ]
+            },
+            "properties": {
+                "name": "Louga",
+                "article": "https://en.wikipedia.org/wiki/Louga"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.230138888,
+                    12.809638888
+                ]
+            },
+            "properties": {
+                "name": "Bignona",
+                "article": "https://en.wikipedia.org/wiki/Bignona"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.823378,
+                    14.152465
+                ]
+            },
+            "properties": {
+                "name": "Fadiouth",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.7,
+                    13.833333333
+                ]
+            },
+            "properties": {
+                "name": "Île de Guior",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -17.47108,
+                    14.65374
+                ]
+            },
+            "properties": {
+                "name": "Magdalen Islands",
+                "article": "https://en.wikipedia.org/wiki/%C3%8Eles_de_la_Madeleine_(Senegal)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.6417,
+                    13.6308
+                ]
+            },
+            "properties": {
+                "name": "Q292474",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.030833333,
+                    14.161388888
+                ]
+            },
+            "properties": {
+                "name": "Kahone",
+                "article": "https://en.wikipedia.org/wiki/Kahone"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.416666666,
+                    14.316666666
+                ]
+            },
+            "properties": {
+                "name": "Fatick",
+                "article": "https://en.wikipedia.org/wiki/Fatick"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -17.47722222,
+                    14.76861111
+                ]
+            },
+            "properties": {
+                "name": "Q432518",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -17.472222,
+                    14.655833
+                ]
+            },
+            "properties": {
+                "name": "Q520717",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -12.752777777,
+                    12.882222222
+                ]
+            },
+            "properties": {
+                "name": "Assirik",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -12.18075,
+                    12.555583333
+                ]
+            },
+            "properties": {
+                "name": "Kédougou",
+                "article": "https://en.wikipedia.org/wiki/K%C3%A9dougou"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.6,
+                    16.48333333
+                ]
+            },
+            "properties": {
+                "name": "Dagana",
+                "article": "https://en.wikipedia.org/wiki/Dagana,_Senegal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.883333333,
+                    14.866666666
+                ]
+            },
+            "properties": {
+                "name": "Touba",
+                "article": "https://en.wikipedia.org/wiki/Touba"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.55694444,
+                    12.70805556
+                ]
+            },
+            "properties": {
+                "name": "Sédhiou",
+                "article": "https://en.wikipedia.org/wiki/S%C3%A9dhiou"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.661083333,
+                    14.185611111
+                ]
+            },
+            "properties": {
+                "name": "Diofior",
+                "article": "https://en.wikipedia.org/wiki/Diofior"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.545388888,
+                    12.488555555
+                ]
+            },
+            "properties": {
+                "name": "Oussouye",
+                "article": "https://en.wikipedia.org/wiki/Oussouye"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -12.458333333,
+                    14.904166666
+                ]
+            },
+            "properties": {
+                "name": "Bakel",
+                "article": "https://en.wikipedia.org/wiki/Bakel,_Senegal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -17.141944444,
+                    14.742777777
+                ]
+            },
+            "properties": {
+                "name": "Sébikotane",
+                "article": "https://en.wikipedia.org/wiki/S%C3%A9bikhotane"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.076388888,
+                    14.138888888
+                ]
+            },
+            "properties": {
+                "name": "Kaolack",
+                "article": "https://en.wikipedia.org/wiki/Kaolack"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.07259,
+                    14.15197
+                ]
+            },
+            "properties": {
+                "name": "Kaolack",
+                "article": "https://en.wikipedia.org/wiki/Kaolack"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.231388888,
+                    14.655
+                ]
+            },
+            "properties": {
+                "name": "Diourbel",
+                "article": "https://en.wikipedia.org/wiki/Diourbel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.907777777,
+                    14.790277777
+                ]
+            },
+            "properties": {
+                "name": "Mbacké",
+                "article": "https://en.wikipedia.org/wiki/Mback%C3%A9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -13.667222,
+                    13.768889
+                ]
+            },
+            "properties": {
+                "name": "Tambacounda",
+                "article": "https://en.wikipedia.org/wiki/Tambacounda"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -14.940833333,
+                    12.895833333
+                ]
+            },
+            "properties": {
+                "name": "Kolda",
+                "article": "https://en.wikipedia.org/wiki/Kolda"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -14.116666666,
+                    13.15
+                ]
+            },
+            "properties": {
+                "name": "Vélingara",
+                "article": "https://en.wikipedia.org/wiki/V%C3%A9lingara"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -17.272305555,
+                    14.714027777
+                ]
+            },
+            "properties": {
+                "name": "Rufisque",
+                "article": "https://en.wikipedia.org/wiki/Rufisque"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.966666666,
+                    14.416666666
+                ]
+            },
+            "properties": {
+                "name": "M'Bour",
+                "article": "https://en.wikipedia.org/wiki/M%27Bour"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -14.960555555,
+                    16.648888888
+                ]
+            },
+            "properties": {
+                "name": "Podor",
+                "article": "https://en.wikipedia.org/wiki/Podor"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.504438888,
+                    16.027780555
+                ]
+            },
+            "properties": {
+                "name": "Island of Saint-Louis",
+                "article": "https://en.wikipedia.org/wiki/Island_of_Saint-Louis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -13.33333333,
+                    15.61666667
+                ]
+            },
+            "properties": {
+                "name": "Matam",
+                "article": "https://en.wikipedia.org/wiki/Matam,_Senegal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.693333333,
+                    16.466111111
+                ]
+            },
+            "properties": {
+                "name": "Richard Toll",
+                "article": "https://en.wikipedia.org/wiki/Richard_Toll"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.693333333,
+                    16.466111111
+                ]
+            },
+            "properties": {
+                "name": "Richard Toll",
+                "article": "https://en.wikipedia.org/wiki/Richard_Toll"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.816666666,
+                    14.95
+                ]
+            },
+            "properties": {
+                "name": "Tivaouane",
+                "article": "https://en.wikipedia.org/wiki/Tivaouane"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.666666666,
+                    14.05
+                ]
+            },
+            "properties": {
+                "name": "Mar Lodj",
+                "article": "https://en.wikipedia.org/wiki/Mar_Lodj"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -17.514439,
+                    14.756125
+                ]
+            },
+            "properties": {
+                "name": "Ngor",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -17.513611111,
+                    14.756111111
+                ]
+            },
+            "properties": {
+                "name": "Ngor",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.843055555,
+                    14.164166666
+                ]
+            },
+            "properties": {
+                "name": "Joal-Fadiouth",
+                "article": "https://en.wikipedia.org/wiki/Joal-Fadiouth"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.833333333,
+                    16.25
+                ]
+            },
+            "properties": {
+                "name": "Lac de Guiers",
+                "article": "https://en.wikipedia.org/wiki/Lac_de_Guiers"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -17.376013888,
+                    14.782819444
+                ]
+            },
+            "properties": {
+                "name": "Guédiawaye",
+                "article": "https://en.wikipedia.org/wiki/Gu%C3%A9diawaye"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.691,
+                    14.765305555
+                ]
+            },
+            "properties": {
+                "name": "Khombole",
+                "article": "https://en.wikipedia.org/wiki/Khombole"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -13.3204,
+                    15.6015
+                ]
+            },
+            "properties": {
+                "name": "Ouro Sogui",
+                "article": "https://en.wikipedia.org/wiki/Ouro_Sogui"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -17.0125,
+                    14.438333333
+                ]
+            },
+            "properties": {
+                "name": "Saly",
+                "article": "https://en.wikipedia.org/wiki/Saly"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.45,
+                    14.7
+                ]
+            },
+            "properties": {
+                "name": "Bambey",
+                "article": "https://en.wikipedia.org/wiki/Bambey"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -17.230555555,
+                    14.694444444
+                ]
+            },
+            "properties": {
+                "name": "Bargny",
+                "article": "https://en.wikipedia.org/wiki/Bargny,_Senegal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.7,
+                    13.05
+                ]
+            },
+            "properties": {
+                "name": "Bounkiling",
+                "article": "https://en.wikipedia.org/wiki/Bounkiling"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.633333333,
+                    15.116666666
+                ]
+            },
+            "properties": {
+                "name": "Meckhe",
+                "article": "https://en.wikipedia.org/wiki/Meckhe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.478333333,
+                    15.350833333
+                ]
+            },
+            "properties": {
+                "name": "Dahra",
+                "article": "https://en.wikipedia.org/wiki/Dahra"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -17.184166666,
+                    14.719861111
+                ]
+            },
+            "properties": {
+                "name": "Diamniadio",
+                "article": "https://en.wikipedia.org/wiki/Diamniadio"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -14.1609,
+                    12.9134
+                ]
+            },
+            "properties": {
+                "name": "Diaobé-Kabendou",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.7525,
+                    12.574444444
+                ]
+            },
+            "properties": {
+                "name": "Diogue",
+                "article": "https://en.wikipedia.org/wiki/Diogue"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.466555555,
+                    14.127972222
+                ]
+            },
+            "properties": {
+                "name": "Foundiougne",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.774638888,
+                    13.744972222
+                ]
+            },
+            "properties": {
+                "name": "Nioro du Rip",
+                "article": "https://en.wikipedia.org/wiki/Nioro_du_Rip"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.266666666,
+                    14.233333333
+                ]
+            },
+            "properties": {
+                "name": "Gandiaye",
+                "article": "https://en.wikipedia.org/wiki/Gandiaye"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -17.433405,
+                    14.675799
+                ]
+            },
+            "properties": {
+                "name": "Dakar station",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.95,
+                    14.266666666
+                ]
+            },
+            "properties": {
+                "name": "Guinguinéo",
+                "article": "https://en.wikipedia.org/wiki/Guinguin%C3%A9o"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -14.80527778,
+                    13.96666667
+                ]
+            },
+            "properties": {
+                "name": "Koungheul",
+                "article": "https://en.wikipedia.org/wiki/Koungheul"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.066666666,
+                    14.5
+                ]
+            },
+            "properties": {
+                "name": "Gossas",
+                "article": "https://en.wikipedia.org/wiki/Gossas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -12.71666667,
+                    14.18333333
+                ]
+            },
+            "properties": {
+                "name": "Goudiry",
+                "article": "https://en.wikipedia.org/wiki/Goudiry"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.87222,
+                    12.57778
+                ]
+            },
+            "properties": {
+                "name": "Goudomp",
+                "article": "https://en.wikipedia.org/wiki/Goudomp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -13.017,
+                    15.35
+                ]
+            },
+            "properties": {
+                "name": "Hamady Ounaré",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -13.16666667,
+                    15.48333333
+                ]
+            },
+            "properties": {
+                "name": "Kanel",
+                "article": "https://en.wikipedia.org/wiki/Kanel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.4269,
+                    13.6078
+                ]
+            },
+            "properties": {
+                "name": "Karang Poste",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -17.12111111,
+                    14.91916667
+                ]
+            },
+            "properties": {
+                "name": "Kayar",
+                "article": "https://en.wikipedia.org/wiki/Kayar,_Senegal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.056972222,
+                    13.847972222
+                ]
+            },
+            "properties": {
+                "name": "Keur Madiabel",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -12.210638888,
+                    14.457444444
+                ]
+            },
+            "properties": {
+                "name": "Kidira",
+                "article": "https://en.wikipedia.org/wiki/Kidira"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -14.56666667,
+                    13.98333333
+                ]
+            },
+            "properties": {
+                "name": "Koumpentoum",
+                "article": "https://en.wikipedia.org/wiki/Koumpentoum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -14.08333333,
+                    12.93333333
+                ]
+            },
+            "properties": {
+                "name": "Kounkané",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.433333333,
+                    15.366666666
+                ]
+            },
+            "properties": {
+                "name": "Kébémer",
+                "article": "https://en.wikipedia.org/wiki/K%C3%A9b%C3%A9mer"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.21666667,
+                    15.38333333
+                ]
+            },
+            "properties": {
+                "name": "Linguère",
+                "article": "https://en.wikipedia.org/wiki/Lingu%C3%A8re"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.21666667,
+                    15.38333333
+                ]
+            },
+            "properties": {
+                "name": "Linguère",
+                "article": "https://en.wikipedia.org/wiki/Lingu%C3%A8re"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.6427,
+                    13.0552
+                ]
+            },
+            "properties": {
+                "name": "Madina Wandifa",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.29444444,
+                    14.08833333
+                ]
+            },
+            "properties": {
+                "name": "Malem Hodar",
+                "article": "https://en.wikipedia.org/wiki/Malem_Hodar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -17.337,
+                    14.799472222
+                ]
+            },
+            "properties": {
+                "name": "Malika",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -17.502138888,
+                    14.723694444
+                ]
+            },
+            "properties": {
+                "name": "Deux Mamelles",
+                "article": "https://en.wikipedia.org/wiki/Deux_Mamelles"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.980888888,
+                    12.835361111
+                ]
+            },
+            "properties": {
+                "name": "Marsassoum",
+                "article": "https://en.wikipedia.org/wiki/Marsassoum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.9,
+                    15.15
+                ]
+            },
+            "properties": {
+                "name": "Mboro",
+                "article": "https://en.wikipedia.org/wiki/Mboro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -14.714527777,
+                    13.292861111
+                ]
+            },
+            "properties": {
+                "name": "Médina Yoro Foulah",
+                "article": "https://en.wikipedia.org/wiki/M%C3%A9dina_Yoro_Foulah"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -14.646944444,
+                    16.513055555
+                ]
+            },
+            "properties": {
+                "name": "Ndioum",
+                "article": "https://en.wikipedia.org/wiki/Ndioum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.927583333,
+                    13.917472222
+                ]
+            },
+            "properties": {
+                "name": "Ndofane",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -17.004333333,
+                    14.511777777
+                ]
+            },
+            "properties": {
+                "name": "Nguékhokh",
+                "article": "https://en.wikipedia.org/wiki/Ngu%C3%A9khokh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.257138888,
+                    13.985388888
+                ]
+            },
+            "properties": {
+                "name": "Passy",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -17.061305555,
+                    14.770305555
+                ]
+            },
+            "properties": {
+                "name": "Pout",
+                "article": "https://en.wikipedia.org/wiki/Pout,_Senegal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.139777777,
+                    16.279305555
+                ]
+            },
+            "properties": {
+                "name": "Ross Béthio",
+                "article": "https://en.wikipedia.org/wiki/Ross_B%C3%A9thio"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -12.81666667,
+                    12.63333333
+                ]
+            },
+            "properties": {
+                "name": "Salemata",
+                "article": "https://en.wikipedia.org/wiki/Sal%C3%A9mata"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -17.225555555,
+                    14.776805555
+                ]
+            },
+            "properties": {
+                "name": "Sangalkam",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -11.75,
+                    12.83333333
+                ]
+            },
+            "properties": {
+                "name": "Saraya",
+                "article": "https://en.wikipedia.org/wiki/Saraya,_Senegal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -11.75,
+                    12.83333333
+                ]
+            },
+            "properties": {
+                "name": "Saraya",
+                "article": "https://en.wikipedia.org/wiki/Saraya,_Senegal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -13.1366,
+                    15.3688
+                ]
+            },
+            "properties": {
+                "name": "Sinthiou Bamambé-Banadji",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.37,
+                    13.878
+                ]
+            },
+            "properties": {
+                "name": "Sokone",
+                "article": "https://en.wikipedia.org/wiki/Sokone"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.483,
+                    14.067
+                ]
+            },
+            "properties": {
+                "name": "Soum",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.706138888,
+                    14.420861111
+                ]
+            },
+            "properties": {
+                "name": "Thiadiaye",
+                "article": "https://en.wikipedia.org/wiki/Thiadiaye"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -13.591638888,
+                    15.965861111
+                ]
+            },
+            "properties": {
+                "name": "Thilogne",
+                "article": "https://en.wikipedia.org/wiki/Thilogne"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -17.3619,
+                    14.7692
+                ]
+            },
+            "properties": {
+                "name": "Q3572238",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -17.352527777,
+                    14.776277777
+                ]
+            },
+            "properties": {
+                "name": "Q3572236",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.16666667,
+                    14.18333333
+                ]
+            },
+            "properties": {
+                "name": "Lydiane",
+                "article": "https://en.wikipedia.org/wiki/Lydiane"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.40575,
+                    13.82975
+                ]
+            },
+            "properties": {
+                "name": "Nganda",
+                "article": "https://en.wikipedia.org/wiki/Nganda"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.23173,
+                    14.65993
+                ]
+            },
+            "properties": {
+                "name": "Diourbel",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -13.35,
+                    15.9333
+                ]
+            },
+            "properties": {
+                "name": "Nguidjilone",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -17.4338,
+                    14.6652
+                ]
+            },
+            "properties": {
+                "name": "Primature",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -17.279277777,
+                    14.768833333
+                ]
+            },
+            "properties": {
+                "name": "Jaxaay-Parcelles-Niakoul Rab",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.1623,
+                    14.1889
+                ]
+            },
+            "properties": {
+                "name": "Sibassor",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -12.543555555,
+                    12.3735
+                ]
+            },
+            "properties": {
+                "name": "Nepen Diakha",
+                "article": "https://en.wikipedia.org/wiki/Nepen_Diakha"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.595,
+                    13.997
+                ]
+            },
+            "properties": {
+                "name": "Fambine",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.117222222,
+                    15.673055555
+                ]
+            },
+            "properties": {
+                "name": "Niomré",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.877305555,
+                    16.265222222
+                ]
+            },
+            "properties": {
+                "name": "Nder resistance",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -11.5204,
+                    12.4528
+                ]
+            },
+            "properties": {
+                "name": "Konkoni",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.5,
+                    15.966666666
+                ]
+            },
+            "properties": {
+                "name": "Île de Babagueye",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.183333333,
+                    16.516666666
+                ]
+            },
+            "properties": {
+                "name": "Île de Diakal",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.661944444,
+                    13.679166666
+                ]
+            },
+            "properties": {
+                "name": "Île de Diamanio",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.733333333,
+                    14.016666666
+                ]
+            },
+            "properties": {
+                "name": "Île de Diatanou",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.475,
+                    16.018611111
+                ]
+            },
+            "properties": {
+                "name": "Île de Diouk",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.733333333,
+                    13.95
+                ]
+            },
+            "properties": {
+                "name": "Île de Guissanor",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.716666666,
+                    12.533333333
+                ]
+            },
+            "properties": {
+                "name": "Île de Karabane",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.166666666,
+                    14.133333333
+                ]
+            },
+            "properties": {
+                "name": "Île de Kousmar",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.770277777,
+                    12.666388888
+                ]
+            },
+            "properties": {
+                "name": "Île de la Goêlette",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.7,
+                    14.016666666
+                ]
+            },
+            "properties": {
+                "name": "Île de Mar",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.666666666,
+                    13.85
+                ]
+            },
+            "properties": {
+                "name": "Île de Mbill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.616666666,
+                    13.8
+                ]
+            },
+            "properties": {
+                "name": "Île de Poutaké",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.483333333,
+                    16.05
+                ]
+            },
+            "properties": {
+                "name": "Île de Roup",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.5,
+                    15.95
+                ]
+            },
+            "properties": {
+                "name": "Île de Safal",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.503888888,
+                    16.059166666
+                ]
+            },
+            "properties": {
+                "name": "Île de Salsal",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.483333333,
+                    16.0
+                ]
+            },
+            "properties": {
+                "name": "Île de Sor",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.666666666,
+                    14.016666666
+                ]
+            },
+            "properties": {
+                "name": "Île de Soultouk",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.349722222,
+                    16.300833333
+                ]
+            },
+            "properties": {
+                "name": "Île de Tieng",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.816666666,
+                    14.133333333
+                ]
+            },
+            "properties": {
+                "name": "Île de Tine Dine",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -17.477222222,
+                    14.768888888
+                ]
+            },
+            "properties": {
+                "name": "Île de Yoff",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.664444444,
+                    13.649166666
+                ]
+            },
+            "properties": {
+                "name": "Île des Oiseaux",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.75,
+                    12.6
+                ]
+            },
+            "properties": {
+                "name": "Île Djogué",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.550277777,
+                    12.733333333
+                ]
+            },
+            "properties": {
+                "name": "Île du Diable",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -17.46771,
+                    14.65046
+                ]
+            },
+            "properties": {
+                "name": "Île Lougne",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.683333333,
+                    13.933333333
+                ]
+            },
+            "properties": {
+                "name": "Île Oudioubala",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -13.358611111,
+                    15.738888888
+                ]
+            },
+            "properties": {
+                "name": "Kaoudji",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -13.129444444,
+                    15.553333333
+                ]
+            },
+            "properties": {
+                "name": "Langladji",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -13.306388888,
+                    15.663888888
+                ]
+            },
+            "properties": {
+                "name": "Q49307250",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.2,
+                    16.45
+                ]
+            },
+            "properties": {
+                "name": "Q49313873",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -13.186111111,
+                    15.531388888
+                ]
+            },
+            "properties": {
+                "name": "Q49315333",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.68806,
+                    15.46245
+                ]
+            },
+            "properties": {
+                "name": "Q49625782",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -17.4,
+                    14.77
+                ]
+            },
+            "properties": {
+                "name": "Cap-Vert (volcano)",
+                "article": "https://en.wikipedia.org/wiki/Cap-Vert_(volcano)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -12.220788888,
+                    14.455769444
+                ]
+            },
+            "properties": {
+                "name": "Q56293977",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.497916666,
+                    16.024833333
+                ]
+            },
+            "properties": {
+                "name": "Gare de Saint-Louis, Sénégal",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.929361111,
+                    14.797416666
+                ]
+            },
+            "properties": {
+                "name": "Gare de Thiès",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -17.44018,
+                    14.668732
+                ]
+            },
+            "properties": {
+                "name": "Immeuble Kébé",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.50187,
+                    15.96889
+                ]
+            },
+            "properties": {
+                "name": "Q111316774",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -17.313333333,
+                    14.8025
+                ]
+            },
+            "properties": {
+                "name": "Mbeubeuss Landfill",
+                "article": "https://en.wikipedia.org/wiki/Mbeubeuss_Landfill"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.765,
+                    12.797777777
+                ]
+            },
+            "properties": {
+                "name": "Îles du Bliss",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -17.19843,
+                    14.71607
+                ]
+            },
+            "properties": {
+                "name": "Diamniadio",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -17.44165,
+                    14.70034
+                ]
+            },
+            "properties": {
+                "name": "Q117424644",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -17.43207,
+                    14.72209
+                ]
+            },
+            "properties": {
+                "name": "Q117424651",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -17.419,
+                    14.73425
+                ]
+            },
+            "properties": {
+                "name": "Dalifort Station",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -17.39168,
+                    14.74986
+                ]
+            },
+            "properties": {
+                "name": "Q117424685",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -17.40357,
+                    14.73969
+                ]
+            },
+            "properties": {
+                "name": "Q117424707",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -17.38031,
+                    14.75877
+                ]
+            },
+            "properties": {
+                "name": "Q117424749",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -17.3565,
+                    14.76492
+                ]
+            },
+            "properties": {
+                "name": "Q117424837",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -17.31378,
+                    14.74393
+                ]
+            },
+            "properties": {
+                "name": "Q117424902",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -17.28397,
+                    14.72317
+                ]
+            },
+            "properties": {
+                "name": "Q117425059",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -17.27004,
+                    14.71598
+                ]
+            },
+            "properties": {
+                "name": "Q117425077",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -17.22919,
+                    14.69818
+                ]
+            },
+            "properties": {
+                "name": "Q117425101",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -17.43197,
+                    14.65215
+                ]
+            },
+            "properties": {
+                "name": "Former palace of justice of Dakar",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -17.309472222,
+                    14.784416666
+                ]
+            },
+            "properties": {
+                "name": "Q125698430",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.926463051,
+                    14.794722168
+                ]
+            },
+            "properties": {
+                "name": "Rue Sans Soleil",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.642652,
+                    13.001151
+                ]
+            },
+            "properties": {
+                "name": "Kandiounkou",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -17.111666666,
+                    14.554722222
+                ]
+            },
+            "properties": {
+                "name": "Basilique Notre-Dame de la Délivrande de Popenguine",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -17.300833333,
+                    14.771583333
+                ]
+            },
+            "properties": {
+                "name": "Q129871284",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -17.282416666,
+                    14.7695
+                ]
+            },
+            "properties": {
+                "name": "Q129909528",
+                "article": null
+            }
+        }
+    ]
+}

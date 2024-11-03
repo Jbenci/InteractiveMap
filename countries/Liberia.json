@@ -1,0 +1,1419 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10.05,
+                    5.883333333
+                ]
+            },
+            "properties": {
+                "name": "Buchanan",
+                "article": "https://en.wikipedia.org/wiki/Buchanan,_Liberia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10.04472,
+                    5.88109
+                ]
+            },
+            "properties": {
+                "name": "Buchanan",
+                "article": "https://en.wikipedia.org/wiki/Buchanan,_Liberia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10.351666666,
+                    6.53
+                ]
+            },
+            "properties": {
+                "name": "Kakata",
+                "article": "https://en.wikipedia.org/wiki/Kakata"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10.347222222,
+                    6.275
+                ]
+            },
+            "properties": {
+                "name": "Harbel",
+                "article": "https://en.wikipedia.org/wiki/Harbel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10.609722222,
+                    6.445555555
+                ]
+            },
+            "properties": {
+                "name": "Bensonville",
+                "article": "https://en.wikipedia.org/wiki/Bensonville"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10.32944444,
+                    6.82305556
+                ]
+            },
+            "properties": {
+                "name": "Q891957",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.581666666,
+                    5.469722222
+                ]
+            },
+            "properties": {
+                "name": "River Cess",
+                "article": "https://en.wikipedia.org/wiki/River_Cess"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -11.36555556,
+                    6.7275
+                ]
+            },
+            "properties": {
+                "name": "Cape Mount",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -11.3524,
+                    6.72402
+                ]
+            },
+            "properties": {
+                "name": "Cape Mount",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -11.251111111,
+                    6.735277777
+                ]
+            },
+            "properties": {
+                "name": "Lake Piso",
+                "article": "https://en.wikipedia.org/wiki/Lake_Piso"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.925,
+                    8.145833333
+                ]
+            },
+            "properties": {
+                "name": "Mount Wuteve",
+                "article": "https://en.wikipedia.org/wiki/Mount_Wuteve"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10.783333333,
+                    6.3575
+                ]
+            },
+            "properties": {
+                "name": "Bushrod Island",
+                "article": "https://en.wikipedia.org/wiki/Bushrod_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.54972,
+                    5.77333
+                ]
+            },
+            "properties": {
+                "name": "Galio",
+                "article": "https://en.wikipedia.org/wiki/Galio,_Liberia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10.11666667,
+                    8.2
+                ]
+            },
+            "properties": {
+                "name": "Boawolohun",
+                "article": "https://en.wikipedia.org/wiki/Boawolohun"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.9433,
+                    7.2467
+                ]
+            },
+            "properties": {
+                "name": "Mount Kpaya",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.9208,
+                    6.5392
+                ]
+            },
+            "properties": {
+                "name": "Mount Kuobahn",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.6,
+                    7.666666666
+                ]
+            },
+            "properties": {
+                "name": "Mount Maatohn",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -11.319166666,
+                    6.743611111
+                ]
+            },
+            "properties": {
+                "name": "Masating Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.8236,
+                    7.3017
+                ]
+            },
+            "properties": {
+                "name": "Q27459271",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6055,
+                    4.83691
+                ]
+            },
+            "properties": {
+                "name": "Nachelo Mountain",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.6,
+                    7.633333333
+                ]
+            },
+            "properties": {
+                "name": "Mount Nino",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10.716666666,
+                    6.266666666
+                ]
+            },
+            "properties": {
+                "name": "Pagos Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.483333333,
+                    6.860277777
+                ]
+            },
+            "properties": {
+                "name": "Pifgi Mountain",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.816666666,
+                    6.25
+                ]
+            },
+            "properties": {
+                "name": "Plembe Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10.8,
+                    6.316666666
+                ]
+            },
+            "properties": {
+                "name": "Q27459316",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10.802,
+                    6.32
+                ]
+            },
+            "properties": {
+                "name": "Providence Island",
+                "article": "https://en.wikipedia.org/wiki/Providence_Island,_Liberia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4617,
+                    7.4283
+                ]
+            },
+            "properties": {
+                "name": "Mount Shra",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.6794,
+                    7.3119
+                ]
+            },
+            "properties": {
+                "name": "Mountain Fo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.061944444,
+                    6.438055555
+                ]
+            },
+            "properties": {
+                "name": "Swa Mountain",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.74819,
+                    4.78431
+                ]
+            },
+            "properties": {
+                "name": "Swe Mountain",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10.1292,
+                    6.1683
+                ]
+            },
+            "properties": {
+                "name": "Q27459357",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -11.066666666,
+                    6.6
+                ]
+            },
+            "properties": {
+                "name": "Q27459378",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.3008,
+                    6.3325
+                ]
+            },
+            "properties": {
+                "name": "Mount Timbo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10.6,
+                    6.683333333
+                ]
+            },
+            "properties": {
+                "name": "Ting Nyajo Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10.6,
+                    6.7
+                ]
+            },
+            "properties": {
+                "name": "Ting Mamu Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.671388888,
+                    7.450277777
+                ]
+            },
+            "properties": {
+                "name": "Mountain Tokade",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.916666666,
+                    8.166666666
+                ]
+            },
+            "properties": {
+                "name": "Mount Tokpa",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.8,
+                    6.883333333
+                ]
+            },
+            "properties": {
+                "name": "Mount Tomfa",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.683333333,
+                    7.6
+                ]
+            },
+            "properties": {
+                "name": "Mount Tombu",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.9017,
+                    6.8008
+                ]
+            },
+            "properties": {
+                "name": "Mount Tonzoro",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.95,
+                    6.516666666
+                ]
+            },
+            "properties": {
+                "name": "Mount Tomla",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.116666666,
+                    6.616666666
+                ]
+            },
+            "properties": {
+                "name": "Mount Tongbwe",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.1832,
+                    5.7431
+                ]
+            },
+            "properties": {
+                "name": "Mount Woau",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.7342,
+                    7.42
+                ]
+            },
+            "properties": {
+                "name": "Mount Yidoinye",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.616666666,
+                    7.983333333
+                ]
+            },
+            "properties": {
+                "name": "Zablo Mountain",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.0167,
+                    6.6858
+                ]
+            },
+            "properties": {
+                "name": "Mount Zeintohn",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.634166666,
+                    7.564444444
+                ]
+            },
+            "properties": {
+                "name": "Mountain Yueliton",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10.0014,
+                    6.5303
+                ]
+            },
+            "properties": {
+                "name": "Vox Mountain",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.65,
+                    8.483333333
+                ]
+            },
+            "properties": {
+                "name": "Q27459448",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.58139,
+                    8.07722
+                ]
+            },
+            "properties": {
+                "name": "Zinigala Mountain",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.3517,
+                    6.5858
+                ]
+            },
+            "properties": {
+                "name": "Mount Kpa",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10.804722222,
+                    6.310555555
+                ]
+            },
+            "properties": {
+                "name": "Monrovia",
+                "article": "https://en.wikipedia.org/wiki/Monrovia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.503888888,
+                    7.129722222
+                ]
+            },
+            "properties": {
+                "name": "Faryea Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.426111111,
+                    7.299722222
+                ]
+            },
+            "properties": {
+                "name": "Abironda Mountain",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.1008,
+                    6.4492
+                ]
+            },
+            "properties": {
+                "name": "Mount Bai",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.016666666,
+                    6.516666666
+                ]
+            },
+            "properties": {
+                "name": "Mount Baa",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.935,
+                    8.1175
+                ]
+            },
+            "properties": {
+                "name": "Mount Balagizi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.9675,
+                    6.5017
+                ]
+            },
+            "properties": {
+                "name": "Mount Baple",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.670833333,
+                    8.390555555
+                ]
+            },
+            "properties": {
+                "name": "Balibali Mountain",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.9517,
+                    6.0492
+                ]
+            },
+            "properties": {
+                "name": "Q27466508",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.6058,
+                    7.4
+                ]
+            },
+            "properties": {
+                "name": "Mountain Bele",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.6619,
+                    7.5214
+                ]
+            },
+            "properties": {
+                "name": "Mountain Gleton",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10.566666666,
+                    6.8
+                ]
+            },
+            "properties": {
+                "name": "Q27466524",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.2,
+                    6.266666666
+                ]
+            },
+            "properties": {
+                "name": "Mount Bladro",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.702777777,
+                    4.795833333
+                ]
+            },
+            "properties": {
+                "name": "Blidiwodo Mountain",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.316666666,
+                    6.483333333
+                ]
+            },
+            "properties": {
+                "name": "Mount Blitro",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10.2125,
+                    6.8356
+                ]
+            },
+            "properties": {
+                "name": "Bong Mountain",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.7475,
+                    6.9042
+                ]
+            },
+            "properties": {
+                "name": "Mount Boohn",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.9917,
+                    6.5183
+                ]
+            },
+            "properties": {
+                "name": "Mount Boze",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.533333333,
+                    8.05
+                ]
+            },
+            "properties": {
+                "name": "Boyeboye Mountain",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.5808,
+                    7.6475
+                ]
+            },
+            "properties": {
+                "name": "Mount Buletohn",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.583333333,
+                    7.683333333
+                ]
+            },
+            "properties": {
+                "name": "Mount Bume",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.28,
+                    6.4183
+                ]
+            },
+            "properties": {
+                "name": "Mount Daa",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10.55,
+                    6.55
+                ]
+            },
+            "properties": {
+                "name": "Demba Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.643333333,
+                    7.406666666
+                ]
+            },
+            "properties": {
+                "name": "Mountain Detton",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10.3875,
+                    6.897777777
+                ]
+            },
+            "properties": {
+                "name": "Dobli Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.135,
+                    6.6042
+                ]
+            },
+            "properties": {
+                "name": "Mount Drotohn",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10.783333333,
+                    6.3
+                ]
+            },
+            "properties": {
+                "name": "Federicks Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.598611111,
+                    4.745
+                ]
+            },
+            "properties": {
+                "name": "Q27466622",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.4,
+                    8.033333333
+                ]
+            },
+            "properties": {
+                "name": "Mount Gabigizi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.6361,
+                    7.5453
+                ]
+            },
+            "properties": {
+                "name": "Mountain Gangla",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.52,
+                    7.563333333
+                ]
+            },
+            "properties": {
+                "name": "Gbahm Mountain",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.65,
+                    7.65
+                ]
+            },
+            "properties": {
+                "name": "Mount Gbei",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.2,
+                    5.733333333
+                ]
+            },
+            "properties": {
+                "name": "Geni Mountain",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.55,
+                    7.233333333
+                ]
+            },
+            "properties": {
+                "name": "Mount Ginka",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10.0697,
+                    6.5833
+                ]
+            },
+            "properties": {
+                "name": "Q27466660",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.1825,
+                    6.4017
+                ]
+            },
+            "properties": {
+                "name": "Mount Gla",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.8,
+                    6.9
+                ]
+            },
+            "properties": {
+                "name": "Mount Gluya",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.833333333,
+                    7.333333333
+                ]
+            },
+            "properties": {
+                "name": "Mount Goklu",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.92801,
+                    4.48804
+                ]
+            },
+            "properties": {
+                "name": "Q27467188",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.665,
+                    7.6842
+                ]
+            },
+            "properties": {
+                "name": "Mount Guego",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.5486,
+                    7.5261
+                ]
+            },
+            "properties": {
+                "name": "Guesthouse Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.883333333,
+                    6.166666666
+                ]
+            },
+            "properties": {
+                "name": "Guo Mountain",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.766388888,
+                    4.9375
+                ]
+            },
+            "properties": {
+                "name": "Joata Mountain",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.7033,
+                    7.5425
+                ]
+            },
+            "properties": {
+                "name": "Mount Kahn",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.616666666,
+                    7.683333333
+                ]
+            },
+            "properties": {
+                "name": "Mount Kietohn",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.816666666,
+                    7.326666666
+                ]
+            },
+            "properties": {
+                "name": "Kitoma Mountain",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10.2984,
+                    8.3189
+                ]
+            },
+            "properties": {
+                "name": "Bandarada Hill",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10.78333,
+                    6.3
+                ]
+            },
+            "properties": {
+                "name": "Bali Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10.7983,
+                    6.3003
+                ]
+            },
+            "properties": {
+                "name": "Executive Mansion",
+                "article": "https://en.wikipedia.org/wiki/Executive_Mansion,_Monrovia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10.3021,
+                    6.1195
+                ]
+            },
+            "properties": {
+                "name": "Monkey Island",
+                "article": null
+            }
+        }
+    ]
+}

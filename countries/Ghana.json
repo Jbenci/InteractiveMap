@@ -1,0 +1,2861 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.625,
+                    6.7
+                ]
+            },
+            "properties": {
+                "name": "Kumasi",
+                "article": "https://en.wikipedia.org/wiki/Kumasi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.853333333,
+                    9.4075
+                ]
+            },
+            "properties": {
+                "name": "Tamale",
+                "article": "https://en.wikipedia.org/wiki/Tamale,_Ghana"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.5,
+                    10.0667
+                ]
+            },
+            "properties": {
+                "name": "Wa",
+                "article": "https://en.wikipedia.org/wiki/Wa,_Ghana"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.179888888,
+                    6.146777777
+                ]
+            },
+            "properties": {
+                "name": "Aflao",
+                "article": "https://en.wikipedia.org/wiki/Aflao"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.083333333,
+                    6.8
+                ]
+            },
+            "properties": {
+                "name": "Agogo",
+                "article": "https://en.wikipedia.org/wiki/Agogo,_Ghana"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.98577,
+                    5.92665
+                ]
+            },
+            "properties": {
+                "name": "Akim Oda",
+                "article": "https://en.wikipedia.org/wiki/Akim_Oda"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.41666667,
+                    6.45
+                ]
+            },
+            "properties": {
+                "name": "Akwawa",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.8666,
+                    9.2166
+                ]
+            },
+            "properties": {
+                "name": "Larabanga Mosque",
+                "article": "https://en.wikipedia.org/wiki/Larabanga_Mosque"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.900278,
+                    5.79194
+                ]
+            },
+            "properties": {
+                "name": "Anloga",
+                "article": "https://en.wikipedia.org/wiki/Anloga"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.470277777,
+                    6.611388888
+                ]
+            },
+            "properties": {
+                "name": "Ho",
+                "article": "https://en.wikipedia.org/wiki/Ho,_Ghana"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.739722,
+                    5.279028
+                ]
+            },
+            "properties": {
+                "name": "Apam",
+                "article": "https://en.wikipedia.org/wiki/Apam"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.355,
+                    7.144444444
+                ]
+            },
+            "properties": {
+                "name": "Mount Afadja",
+                "article": "https://en.wikipedia.org/wiki/Mount_Afadja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.56597,
+                    7.0214
+                ]
+            },
+            "properties": {
+                "name": "Mount Afadja",
+                "article": "https://en.wikipedia.org/wiki/Mount_Afadja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.25,
+                    4.86666667
+                ]
+            },
+            "properties": {
+                "name": "Bobowasi Island",
+                "article": "https://en.wikipedia.org/wiki/Bobowasi_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.4,
+                    7.066666666
+                ]
+            },
+            "properties": {
+                "name": "Mampong",
+                "article": "https://en.wikipedia.org/wiki/Mampong"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.983333333,
+                    5.3
+                ]
+            },
+            "properties": {
+                "name": "Tarkwa",
+                "article": "https://en.wikipedia.org/wiki/Tarkwa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.088888888,
+                    10.891666666
+                ]
+            },
+            "properties": {
+                "name": "Navrongo",
+                "article": "https://en.wikipedia.org/wiki/Navrongo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.216666666,
+                    6.616666666
+                ]
+            },
+            "properties": {
+                "name": "Konongo",
+                "article": "https://en.wikipedia.org/wiki/Konongo,_Ghana"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.4746,
+                    7.14904
+                ]
+            },
+            "properties": {
+                "name": "Hohoe",
+                "article": "https://en.wikipedia.org/wiki/Hohoe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.766666666,
+                    6.55
+                ]
+            },
+            "properties": {
+                "name": "Nkawkaw",
+                "article": "https://en.wikipedia.org/wiki/Nkawkaw"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.633333333,
+                    5.35
+                ]
+            },
+            "properties": {
+                "name": "Winneba",
+                "article": "https://en.wikipedia.org/wiki/Winneba"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.235,
+                    5.655
+                ]
+            },
+            "properties": {
+                "name": "Dome",
+                "article": "https://en.wikipedia.org/wiki/Dome,_Ghana"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.0380556,
+                    5.68444
+                ]
+            },
+            "properties": {
+                "name": "Lashibi",
+                "article": "https://en.wikipedia.org/wiki/Lashibi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.03805556,
+                    5.68444444
+                ]
+            },
+            "properties": {
+                "name": "Lashibi",
+                "article": "https://en.wikipedia.org/wiki/Lashibi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.45,
+                    6.04
+                ]
+            },
+            "properties": {
+                "name": "Suhum",
+                "article": "https://en.wikipedia.org/wiki/Suhum,_Ghana"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.983333333,
+                    5.916666666
+                ]
+            },
+            "properties": {
+                "name": "Keta",
+                "article": "https://en.wikipedia.org/wiki/Keta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.3,
+                    5.58333333
+                ]
+            },
+            "properties": {
+                "name": "Gbawe",
+                "article": "https://en.wikipedia.org/wiki/Gbawe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.77275278,
+                    7.89651111
+                ]
+            },
+            "properties": {
+                "name": "Jema",
+                "article": "https://en.wikipedia.org/wiki/Jema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.4942,
+                    5.0556
+                ]
+            },
+            "properties": {
+                "name": "Komenda",
+                "article": "https://en.wikipedia.org/wiki/Komenda,_Ghana"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6,
+                    8.33333333
+                ]
+            },
+            "properties": {
+                "name": "Mount Dzebobo",
+                "article": "https://en.wikipedia.org/wiki/Mount_Dzebobo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.163544,
+                    5.72469
+                ]
+            },
+            "properties": {
+                "name": "Adenta",
+                "article": "https://en.wikipedia.org/wiki/Adenta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.96583331,
+                    4.88833332
+                ]
+            },
+            "properties": {
+                "name": "Agona Nkwanta",
+                "article": "https://en.wikipedia.org/wiki/Agona_Nkwanta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.499,
+                    6.2487
+                ]
+            },
+            "properties": {
+                "name": "Asokwa",
+                "article": "https://en.wikipedia.org/wiki/Asokwa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.851388888,
+                    10.785555555
+                ]
+            },
+            "properties": {
+                "name": "Bolgatanga",
+                "article": "https://en.wikipedia.org/wiki/Bolgatanga"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.14778,
+                    6.10111
+                ]
+            },
+            "properties": {
+                "name": "Denu",
+                "article": "https://en.wikipedia.org/wiki/Denu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.1,
+                    6.66667
+                ]
+            },
+            "properties": {
+                "name": "Essam",
+                "article": "https://en.wikipedia.org/wiki/Essam,_Ghana"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.58333,
+                    6.78333
+                ]
+            },
+            "properties": {
+                "name": "Fawoade",
+                "article": "https://en.wikipedia.org/wiki/Fawoade"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.97111,
+                    10.2886
+                ]
+            },
+            "properties": {
+                "name": "Funsi",
+                "article": "https://en.wikipedia.org/wiki/Funsi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.22111,
+                    10.9811
+                ]
+            },
+            "properties": {
+                "name": "Gwollu",
+                "article": "https://en.wikipedia.org/wiki/Gwollu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.23333,
+                    10.9833
+                ]
+            },
+            "properties": {
+                "name": "Gwolu",
+                "article": "https://en.wikipedia.org/wiki/Gwolu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.0,
+                    5.07111
+                ]
+            },
+            "properties": {
+                "name": "Half Assini – New Town Rd.",
+                "article": "https://en.wikipedia.org/wiki/Half_Assini_%E2%80%93_New_Town_Rd."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.7,
+                    10.5333
+                ]
+            },
+            "properties": {
+                "name": "Jirapa",
+                "article": "https://en.wikipedia.org/wiki/Jirapa,_Ghana"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.619138888,
+                    6.698638888
+                ]
+            },
+            "properties": {
+                "name": "Kejetia Market",
+                "article": "https://en.wikipedia.org/wiki/Kejetia_Market"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.55,
+                    6.16667
+                ]
+            },
+            "properties": {
+                "name": "Kibi",
+                "article": "https://en.wikipedia.org/wiki/Kibi,_Ghana"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.498472,
+                    6.49725
+                ]
+            },
+            "properties": {
+                "name": "Mount Adaklu",
+                "article": "https://en.wikipedia.org/wiki/Mount_Adaklu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.75,
+                    10.85
+                ]
+            },
+            "properties": {
+                "name": "Nandom",
+                "article": "https://en.wikipedia.org/wiki/Nandom"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.983333,
+                    9.4
+                ]
+            },
+            "properties": {
+                "name": "Nyankpala",
+                "article": "https://en.wikipedia.org/wiki/Nyankpala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.23333333,
+                    6.53333333
+                ]
+            },
+            "properties": {
+                "name": "Peki",
+                "article": "https://en.wikipedia.org/wiki/Peki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.76666667,
+                    9.45
+                ]
+            },
+            "properties": {
+                "name": "Gumani",
+                "article": "https://en.wikipedia.org/wiki/Gumani"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.966667,
+                    6.08333
+                ]
+            },
+            "properties": {
+                "name": "Wheta",
+                "article": "https://en.wikipedia.org/wiki/Weta,_Ghana"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.97514,
+                    6.085722
+                ]
+            },
+            "properties": {
+                "name": "Wheta",
+                "article": "https://en.wikipedia.org/wiki/Weta,_Ghana"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.190088,
+                    5.55808
+                ]
+            },
+            "properties": {
+                "name": "Job 600",
+                "article": "https://en.wikipedia.org/wiki/Job_600"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.016667,
+                    6.15
+                ]
+            },
+            "properties": {
+                "name": "Krobo Odumase",
+                "article": "https://en.wikipedia.org/wiki/Krobo_Odumase"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.206666666,
+                    5.546111111
+                ]
+            },
+            "properties": {
+                "name": "Accra",
+                "article": "https://en.wikipedia.org/wiki/Accra"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.429722,
+                    9.925
+                ]
+            },
+            "properties": {
+                "name": "Karaga",
+                "article": "https://en.wikipedia.org/wiki/Karaga,_Ghana"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.85781667,
+                    9.45315278
+                ]
+            },
+            "properties": {
+                "name": "Jisonaayili",
+                "article": "https://en.wikipedia.org/wiki/Jisonaayili"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.95,
+                    9.56666667
+                ]
+            },
+            "properties": {
+                "name": "Kumbungu",
+                "article": "https://en.wikipedia.org/wiki/Kumbungu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.13333,
+                    6.08333
+                ]
+            },
+            "properties": {
+                "name": "Hedzranawo",
+                "article": "https://en.wikipedia.org/wiki/Hedzranawo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.5476,
+                    6.2991
+                ]
+            },
+            "properties": {
+                "name": "Adaklu",
+                "article": "https://en.wikipedia.org/wiki/Adaklu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.11231,
+                    6.55969
+                ]
+            },
+            "properties": {
+                "name": "Dodi Island",
+                "article": "https://en.wikipedia.org/wiki/Dodi_Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.883333,
+                    5.86667
+                ]
+            },
+            "properties": {
+                "name": "Alakple",
+                "article": "https://en.wikipedia.org/wiki/Alakple"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.86216,
+                    4.90462
+                ]
+            },
+            "properties": {
+                "name": "Petronia City",
+                "article": "https://en.wikipedia.org/wiki/Petronia_City"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.98333333,
+                    5.91666667
+                ]
+            },
+            "properties": {
+                "name": "Seva",
+                "article": "https://en.wikipedia.org/wiki/Seva,_Ghana"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.844444,
+                    9.45833
+                ]
+            },
+            "properties": {
+                "name": "Kanvili",
+                "article": "https://en.wikipedia.org/wiki/Kanvili"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.201478,
+                    5.5556
+                ]
+            },
+            "properties": {
+                "name": "Cedi House",
+                "article": "https://en.wikipedia.org/wiki/Cedi_House"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.25,
+                    5.56666667
+                ]
+            },
+            "properties": {
+                "name": "Mataheko",
+                "article": "https://en.wikipedia.org/wiki/Mataheko"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.265,
+                    5.575
+                ]
+            },
+            "properties": {
+                "name": "Odorkor",
+                "article": "https://en.wikipedia.org/wiki/Odorkor"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.25,
+                    5.61666667
+                ]
+            },
+            "properties": {
+                "name": "Akweteyman",
+                "article": "https://en.wikipedia.org/wiki/Akweteyman"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.2,
+                    5.58333333
+                ]
+            },
+            "properties": {
+                "name": "Kotobabi",
+                "article": "https://en.wikipedia.org/wiki/Kotobabi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.21666667,
+                    5.58333333
+                ]
+            },
+            "properties": {
+                "name": "Accra New Town",
+                "article": "https://en.wikipedia.org/wiki/Accra_New_Town"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.25,
+                    5.58333333
+                ]
+            },
+            "properties": {
+                "name": "Bubiashie",
+                "article": "https://en.wikipedia.org/wiki/Bubuashie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.26666667,
+                    5.6
+                ]
+            },
+            "properties": {
+                "name": "Kwashieman",
+                "article": "https://en.wikipedia.org/wiki/Kwashieman"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.208,
+                    5.575
+                ]
+            },
+            "properties": {
+                "name": "Kokomlemle",
+                "article": "https://en.wikipedia.org/wiki/Kokomlemle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.2,
+                    5.6
+                ]
+            },
+            "properties": {
+                "name": "Pig Farm",
+                "article": "https://en.wikipedia.org/wiki/Pig_Farm_(Ghana)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.21666667,
+                    5.63333333
+                ]
+            },
+            "properties": {
+                "name": "Christian Village",
+                "article": "https://en.wikipedia.org/wiki/Christian_Village"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.21666667,
+                    5.6
+                ]
+            },
+            "properties": {
+                "name": "Alajo",
+                "article": "https://en.wikipedia.org/wiki/Alajo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.25,
+                    5.58333333
+                ]
+            },
+            "properties": {
+                "name": "Darkuman",
+                "article": "https://en.wikipedia.org/wiki/Darkuman"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.25,
+                    5.6
+                ]
+            },
+            "properties": {
+                "name": "Lapaz (Accra)",
+                "article": "https://en.wikipedia.org/wiki/Lapaz_(Accra)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.87885,
+                    9.40561
+                ]
+            },
+            "properties": {
+                "name": "Shishegu",
+                "article": "https://en.wikipedia.org/wiki/Shishegu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.97336944,
+                    5.85366667
+                ]
+            },
+            "properties": {
+                "name": "Tegbi",
+                "article": "https://en.wikipedia.org/wiki/Tegbi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.019444444,
+                    6.821111111
+                ]
+            },
+            "properties": {
+                "name": "Adabokrom",
+                "article": "https://en.wikipedia.org/wiki/Sefwi_Adabokrom"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.892777777,
+                    4.970555555
+                ]
+            },
+            "properties": {
+                "name": "Mpohor",
+                "article": "https://en.wikipedia.org/wiki/Mpohor,_Ghana"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.63333333,
+                    6.45
+                ]
+            },
+            "properties": {
+                "name": "Adaklu Waya",
+                "article": "https://en.wikipedia.org/wiki/Adaklu_Waya"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.151416666,
+                    8.143444444
+                ]
+            },
+            "properties": {
+                "name": "Chinderi",
+                "article": "https://en.wikipedia.org/wiki/Chinderi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.36666667,
+                    8.16666667
+                ]
+            },
+            "properties": {
+                "name": "Banda Ahenkro",
+                "article": "https://en.wikipedia.org/wiki/Banda_Ahenkro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.2786047,
+                    9.4171465
+                ]
+            },
+            "properties": {
+                "name": "Sang",
+                "article": "https://en.wikipedia.org/wiki/Sang,_Northern_Region"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.876388888,
+                    9.416111111
+                ]
+            },
+            "properties": {
+                "name": "Sagnarigu",
+                "article": "https://en.wikipedia.org/wiki/Sagnarigu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.566666666,
+                    10.1
+                ]
+            },
+            "properties": {
+                "name": "Charia",
+                "article": "https://en.wikipedia.org/wiki/Charia,_Ghana"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.9882,
+                    6.7566
+                ]
+            },
+            "properties": {
+                "name": "Tetoabo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.626388888,
+                    7.869166666
+                ]
+            },
+            "properties": {
+                "name": "Q24695518",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.8,
+                    6.616666666
+                ]
+            },
+            "properties": {
+                "name": "Tutuojiram",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.018055555,
+                    9.708055555
+                ]
+            },
+            "properties": {
+                "name": "Yapenni Lagoon",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.624166666,
+                    7.842222222
+                ]
+            },
+            "properties": {
+                "name": "Mont Yaouatoutou",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.0429,
+                    6.2385
+                ]
+            },
+            "properties": {
+                "name": "Yongwa",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.946111111,
+                    9.713888888
+                ]
+            },
+            "properties": {
+                "name": "Zincha Lagoon",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.455,
+                    7.9717
+                ]
+            },
+            "properties": {
+                "name": "Sirubo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.904722222,
+                    7.100833333
+                ]
+            },
+            "properties": {
+                "name": "Tiason Bepo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.833333333,
+                    5.933333333
+                ]
+            },
+            "properties": {
+                "name": "Nogui Lagoon",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.279444444,
+                    6.036944444
+                ]
+            },
+            "properties": {
+                "name": "Nyabia Lagoon",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.3975,
+                    5.799
+                ]
+            },
+            "properties": {
+                "name": "Nyanao",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6025,
+                    7.1383
+                ]
+            },
+            "properties": {
+                "name": "Mont Oulouto",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.616666666,
+                    7.75
+                ]
+            },
+            "properties": {
+                "name": "Q24696197",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.822222222,
+                    6.664722222
+                ]
+            },
+            "properties": {
+                "name": "Patawotuo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.566666666,
+                    10.1
+                ]
+            },
+            "properties": {
+                "name": "Charia",
+                "article": "https://en.wikipedia.org/wiki/Charia,_Ghana"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.626388888,
+                    7.869166666
+                ]
+            },
+            "properties": {
+                "name": "Q24695518",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.8,
+                    6.616666666
+                ]
+            },
+            "properties": {
+                "name": "Tutuojiram",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.624166666,
+                    7.884444444
+                ]
+            },
+            "properties": {
+                "name": "Mont Sassaboula",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.941,
+                    5.9852
+                ]
+            },
+            "properties": {
+                "name": "Seva Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6306,
+                    7.7691
+                ]
+            },
+            "properties": {
+                "name": "Mont Foto",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.69822,
+                    9.40067
+                ]
+            },
+            "properties": {
+                "name": "Gurugu",
+                "article": "https://en.wikipedia.org/wiki/Gurugu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.815555555,
+                    6.631666666
+                ]
+            },
+            "properties": {
+                "name": "Humahu",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.373055555,
+                    8.176666666
+                ]
+            },
+            "properties": {
+                "name": "Jumbu",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.9358,
+                    6.6983
+                ]
+            },
+            "properties": {
+                "name": "Jurebi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.283333333,
+                    6.666666666
+                ]
+            },
+            "properties": {
+                "name": "Kakle",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.268055555,
+                    6.058611111
+                ]
+            },
+            "properties": {
+                "name": "Kasu Lagoon",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.423888888,
+                    8.048888888
+                ]
+            },
+            "properties": {
+                "name": "Klawpaw",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.166666666,
+                    7.033333333
+                ]
+            },
+            "properties": {
+                "name": "Kokorobo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6525,
+                    7.3342
+                ]
+            },
+            "properties": {
+                "name": "Mont Koupobi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.116666666,
+                    6.966666666
+                ]
+            },
+            "properties": {
+                "name": "Q24696809",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.88333,
+                    7.13333
+                ]
+            },
+            "properties": {
+                "name": "Kwamisa",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.6,
+                    7.2717
+                ]
+            },
+            "properties": {
+                "name": "Kwasi Mohun Bepo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.783333333,
+                    5.9
+                ]
+            },
+            "properties": {
+                "name": "Logui",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.266666666,
+                    6.083333333
+                ]
+            },
+            "properties": {
+                "name": "Lupu Lagoon",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.618611111,
+                    7.914166666
+                ]
+            },
+            "properties": {
+                "name": "Mont Mangmaboula",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.301944444,
+                    10.191111111
+                ]
+            },
+            "properties": {
+                "name": "Q24697028",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6508,
+                    7.2625
+                ]
+            },
+            "properties": {
+                "name": "Q24697063",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.637,
+                    6.082
+                ]
+            },
+            "properties": {
+                "name": "Atiwiredu",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.5769,
+                    6.2198
+                ]
+            },
+            "properties": {
+                "name": "Q24697087",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.566666666,
+                    7.016666666
+                ]
+            },
+            "properties": {
+                "name": "Awadjeto",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.742777777,
+                    5.976111111
+                ]
+            },
+            "properties": {
+                "name": "Avu Lagoon",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.066666666,
+                    6.85
+                ]
+            },
+            "properties": {
+                "name": "Q24697126",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.08333,
+                    6.81667
+                ]
+            },
+            "properties": {
+                "name": "Q24697125",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.15,
+                    6.95
+                ]
+            },
+            "properties": {
+                "name": "Basampa",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.4677,
+                    7.0127
+                ]
+            },
+            "properties": {
+                "name": "Boabidru",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.5875,
+                    7.6167
+                ]
+            },
+            "properties": {
+                "name": "Bofotiojo Eito",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.633333333,
+                    7.733333333
+                ]
+            },
+            "properties": {
+                "name": "Q24697289",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.116666666,
+                    6.966666666
+                ]
+            },
+            "properties": {
+                "name": "Chalale",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.365833333,
+                    9.493333333
+                ]
+            },
+            "properties": {
+                "name": "Chanchaw Lagoon",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.7,
+                    5.983333333
+                ]
+            },
+            "properties": {
+                "name": "Q24697406",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.746944444,
+                    6.566944444
+                ]
+            },
+            "properties": {
+                "name": "Demuni",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.619166666,
+                    7.833055555
+                ]
+            },
+            "properties": {
+                "name": "Q24697489",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.15,
+                    6.81667
+                ]
+            },
+            "properties": {
+                "name": "Dunsusu",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.619166666,
+                    7.821666666
+                ]
+            },
+            "properties": {
+                "name": "Mont Edouka",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.633333333,
+                    5.983333333
+                ]
+            },
+            "properties": {
+                "name": "Eka Lagoon",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6175,
+                    7.810277777
+                ]
+            },
+            "properties": {
+                "name": "Q24697562",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.216666666,
+                    6.616666666
+                ]
+            },
+            "properties": {
+                "name": "Hlato",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.0542,
+                    6.1192
+                ]
+            },
+            "properties": {
+                "name": "Jakiti",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.489166666,
+                    6.013333333
+                ]
+            },
+            "properties": {
+                "name": "Ke Lagoon",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.966666666,
+                    9.783333333
+                ]
+            },
+            "properties": {
+                "name": "Mambor Lagoon",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.1879,
+                    6.0536
+                ]
+            },
+            "properties": {
+                "name": "Ningo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.040277777,
+                    6.012222222
+                ]
+            },
+            "properties": {
+                "name": "Nordidzi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.048888888,
+                    6.031388888
+                ]
+            },
+            "properties": {
+                "name": "Dzeheko",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.933333333,
+                    7.85
+                ]
+            },
+            "properties": {
+                "name": "Abitiboa",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.93137,
+                    4.79958
+                ]
+            },
+            "properties": {
+                "name": "Abokwa Island",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.353888888,
+                    7.007222222
+                ]
+            },
+            "properties": {
+                "name": "Abunim",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.594722222,
+                    5.021944444
+                ]
+            },
+            "properties": {
+                "name": "Q24697861",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.714166666,
+                    6.5625
+                ]
+            },
+            "properties": {
+                "name": "Apaku",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.0667,
+                    6.8367
+                ]
+            },
+            "properties": {
+                "name": "Bepokaw",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.7602,
+                    6.5779
+                ]
+            },
+            "properties": {
+                "name": "Ejuanema",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.861944444,
+                    6.665555555
+                ]
+            },
+            "properties": {
+                "name": "Chinchira",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.783333333,
+                    7.583333333
+                ]
+            },
+            "properties": {
+                "name": "Japekrom",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.57111111,
+                    7.01888889
+                ]
+            },
+            "properties": {
+                "name": "Aduadu",
+                "article": "https://en.wikipedia.org/wiki/Mount_Aduadu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    129.97472222,
+                    -3.40416667
+                ]
+            },
+            "properties": {
+                "name": "Bemu",
+                "article": "https://en.wikipedia.org/wiki/Bemu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.808,
+                    5.221
+                ]
+            },
+            "properties": {
+                "name": "Otuam",
+                "article": "https://en.wikipedia.org/wiki/Otuam"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.55216667,
+                    7.72855556
+                ]
+            },
+            "properties": {
+                "name": "Ahamansu",
+                "article": "https://en.wikipedia.org/wiki/Ahamansu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.083333333,
+                    5.983333333
+                ]
+            },
+            "properties": {
+                "name": "Dawu State",
+                "article": "https://en.wikipedia.org/wiki/Dawu,_Ghana"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.78333333,
+                    6.7
+                ]
+            },
+            "properties": {
+                "name": "Afari",
+                "article": "https://en.wikipedia.org/wiki/Afari,_Ghana"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.20357,
+                    5.55212
+                ]
+            },
+            "properties": {
+                "name": "The Octagon, Accra",
+                "article": "https://en.wikipedia.org/wiki/The_Octagon,_Accra"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.58333333,
+                    6.31666667
+                ]
+            },
+            "properties": {
+                "name": "Akyem-Awenare",
+                "article": "https://en.wikipedia.org/wiki/Akyem-Awenare"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.216666666,
+                    4.883333333
+                ]
+            },
+            "properties": {
+                "name": "Nsein",
+                "article": "https://en.wikipedia.org/wiki/Nsein"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.783333333,
+                    7.583333333
+                ]
+            },
+            "properties": {
+                "name": "Japekrom",
+                "article": "https://en.wikipedia.org/wiki/Japekrom"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.883333333,
+                    6.9
+                ]
+            },
+            "properties": {
+                "name": "Potrikrom",
+                "article": "https://en.wikipedia.org/wiki/Potrikrom"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.0,
+                    6.25
+                ]
+            },
+            "properties": {
+                "name": "Tontokrom",
+                "article": "https://en.wikipedia.org/wiki/Tontokrom"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.966666666,
+                    6.283333333
+                ]
+            },
+            "properties": {
+                "name": "Datano",
+                "article": "https://en.wikipedia.org/wiki/Datano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.8,
+                    6.45
+                ]
+            },
+            "properties": {
+                "name": "Antoakrom",
+                "article": "https://en.wikipedia.org/wiki/Antoakrom"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.96666667,
+                    5.46666667
+                ]
+            },
+            "properties": {
+                "name": "Akotom",
+                "article": "https://en.wikipedia.org/wiki/Akotom"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.82,
+                    10.6613
+                ]
+            },
+            "properties": {
+                "name": "Zambo",
+                "article": "https://en.wikipedia.org/wiki/Zambo,_Ghana"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.8167,
+                    10.6667
+                ]
+            },
+            "properties": {
+                "name": "Tenzug - Tallensi settlements",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.9166,
+                    5.994
+                ]
+            },
+            "properties": {
+                "name": "Anyako",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.066,
+                    9.4317
+                ]
+            },
+            "properties": {
+                "name": "Tolon",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.5946,
+                    5.021961111
+                ]
+            },
+            "properties": {
+                "name": "Amansuri Lake",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.725321411,
+                    4.966732501
+                ]
+            },
+            "properties": {
+                "name": "Kojokrom Train Station",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.208468333,
+                    5.542151666
+                ]
+            },
+            "properties": {
+                "name": "General Post Office, Accra",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.603201,
+                    7.026981
+                ]
+            },
+            "properties": {
+                "name": "Leklata",
+                "article": "https://en.wikipedia.org/wiki/Leklata"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.692847222,
+                    6.082369444
+                ]
+            },
+            "properties": {
+                "name": "Apinamang",
+                "article": "https://en.wikipedia.org/wiki/Apinamang"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.84342,
+                    9.40812
+                ]
+            },
+            "properties": {
+                "name": "Mohiyabihi",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.080915801,
+                    5.688921451
+                ]
+            },
+            "properties": {
+                "name": "Borteyman",
+                "article": "https://en.wikipedia.org/wiki/Borteyman"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.4314719,
+                    5.4814961
+                ]
+            },
+            "properties": {
+                "name": "Nyanyano",
+                "article": "https://en.wikipedia.org/wiki/Nyanyano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.60436,
+                    5.41977
+                ]
+            },
+            "properties": {
+                "name": "Okyereko",
+                "article": "https://en.wikipedia.org/wiki/Okyereko"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.164728718,
+                    5.629995762
+                ]
+            },
+            "properties": {
+                "name": "DHC International Ghana",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.555761111,
+                    6.493969444
+                ]
+            },
+            "properties": {
+                "name": "Esumeja",
+                "article": "https://en.wikipedia.org/wiki/Esumeja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.002777777,
+                    5.796666666
+                ]
+            },
+            "properties": {
+                "name": "Afienya",
+                "article": "https://en.wikipedia.org/wiki/Afienya"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.672222222,
+                    6.663888888
+                ]
+            },
+            "properties": {
+                "name": "Aburaso",
+                "article": "https://en.wikipedia.org/wiki/Aburaso"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.41526,
+                    4.97791
+                ]
+            },
+            "properties": {
+                "name": "Kamgbunli",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.45,
+                    5.033333333
+                ]
+            },
+            "properties": {
+                "name": "Awiebo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.425,
+                    6.822777777
+                ]
+            },
+            "properties": {
+                "name": "Vane",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.7957,
+                    4.9048
+                ]
+            },
+            "properties": {
+                "name": "Apremdo",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.196666666,
+                    8.1
+                ]
+            },
+            "properties": {
+                "name": "Birimi",
+                "article": "https://en.wikipedia.org/wiki/Birimi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.2213,
+                    5.5565
+                ]
+            },
+            "properties": {
+                "name": "Graphic Road",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.9478,
+                    5.363394444
+                ]
+            },
+            "properties": {
+                "name": "Anto Aboso",
+                "article": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.7545,
+                    5.9576
+                ]
+            },
+            "properties": {
+                "name": "Osenase",
+                "article": "https://en.wikipedia.org/wiki/Osenase"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.8265,
+                    6.0548
+                ]
+            },
+            "properties": {
+                "name": "Dagbamatey",
+                "article": "https://en.wikipedia.org/wiki/Dagbamatey"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.4439,
+                    5.4994
+                ]
+            },
+            "properties": {
+                "name": "Millennium City",
+                "article": "https://en.wikipedia.org/wiki/Millennium_City,_Ghana"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.4975,
+                    6.5002
+                ]
+            },
+            "properties": {
+                "name": "Sankore",
+                "article": "https://en.wikipedia.org/wiki/Sankore,_Ghana"
+            }
+        }
+    ]
+}
