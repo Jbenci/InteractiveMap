@@ -1,7 +1,7 @@
 // ========== Interactive Map Setup ==========
 
 // Initialize the map with a default view
-const map = L.map('map').setView([0, 0], 2);
+const map = L.map('map').setView([0, 0], 3);
 
 // ========== Tile Layers ==========
 
@@ -18,18 +18,6 @@ const baseMaps = {
     }),
     "OpenTopoMap": L.tileLayer('https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png', {
         attribution: '© OpenTopoMap contributors'
-    }),
-    "Black & White OSM": L.tileLayer('https://tiles.wmflabs.org/bw-mapnik/{z}/{x}/{y}.png', {
-        attribution: '© OpenStreetMap contributors'
-    }),
-    "Stamen Terrain": L.tileLayer('http://{s}.tile.stamen.com/terrain/{z}/{x}/{y}.jpg', {
-        attribution: 'Map tiles by Stamen Design, under CC BY 3.0. Data © OpenStreetMap contributors'
-    }),
-    "Stamen Watercolor": L.tileLayer('http://{s}.tile.stamen.com/watercolor/{z}/{x}/{y}.jpg', {
-        attribution: 'Map tiles by Stamen Design, under CC BY 3.0. Data © OpenStreetMap contributors'
-    }),
-    "Stamen Toner": L.tileLayer('http://{s}.tile.stamen.com/toner/{z}/{x}/{y}.png', {
-        attribution: 'Map tiles by Stamen Design, under CC BY 3.0. Data © OpenStreetMap contributors'
     }),
     "CartoDB Positron": L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png', {
         attribution: '© OpenStreetMap contributors & CartoDB'
@@ -74,8 +62,8 @@ zoomLevelControl.update = function (countryName = '') {
 
 zoomLevelControl.addTo(map);
 
-// Create a search box control on the top left
-const searchBoxControl = L.control({ position: 'topleft' });
+// Create a search box control on the top center
+const searchBoxControl = L.control({ position: 'topcenter' });
 
 searchBoxControl.onAdd = function (map) {
     const div = L.DomUtil.create('div', 'search-box');
@@ -204,7 +192,7 @@ map.on('zoomend', function() {
     const mapCenter = map.getCenter();
     zoomLevelControl.update(); // Update the zoom level display
     
-    if (currentZoom >= 7) {
+    if (currentZoom >= 4) {
         // Use reverse geocoding to get the country name based on map center
         const geocodeUrl = `https://nominatim.openstreetmap.org/reverse?format=json&lat=${mapCenter.lat}&lon=${mapCenter.lng}&zoom=5`;
         
@@ -231,7 +219,7 @@ map.on('zoomend', function() {
     }
 });
 
-// Follow the cursor and display the 5 closest POIs once per second
+// Follow the cursor and display the 20 closest POIs once every 0.3 seconds
 let mouseMoveTimeout;
 map.on('mousemove', function(e) {
     clearTimeout(mouseMoveTimeout);
@@ -239,7 +227,7 @@ map.on('mousemove', function(e) {
         if (typeof window.countryPOIs !== 'undefined' && window.countryPOIs.length > 0) {
             clearPOIMarkers();
 
-            // Find 5 closest POIs to the current mouse position
+            // Find 20 closest POIs to the current mouse position
             let sortedPOIs = window.countryPOIs.map(poi => {
                 if (!poi.geometry || !poi.geometry.coordinates || poi.geometry.coordinates.length < 2) {
                     console.warn(`Invalid coordinates for POI:`, poi);
@@ -250,19 +238,20 @@ map.on('mousemove', function(e) {
             }).filter(poiInfo => poiInfo !== null);
 
             sortedPOIs.sort((a, b) => a.distance - b.distance);
-            const closestPOIs = sortedPOIs.slice(0, 5);
+            const closestPOIs = sortedPOIs.slice(0, 20);
 
-            // Add the 5 closest POIs to the map
+            // Add the 20 closest POIs to the map
             closestPOIs.forEach(({ poi }) => {
                 const marker = L.marker([poi.geometry.coordinates[1], poi.geometry.coordinates[0]]).addTo(map);
 
                 // Fetch Wikipedia info when marker is clicked
                 marker.on('click', () => {
                     fetchWikipediaInfo(poi.properties.name, marker);
+                    clearTimeout(mouseMoveTimeout); // Stop recalculating position while popup is open
                 });
 
                 poiMarkers.push(marker);
             });
         }
-    }, 1000);
+    }, 300);
 });
